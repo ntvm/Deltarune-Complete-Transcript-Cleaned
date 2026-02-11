@@ -1,0 +1,4798 @@
+<Combined_Deltarune_Chapter_3_Storytext>
+<Combined_Deltarune_Chapter_3_Begining>
+###**obj_fileselect**
+
+CHAPTER 3
+Please select a file.
+♥ [EMPTY] ---
+RRG 3:15:29
+TV World - Cooking Show
+RRG 3:36:43
+Cold Place
+
+Copy Erase Chapter Select
+Ch 2 Files English End Program
+
+###**obj_name_entry**
+
+ENTER YOUR OWN NAME.
+> KRIS
+
+THIS IS YOUR NAME.
+KRIS
+> NO / ♥ YES
+
+###**obj_darkworld_wakeup**
+
+**Susie:** * H...
+**Susie:** * H... huh!?
+
+*(The scene clears. Kris and Susie are lying on a strange, creature-like couch in a dark world.)*
+
+**Susie:** * Kris...
+**Susie:** * Kris... Kris... Hey, wake up!!
+**Susie:** * We're... in the Dark World!!
+
+*(Susie jumps off the couch.)*
+
+**Susie:** * The hell did this happen...?
+**Susie:** * ... well, who cares! This means another adventure, right?
+**Susie:** * Let's see what else is around.
+
+*(Kris and Susie walk across a bridge made of the same material as the couch.)*
+
+*(A stale wind... you stifle a sneeze.)*
+*(You are filled with the power of not sneezing.)*
+
+**[Save Menu]**
+*   Player LV 3 0:01:52
+*   Dark World
+*   ♥ Save
+*   Return
+*   Storage
+*   Recruits
+
+**[Save Menu]**
+*   File Saved
+
+*(Kris and Susie continue walking. Ralsei appears from under the bridge.)*
+
+**Ralsei:** * W-wait for me!
+**Susie:** * Ralsei!
+**Ralsei:** * I felt a dark presence and h...
+**Ralsei:** * If we keep going, the Dark Fountain should be...
+**Susie:** * Hey, Ralsei!
+**Susie:** * You're not gonna BELIEVE what I did after our adventure yesterday.
+**Susie:** * After we saved the WORLD, I went over Kris's...
+**Susie:** * Almost baked an ENTIRE pie...
+**Susie:** * And then marathoned movies ALL NIGHT!
+**Ralsei:** * Aww, Susie! It sounds like you had a wonderful time!
+**Susie:** * Yeah, it wasn't AWFUL, I guess...
+**Ralsei:** * I want to hear all about it...
+**Ralsei:** * Um, let's just get going, first.
+**Susie:** * Oh, uh, yeah!
+
+*(Ralsei joins the party. They walk on.)*
+
+**Susie:** * Anyway, so I've been thinking...
+**Susie:** * About some of those movies last night.
+**Susie:** * Think YOU could survive BLOOD CRUSHERS 2, Ralsei?
+**Ralsei:** * Haha, umm, I don't know, I've never seen a movie...
+**Susie:** * Heh, really?
+**Susie:** * Would you want to?
+**Ralsei:** * H... huh?
+**Susie:** * Y'know. Come watch next time. Movies.
+**Ralsei:** * Oh...! That would... be nice, wouldn't it?
+**Susie:** * ... and then, like...
+**Susie:** * It doesn't have to just be movies, y'know.
+**Susie:** * You could even... like, go to the library with us.
+**Susie:** * Then we could get him to do our homework, right, Kris?
+**Ralsei:** * I...
+**Ralsei:** * I'd... love to do your homework, Susie!
+**Susie:** * ... Ralsei...
+**Ralsei:** * I'd like nothing more than to go, Susie...
+**Ralsei:** * But... I...
+**Susie:** * But you... what?
+**Ralsei:** * I...
+**Ralsei:** * I... don't think I could.
+**Susie:** * Heh, yeah, I mean, it was...
+**Susie:** * The Festival's kinda stupid, y'know? I mean, Obviously.
+**Susie:** * Just... uh...
+**Susie:** * I mean, we don't even have to play any games.
+**Susie:** * We could... just make a mess. Cause some trouble.
+**Susie:** * Just...
+**Susie:** * I dunno, could be... fun if you...
+**Susie:** * ... just went, you know?
+**Ralsei:** * No, Susie... I...
+**Ralsei:** * I... want to, I just...
+**Ralsei:** * I can't go.
+**Susie:** * Uhh... why?
+**Ralsei:** * Because I... Because we...
+**Ralsei:** * ...
+**Ralsei:** * Susie, it's... hard for me to explain this, but...
+
+###**obj_ralsei_story**
+
+*(The scene darkens, and Ralsei begins his story.)*
+
+###**obj_ralsei_story**
+
+*(The scene begins on the purple bridge. Suzy and Ralzey are facing each other, Kris is a little apart. Ralzey looks upset.)*
+
+**Ralsei:** * Because I... Because we...
+**Ralsei:** * ...
+**Ralsei:** * Susie, it's... hard for me to explain this, but...
+
+*(The screen slowly darkens. Ralsey's story begins, accompanied by visual images.)*
+
+*(A room from the Light World appears on the screen at dusk. There is a chair covered with a sheet in the center, a bed on the right, a shelf and two posters on the wall.)*
+
+**Ralsei:** * You see, Susie. You and Kris live in the "Light World."
+**Ralsei:** * A place where everything is as you see.
+
+* (The room brightens, then darkens again.)*
+
+**Ralsei:** * That is... as long as there's light.
+
+* (The room is plunged into darkness. Objects lose their clear outlines, turning into vague, ominous silhouettes.)*
+
+**Ralsei:** * You see, when it gets dark...
+**Ralsei:** * Things become more indistinct.
+**Ralsei:** * A chair can look like a monster.
+**Ralsei:** * A poster can look like it's moving.
+**Ralsei:** * Your eyes can't see the truth anymore.
+
+* (The room is completely plunged into pitch darkness.)*
+
+**Ralsei:** * And when the light runs out...
+**Ralsei:** * You see nothing.
+**Ralsei:** * Of course, your mind can't make anything of nothing.
+
+*(A column of green energy begins to radiate from the center of the screen, looking like a Dark Fountain that is getting brighter.)*
+
+**Ralsei:** * But what if?
+**Ralsei:** * What if it became even darker?
+**Ralsei:** * Darker than dark.
+**Ralsei:** * What if we could take away the light that wasn't there
+**Ralsei:** * Until we reached another side?
+
+*(The screen flashes and the darkness dissipates. An abstract image appears: a black Amalgam cat with yellow-pink eyes and a Cheshire smile (Image_Friend) with a white outline, hands sticking together next to it. There are other shapes in the room, like eyes in the walls, and a flowing river)*
+
+**Ralsei:** * If that were to happen...
+**Ralsei:** * You could start to see things again.
+**Ralsei:** * And hear them.
+**Ralsei:** * And feel them.
+
+*(The scene changes to a psychedelic landscape with purple grass and red trees. Two snake-like creatures with candles appear.)*
+
+**Ralsei:** * That is the Dark World, Susie.
+**Ralsei:** * An alternate view of reality through the lens of shadow.
+**Ralsei:** * In other words...
+
+*(The screen flashes white. An image of a classroom appears from the Bright World, littered with playing cards, chess pieces, and other objects.)*
+
+**Ralsei:** * The Dark Fountains change everything into a fantasy.
+
+*(The scene changes again, showing a Dark World. Ordinary objects turn into living creatures: a playing card becomes a Lancer, a laptop becomes a Queen, and other objects become their subjects.)*
+
+**Ralsei:** * In the Light World, in reality...
+**Ralsei:** * Lancer is just an average playing card.
+**Ralsei:** * Queen... is just a laptop.
+
+*(The characters of the Dark World disappear, turning back into inanimate objects in the classroom.)*
+
+**Ralsei:** * In other words... when the lights come back on...
+**Ralsei:** * This world is no longer "real".
+**Ralsei:** * The places you go, the people you meet... none of them are.
+**Ralsei:** * Even I, the one telling you this... I too, am...
+
+*(The scene returns to the bridge. Suzy grabs Ralzey by the shoulders.)*
+
+**Susie:** * But Ralsei, how can you say you're not real!?
+**Susie:** * I can see you... I can feel you... I can hear you...
+**Susie:** * "Normal objects" don't have... feelings and stuff!
+
+**Ralsei:** * That's right, Susie.
+**Ralsei:** * They... shouldn't.
+**Ralsei:** * That's why... I don't want you and Kris...
+**Ralsei:** * ... to worry too much about us, OK?
+**Ralsei:** * Just forget about us and make some real friends, okay?
+
+**Susie:** * ...
+**Susie:** * ... Ralsei... you...
+**Susie:** * You idiot! How can you SAY that?!
+**Susie:** * You think I could just FORGET
+**Susie:** * Forget
+**Susie:** * Forget Lancer!? Forget everyone!?
+**Susie:** * I don't care what you say you are...
+**Susie:** * You're real to me,
+**Susie:** * You're real to me, OK!?
+**Ralsei:** * ...
+**Ralsei:** * Susie, I...
+**Ralsei:** * I'm happy to hear that, but...
+**Susie:** * SHUT UP and listen to me!
+**Susie:** * No matter what you say...
+**Susie:** * No matter what you are...
+**Susie:** * Me... you... Kris... We're a TEAM, alright?
+**Susie:** * None of us are gonna forget each other!
+**Susie:** * So please...
+**Susie:** * Jus
+**Susie:** * Just...
+**Susie:** * ...
+**Susie:** * ... just...
+
+*(The scene is abruptly interrupted. Susie and Ralsei are under a spotlight. Applause and confetti sound.)*
+
+**Announcer:** * Wow, what an AMAZING performance!!!
+**Announcer:** * The audience has been brought to TEARS, folks!
+**Susie:** * W...
+**Ralsei:** * !?
+**Susie:** * Who the HECK are you!?
+
+*(A character with a TV for a head appears.)*
+
+**Mr. Tenna:** * Haha, I was hoping you'd ask!
+**Mr. Tenna:** * MIKE, PLAY THE VHS!!!
+
+###**obj_tvworld_intro**
+
+*(A title card in the style of an old VHS video begins.)*
+
+*(It's now time for our feature presentation)*
+*(MAKER)*
+*(Coming straight from YOUR house)*
+*(He's the One)*
+*(THE KING OF ONLY)*
+*(He's GROOVY and NEVER glooby!)*
+*(You can't get this from an EGG!)*
+*(The sensation of your screen)*
+*(The show that makes you scream)*
+*(Say it with him, folks!)*
+*(MR. (And) TENNA'S TV TIME!!)*
+
+###**obj_mr_tenna_intro**
+
+*(The title card ends. Mr. Tenna appears on the bridge in front of the team.)*
+
+**Mr. Tenna:** * What Lovely contestants we've got TODAY, folks---!!!
+**Ralsei:** * Con... Contestants?
+**Mr. Tenna:** * YES!!! You three are the STARS of today's SHOW!!!
+
+*(The scene changes to a game show.)*
+
+###**obj_gameshow_start**
+
+*(In the background hangs a sign "MR. TENNA'S MARVELOUS MYSTERY BOARD" and the logo "TV TIME!".)*
+
+**Mr. Tenna:** * Mr. Tenna's Marvelous Mystery Board...
+**Mr. Tenna:** * TV TIME!!!
+**Susie:** * Wh... what!?
+**Susie:** * What the hell are you doing!?
+**Mr. Tenna:** * What am I doing? You should be wondering what YOU'RE doing!
+**Mr. Tenna:** * You're about to play the greatest game of YOUR life!
+**Mr. Tenna:** * Answer CRAZY QUESTIONS!! Pass PHYSICAL CHALLENGES...
+**Mr. Tenna:** * And you'll all win some TV-Tastic PRIZES!!!
+
+*(Prizes appear on the screen: FLORAL COMFORTER, A COMMERCIAL USE ONLY ICE VAN, TALK BACK, KITCHEN SINK FUR-GUARD!!, CHOCOLATE CHEWY ROLL-UM, A GENUINE RALSEI.)*
+
+**Ralsei:** * Hey I didn't approve this!
+**Mr. Tenna:** * AND THAT'S NOT ALL!
+**Mr. Tenna:** * Hey Doctor Tennaville! What's today's prescription?
+**Dr. Tennaville:** * Why, it looks like a prescription for... ONE GRAND PRIZE !?
+**Mr. Tenna:** * That's right! Today's GRAND PRIZE is this season's MOST popular item...
+**Mr. Tenna:** * Encased in our patented MYSTERY BALL...
+**Mr. Tenna:** * This Dark World's ONE AND GREATEST TREASURE!
+**Mr. Tenna:** * Hey, bet you wanna know what's INSIDE, don't ya, folks!?
+**Mr. Tenna:** * Well, great news, CADOOS and CADETTES! EVERYTHING can be YOURS!
+**Mr. Tenna:** * All you have to do is...
+**Mr. Tenna:** * WIN!!
+**Mr. Tenna:** * WOW!!! I've never seen the FUN-O-METER like THIS, folks!!!
+**Mr. Tenna:** * Now don't touch that DIAL, because TONIGHT, WE are gonna have one HECK of a...
+**Susie:** * Who the hell is "WE"?
+**Mr. Tenna:** * Well, uh... this is a GAME SHOW, and you guys are the CONTESTANTS... right?
+**Susie:** * Lemme be a little clearer...
+**Susie:** * We aren't being on your STUPID show!
+**Mr. Tenna:** * You... you won't?
+**Mr. Tenna:** * Oh. Well, uh... that's just...
+**Mr. Tenna:** * That's just hunky-doody, y'know! You do YOU! Meanwhile,
+**Mr. Tenna:** * Guess it'll just be... me and the logo! Ha.
+
+*(The "TV TIME!" logo behind the stage changes to "KILLED".)*
+
+**Ralsei:** * Umm, Susie...
+**Susie:** * ... what?
+**Ralsei:** * ...
+**Ralsei:** * Susie, I...
+**Ralsei:** * I know... I can't go to the festival with you... but...
+**Ralsei:** * If I can, I still... want to have fun with you and Kris.
+**Susie:** * ... Ralsei...
+**Ralsei:** * Maybe...
+**Ralsei:** * Maybe we could just try playing this game?
+**Ralsei:** * If we can't watch TV, maybe we can... be on it?
+**Susie:** * ...
+**Susie:** * Alright, FINE. We'll give it a shot.
+**Mr. Tenna:** * You... you'll give it a shot?
+**Susie:** * ... I guess.
+**Mr. Tenna:** * Oh, you WILL?!? Oh, you THRILL!?
+**Mr. Tenna:** * Mike!! The lights!! The sounds!! The whatzits!! The doo-zits!!
+**Mr. Tenna:** * Turn 'em all on!!
+**Mr. Tenna:** * (And get me a cup of coffee.)
+**Mr. Tenna:** * Right over here, ladies and germs!!
+
+*(The curtain opens, and the team finds themselves on stage in front of an audience.)*
+
+**Ralsei:** * (I... I'm a little nervous...)
+**Susie:** * (Quit messing with your ears! We're a team!)
+
+**Mr. Tenna:** * Would everyone please give a warm welcome
+**Mr. Tenna:** * To today's STAR contestants!!!
+
+*(The team appears on stage to applause.)*
+
+**Mr. Tenna:** * Everyone! Please welcome our contestants!
+**Mr. Tenna:** * Oh, right.
+**Mr. Tenna:** * CONTESTANTS!!!
+
+*(A game podium appears in front of each hero.)*
+
+**Mr. Tenna:** * Your NAMES please!!!
+
+*(The player enters the names. For Kris, a message appears: "Sorry, you've only got 3 letters to work with!!". The player enters "KRI". For Susie: "I'd give you 4, but the censors would kill me!". The player enters "ASS". For Ralsei, the player enters "RAL".)*
+
+**Ralsei:** * Susie!!!
+**Mr. Tenna:** * Hey folks, looks like the censors ARE gonna kill me!
+**Mr. Tenna:** * Only on THIS show because they weren't blue enough for "The Sblurfs"...
+**Mr. Tenna:** * Kris!!!
+**Mr. Tenna:** * Well, don't "Kri" until the ending, folks!
+**Mr. Tenna:** * Now that we've all been (im)properly introduced...
+**Mr. Tenna:** * MIKE, the BOARD, please!!!
+
+*(An image of a pyramid appears on the screen behind Tenna.)*
+
+**Mr. Tenna:** * Today's "GAME" SHOW will be... A VIRTUAL ADVENTURE through TV DESERTS!
+**Mr. Tenna:** * Each of you will use our CUTTING EDGE, PROPRIETARY CONTROLLER PADS...
+**Mr. Tenna:** * To control FANTASY VERSIONS OF YOURSELF in a world so REAL, you'll forget IT'S NOT!
+**Mr. Tenna:** * On your QUEST you will fight BATTLES... quiz QUIZZES... gain POINTS...
+**Mr. Tenna:** * And maybe learn to LOVE each other a little along the way.
+**Mr. Tenna:** * Now, don't TOUCH THAT DIAL, and don't STOP THOSE SMILES!! Because...
+**Mr. Tenna:** * IT'S!! TV!! TIME!!!
+</Combined_Deltarune_Chapter_3_Begining>
+
+<Combined_Deltarune_Chapter_3_Board_1>
+*(The scene continues in the 8-bit game "The Legend of Tenna". Kris, Susie, and Ralsei, as pixelated avatars, are in a desert.)*
+
+**[TV Time Game Screen]**
+*   TV TIME
+*   THE LEGEND OF TENNA
+*   PRESS BUTTON!
+*   © ANT TENNA
+
+**Mr. Tenna (in-game):** * Welcome to the WORLD of TV TIME!!
+**Mr. Tenna (in-game):** * Now begin! Our state of the art... adventure!!!
+**Susie (playing):** * Hey, I can move. Cool.
+**Ralsei (playing):** * Umm, can I finish reading the MANUAL?
+**Mr. Tenna (viewer):** * No! For your adventure awaits...
+**Mr. Tenna (viewer):** * Just down that hole!!!
+
+*(The characters in the game fall into a hole. The screen goes dark and then reappears, showing a desert location.)*
+
+**Pink TV Guy:** * Welcome to DESERT! "Talk" to me for hints!
+**Pink TV Guy:** * WELCOME TO THE BOARD GAME
+**Pink TV Guy:** * TO WIN THE GAME, ENTER THE PYRAMID AND FACE THE FINAL CHALLENGE.
+**Pink TV Guy:** * HOWEVER, THE WAY IS LOCKED BY 3 KEYS AND MOONCLOUD STONE.
+**Pink TV Guy:** * GOOD LUCK!
+
+**Susie (playing):** * Where's the "shut up" button?
+**Mr. Tenna (viewer):** * Sorry kid, that's premium!
+
+*(The players approach a shop.)*
+
+**[In-Game Shop Screen]**
+*   NEED HEALING IN BATTLE? TRY OUR IN-GAME PURCHASES!
+*   KEY 250
+*   TVDinner 10
+
+**Susie (playing):** * How do I kill this guy?
+**Mr. Tenna (viewer):** * Get in line, kid!
+
+*(The players continue to explore the desert, collecting stars and coins that add points to their score.)*
+
+*(They approach an oasis where two NPCs are standing.)*
+
+**Lanino (Gold NPC):** * OH, MY OASIS! MY OASIS! WITH HER SOFT CLOUDS REFLECTED IN THE WATER... THIS IS THE PERFECT FORECAST FOR LOVE!
+**Mr. Tenna (viewer):** * GREAT performance, Lanino!
+
+**Elnina (Blue NPC):** * OH, MY OASIS! MY OASIS! WITH THE SUNNY MOON REFLECTED IN THE WATER... THIS IS THE PERFECT FORECAST FOR LOVE!
+
+*(A whirlwind appears.)*
+
+**Mr. Tenna (viewer):** * Quiz vortex! Watch out!
+
+*(The team gets caught in the whirlwind. The scene changes to a quiz show.)*
+
+###**obj_gameshow_quiz_1**
+
+*(Kris, Susie, and Ralsei are back on the game show stage at their podiums. A question appears on the big screen.)*
+
+**[Quiz Screen]**
+*   WHAT TIME IS IT RIGHT NOW?
+> ♥ TV-THIRTY!
+> TV TIME!!!
+> PAST MIDNIGHT
+> WEDNESDAY
+
+**Susie:** * Uhhh...
+
+*(The player selects "TV TIME!!!".)*
+
+**Mr. Tenna:** * THAT'S EXACTLY RIGHT FOLKS!!! Way to start this quiz with a BANG!
+**Mr. Tenna:** * Next question!
+
+*(The next question appears on the screen with a Ralsei plush toy and a "$32" price tag.)*
+
+**[Quiz Screen]**
+*   BRAND A VALUES THIS RALSEI AT $$! WHAT'S THE TRUE VALUE!?
+> HIGHER
+> LOWER
+> ♥ PRICELESS
+> $32.00 MSRP
+
+**Susie:** * Free if you steal it.
+**Ralsei:** * My... value...?
+
+*(The player selects "PRICELESS".)*
+
+**Mr. Tenna:** * That's right! This little guy costs $32!
+**Mr. Tenna:** * Next question!
+
+**[Quiz Screen]**
+*   WHAT'S KRIS'S FAVORITE FOOD?
+> CHOCOLATE
+> ♥ PIE
+> SALSA
+> JAM
+
+**Susie:** * Uhh...
+**Susie:** * Uhh, well, you'd know.
+
+*(The player selects "CHOCOLATE", but then changes the choice to "PIE".)*
+
+**Susie:** * Heh, how'd you mess THAT up?
+**Ralsei:** * Kris? Haha... Kris, you know that's not right!
+**Mr. Tenna:** * Pie! You loved pie, didn't you? With the family!
+**Mr. Tenna:** * You and brother with whipped cream beards...
+**Mr. Tenna:** * Right in front of the TV!! Right in front of ME!!
+**Mr. Tenna:** * Anyway, onto the results!!
+
+**[Results Screen]**
+*   Results
+*   (Score tally: Kris and Ralsei get points, Susie does not.)
+*   BONUS +150
+*   DECENT!!!
+
+*(The scene returns to the 8-bit game.)*
+
+**Mr. Tenna (viewer):** * Solve the Quiz, get a Q!!!
+*(YOU GOT Q x1)*
+
+*(The team continues through the desert.)*
+
+**Lost Pippins:** * I AM THE LOST PIPPINS.
+**Lost Pippins:** * ON BEHALF OF THE TOYS YOU LOST IN THE COUCH, A SECRET...
+**Lost Pippins:** * THE CACTUS THAT LIVED UPSTAIRS LOVES YOU.
+**Lost Pippins:** * IT HAS A KEY UNDERNEATH IT, SO PLEASE PUSH IT ASIDE.
+**Lost Pippins:** * YOU CAN FIND IT IN THE CACTUS FIELD.
+
+*(The team approaches an NPC resembling a sphinx.)*
+
+**Sphinx Guy:** * HEY FOLKS! I'M THE SPHINX!
+**Sphinx Guy:** * ANSWER MY RIDDLE AND I'LL GIVE YOU ONE KEY!
+**Sphinx Guy:** * IS WHAT I WOULD SAY, BUT, YA SEE, IT'S A BIT EMBARRASSING.
+**Sphinx Guy:** * SEE, I'M MISSING MY Q'S! BRING TWO OF 'EM HERE AND I'LL QUIZ YA!
+
+**Susie (playing):** * So it's not a boss?
+**Mr. Tenna (viewer):** * A BOSS!? ME!? I'm offended!!!
+
+*(The team moves on and encounters an enemy.)*
+
+**Mr. Tenna (viewer):** * Enemy!! Careful, brave heroes!!
+
+*(A battle begins.)*
+
+###**obj_shadowguy_battle_1**
+
+**Mr. Tenna:** * That's right!!! It's a battle scene, folks!!!
+**Mr. Tenna:** * And our boys backstage have been begging to beat you down!
+**Mr. Tenna:** * But this ain't your normal Saturday night slam fest!
+**Mr. Tenna:** * Perform well, and you'll get extra points!!!
+**Mr. Tenna:** * For best "results", take no damage, win fast, and get gobs of TP!!!
+**Mr. Tenna:** * It's a battle scene! Win hard and fast for extra points!
+
+**[Battle Text]**
+*   Shadowguy appeared!
+*   **[ACT Menu]** Check / Boogie / Sharpshoot / Useless analysis / Light 'em up
+*   (Dance, don't get hit!)
+*   *(Kris uses ACT -> Boogie.)*
+*   Kris boogies past bullets!
+*   SHADOWGUY gains mercy until you get hit!
+*   *(Shadowguy attacks. Kris dodges.)*
+**Mr. Tenna:** * Boo boo for bozos!
+*   What will our heroes do next!?
+*   *(Kris uses ACT -> Sharpshoot.)*
+*   Everyone gets ready to knock the enemies' socks off!
+*   **[Minigame]** Aim with arrows and Fire with [Y]! AMMO 30x
+*   *(The player shoots down all enemies.)*
+*   *(Shadowguy attacks. Kris dodges.)*
+**Mr. Tenna:** * Wow!! Our heroes are grazing like goats!!!
+*   What will our heroes do next!?
+*   *(Kris uses SPARE on Shadowguy. Ralsei uses SPARE on Shadowguy.)*
+*   Kris spared Shadowguy!
+*   Ralsei spared Shadowguy! But its name wasn't YELLOW.
+*   *(Shadowguy attacks. Kris dodges.)*
+**Mr. Tenna:** * Wow!! A spare!!!
+*   What will our heroes do next!?
+*   *(Kris uses ACT -> Sharpshoot.)*
+*   Everyone gets ready to knock the enemies' hats off!
+*   **[Minigame]** Aim with arrows and Fire with [Y]! AMMO 30x
+*   *(The player shoots the hats off all enemies.)*
+*   *(Enemies attack. Kris dodges.)*
+**Mr. Tenna:** * Don't adjust your set!! This battle is real, folks!!
+**Mr. Tenna:** * Don't adjust your set!! Kris is BLUE, AND FIGHTING AGAIN!
+*   *(Kris, Susie, and Ralsei use SPARE.)*
+*   Kris spared Shadowguy!
+*   Susie spared Shadowguy! But its name wasn't YELLOW.
+*   Ralsei spared Shadowguy!
+*   You Won!
+*   Got 0 EXP and 300 D$.
+*   (RECRUIT 5/25)
+
+###**obj_tvworld_desert_game_2**
+
+*(The scene returns to the 8-bit game. The battle results appear on screen.)*
+
+**[Battle Results Screen]**
+*   TURNS: 5 A! AWESOME!
+*   HURT: 3x B! NOT BAD!
+*   TP: 100 S! PERFECT!
+*   YOU GET A RANK
+*   +240 POINTS
+
+*(A tube of yogurt appears on screen and then disappears.)*
+
+**Mr. Tenna (viewer):** * A rousing battle! Mike! Give them a free tube yogurt!
+**Mr. Tenna (viewer):** * Sweet.
+
+*(The game returns to the desert. The team is in front of a block puzzle.)*
+
+**Mr. Tenna (viewer):** * Can you solve the puzzle of desert?
+**Susie (viewer):** * No. Eating yogurt.
+
+*(The player solves the puzzle by pushing blocks.)*
+
+**Mr. Tenna (viewer):** * Wow, a 12S time!
+
+*(The team moves to the next location: a waterfall with falling coins.)*
+
+**Mr. Tenna (viewer):** * Watch it! Falling rocks!
+**Ralsei (viewer):** * Kris! I'll protect you!
+
+*(The team crosses a bridge, collecting coins. They move to the next location.)*
+
+**Susie (viewer):** * Woah, what is that?
+
+*(Kris picks up a croissant.)*
+
+**[In-game text]**
+*   KRIS GOT THE POWER CROISSANT
+*   SUSIE GOT THE POWER CROISSANT
+
+**Susie (viewer):** * Whoa, really?
+
+**[In-game text]**
+*   SHE CAN NOW PICK UP POTS AND WEEDS.
+
+**Susie (viewer):** * Finally, some goddamn GAMEPLAY.
+
+*(Susie in the game picks up a pot and throws it at Ralsei.)*
+
+**Ralsei (viewer):** * Watch what you're throwing!
+**Ralsei (viewer):** * H-hey!
+
+*(Susie throws another pot at Ralsei.)*
+
+**Ralsei (viewer):** * Watch THIS!
+
+*(Ralsei in the game throws a pot, which ricochets off a wall and hits him, knocking him into the water.)*
+
+**Ralsei (viewer):** * I... I'm drowning!!
+**Mr. Tenna (viewer):** * Ralsei plush! Fill him with liquid, throw him against the wall!
+**Ralsei (viewer):** * Stop advertising me! I'm dying!
+
+*(The team moves on and talks to an NPC.)*
+
+**Pippin:** * I AM THE LOST PIPPINS.
+**Pippin:** * ON BEHALF OF THE TOYS YOU LOST IN THE COUCH, A SECRET...
+**Pippin:** * THE CACTUS THAT LIVED UPSTAIRS LOVES YOU.
+**Pippin:** * IT HAS A KEY UNDERNEATH IT, SO PLEASE PUSH IT ASIDE.
+
+*(The team approaches a large sphinx with a TV for a head.)*
+
+**Sphinx:** * HEY FOLKS! I AM THE SPHINX!
+**Sphinx:** * ANSWER MY RIDDLE AND I'LL GIVE YOU ONE KEY!
+**Sphinx:** * ... IS WHAT I WOULD SAY, BUT, YA SEE, IT'S A BIT EMBARRASSING.
+**Sphinx:** * SEE, I'M MISSING MY Q'S! BRING TWO OF 'EM HERE AND I'LL QUIZ YA!
+
+**Susie (viewer):** * So it's not a boss?
+**Sphinx:** * A BOSS!? ME!? I'm offended!!!
+
+*(The team moves on and encounters an enemy.)*
+
+**Mr. Tenna (viewer):** * Enemy!! Careful, brave heroes!!
+
+*(A battle with three Shadowguys begins.)*
+
+**Mr. Tenna (voiceover):** * That's right!!! It's a battle scene, folks!!!
+**Mr. Tenna (voiceover):** * And our boys backstage have been begging to beat you down!
+**Mr. Tenna (voiceover):** * But this ain't your normal Saturday night slam fest!
+**Mr. Tenna (voiceover):** * Perform well, and you'll get extra points!!!
+**Mr. Tenna (voiceover):** * For best "results", take no damage, win fast, and get gobs of TP!!!
+**Mr. Tenna (voiceover):** * It's a battle scene! Win hard and fast for extra points!
+
+**[Battle Text]**
+*   Kris boogies past bullets!
+*   SHADOWGUY gains mercy until you get hit!
+*   *(Enemy attack. Kris dodges.)*
+**Mr. Tenna (voiceover):** * Boo boo for bozos!
+*   *(Kris dodges again.)*
+**Mr. Tenna (voiceover):** * What will our heroes do next!?
+*   Everyone gets ready to knock the enemies' socks off!
+*   *(The "Sharpshoot" minigame begins. The player shoots at the enemies.)*
+*   *(Enemies attack with musical notes.)*
+**Mr. Tenna (voiceover):** * Don't adjust your set!! This battle is real, folks!!
+*   Kris spared Shadowguy!
+*   Ralsei spared Shadowguy! But its name wasn't YELLOW.
+*   *(Enemy attacks.)*
+**Mr. Tenna (voiceover):** * Wow!! Our heroes are grazing like goats!!!
+*   Everyone gets ready to knock the enemies' socks off!
+*   *(The "Sharpshoot" minigame begins again. The player defeats the enemies.)*
+*   You Won!
+*   Got 0 EXP and 225 D$.
+
+**[Battle Results Screen]**
+*   BATTLE RESULTS
+*   TURNS: 6 KINDA SLOW!
+*   HURT: 3X B! NOT BAD!
+*   TP: 100 S! PERFECT!
+*   YOU GET B RANK
+*   +187 POINTS
+
+*(The team receives a "Q".)*
+
+**Mr. Tenna (viewer):** * Solve the Quiz, get a Q!!!
+
+*(The team returns to the Sphinx.)*
+
+**Sphinx:** * OH, MY OASIS! MY OASIS!
+**Sphinx:** * WITH HER SOFT CLOUDS REFLECTED IN THE WATER
+**Sphinx:** * THIS IS THE PERFECT FORECAST FOR LOVE!
+**Mr. Tenna (viewer):** * GREAT performance, Lanino!
+**Sphinx:** * OH, MY OASIS! MY OASIS!
+**Sphinx:** * WITH THE SUNNY MOON REFLECTED IN THE WATER
+**Sphinx:** * THIS IS THE PERFECT FORECAST FOR LOVE!
+
+*(A quiz begins.)*
+
+**Mr. Tenna:** * WHAT TIME IS IT RIGHT NOW?*
+> TV-THIRTY!!
+> ♥ TV-TIME!!!
+> PAST MIDNIGHT
+> WEDNESDAY
+
+**Mr. Tenna:** * THAT'S EXACTLY RIGHT FOLKS!!! Way to start this quiz with a BANG!
+**Mr. Tenna:** * Next question!
+
+**Mr. Tenna:** * BRAND A VALUES THIS RALSEI AT $$! WHAT'S THE TRUE VALUE!?*
+**Susie (viewer):** * Free if you steal it.
+**Ralsei (viewer):** * My... value...?
+> HIGHER
+> LOWER
+> ♥ PRICELESS
+> $32.00 MSRP
+
+**Mr. Tenna:** * That's right! This little guy costs $32!
+**Mr. Tenna:** * Next question!
+
+**Mr. Tenna:** * WHAT'S KRIS'S FAVORITE FOOD?*
+**Susie (viewer):** * Uhh...
+**Susie (viewer):** * Uhh, well, you'd know.
+> ♥ CHOCOLATE
+> PIE
+> SALSA
+> JAM
+
+**Susie (viewer):** * Heh, how'd you mess THAT up?
+**Ralsei (viewer):** * ... Kris? Haha... Kris, you know that's not right!
+**Mr. Tenna:** * Pie! You loved pie, didn't you? With the family!
+**Mr. Tenna:** * You and brother with whipped cream beards...
+**Mr. Tenna:** * Right in front of the TV!! Right in front of ME!!
+**Mr. Tenna:** * Anyway, onto the results!!
+
+**[Results Screen]**
+*   Results
+*   000 - 000 - XXX
+*   BONUS +150
+*   DECENT!!!
+*   P: 180
+
+*(The team returns to the game.)*
+
+**Mr. Tenna (viewer):** * A rousing battle! Mike! Give them a free tube yogurt!
+**Mr. Tenna (viewer):** * Sweet.
+
+*(The team solves a block puzzle.)*
+
+**Mr. Tenna (viewer):** * Wow, a 12S time!
+
+*(The team passes through the waterfall.)*
+
+**Mr. Tenna (viewer):** * Watch it! Falling rocks!
+**Ralsei (viewer):** * Kris! I'll protect you!
+
+*(The team picks up a croissant.)*
+
+**Susie (viewer):** * Woah, what is that?
+**[In-game text]**
+*   KRIS GOT THE POWER CROISSANT
+*   SUSIE GOT THE POWER CROISSANT
+**Susie (viewer):** * Whoa, really?
+**[In-game text]**
+*   SHE CAN NOW PICK UP POTS AND WEEDS.
+**Susie (viewer):** * Finally, some goddamn GAMEPLAY.
+**Ralsei (viewer):** * Watch what you're throwing!
+**Ralsei (viewer):** * H-hey!
+**Ralsei (viewer):** * Watch THIS!
+(Susie throws Ralsei's character into the pond.)
+**Ralsei (viewer):** * I... I'm drowning!!
+**Mr. Tenna (viewer):** * Ralsei plush! Fill him with liquid, throw him against the wall!
+**Ralsei (viewer):** * Stop advertising me! I'm dying!
+
+###**obj_tvworld_game_desert_puzzle**
+
+*(The scene continues in the 8-bit game on the TV screen. The team is in front of another, unsolvable block puzzle.)*
+
+**Mr. Tenna (viewer):** * Another puzzle! Child's play for our heroes!
+(When the heroes realize the puzzle is unsolvable)
+**Mr. Tenna (viewer):** * Child's play? I meant baby's work! This is bad, folks!
+**Ralsei (viewer):** * Don't worry, Kris!
+**Ralsei (viewer):** * According to the manual...
+**Ralsei (viewer):** * I have a special ability!
+**Ralsei (viewer):** * If there's no BLOCKS to push... then...
+
+*(The screen flashes white.)*
+
+**Ralsei (viewer):** * Push... me.
+**Mr. Tenna (viewer):** * Aww, it's beautiful folks!!!
+
+*(The text "PUSHING BUDDIES" appears on the screen, the background changes to pink with hearts. Kris pushes Ralsei to solve the puzzle.)*
+
+**Mr. Tenna (viewer):** * What a great puzzle, folks!
+
+*(The puzzle is solved. The team moves on and encounters another group of enemies.)*
+
+**Mr. Tenna (voiceover):** * Don't adjust your set! Kris is BLUE, and FIGHTING AGAIN!
+
+*(A battle with Shadowguy begins.)*
+
+**[Battle Text]**
+*   Everyone gets ready to knock the enemies' hats off!
+*   *(The "Sharpshoot" minigame begins. The player shoots at the enemies, knocking off their hats.)*
+*   *(Enemies attack with musical notes.)*
+**Mr. Tenna (voiceover):** * Miss something!? The battle will be available on laserdisc!
+*   *(Enemies attack again.)*
+**Mr. Tenna (voiceover):** * No damage!? What a show!!!
+*   Everyone gets ready to knock the enemies' hats off!
+*   *(The "Sharpshoot" minigame begins again. The player defeats all enemies.)*
+*   You Won!
+*   Got 0 EXP and 300 D$.
+
+**[Battle Results Screen]**
+*   BATTLE RESULTS
+*   TURNS: 5 A! AWESOME!
+*   HURT: 3X B! NOT BAD!
+*   TP: 100 S! PERFECT!
+*   YOU GET A RANK
+*   +240 POINTS
+
+*(The team solves another puzzle and enters a bonus zone with coins.)*
+
+**Mr. Tenna (viewer):** * As a reward, a BONUS ZONE!!!
+**Susie (viewer):** * Hell yeah!
+(There are about 18 coins in the stash)
+**Kris (viewer):** * What? Only 1 point!?
+**Mr. Tenna (viewer):** * Hey hey!! We've got a budget!
+
+*(The team passes through a field of cacti.)*
+
+**Mr. Tenna (viewer):** * Ouch! Don't touch the cactuses!
+
+*(The team collects coins in an area with pyramids. Then they return to the area with weeds.)*
+
+**Susie (viewer):** * Weeds? Leave it to me.
+**Ralsei (viewer):** * You've, um, "got this," Susie!
+
+*(A minigame begins where Susie throws bombs.)*
+
+**Ralsei (viewer):** * W-wait! Watch where you're throwing!!
+**Susie (viewer):** * Watch what?
+
+*(Susie continues to throw bombs at Kris and Ralsei.)*
+
+**Ralsei (viewer):** * SUSIE!!
+
+*(Eventually, the bombs run out, and a key appears instead, which Susie picked up by spamming the 'pick up' button. The team gets the key.)*
+
+**Mr. Tenna (viewer):** * Well, some of you survived! Take a key!
+**[In-game text]**
+*   YOU GOT KEY x1
+
+*(The team returns to the waterfall.)*
+
+**Susie (viewer):** * It's easy if you hold something over your head.
+(Susie uses Ralsei as a living umbrella, causing him to take damage.)
+**Ralsei (viewer):** * HEY!!!
+**Mr. Tenna (viewer):** * Watch it! Falling peaches!!
+**Ralsei (viewer):** * Didn't you say rocks, before?
+**Mr. Tenna (viewer):** * What?
+
+*(The team returns to the desert and finds a character stuck in green water.)*
+
+**Lancer (in-game):** * HELP! I'M STUCK IN THE SPINY SEA OF GREEN.
+**Lancer (in-game):** * WON'T ANYONE FREE A POOR INNOCENT BOY?
+**Susie (viewer):** * Can I throw something?
+**Susie (viewer):** * Hm...
+**Susie (viewer):** * Heh, got it!
+**Ralsei (viewer):** * M-me!?
+
+*(Susie throws Ralsei at Lancer, freeing him.)*
+
+**Lancer (in-game):** * HO HO HO! YOU HAVE RESCUED ME!
+**Lancer (in-game):** * I WILL GIVE YOU EVERYTHING I HAVE!.....
+**Lancer (in-game):** * AND, ALL I HAVE, IS MYSELF!
+
+*(Lancer joins the team in the game.)*
+
+**[In-game text]**
+*   YOU GOT LANCER x1
+*   IS THERE SOMETHING HE CAN DIG?
+
+*(The team solves a few more puzzles and collects coins, then returns to the Sphinx.)*
+
+**Sphinx:** * WOW, YOU GOT TWO Q'S JUST FOR ME!?
+**Sphinx:** * OH, OH, THAT'S MUCH BETTER!
+**Sphinx:** * NOW THAT I'M DRESSED...
+**Sphinx:** * IT'S A QUIZ TO THE DEATH!
+
+*(The second quiz begins.)*
+
+**Mr. Tenna:** * APPARENTLY YOU MADE THIS AWFUL THING. EXCEPT FOR.. WHAT?*
+*(A picture of the Thrash Machine from Chapter 1 is shown.)*
+**Susie (viewer):** * I dunno. I didn't make this.
+> ♥ HEAD
+> BODY
+> LEGS
+> IT'S ACCURATE
+
+**Mr. Tenna:** * WHAT'S THE NAME OF THIS AWFUL GUY?*
+*(A picture of a Pippin is shown.)*
+> PIPPS
+> DICER
+> TOYLET
+> ♥ PIPPINS
+
+**Mr. Tenna:** * WHAT WAS ASRIEL'S FAVORITE CHARACTER IN SMASHING FIGHTERS?*
+> ♥ SWORD MAGICIAN
+> BIG PENGUIN
+> PURPLE DRAGON
+> GREEN LIZARD
+**Mr. Tenna:** * That's right, Kris!
+**Mr. Tenna:** * He got embarrassed about liking the green dinosaur...
+**Mr. Tenna:** * ...and switched to being a big fan of the fiery magician girl!
+**Mr. Tenna:** * Which is, maybe its own type of embarrassing, but...
+**Mr. Tenna:** * ...Anyway, onto the results!!
+
+**[Results Screen]**
+*   Results
+*   XXX - OOO - OOO
+*   BONUS +150
+*   DECENT!!!
+*   P: 1200
+
+*(The team returns to the game.)*
+
+**Sphinx:** * WELL DONE. FOR YOU THAT KNOWS, A NOSE!
+
+*(The Sphinx's nose falls off, revealing a passage.)*
+
+*(The team goes through, Susie destroys all the pots and gets a second key.)*
+
+---
+
+###**obj_tvworld_game_desert_continued**
+
+*(The team looks at a dead end made of cacti.)*
+
+**Susie (viewer):** * Man, it'd be cool to have, like, a weapon.
+**Susie (viewer):** * You could like... cut everything down.
+
+*(The team solves a block puzzle, then passes through a field of cacti, collecting coins.)*
+
+*(The team approaches a body of water.)*
+
+**Pippin:** * NOSTALGIC. MY OLD WATERING HOLE....
+
+*(Lancer approaches a spot marked with a cross.)*
+
+**Lancer (in-game):** * HO HO HO! L MARKS THE SPOT!
+**Lancer (in-game):** * I'LL DIG UP A TREASURE FOR YOU!
+
+*(Lancer digs up a lot of coins and a key.)*
+
+**Lancer (in-game):** * HOW'S THAT!? A KEY FOR YOU!!
+**Lancer (in-game):** * AS A BONUS, I BLOCKED THE WATER FROM FLOWING.
+**Lancer (in-game):** * BYE NOW!
+
+*(The team picks up the key.)*
+
+**[In-game text]**
+*   YOU GOT KEY x1
+
+*(The team now has 3 keys.)*
+
+**Pippin:** * THE RESERVOIR IS CLUGGED WITH STONE.
+**Pippin:** * NOW, WHAT HAPPENS TO OASIS?
+
+*(The team returns to the waterfall.)*
+
+**Susie (viewer):** * Wanna do it again?
+**Ralsei (viewer):** * Umm, I think we're good.
+
+*(The team returns to the desert.)*
+
+**Susie (viewer):** * Hey, wait. How is Lancer in the game?
+**Mr. Tenna (viewer):** * Don't worry, he's backstage with a controller just like everyone else!
+
+*(The team approaches two NPCs resembling weather forecasters who are blocking the path.)*
+
+**Lanino (in-game):** * OH, OH, YOU CLOGGED THE OASIS.
+**Lanino (in-game):** * YOU DARE END OUR SEASON OF LOVE?
+**Lanino (in-game):** * I PREDICT A LOT OF PAIN IN YOUR FUTURE...
+
+*(The game switches to battle mode.)*
+
+###**obj_weather_duo_battle**
+
+**Mr. Tenna:** * This battle has a SPECIAL win condition for our contestants!
+**Mr. Tenna:** * All you have to do is say "I love to watch TV" 99 times and you will win!
+**Ralsei:** * Ninety... Ni--
+**Mr. Tenna:** * Let's hear it!!
+
+*(The battle with Lanino and Elnina begins.)*
+
+**[ACT Menu] Check / ♥ ILoveTV / ILoveTVX **
+
+*   *(Susie and Ralsei can praise a specific one of the hosts. In this playthrough, everyone praises Lanino.)*
+
+**[Battle Text]**
+*   Everyone said I Love TV to Lanino!
+**Lanino:** * Tonight's weather is...
+**Elnina:** * Tonight's weather is...
+**Lanino:** * Moon.
+**Elnina:** * Crystals.
+*   *(Enemies attack with moons and crystals.)*
+**Mr. Tenna:** * These two are a professional power couple!!! Nothing can stop the weather!!!
+*   Everyone said I Love TV to Lanino!
+**Lanino:** * Tonight's weather is...
+**Elnina:** * Tonight's weather is...
+**Lanino:** * Sun.
+**Elnina:** * ... Drop.
+*   *(Enemies attack with suns and drops.)*
+**Mr. Tenna:** * Keep it up guys! That's 6 I love TV's! But you win so easily!
+*   Susie said "I Love TV"!
+**Lanino:** * Tonight's weather is...
+**Elnina:** * Tonight's weather is...
+**Lanino:** * ...
+**Elnina:** * ... Lanino? Your pose.
+**Lanino:** * Ah, right!
+**Lanino:** * They kept choosing ME for the ACT. Any... cool reason why?
+**Elnina:** * Not to rain on your parade, amore, but it's probably just because you're first in the order.
+**Lanino:** * R-right! You're right as rain, sweet cloud o' mine.
+*   *(Enemies attack with rain and moons.)*
+*   *(The player selects "Rain".)*
+**Lanino:** * Rain, rain, go away... isn't that how it goes!?
+*   *(Lanino attacks with rain, which strengthens him.)*
+**Mr. Tenna:** * Hey, is it me or is it getting hot in here?
+*   Everyone said I Love TV to Lanino!
+**Lanino:** * Today's weather is, ohoho...
+**Elnina:** * (Grumble)
+**Lanino:** * EXTRA DEXTRA Sun!
+*   *(Lanino attacks with a powerful sun attack that damages everyone, including Elnina.)*
+**Elnina:** * You KNOW this is extreme, right!?
+**Elnina:** * They said they liked your attack ONCE!
+**Lanino:** * Aren't we partners? You should be happy for me, sweetheart!
+**Elnina:** * ...
+**Mr. Tenna:** * Listen you two!!! The weather, always sticks together!!!
+**Lanino:** * Shut up!!!
+**Elnina:** * Shut up!!!
+
+*(Rouxls Kaard appears.)*
+
+**Rouxls Kaard:** * Sorrye, I just wanderedeth in here. Are those two... Single?
+*   Ralsei cast HEAL PRAYER!
+**Lanino:** * It's nice I finally get to shine on my own, you know? Instead of just being... behind the clouds...
+**Elnina:** * ANY Darkner can do a RAIN attack... but a MOON attack...? Eclipses your HEART!
+*   *(Lanino attacks with a sun, Elnina attacks with a moon. The attacks collide and damage everyone, including the enemies themselves.)*
+
+Elnina: * Y-you really think ANYONE can do a RAIN attack...
+Lanino: * H-huh? Uh...
+Elnina: * Fine... I get it... I'm just raining on your parade...
+Elnina: * Goodbye...
+(Elnina disappears.)
+**Lanino:** * Who needs a wet blanket like her anyway!?
+*(Lanino is ecstatic. His weather forecast cards show "999".)*
+
+*   *(Absurdly giant sun-shaped attacks fly from the smug moon. With each moment of realizing his loss, the attacks decrease in size and quantity.)*
+
+**Lanino:** * Nice move, huh, Elnina!?
+**Elnina:** * Elnina?
+**Elnina:** * ... oh...
+
+**Lanino:** * Oh no...
+**Lanino:** * What have I done.
+**Lanino:** * I'm nothing without her beside me...
+**Lanino:** * Our oasis of love...
+*(Lanino starts to cry.)*
+**Lanino:** * I made it into a desert...
+
+**Mr. Tenna:** * Wow looks like we are out of time!
+**Mr. Tenna:** * HAHA!! I LOVE WATCHING TV!!!
+*(The "I Love TV" counter quickly reaches 99 after Tenna praises himself the remaining 76 times.)*
+**Mr. Tenna:** * Ok battle's over folks See you later!!!
+*   You Won!
+*   Got 0 EXP and 386 D$.
+
+###**obj_tvworld_game_desert_end**
+
+*(The game returns to 8-bit mode.)*
+
+**[Battle Results Screen]**
+*   BATTLE RESULTS
+*   TURNS: 7 S! PERFECT!
+*   HURT: 13X BIG OUCH!
+*   TP: 89 S! PERFECT!
+*   YOU GET A RANK
+*   +213 POINTS
+
+*(The team receives the MOONCLOUD STONE.)*
+
+**[In-game text]**
+*   YOU GOT THE MOONCLOUD STONE!
+
+*(For some reason, the team returns to the cacti. Kris finds a shy cactus, moves it aside, and gets a key.)*
+
+*(The team approaches the pyramid and uses three of the four keys plus the Mooncloud Stone.)*
+
+**Mr. Tenna (viewer):** * This is it! Your final test!
+**Mr. Tenna (viewer):** * Behold... The door to... the physical challenge!!!
+**Pink TV Guy:** * BEYOND THIS DOOR LIES THE PHYSICAL CHALLENGE.
+**Pink TV Guy:** * A GRUELING ENCOUNTER THAT WILL TEST ALL OF YOUR SKILLS.
+**Pink TV Guy:** * ARE YOU PREPARED... FOR THE WORST?
+> ♥ YES / LET ME THINK
+**Kris (viewer):** * Yeah, okay I guess.
+**Mr. Tenna (viewer):** * And so, our contestants... have spoken...
+**Mr. Tenna (viewer):** * What may be their final words!!?
+**Mr. Tenna (viewer):** * Kids, cover your parents' eyes!!
+**Mr. Tenna (viewer):** * Because after this... There's no turning back!!
+
+###**obj_cooking_show_intro**
+
+**Susie:** * What the...
+**Susie:** * The hell did you do to us!?
+
+*(The scene changes abruptly. Kris, Susie, and Ralsei fall onto a stage designed like a kitchen-bar. They are now wearing chef hats and aprons.)*
+
+**Mr. Tenna:** * Hon hon!! Cool your burners, folks!!
+**Mr. Tenna:** * Today's PHYSICAL CHALLENGE...
+**Mr. Tenna:** * Is the COOKING Channel!
+**Susie:** * Oh, okay. That actually makes sense.
+**Mr. Tenna:** * Kris, your mother used to LOVE cooking shows, didn't she?
+**Mr. Tenna:** * Oh, how she'd LAUGH, glowingly, along with each new recipe,
+**Mr. Tenna:** * Feverishly taking notes on each step to make them for her family...
+**Mr. Tenna:** * As you and your BROTHER pretended the chefs were bungling the simplest parts!
+**Mr. Tenna:** * "Darn!! I overcooked the water!!"
+**Mr. Tenna:** * "Oops!! No!! I keep breaking the eggs!! Oops!!"
+**Mr. Tenna:** * AHAHAHA!! Hahaha!! That sure was FUN, wasn't it?
+**Mr. Tenna:** * Now, are you ready or what!?
+> ♥ Instructions please / Let's go
+**Mr. Tenna:** * THAT's what I like to hear!
+**Mr. Tenna:** * Now get those pans over easy, or these eggs are gonna be TOUGH!
+**Mr. Tenna:** * IT'S!! TV!! TIME!!!
+
+*(Mr. Tenna disappears. The cooking minigame begins.)*
+
+###**obj_cooking_show_minigame**
+
+*(A timer and a popularity meter appear on the screen. Susie and Ralsei (in chef outfits) start throwing ingredients from their kitchen stations. Kris must catch them and stack them on their head.)*
+
+**[On-screen text]**
+*   SCORE: 0
+*   POPULARITY: ★★★★★
+*   TIME: 97
+*   (A): Throw (B): Jump
+
+*(Kris successfully catches milk, eggs, bowls.)*
+
+**[On-screen text]**
+*   SPECIAL GUEST!
+
+*(Lanino (Sun) appears and starts running back and forth.)*
+*(Kris continues to catch.)*
+
+**[On-screen text]**
+*   SPECIAL GUEST!
+
+*(Elnina (Cloud) appears and starts running back and forth.)*
+*(Kris continues to catch, the stack on their head getting taller and taller, then distributes the food to the customers. Time runs out.)*
+
+**[On-screen text]**
+*   FINISH!
+
+**Mr. Tenna:** * THAAAT'S IT!!!
+**Mr. Tenna:** * Well, would you LOOK at those smiling customers!?
+**Mr. Tenna:** * They're happy as yet-to-be-cooked clams!
+**Mr. Tenna:** * And Kris, YOU'RE just as happy, aren't you!?
+**Mr. Tenna:** * You remember how FUN watching cooking shows was too, don't you!?
+**Susie:** * So did we win?
+**Mr. Tenna:** * What do you THINK? That was the most UNFORGETTABLE show in prime time!!
+**Mr. Tenna:** * MIKE! Show the results of THE BOARD!
+
+*(An evaluation screen appears.)*
+
+**[EVALUATION Screen]**
+*   EVALUATION
+*   BATTLES - BAA, A-RANK
+*   POINTS GAINED - 1733, T-RANK
+*   CHEF SCORE - 402, A-RANK
+*   SECRET BONUS - EXTRA KEY!
+*   ROUND COMPLETE!! YOU GOT S-RANK!
+
+**Ralsei:** * Look Kris!! We won!!! We won!!!
+**Susie:** * Woah, it's over already? Damn, we were just having fun!
+**Ralsei:** * See you next episode everyone!!
+
+*(The show's credits begin to roll.)*
+
+**[TV TIME CREDITS]**
+*   Director - Mr. "Ant" Tenna
+*   Special Thanks - Dark Fountain That Gives The World Form
+
+**Mr. Tenna::** * STOP! STOP! STOP!!!
+**Mr. Tenna:** * It CAN'T be over already!! NO!!
+*(The "FUN-O-METER" thermometer rises to 80%.)*
+**Mr. Tenna:** * The FUN-O-METER's still only at 80%!!
+**Susie (viewer):** * Huh?
+**Mr. Tenna:** * Ah, you see...
+**Mr. Tenna:** * That was just...
+**Mr. Tenna:** * ROUND 1 COMPLETE! YOU GOT S-RANK!
+**Mr. Tenna:** * NEXT: ROUND 2
+**Ralsei (viewer):** * There's... more than one round...?
+**Mr. Tenna:** * Of course!! There's 2 ROUNDS!! 2!!
+**Mr. Tenna:** * You haven't ever heard of a game show with just ONE ROUND, have you!?
+**Susie (viewer):** * Uhh, nobody except grandmas really even watch -
+**Mr. Tenna:** * Exactly!! It's preposterous!! Outrageous!! It'd be bad TV!!
+**Mr. Tenna:** * (And trust me. I know TV.)
+**Susie (viewer):** * ... heh, well, I guess we WERE having fun.
+**Ralsei (viewer):** * Yeah! We can play another round!
+**Ralsei (viewer):** * Can we... change Susie's name though?
+**Mr. Tenna:** * Great!! And no!! And now, a WORD from our sponsors!
+
+*(...A literal picture with the word 'WORD' written in calligraphy.)*
+
+</Combined_Deltarune_Chapter_3_Board_1>
+<Combined_Deltarune_Chapter_3_Green_Room>
+###**obj_green_room_intro**
+
+*(The team enters the green room backstage. There is a couch, a vending machine, a bar counter, and a door labeled "Stage".)*
+
+**Ralsei:** * This place is...
+**Mr. Tenna:** * How do you like my Green Room?
+**Mr. Tenna:** * It'll take some time before round 2, so Relax and Enjoy!
+
+*(Mr. Tenna disappears.)*
+
+###**obj_green_room_explore**
+
+*(Kris approaches the Remote-like guard at the RIGHT door.)*
+
+**Pippin:** * Don't do anything funny.
+**Pippin:** * Mr. Tenna's orders.
+
+*(Lancer, standing by the LEFT door, approaches Susie.)*
+
+**Lancer:** * Susie! Other people! You looked so cool gaming!
+**Susie:** * Lancer! You're here for real?! Uh... not real?
+**Susie:** * ...
+**Susie:** * Hey, wait, if you're in this Dark World, aren't you gonna...
+**Lancer:** * Don't worry, I've still got some time before I petrify!
+**Lancer:** * Meanwhile, I got a job at the gaming factory.
+**Lancer:** * I got my own gamepad and I've only broken it 4 times
+**Lancer:** * Now, I gotta go press buttons for pennies...
+**Lancer:** * See you in the funny stages!
+
+*(Lancer leaves through the door.)*
+
+*(Kris looks around the room.)*
+
+*   *(It's a convincing replica of your favorite cactus.)*
+*   *(Stars ripple on the walls like soft music.)*
+*   *(You're filled with the power of relaxation.)*
+
+**[Save Menu]**
+*   BLUE LV 3 13:03:03
+*   Green Room
+*   ♥ Save
+*   Return
+*   Storage
+*   Recruits
+
+**[Save Menu]**
+*   File Saved
+
+*(Kris approaches the game console where Susie is sitting.)*
+
+*   *(A game system is set up, but strictly, and rules are written down...)*
+**Susie:** * Wanna play, Ralsei? It's got racin
+**Ralsei:** * M... me? No, I'd rather just watch you two!
+**Susie:** * Fine. Kris, let's go!
+> ♥ Play / Don't play
+
+*(Kris and Susie sit down to play a racing minigame.)*
+
+*(A racetrack appears on the screen. Kris's car (blue) and Susie's car (purple) compete. Kris loses.)*
+
+**Susie:** * Man, it's like you're not even looking at the screen.
+**Susie:** * Wanna race?
+*(Kris loses again.)*
+**Susie:** * Man, it's like you're not even looking at the screen.
+**Susie:** * Wanna race?
+*(Kris loses again.)*
+**Susie:** * Man, it's like you're not even looking at the screen.
+**Susie:** * Nah, I'm like good.
+
+*(Kris and Susie get up from the couch. Elnina appears in the room.)*
+
+**Susie:** * Wanna play, Ralsei? It's got racin
+**Ralsei:** * M... me? No, I'd rather just watch you two!
+**Susie:** * Fine. Kris, let's go!
+> ♥ Play / Don't play
+
+*(Kris and Susie play racing again. Kris loses several more times.)*
+
+**Susie:** * Man, it's like you're not even looking at the screen.
+**Susie:** * Nah, I'm like good.
+
+*(Kris and Susie get up. Kris approaches Elnina.)*
+
+**Elnina:** * Why are they being so dramatic? They only got second.
+**Elnina:** * Oh, you three! It's me, Elnina! I've never felt more moisturized!
+**Elnina:** * The single life's never felt this cool and collected! Ask me about anything!
+> ♥ Lanino / Nothing
+**Elnina:** * Oh, Lanino? Well...
+**Elnina:** * My Sunshine is GONE!!! My brilliant SUNSHINE!!!
+
+*(Elnina transforms into a giant crying cloud that hovers over the couch and rains on it.)*
+
+**Elnina:** * Everything reminds of him! Everything!
+**Elnina:** * The nighttime... the DAYTIME...
+**Elnina:** * I saw a big wheel of cheese and...
+**Elnina:** * I THOUGHT IT WAS HIS FACE!!!
+**Elnina:** * Without him to balance me, my only forecast is rain... running down my face.
+> You're strong and independent / ♥ Your forecast is love
+**Elnina:** * That's... that's right! Weather girls are the wave... aren't they!?
+**Elnina:** * A cool cloud never stays alone in the sky for long! Heheh!
+**Elnina:** * Thanks, Kris! You're a real cucumber, you know? Umm, not a cool one, but...
+
+*(Kris approaches Ramb, a purple character behind the bar.)*
+
+**Ramb:** * Oi, Kris, luv! It's me, Ramb! You and your brother took me home from the Library, remember?
+**Ramb:** * How're they all? Queen still bossy? Swatch still got a mohawk? And that salesman...
+**Ramb:** * Right, the store, the store! If you want anything, just use your POINTS!
+> ♥ Nothing else / Buy something / Talk more
+**Ramb:** * Time flies... Seems like just yesterday you and that girl had everyone here lined up.
+**Ramb:** * Queen on her side, King on your side, Tenna in back... Oh, it was chaos, CHAOS!
+**Ramb:** * Heh, only kids like you two would take a laptop home just to play make believe.
+**Ramb:** * ... how is she, Kris? Are you two...? Well, it's alright. Everyone changes. 'cept us.
+**Ramb:** * Kris, luv! If you've got POINTS, we've got ITEMS!
+> ♥ Buy something / Nothing else / Talk more
+**Ramb:** * You want to buy something using your POINTS? That's lovely, Kris.
+**Ramb:** * Gotta use that vending machine though. Tenna doesn't like us... touching the POINTS.
+
+*(Kris approaches the vending machine.)*
+
+**Ramb:** * Hey! Kris, you and Asriel took me home from school, remember?
+**Ramb:** * The Rudinns? Pretty sure you lost them somewhere. ... And I mean REALLY lost.
+**Ramb:** * You wanna talk more? Shh! Let's do it in the dressing room.
+
+*(Kris interacts with the vending machine.)*
+
+*   *(POINTS to ITEMS!)*
+*   *(Use the vending machine?)*
+> ♥ Buy / Don't Buy
+*   *(It's a vending machine.)*
+*   *(The vending machine did not respond.)*
+**Susie:** * You don't get money for sticking stuff in the machine, dumbass!
+**Susie:** * That's like the first thing ANYONE tries.
+*   *(It's a vending machine.)*
+
+**[Vending Machine - Buy Menu]**
+*   **TVDinner** (60 PTs) - ITEM. Even non-TVs can eat it. HP+100
+*   **DeluxeDinner** (120 PTs) - ITEM. Classy meal for big shots. HP+140
+*   **LodeStone** (60 PTs) - ARMOR. Gain more TP from bullets.
+*   **GingerGuard** (111 PTs) - ARMOR. Fragrant armor.
+*   **Exit**
+
+*(The player buys a TVDinner and a DeluxeDinner.)*
+*(Item placed in STORAGE.)*
+
+*(Kris saves the game.)*
+
+**[Save Menu]**
+*   File Saved
+
+*(Kris approaches Susie.)*
+
+**Susie:** * Ralsei, would you lick an old TV for 50 bucks?
+**Ralsei:** * Err... Umm... depends... what's on TV?
+**Susie:** * Ugh. Nevermind. You don't get it.
+**Susie:** * Dude, we should use magnets on Tenna. Might be cool.
+
+###**obj_red_carpet_hallway**
+
+*(The team walks down a hallway. Pictures and posters hang on the walls.)*
+
+**Pippin:** * Don't tell anyone... but dis little guy is my closest pal.
+**Pippin:** * Since da Pippins are rulebreakers, we ain't s'poseda be friendly with 'em...
+**Pippin:** * But dis guy, he's real nice!
+**Pippin:** * Dis guy is the only one you can trust. Remember his face.
+**Pippin:** * One day when I accidentally broke the rules, this guy stood by my 6 sides!
+**Pippin:** * Since then, I decided to play fair. ... y'know, if it helps this guy out!
+**Pippin:** * Hey Kris, remember the Flying Aces? ... Well, me neither...
+
+*(Kris approaches a vending machine in the hallway.)*
+
+*   *(It's a vending machine.)*
+*   *(There's a black and white animation cel of Tenna on it.)*
+
+**[Vending Machine - Buy Menu]**
+*   **ToxicAxe** (80 PTs) - WEAPON. Smelly weapon.
+*   **SaberScarf** (80 PTs) - WEAPON. Tsun-type armaments.
+*   **FlexScarf** (80 PTs) - WEAPON. Weaklings can flex too.
+*   **TVSlop** (30 PTs) - ITEM. Full of nutrient. HP+80
+*   **Exit**
+
+*(Kris exits the menu. The team moves on and enters the rewards room.)*
+
+###**obj_rewards_room_cooler**
+
+*(The team enters the door with the letter "C". Inside is a small room with two Pippin characters standing on either side of a water cooler.)*
+
+*(Kris approaches the cooler. It starts to vibrate.)*
+
+*(The screen darkens and a battle begins.)*
+
+###**obj_watercooler_battle**
+
+*(A lone Watercooler appears on the battlefield. Tense, yet slightly comical battle music plays.)*
+
+*   *(A strong aura emanates from the Watercooler.)*
+
+*(Kris selects ACT. The available options are: Check, BegForMercy. Kris selects BegForMercy.)*
+
+*   *(You thought of some better, different ACTs to try next, instead.)*
+*(The ACT menu updates. The options are now: Check, ActCool, BegForMercy, Flirt, Useless analysis.)*
+
+*(The Watercooler attacks. A text bubble saying "Buble" appears from it. Then, white water droplets, like bullets, start flying from all sides of the screen. They move in straight lines, forcing the SOUL to maneuver in the center.)*
+
+*   *(Smells like the faucet.)*
+
+*(Kris selects ACT -> ActCool again. This time, the action works. Kris, Susie, and Ralsei gather around the cooler, striking cool poses and chatting.)*
+
+*   *(Everyone chat around the watercooler.)*
+*(Mercy increases by 25%.)*
+
+*(The Watercooler attacks with water droplets again. The attack becomes denser. Susie and Ralsei take damage.)*
+
+*   *(The watercooler cools water, coolly.)*
+
+*(Kris selects ACT -> ActCool.)*
+
+*   *(You took a slow sip of water and then asked if it cooled it itself.)*
+*(Mercy increases by 10%.)*
+*   *(The water turns pink for a second.)*
+
+*(The Watercooler's attack becomes even more furious. Droplets fly from all sides, filling almost the entire space. Ralsei falls (DOWN).)*
+
+*   *(The watercooler doesn't do anything in particular.)*
+
+*(Kris selects SPARE, but the enemy's name is not yet yellow. Mercy increases by 8%. Susie attacks, dealing 29 damage.)*
+
+*(The Watercooler attacks one last time, damaging Kris and Susie.)*
+
+*   *(The watercooler's water blushes a cranberry pink.)*
+
+*(Kris and Susie select SPARE. Mercy reaches 100%. The name "Watercooler" turns yellow.)*
+
+*   You Won!
+*   Got 0 EXP and 0 D$.
+
+*(A "RECRUIT" animation appears on the screen. The Watercooler is recruited.)*
+
+*(The battle ends. The team returns to the room. A crate appears where the cooler was.)*
+
+*   *(It's a crate.)*
+*   *(Inside was 200 POINTS!)*
+*   *(200 POINTS was added to your SCORE.)*
+
+**Remote-like-darkner:** * Water... is scarce. Wars... will be fought.
+**Remote-like-darkner:** * Ahh... you're da kinda person that drinks from an oasis 8 times.
+
+*(The team leaves the room.)*
+
+###**obj_pre_stage_2**
+
+*(The team approaches the screen room (Left door inside the left corridor).)*
+
+**Susie:** * Hey! There's Tenna onstage over there...!
+**Susie:** * ... maybe we could talk to him for a sec?
+**Susie:** * Y' know, get some hints about the next board...?
+**Susie:** * Anyway, let's go!
+**Ralsei:** * W-wait.
+**Ralsei:** * Kris, maybe we should let Susie go...
+**Ralsei:** * And just watch from here...?
+> ♥ See what Susie's doing / Let's just chill dude
+**Ralsei:** * Then, let's close our eyes and think about what she's doing now...
+
+*(The screen darkens. The scene shifts to the stage where Susie is talking to Mr. Tenna.)*
+
+**Mr. Tenna (Mike's voice):** * ... located... in the purple cliffs? Perfect! Don't waste any time.
+**Mr. Tenna (Mike's voice):** * You know what comes next. Assembly, air holes, soft, soothing music...
+**Mr. Tenna (Mike's voice):** * Then we just need time.
+**Mr. Tenna (Mike's voice):** * One more board, just ONE more board and then...
+**Susie:** * Hey.
+
+*(Mr. Tenna falls from his spot backstage onto the stage.)*
+
+**Mr. Tenna:** * S... SUSIE!!!
+**Mr. Tenna:** * SUSIE, sweetheart, my STAR contestant, hey, how can I help you!?
+**Mr. Tenna:** * Free toy ball voucher!? Refreshments!? Lifetime supply of NON-GLOOBY slime?
+**Susie:** * Just, uh...
+**Susie:** * Wanted to say the games were pretty fun, I guess.
+**Mr. Tenna:** * They... they are?
+**Susie:** * I mean, you SAW when you interrupted us, but... Ralsei...
+**Susie:** * He was being kind of... weird, earlier.
+**Susie:** * I feel like this cheered him up.
+**Susie:** * And... me too.
+**Susie:** * It's just been taking my mind off... everything.. I guess.
+**Mr. Tenna:** * S... Susie...?
+**Mr. Tenna:** * SUSIE!!!!!!
+**Mr. Tenna:** * I've never wanted to hear ANYTHING more!!!
+**Mr. Tenna:** * I'VE LOVED putting on this SHOW! I haven't had this much fun in years!
+**Mr. Tenna:** * Seeing REAL LAUGHS! REAL SMILES! From an audience of MORE THAN ONE! It's a dream!
+**Mr. Tenna:** * I... can't lie. I've been a bit, alone, until recently.
+**Susie:** * I... can relate, I guess.
+**Mr. Tenna:** * But hosting you and lil' Ralsei has been an HONOR! Even if you're a tad sassy!
+**Susie:** * Umm, hey, Kris was having fun, too.
+**Mr. Tenna:** * Oh... yeah, Kris!
+**Mr. Tenna:** * Haha, Kris! Good old Kris! What a stinker!
+**Susie:** * ... don't you like Kris?
+**Mr. Tenna:** * What the - are you kidding!? I LOVE Kris! They were one of my original viewers!
+**Mr. Tenna:** * I'm just not sure if, heh, they... uhh, love TV.
+**Susie:** * Huh? Why wouldn't they...
+
+*(Mr. Tenna suddenly falls silent and starts twitching.)*
+
+**Mr. Tenna:** * HEY would you look at that!! The NEXT BOARD's ready!!!
+**Mr. Tenna:** * It was GREAT talking to you, Susie!! Good luck out there!!
+**Susie:** * Uhh, yeah! Later!
+
+*(The scene returns to Kris and Ralsei. Susie joins them. The "GAME" sign above the door becomes multicolored.)*
+
+**Susie:** * So what the hell were you two doing?
+> Talking / ♥ Trying to close eyes and think about Susie
+**Susie:** * ... uh, okay. Weirdos.
+**Susie:** * You know, I thought he was a weirdo at first, but...
+**Susie:** * Tenna's not such a bad guy, y'know, Kris...? Just kinda lonely.
+> ♥ He's fun / He sucks
+**Susie:** * (Right? I knew you were actually having fun, too.)
+</Combined_Deltarune_Chapter_3_Green_Room>
+
+<Combined_Deltarune_Chapter_3_Sword_Route_Segment_1>
+*(Kris approaches Rouxls.)*
+
+**Rouxls Kaard:** * Who be-eth, who be-eth?
+**Rouxls Kaard:** * Don't bothereth me when I'm doingst mine makeup...
+**Tasque (hidden):** * (I hope I can get an autograph.)
+
+*(Kris approaches the cat.)*
+
+**Rabbik:** * (By the way, I accidentally came here stuck on your clothes.)
+**Rabbik:** * (I'm sure you'll take me back to Castle Town later.)
+
+*(Kris approaches the first curtain.)*
+*(Shadowguy let out a funny scream while putting on his socks. Then the curtain closed again.)*
+
+*(Kris approaches the second curtain.)*
+
+*   *(---!)*
+*   *(Someone from behind the curtain pushed you away...)*
+*   *(...? You felt something spiny stuck in your hand.)*
+*   *(You got the Saber10.)*
+
+*(The player opens the inventory and equips the Saber10.)*
+
+**[Item Description]**
+*   **Saber10:** A saber made of 10 cactus needles. Fortunately, can deal more than 10 damage.
+
+*(Kris approaches Ramb, who is now standing by the entrance.)*
+
+**Ramb:** * Ah, Kris. Look at you, a dressing room big shot! Cheers, cheers.
+**Ramb:** * So how do you fancy the game, then? Right-o. It ain't much, innit, luv.
+**Ramb:** * How, I KNEW you wouldn't like it, I KNEW. So listen up...
+**Ramb:** * Y' see, that game you been playin'? It's not, EXACTLY, the original.
+**Ramb:** * Ol' Tenna's done a little somethin' here, a little somethin' there...
+**Ramb:** * And made the whole adventure some big ol' blasted line from A to B.
+**Ramb:** * Primo. Boring. Stuff.
+**Ramb:** * But if I know Kris, and boy do I know Kris... that's not what YOU want, innit?
+**Ramb:** * Freedom. That's what YOU want, chun, freedom!
+**Ramb:** * Well, if I can go hush-hush for a minute here...
+**Ramb:** * Kris, luv. THAT'S what we got backstage.
+**Ramb:** * The ORIGINAL game. Where YOU decide what to do.
+**Ramb:** * All right, enough explaining, more gaming!
+**Ramb:** * I'll keep an eye out for Tenna, you go have some REAL fun, alright, luv?
+**Ramb:** * There you go! And, I'm sure you know, but... secret to Tenna, right, luv?
+**Ramb:** * Ah, Kris. Stick around here long enough, and you'll learn...
+**Ramb:** * Freedom's just a thing for big shots.
+
+*(Kris goes back backstage to the game system.)*
+
+###**obj_backstage_original_game**
+
+*   *(It's a game system. Looks like this is where all the characters in the board play.)*
+*   *(The controllers and system are all locked up dentist-office-style.)*
+
+*(Kris approaches a controller that has fallen on the floor.)*
+
+*   *(...? Seems there's a controller fallen on the ground.)*
+> ♥ Pick it up / Don't pick it up
+*   *(ODDCONTROLLER was added to your KEY ITEMS.)*
+
+*(Kris uses the ODDCONTROLLER on the game system.)*
+
+*   *(Looks like a game console.)*
+*   *(Play it?)*
+> ♥ Yes / No
+
+*(The TV screen turns on. The "Mantle!" title card appears, then a blue screen with "NO CONTROLLER", then static. A red heart appears.)*
+
+*(An 8-bit minigame in the style of The Legend of Zelda - Mantle begins.)*
+
+*(The player controls a blue sprite of Kris, which has just layered over a red SOUL. At first, the player is helpless, wandering the map in search of a sword and eventually stumbling upon a hatch. The sword is found. First, Kris destroys purple ghosts, reaching level two, then lime-green ones (which throw arrow projectiles) and another pair of purple ones, finally beating the only Fish on the map and leveling up to LV3. Now the player can chop down cacti. Then he enters an ice zone, where he fights enemies and reaches LV4. (The player can even destroy trees). After that, the player looks for a place on the map where there are trees instead of a wall and enters a pseudo-infinite forest. The player must chop down trees and move to 'Adjacent cells' until they find a red chest containing the Ice-key.)*
+
+*(Kris opens the chest.)*
+
+**[In-game text]**
+*   YOU GOT THE ICE KEY
+
+*(A rapid succession of glitchy images and sounds occurs on the screen. The game ends.)*
+
+*(Kris returns to reality, standing in front of the turned-off screen.)*
+
+###**obj_backstage_return**
+
+**Ramb:** * Kris! How was it? Lots 'o fun?
+**Ramb:** * Maybe had a little extra taste of that... you know?
+**Ramb:** * ...
+**Ramb:** * Well, regardless, Tenna almost came in. Gotta be extra careful next time.
+**Ramb:** * Come again next time, Kris, if you fancy.
+**Ramb:** * All I wanna do is make sure you can play the games you want, Kris.
+
+*(Kris leaves from backstage and rejoins the team.)*
+
+###**obj_game_lobby_final**
+
+**Ralsei:** * Umm, welcome back, Kris!
+**Susie:** * What the hell took you so long?
+> Playing games / ♥ Nothing
+**Susie:** * Really? Hey, maybe we should play too, next time.
+**Ralsei:** * Th-that's okay, I'm not... really good at games.
+**Susie:** * Anyway, let's hurry up and get the hell out of here.
+</Combined_Deltarune_Chapter_3_Sword_Route_Segment_1>
+
+<Combined_Deltarune_Chapter_3_Green_Room_Mini_Games>
+###**obj_rewards_room**
+*(The team goes to the 'Rewards Room'.)*
+*(The room is filled with various items and characters. A "Board 1 S-RANK" scoreboard hangs on the wall.)*
+
+**Attendant:** * Welcome to the ABC-Rank rewards room.
+**Attendant:** * How may we assist you today?
+> ♥ My rank, my rewards? / Don't / What's in each door?
+**Attendant:** * On the previous BOARD, you earned S. You're a STAR!
+**Attendant:** * This means you can use door A, B, and C!
+**Attendant:** * We also recommend checking out our Star Changing Room.
+**Attendant:** * Look in the "S" Door in the Green Room below. Enjoy!
+
+> What's in each door?
+**Attendant:** * A-Door is for ARCADE. You can replay a PHYSICAL CHALLENGE for fun.
+**Attendant:** * B-Door is for BALL MACHINE. Spend points to earn random prizes!
+**Attendant:** * C-Door is for COOLER. Feel free to have a drink.
+
+*(Kris approaches the reverse vending machine.)*
+
+*   *(It's a reverse vending machine.)*
+*   *(Put items in, DARK DOLLARS come out.)*
+*   *(You felt glad.)*
+
+**[Reverse Vending Machine - Sell Menu]**
+*   Sell Items
+*   Sell Weapons
+*   Sell Armor
+*   Sell Pocket Items
+*   Return
+
+*(The player sells several items, including a DogDollar and a LancerCookie.)*
+
+*(Kris approaches Lanino, who is standing in the corner.)*
+
+**Lanino:** * Oh, you three! It is I, Lanino. The Green Room was, BUSY, so I'm in here.
+**Lanino:** * Need any, ahem, assistance from a brave and independent moon?
+> ♥ Weather report / Nothing
+**Lanino:** * Certainly. Tomorrow's forecast will be SUN, followed by a light...
+**Lanino:** * ... a light drizzle...
+**Lanino:** * Oh, ELNINA! MY SWEETEST CLOUD! She would have LOVED a light drizzle...
+**Lanino:** * Everything reminds me of her! EVERYTHING!
+**Lanino:** * The water cooler... the water warmer... I tried counting sheep for a nap...
+**Lanino:** * And all I could imagine was her face!
+**Lanino:** * Without her moisture, my heart and skin have become so... so, dry.
+> ♥ You're strong and independent / Your forecast is love
+**Lanino:** * Th... that's right! I'm the most popular circle in the sky!
+**Lanino:** * Everyone knows GUYS WITH PAULDRONS are HOT STUFF! I've got this!
+**Lanino:** * Thanks, Kris! You shone a little light on my life
+
+###**obj_rewards_room_ball_machine**
+
+*(The team enters the door with the letter "B". Inside is a giant machine with capsule balls.)*
+
+*   *(The sign says "BALL MACHINE User's Guide. Read it?")*
+> Yes / ♥ No
+*   *(The sign says "You didn't choose to read the User's Guide. Avert eyes!")*
+
+*   *(INSERT 100+ POINTS TO PLAY.)*
+> ♥ INSERT POINTS / Don't
+*(The player starts inserting points into the machine, gradually increasing the chance for a gold prize. The chance reaches 51%, but the player decides to stop.)*
+
+**Susie:** * Kris, gimme your feet. I'm shoving you up there.
+**Ralsei:** * (I think we use that machine on the right...?)
+
+*(Kris approaches the sign again.)*
+*   *(The sign says "BALL MACHINE User's Guide. Read it?")*
+> ♥ Yes / No
+*   *("Welcome to BALL MACHINE. Insert points to gain PRIZES.")*
+*   *("The minimum is 100 POINTS. MORE POINTS increase GOLD CHANCE.")*
+*   *("Even if you miss GOLD PRIZE, next time GOLD CHANCE increases faster!")*
+*   *("HIT the GOLD PRIZE, GOLD CHANCE will reset... etc.")*
+*   *("You turned to the camera and thanked Tenna for a great toy! Thanks, Tenna!")*
+*   *(... is, all part of what it said on the sign.)*
+
+*(The team leaves the room.)*
+
+###**obj_rewards_room_arcade**
+
+*(The team goes through the "A" door and finds themselves in a new hallway with a red carpet. On the walls are doors with signs "NOW PLAYING... COOKING SHOW", "COMING SOON......" and a door with a large question mark.)*
+
+*   *( "COMING SOON!" )*
+*   *( "COMING SOON ON BOARD 2!" )*
+**Ralsei:** * Wonder what we'll end up playing...?
+**Susie:** * Guess a game about a giant question mark...
+
+*   *(It's the door to the COOKING SHOW! Play it!?)*
+> ♥ Play COOKING SHOW / Quit
+
+*(The cooking minigame replays. The process is identical to the previous one: Kris catches ingredients thrown by Susie and Ralsei and serves the finished dishes. Lanino and Elnina appear again as special guests. After completion, the player receives an S-RANK on the results screen.)*
+
+**[CHEF RESULTS Screen]**
+*   CHEF RESULTS
+*   TALLEST STACK: 9
+*   FOODS WASTED: 15
+*   HAPPY CUSTOMERS: 11
+*   TOTAL SCORE: 470
+*   S-RANK
+
+*(The team returns to the hallway. A character in the shape of a die with a jester's hat appears in front of the locked door.)*
+
+**Pippin:** * Hey, hey! This here's an extra special game... It's LOCKED, you know!
+**Pippin:** * That is... unless you pay 500 POINTS.
+> ♥ Pay 500 points / Don't
+*   *(You handed over 500 POINTS.)*
+
+**Pippin:** * Alright, alright! Now that we've got those...
+*   *(Lock opening noise... Lock opening noise...)*
+**Pippin:** * Look at that, would ya! The lock's all gone!
+**Pippin:** * Not a trace! You'd hardly believe it was ever there at all!
+**Pippin:** * Well, see ya! ... no refunds!
+
+*(The character disappears. The "COMING SOON" door opens, and the sign above it lights up with "NOW PLAYING...".)*
+
+*   *(It's the door to the MYSTERY GAME! Play it!?)*
+> ♥ Play MYSTERY GAME / Quit
+
+###**obj_final_challenge_intro**
+
+*(The screen goes black. Mr. Tenna appears.)*
+
+**Mr. Tenna:** * Welcome to EXTRA GAME! Tonight, our PHYSICAL CHALLENGE will be...
+**Mr. Tenna:** * W-Wait just a moment!! I'm receiving an EMERGENCY BROADCAST...
+
+*(A background of flames appears behind Tenna.)*
+
+**Mr. Tenna:** * Something MASSIVE has begun ASSAULTING the CITY!!!
+**Mr. Tenna:** * Multiple buildings are up in FLAMES !!!
+**Mr. Tenna:** * At this rate... everything... EVERYONE will be destroyed!!!
+**Mr. Tenna:** * Can anyone PLEASE tell me who this MONSTER IS!?
+
+*(The screen flashes white, then goes black. Susie descends from above on a rope, wearing a dinosaur costume.)*
+
+**Susie:** * Guess who, idiots.
+
+*(The scene clears. It's a circular arena surrounded by spectator seats. In the background is a stylized cityscape. Susie lands in the center. A giant golden statue of Mr. Tenna rises from the floor.)*
+
+**Mr. Tenna:** * That's right!!! It's a giant monster movie!!! Starring Susie!!!
+**Susie:** * That's SusieZILLA, chump.
+**Ralsei:** * Aww! Susie, your costume is so adora... umm, scary.
+**Susie:** * Heh, obviously.
+**Mr. Tenna:** * RIGHT! SUSIEZILLA will be our baddie smashing, hyper spinning star of the day!
+**Mr. Tenna:** * Ms. Zilla!! You were watching the monster marathon until you fell asleep.
+**Mr. Tenna:** * I was so HAPPY to see someone so excited to tune in!!!
+**Mr. Tenna:** * So this final event's a Special SERVICE just for you!!
+**Mr. Tenna:** * And haha, by all means, please! Come over to Kris's and watch MORE TV ANYTIME!
+**Mr. Tenna:** * You don't even have to come in! Stand outside and watch me through the window!
+**Mr. Tenna:** * I won't tell anyone!! The police will never know!! Promise!! Hahaha!!
+**Susie:** * Uhh... so I do what. Kick your ass?
+**Mr. Tenna:** * No. Uhh, no. SUSIEZILLA had a change in her TV-loving heart.
+**Mr. Tenna:** * She may wreck the city, but she'll protect me, TV statue, with her life.
+**Mr. Tenna:** * For if the bad guys take me down... There's no more TV!!!
+**Mr. Tenna:** * Need any other instructions, or should we start the FINAL MATCH!?
+> Explain please / ♥ Let's go!
+**Mr. Tenna:** * Now, all READY!? Tail on tight!? Taken your radioactive breath mints!?
+**Mr. Tenna:** * IT'S!! TV!! TIME!!!
+
+###**obj_susiezilla_battle**
+
+*(The final minigame begins. Susie in her dinosaur costume swings on a rope above the arena. In the center stands the golden statue of Tenna. Enemies—Shadowguys—descend from above on ropes.)*
+
+**Mr. Tenna:** * Here come the baddies, folks!! Take 'em down!!
+
+*(Susie swings and knocks down the enemies, earning popularity points. Enemies throwing balls appear.)*
+
+**Mr. Tenna:** * See a ball!? Send it back!
+**Mr. Tenna:** * Just like catch with pops!
+
+*(Susie hits the balls back, destroying more enemies. Enemies shooting lasers appear.)*
+
+**Mr. Tenna:** * More TV haters!!! Show 'em what this house stands for!!!
+
+*(Susie dodges and continues to attack. A bonus round begins where she needs to collect hearts.)*
+
+**Mr. Tenna:** * Bonus round... Not!!! You don't need it!!!
+*(Susie collects the hearts, getting a "+99 POPULARITY BONUS".)*
+
+*(A bulldozer drives onto the arena.)*
+
+**Mr. Tenna:** * Uh oh! A dozer! The front's tough! Smack it from behind!!
+
+*(Susie attacks the bulldozer from behind, destroying it. More bulldozers appear.)*
+
+**Mr. Tenna:** * More dozers!! Susie!! Don't let them scrap me!!!
+
+*(Susie successfully defends the statue, destroying all the bulldozers. A giant papier-mâché boss appears. The figure suspiciously resembles Spamton with censored eyes.)*
+
+**Mr. Tenna:** * Oh no!!! In paper mache!!! It's my worst hater!!!
+**Mr. Tenna:** * He's charging a big shot!!! Hit him to reset the charge!!!
+
+*(Susie hits the boss several times, resetting its 'Big Shot' attack meter. The boss says lines like "Look how small and disgusting his nose is!!! Yuck!!!" and "Kill him!!! Kill him now!!!". Eventually, Susie defeats the boss.)*
+
+**Mr. Tenna:** * Phew!!! YOU GUYS SAVED TV!!! YOU HAVE WON!!!
+
+*(Enemies start appearing again.)*
+
+**Mr. Tenna:** * Hey, guys? Guys, they won! They won, I said!!
+**Mr. Tenna:** * You can stop trying to beat me up now!!!
+**Mr. Tenna:** * Hey!!! I'm not paying you guys for this!!!
+**Mr. Tenna:** * Paycuts!!! You guys are actually gonna get paycuts!
+**Mr. Tenna:** * Is anybody gonna listen to me!?!?
+
+*(The Tenna statue is covered in yellow paint and explodes.)*
+
+*(The screen turns white, then black.)*
+
+*   *(No TVs were harmed in the making of this minigame.)*
+
+**[SUSIEZILLA RESULTS Screen]**
+*   SUSIEZILLA RESULTS
+*   CLEAR TIME: 0:03:17
+*   TOTAL SCORE: 610
+*   S-RANK
+
+*(The team returns to the hallway.)*
+
+---
+</Combined_Deltarune_Chapter_3_Green_Room_Mini_Games>
+###**obj_secret_BallMachine_maze**
+
+*(Kris approaches the ball machine again and inserts points.)*
+*(The player inserts 1225 points, bringing the "GOLD CHANCE" to 100%.)*
+*(The player confirms the action. The screen darkens. The ball machine disappears, revealing a new passage to the north. The music changes to "FindHer.ogg".)*
+
+*(Kris enters the new passage. He finds himself in a dark, cross-shaped room with a red floor. As Kris moves forward, the world around him becomes brighter and more saturated.)*
+
+*(Kris navigates through a maze that constantly changes its structure. Eventually, he finds a blue ball machine.)*
+
+*   *(You used the machine.)*
+*   *(...)*
+*   *(... The capsule came out.)*
+*   *(Inside was something hard like lacquer.)*
+*   *(It was a small, dark, triangle.)*
+*   *(You tried to take it...)*
+*   *(But, it slipped through your hand)*
+*   *(And you couldn't find it anymore.)*
+*   *(You couldn't find your hand.)*
+
+*(The screen darkens. Kris returns to the rewards room. The ball machine is gone, and the passage to the north is closed.)*
+
+*(The team returns to the hallway.)*
+
+
+<Combined_Deltarune_Chapter_3_Board_2>
+###**obj_pre_stage_2_start**
+
+**Ralsei:** * Kris, are we all ready to start Round 2?
+> Still not ready / ♥ Ready
+
+*(Mr. Tenna appears.)*
+
+**Mr. Tenna:** * TV-tastic!!! Then let's rock and roll, folks!!!
+
+*(The scene shifts back to the game show. Kris, Susie, and Ralsei are at their podiums again.)*
+
+**Mr. Tenna:** * WELCOME back, everyone, to the show that'll make you SCREAM at your SCREEN,
+**Mr. Tenna:** * TV!! TIME!!
+
+*(The audience applauds.)*
+
+**Mr. Tenna:** * Today's episode is brought to you by our sponsor...
+
+*(The curtain behind Tenna rises, revealing the silhouette of a Dark Fountain in the darkness.)*
+
+**Mr. Tenna:** * The gushing pillar of darkness that gives us all form -- DARK FOUNTAIN !!
+
+*(The audience applauds wildly.)*
+
+**Mr. Tenna:** * Now available in unsettling obsidian and pulsating rainbow!
+**Mr. Tenna:** * Now, MIKE, the BOARD, please!
+
+*(An image of a tropical island appears on the screen behind Tenna.)*
+
+**Mr. Tenna:** * Slather on that sunscreen, everyone! Because...
+**Mr. Tenna:** * Today's second - and FINAL - board will be an aquatic adventure to a desert island!
+**Mr. Tenna:** * That's right -- an all-expenses paid trip to a beautiful tropical paradise!!
+**Mr. Tenna:** * Haha! Wish I could go but I'm just a big electric box attached to the wall! Haha!!
+**Mr. Tenna:** * (Though I would look good with a tan.)
+**Mr. Tenna:** * For this BOARD's GOAL, you'll be aiming to enter the floating ATLANTIS STADIUM!
+**Mr. Tenna:** * Legend has it, the best way there is our super high budget RAINBOW BRIDGE!
+**Mr. Tenna:** * However, the RAINBOW only appears if two LOVERS meet at LOVER'S CLIFF!
+**Mr. Tenna:** * By the way, don't forget to take lots of PHOTOS while you're on VACATION!
+**Mr. Tenna:** * Now, we're gonna have some real fun in the sun today, SO DON'T TOUCH THAT DIAL!
+**Mr. Tenna:** * (Well, okay, you can touch it. Just be gentle.)
+
+**Mr. Tenna (Mike's voice):** * IT'S!! TV!! TIME!!!
+
+###**obj_tvworld_game_island**
+
+*(The game switches back to 8-bit mode. The team appears on a tropical island.)*
+
+**[In-game text]:** * Welcome to Kidakoda ISLAND!
+**Susie (viewer):** * Alright Ralsei, turn into a surfboard.
+**Ralsei (viewer):** * I can only be a block...
+
+**[In-game text]:** * WELCOME TO THE ISLAND BOARD!
+**[In-game text]:** * ATLANTIS AWAITS IN THE NORTH.
+**[In-game text]:** * BUT, YOU WILL NEED 2 LOVERS TO UNVEIL THE RAINBOW BRIDGE.
+
+*(The team enters a shrine.)*
+
+**[In-game text]:** * Welcome to Kidakoda SHRINE!
+**[In-game text]:** * A PODIUM FOR HOLDING A PHOTOGRAPH. A PHOTIUM.
+**Ralsei (viewer):** * Oh, a camera!
+
+*(Kris in the game picks up a camera.)*
+
+**[In-game text]:** * YOU GOT THE CAMERA!
+**[In-game text]:** * PRESS [A] TO TAKE A PICTURE!
+**Ralsei (viewer):** * Kris! Take a photo!
+
+*(Kris takes a picture of Ralsei.)*
+
+**Ralsei (viewer):** * A-ahh! Hahaha! That's me!
+**Susie (viewer):** * Heh, guess it's OK if it's in a game.
+
+*(Kris takes a picture of Susie.)*
+
+**Ralsei (viewer):** * Cute selfie, Kris!
+**Susie (viewer):** * Pff. Can't you even pose?
+
+*(Kris takes a selfie.)*
+
+**[In-game text]:** * TAKE 3 GRAND PHOTOS TO REACH THE OCEAN.
+
+*(The team goes outside and encounters enemies.)*
+
+###**obj_pippins_battle_1**
+
+**Mr. Tenna (voiceover):** * Don't adjust your set! Kris is BLUE, and FIGHTING AGAIN!
+
+*(A battle with two Pippins begins.)*
+
+**[Battle Text]**
+*   PIPPINS - AT ±OF 9
+*   This crooked gambler from Card Castle always bets it all!
+*   Susie shook Pippins!!
+*   Ralsei swore not to cheat!
+**Pippin 1:** * Rock me, spill me, shock and thrill me!
+**Pippin 2:** * Will I win? Or will I win... BIG?
+*   *(Enemies attack by throwing dice and cards.)*
+**Mr. Tenna (voiceover):** * Oh no!! Mike, don't look!!
+*   *(The attack continues, stethoscopes appear.)*
+**Mr. Tenna (voiceover):** * My nose is tingling from the excitement, folks!!!
+*   Susie shook Pippins!!
+*   Ralsei swore not to cheat!
+*   Kris spared Pippins!
+*(RECRUIT 1/5)*
+**Pippin:** * Will I win? Or will I win... BIG?
+*   *(The remaining enemy attacks.)*
+**Mr. Tenna (voiceover):** * Our heroes score a pacifist knockdown!!
+*   Ralsei spared Pippins!
+*(RECRUIT 2/5)*
+*   You Won!
+*   Got 0 EXP and 276 D$.
+
+**[Battle Results Screen]**
+*   BATTLE RESULTS
+*   TURNS: 3 S! PERFECT!
+*   HURT: 1X A! AWESOME!
+*   TP: 45 B! NOT BAD!
+*   YOU GET A RANK
+*   +240 POINTS
+
+###**obj_tvworld_game_island_continued**
+
+*(The game returns to the island map.)*
+
+**Susie (viewer):** * What's the problem? Kris likes playing as me better anyway.
+**Ralsei (viewer):** * K... Kris? Likes... playing as Susie? ... but won't it be confusing?
+**Susie (viewer):** * Alright turn's over.
+
+*(Susie takes control. She approaches a field of bombs.)*
+
+**Ralsei (viewer):** * Oh, bombs! I bet we could...
+**Susie (viewer):** * Alright turn's over.
+
+*(Susie throws a bomb, which detonates all the other bombs on the screen.)*
+
+**Susie (viewer):** * Heh, worth it.
+**Ralsei (viewer):** * ...
+**Susie (viewer):** * What?
+**Ralsei (viewer):** * Uh, nothing...
+
+*(The team approaches a character resembling Rouxls Kaard, who is standing by a shop.)*
+
+###**obj_rouxls_shop_island**
+
+**Rouxls Kaard (in-game):** * Look, Guyse. I'm loste. I didn't mean to make a shop.
+**Rouxls Kaard (in-game):** * Yon Crud, I didn't mean to sell that!! Don't take my blocks! I needst those!
+
+*(Kris approaches the shop.)*
+
+**[In-game text]:** * GOOD DEALS GOOD DEALS, HEH HEH HEH
+*   KEY 100
+*   TVDINNER 400
+
+*(Kris buys a key.)*
+
+**[In-game text]:** * YOU GOT KEY x1
+**Ralsei (viewer):** * Wait, there aren't any keys this time...
+**Rouxls Kaard (in-game):** * OOPS! GUESS I MADE AN INNOCENT MISTAKE.
+
+*(The key disappears. A free TVDinner appears in its place.)*
+
+**[In-game text]:** * YOU BOUGHT TVDINNER! FEEL FREE TO USE IT IN BATTLE!!
+
+*(Kris approaches a character resembling Lancer, who is standing nearby.)*
+
+**[Pippin: In-game text]:** * PLEASE BUY THIS BOY! HE'S MAKING ME LOSE MY MARBLES!
+*(Price: 999 points.)*
+**Lancer (viewer):** * Lancer!!!
+
+*(Kris tries to buy Lancer but doesn't have enough points. The player abuses the camera mechanic, and the price becomes '9'.)*
+
+*(The team returns to the shop and buys Lancer.)*
+
+**[In-game text]:** * YOU GOT LANCER!
+**Lancer (in-game):** * HO HO! FRIENDSHIP SHOULDN'T BE BOUGHT...
+**Lancer (in-game):** * BUT IF YOU HAVE TO, GOOD YOU DID IT DIRT CHEAP!
+**Lancer (in-game):** * I'LL BE WAITING IN YOUR ITEMS FOR SOME CHEAP DIRT OF MY OWN.
+**Lancer (in-game):** * DIG, DIG!
+**Pippin (in-game):** * HUH? I FEEL LIKE I EARNED LESS THAN I THOUGHT.
+
+*(The team finds a green puddle.)*
+
+**[In-game text]:** * IS THAT A GREEN BATH!? LEAVE IT TO ME TO GET IT FREE!
+**Lancer (in-game):** * DIG, DIG, DIG!
+
+*(Lancer digs up a geyser.)*
+
+**[In-game text]:** * LOOKS LIKE I STRUCK GREEN GOLD! TAKE A PICTURE FOR THE AGES!
+**Susie (viewer):** * Man, I'm drinking it!
+**Ralsei (viewer):** * You're not drinking it!
+
+*(Kris takes a picture.)*
+
+**[In-game text]:** * ANOTHER SPECIAL PHOTO! Just 1 more!!!
+
+**Susie (viewer):** * Man, I'm drinking it!
+**Ralsei (viewer):** * You're not drinking it!
+
+*(You go through the hole that formed in the map, going beyond the accessible boundary.)*
+
+*(In the next room, you find a pile of coins, which you immediately run to collect.)*
+
+**Mr. Tenna (viewer):** * Wait! that's was MY secret bonus zone!
+**Susie (viewer):** * Wow. Looks like mine, dude.
+
+*(At first glance, some coins seem impossible to collect without being two cells tall.)*
+
+**Mr. Tenna (viewer):** * Well, haha, good luck reaching thoose!
+**Mr. Tenna (viewer):** * I keep my investments SHORT-proof!
+
+Umm, let's just go, Susie... 
+
+*(Susie collects the coins with Ralsei's head.)*
+
+**Ralsei (viewer):** * W-Wait! 
+**Ralsei (viewer):** * I... I'm covered in ill-gotten gains
+
+**Mr. Tenna (viewer):** * He told me digital currency was SECURE!!!
+*(Off-screen laughter)*
+
+*(The team returns to the box puzzle.)*
+
+**Ralsei (viewer):** * Oh! Another puzzle!
+**Ralsei (viewer):** * So, um, should be easy for you, right?
+**Susie (viewer):** * Look over there!
+**Ralsei (viewer):** * Huh?
+**Susie (viewer):** * Let's go, easy puzzle.
+
+*(Susie solves the puzzle by pushing boxes and Kris.)*
+
+**Susie (viewer):** * Eww, Kris, stop trying to hug Ralsei.
+**Ralsei (viewer):** * K... Kris!?
+**Susie (viewer):** * Susie!! That was amazing!!
+**Ralsei (viewer):** * You doubted my geniusness?
+**Susie (viewer):** * Oh! Nice solve, Kris!
+
+*(The team finds another customization item.)*
+
+**[In-game text]:** * TOUCH THE ITEM TO WEAR IT!
+*   RIBBON
+*   PIZZA DEODORANT (FOR NERDS)
+**Susie (viewer):** * Haha, PIZZA DEODORANT (FOR NERDS).
+**Susie (viewer):** * Hey, Ralsei. Looks like Kris is trying to tell you something.
+**Ralsei (viewer):** * HEY! WHAT THE... K... Kris? You think I need, um...
+*(Kris puts the ribbon on Susie's character while controlling her.)*
+**[In-game text]:** * SMELLS LIKE PEBBERONI
+**Susie (viewer):** * Kris, you dumbass! Why'd you make me wear that!?
+**Ralsei (viewer):** * M... make you?
+**Susie (viewer):** * Ugh, take it off!!
+
+*(The character controllers switch places.)*
+
+**Ralsei (viewer):** * Wait a second... Your controllers are...
+**Susie (viewer):** * Look out, Kris! Enemy!
+**Ralsei (viewer):** * Susie, you can't use Kris's controller!
+
+*(A battle with three Pippins begins.)*
+
+###**obj_pippins_battle_2**
+
+**[Battle Text]**
+*   Susie shook Pippins!
+*   Ralsei swore not to cheat!
+*   *(Enemies attack.)*
+*   Kris spared Pippins!
+*(RECRUIT 3/5)*
+*   *(Enemies attack.)*
+*   Ralsei spared Pippins!
+*(RECRUIT 4/5)*
+*   *(Enemy attacks.)*
+*   Ralsei spared Pippins!
+*(RECRUIT 5/5)*
+*   You Won!
+*   Got 0 EXP and 425 D$.
+
+**[Battle Results Screen]**
+*   BATTLE RESULTS
+*   TURNS: 4 S! PERFECT!
+*   HURT: 1X A! AWESOME!
+*   TP: 80 S! PERFECT!
+*   YOU GET S RANK
+*   +293 POINTS
+
+###**obj_tvworld_game_island_censored**
+
+*(The game returns to the island map. The controllers are still mixed up.)*
+
+**Susie (viewer):** * FINE. I'LL fix the controllers.
+**Ralsei (viewer):** * Thank you very...
+**Susie (viewer):** * ... wait a second...
+**Ralsei (viewer):** * S-Susie! Change me back!!
+**Susie (viewer):** * C'mon, just for a bit. It'll be fun.
+**Ralsei (viewer):** * ...
+**Ralsei (viewer):** * Umm, Kris, don't you want your controller back?
+> You can have a turn / ♥ Let's all go back to normal
+**Ralsei (viewer):** * Well, if Kris says it's okay...
+**Ralsei (viewer):** * So... um...
+**Ralsei (viewer):** * K-Kris, which way should I...
+**Susie (viewer):** * You got the controller. YOU choose.
+**Ralsei (viewer):** * This way... seems nice.
+**Ralsei (viewer):** * Oh! A flower cut in half! This is a photo spot!
+**Ralsei (viewer):** * Umm, how do you take a photo?
+
+*(Kris takes a picture.)*
+
+**[In-game text]:** * YOU FOUND THE TROPIC OF LOVE!
+
+*(All the palm trees on the island become multicolored.)*
+
+**Mr. Tenna (viewer):** * So uh... the Tropic of Love...
+**Mr. Tenna (viewer):** * Anyone else think that was cool? Haha...
+**Mr. Tenna (viewer):** * Anyone?
+
+*(The team sails further into the sea.)*
+
+**Mr. Tenna (viewer):** * Yeah, this is where you're supposed to go.
+**Mr. Tenna (viewer):** * Sorry, nothing up this way, folks!
+**Mr. Tenna (viewer):** * See, it just loops!
+**Mr. Tenna (viewer):** * This part's unfinished! Go back!
+*(This is a lie.)*
+**Mr. Tenna (viewer):** * Unfinished! UNFINISHED, I said!
+**Kris (viewer):** * Mike, cut! cut!!!
+
+*(The TV screen abruptly switches to "SMPTE" color bars.)*
+
+**Mr. Tenna (viewer):** * Phew! Sorry folks, our contestants got a little lost
+
+*(The scene continues in the 8-bit game on the TV screen. The team is sailing on the sea.)*
+
+**Mr. Tenna (viewer):** * Phew! Sorry folks, our contestants got a little lost
+
+*(The game resumes. The path to the north is now blocked by a rock. The team sails south.)*
+
+**[In-game text]:** * LOVER'S PEAK
+**Mr. Tenna (viewer):** * The end is close! Back to LOVER'S PEAK!
+
+*(The team docks at Lover's Peak. Lanino is standing there alone.)*
+
+**Lanino (in-game):** * WITHOUT THE SHINE OF LOVE TO GUIDE ME...
+**Lanino (in-game):** * MY LIFE IS LOST AT SEA, WITH THE RAIN, LIKE TEARS,
+**Lanino (in-game):** * AS SALTY AS THE OCEAN...
+**Lanino (in-game):** * WHAT? YOU HAVE SOMEONE TO SHOW ME...?
+**Mr. Tenna (viewer):** * Yes! Close your eyes!
+**Lanino (in-game):** * OKAY, I'LL TRY ANYTHING ONCE.
+
+*(The player uses the "Elnina" item from the inventory.)*
+
+**[In-game text]:** * YOU GOT ELNINA
+
+*(Elnina appears.)*
+
+**Mr. Tenna (viewer):** * Alright, this is it folks!
+**Mr. Tenna (viewer):** * Come out, you two!
+**Mr. Tenna (viewer):** * Alright, open your eyes!
+
+*(Lanino and Elnina see each other.)*
+
+**Elnina (in-game):** * Wow, looks like your game characters are just about to meet...
+**Elnina (in-game):** * ... At Lover's Peak!!!
+**Lanino (in-game):** * La... Lanino... I'm so sorry...
+**Elnina (in-game):** * Elnina, I... I'm sorry too, I...
+**Lanino (in-game):** * It's okay, we still love each other, right!?
+**Elnina (in-game):** * Of, of course! I'm just... sorry I...
+**Mr. Tenna (viewer):** * Oops! Duty calls! Gotta go, kids!
+**Mr. Tenna (viewer):** * (I'll give them a little alone time...)
+**Elnina (in-game):** * I can't wait! I'm going to the next room!
+**Lanino (in-game):** * Oh, Elnina, I--
+
+*(Lanino and Elnina leave together. A rainbow bridge appears.)*
+
+**[In-game text]:** * THE RAINBOW BRIDGE APPEARED!
+
+*(The team goes to the shrine to take the final photo.)*
+
+**[In-game text]:** * THE FINAL PHOTO
+**[In-game text]:** * THE THREE HEROES
+
+*(Kris arranges the characters for the photo. Suddenly, a new character, Shuttah, appears.)*
+
+**Shuttah:** * FABULOUS! A MUGSHOT OF YOU THREE CRIMINALS!
+**Shuttah:** * YOU TOOK MY CAMERA, TOOK THE MOON AND EVEN TOOK THE CLOUDS.
+**Shuttah:** * NOW, IF YOU'RE GOING TO BE TAKING AND TAKING...
+**Shuttah:** * COULD YOU AT LEAST TAKE A PHOTO OF ME?
+**Mr. Tenna (viewer):** * I see you've met Shuttah, our camerathing! Now... Action!
+
+###**obj_shuttah_battle**
+
+*(A battle with Shuttah begins.)*
+
+**Mr. Tenna:** * I see you've met Shuttah, our camerathing! Now... Action!
+
+**[Battle Text]**
+*   SHUTTAH - When its eyes snap shut, memories are made in grey.
+*   *Susie blurs during a photo!*
+*   *Ralsei has a perfect hair day!*
+**Shuttah:** * Not in the mood for the photo shoot? Mmm...
+**Shuttah:** * Then how about I shoot... YOU?
+*   *(Shuttah attacks by spinning and shooting projectiles. The SOUL is trapped inside a rotating photo card.)*
+**Shuttah:** * Aaannd TURN!
+**Mr. Tenna:** * MAKE MEMORIES YOU'LL LOOK BACK ON! ... EVERY DAY!
+
+*(Kris's ACT menu changes to photo actions: EasyPhoto, ToughPhoto, PowerPhoto.)*
+
+*   Ralsei cast PACIFY!
+**Shuttah:** * How are we LOOKING today?
+*   *(Shuttah attacks with drops.)*
+**Shuttah:** * A lil' turn?
+**Mr. Tenna:** * LIGHTS! CAMERA! ... CAMERAAAA!
+
+*(Kris uses PowerPhoto.)*
+
+*   *(Take a full-body photo of anyone!)*
+*   *(Press directions to aim!)*
+*   *(Press [Z] to take the photo!)*
+
+*(Kris takes a picture of Shuttah.)*
+
+**Mr. Tenna:** * A PERFECT SHOT!! DON'T KNOW WHO WANTS IT, BUT STILL!
+**Shuttah:** * The brilliant photo! I can't believe it's your first shoot!
+**Shuttah:** * Now how about I shoot... YOU?
+*   *(Shuttah attacks.)*
+**Mr. Tenna:** * LIGHTS! CAMERA! ... CAMERAAAA!
+
+*(Kris uses PowerPhoto.)*
+
+*   *(Take a photo of Shuttah's Smile!)*
+
+*(Kris takes a picture of Shuttah's smile.)*
+
+**Mr. Tenna:** * A PERFECT SHOT!! DON'T KNOW WHO WANTS IT, BUT STILL!
+**Shuttah:** * Ooo la la. Was my smile always so beautiful?
+**Shuttah:** * The camera added 10 pounds of pure happiness to my teeth...
+*   *(Shuttah attacks.)*
+**Mr. Tenna:** * HEY, GET ONE FOR FUNKIEST HOME VIDEOS, FOLKS!
+
+*(Kris uses PowerPhoto.)*
+
+*   *(Take a photo of an explosion! Time it right!)*
+
+*(Kris takes a picture of an explosion next to Susie.)*
+
+**Mr. Tenna:** * A PERFECT SHOT!! But are we still TV-Y7!?
+**Shuttah:** * Ah, the beautiful wildlife photo of the Susie in her natural environment...
+**Shuttah:** * Destruction, Destruction. Ah, it lights my smile.
+*   *(Shuttah attacks.)*
+**Mr. Tenna:** * LIGHTS! CAMERA! ... CAMERAAAA!
+
+*(Kris uses PowerPhoto.)*
+
+*   *(Take a photo of all the heroes together!)*
+
+*(Kris takes a picture of the whole team. Susie stretches Kris's mouth into a forced smile.)*
+
+**Mr. Tenna:** * Aw, the whole family! ... Mike, add me in there later!
+**Shuttah:** * The most lovely photo! My album, my heart are full.
+**Shuttah:** * Normally, my photos are all grey...
+**Shuttah:** * ... but you've turned my sky blue, blue, BLUE!
+**Shuttah:** * I forgive you! Now, adieu!
+**Shuttah:** * In the name of...
+**Shuttah:** * ... THE LOVE.
+
+*(Shuttah disappears. Mercy reaches 100%.)*
+
+*   You won!
+*   Got 0 EXP and 422 D$.
+*(RECRUIT 1/2)*
+
+###**obj_tvworld_game_island_final**
+
+**[Battle Results Screen]**
+*   BATTLE RESULTS
+*   TURNS: 10 S! PERFECT!
+*   HURT: 5X B! NOT BAD!
+*   TP: 100 S! PERFECT!
+*   YOU GET S RANK
+*   +293 POINTS
+
+*(The game returns to the island map.)*
+
+**Mr. Tenna (viewer):** * The end is close! Back to LOVER'S PEAK!
+
+*(The team returns to Lover's Peak. There is a pair of binoculars there.)*
+
+**[In-game text]:** * BINOCULARS. LOOK INSIDE?
+> ♥ VIEW / DO NOT
+*(Kris looks through the binoculars. Only the sea is visible.)*
+**Susie (viewer):** * ... dunno what I expected.
+
+*(The team finds a clothes rack and takes it to the peak. A dog appears. Kris takes a picture of them together.)*
+
+*(The rainbow bridge to Atlantis is complete.)*
+
+**Mr. Tenna (viewer):** * I'm back! Onto ATLANTIS!
+
+*(The team walks across the rainbow bridge. The screen goes dark.)*
+
+**Ralsei (viewer):** * Huh? It seems pretty dark--
+*(A loud thud is heard.)*
+
+###**obj_lightners_live_concert**
+
+*(The scene changes abruptly. The team finds themselves on a dark concert stage with a neon sign "LIGHTNERS LIVE". Hands of an audience appear from below. Kris, Susie, and Ralsei (in rocker outfits) appear on stage.)*
+
+**Susie:** * Are you ready to ROCK HARD!?
+**Ralsei:** * Umm... c-can we rock soft?
+> ♥ Strike a cool pose / Strike a glamorous pose
+
+*(Kris strikes a cool pose. Mr. Tenna appears.)*
+
+**Mr. Tenna:** * That's right! Get out your lighters for the LIGHTNERS, ladies and germs!
+**Mr. Tenna:** * Because it's time for a crashing, banging, booming, crooning...
+**Mr. Tenna:** * ROCK CONCERT !!!
+**Mr. Tenna:** * Oh, Kris! Remember DECEMBER? Oh, that little musical prodigy...
+**Mr. Tenna:** * Remember when she'd grab the remote and swap it from cartoons...
+**Mr. Tenna:** * ... to that WILD music video channel Toriel FORBID you to see?
+**Mr. Tenna:** * (Guess your mother's never been a fan of alligators in bikinis.)
+**Mr. Tenna:** * Dess, rocking her guitar and singing along with those nasty, nasty songs!
+**Mr. Tenna:** * Didn't you all think she was just so... COOL?
+**Mr. Tenna:** * HECK! Maybe you could get her to come back and watch again sometime!?
+**Mr. Tenna:** * Haha! Just kidding! Anyway, are you ready to ROCK!?
+> ♥ Need instructions / Don't need instructions to rock
+**Mr. Tenna:** * No worries! It's so SIMPLE, a FAX MACHINE could do it!
+**Mr. Tenna:** * When the MUSIC starts, notes will flow from the top like HONEY.
+**Mr. Tenna:** * When the NOTES hit the MARK, press with good timing to PLAY them!
+**Mr. Tenna:** * [Z] (or [Left]) will play notes on the LEFT!
+**Mr. Tenna:** * [X] (or [Right]) will play notes on the RIGHT!
+**Mr. Tenna:** * Make sure to HOLD the button for those LONG NOTES!
+**Mr. Tenna:** * Got it, Kris?! Good! That's all you gotta know!
+**Mr. Tenna:** * Susie and RALSEI will be doing their own things, so IGNORE THEIR PARTS.
+**Mr. Tenna:** * That being said, MUSIC is a TEAM SPORT! If ANY of you play bad...
+**Mr. Tenna:** * The POPU & LARITY LIGHTS will darken! And if they go black...
+**Mr. Tenna:** * It's LIGHTS OUT!!!
+**Mr. Tenna:** * How, how, about a SOUND CHECK!? This one's just for practice!
+
+*(The "LIGHTNERS LIVE" rhythm game begins. The player goes through a short tutorial segment.)*
+
+**Susie:** * Hey, Kris, way to make us fail the song.
+**Ralsei:** * (I'll... just try to sing as loud as I can...)
+**Mr. Tenna:** * ALRIGHT! SOUND: Checked! DRUMS: Loud! BOYS: Fluffy!
+**Mr. Tenna:** * RALSEI! Got those lyrics ready!?
+**Ralsei:** * Umm, they seem a little... inappropriate. Do I have to...?
+**Mr. Tenna:** * TOO BAD! NOW, AUDIENCE! Give it up one last time...
+**Mr. Tenna:** * IT'S!! TV!! TIME!!!
+
+*(The main part of the rhythm game begins. The song "Lazy Blue" plays. The player hits notes in time. In the background, Ralsei sings the lyrics, which are displayed on the screen.)*
+
+**[Lyrics during song]**
+*   When the demon heart is crying
+*   And the blood is gushing bright
+*   Raise up your bat for the burning fight
+
+*   When your hope is slowly dying
+*   And its future's lost its rights
+*   Raise up your bat and face the fright
+
+*   Let's knock em dead into the night
+
+*   (Long instrumental break)   *
+
+*   Come follow me into the dark
+*   With your heart as the ark
+*   Which shall shine you the way.
+
+*   Because I'm with you in the dark
+*   With your heart as my mark
+*   Which shall guide you the way.
+
+*   Come follow me into the dark
+*   With your heart as the ark
+*   Which shall shine you the way.
+
+*   Because I'm with you in the dark
+*   With your heart as my mark
+*   Which shall guide you the way.
+
+*(The song ends. The team gets a high score.)*
+
+**Ralsei:** * Wow, they loved it! I'm starting to feel like a real rocker!
+**Susie:** * Yeah, that was sick! Though, uh... Lucky I was carrying you guys. We barely passed.
+**Ralsei:** * S-Susie...? Are you serious right now...?
+**Mr. Tenna:** * Wow, looks like the band's already splitting up due to drama!
+**Mr. Tenna:** * That's how you know we've got a REAL winner on our hands, folks!
+**Mr. Tenna:** * Anyway, BOARD'S OVER! So without further ado...
+**Mr. Tenna:** * Let's see those RESULTS!!!
+
+*(An evaluation screen appears.)*
+
+**[EVALUATION Screen]**
+*   BATTLES - AAA, A-RANK
+*   POINTS GAINED - 1721, T-RANK
+*   CONCERT SCORE - 23040, A-RANK
+*   SECRET BONUS - EXTRA PHOTO!
+*   ROUND COMPLETE!! YOU GOT S-RANK!
+
+*(The team returns to the game show stage.)*
+
+**Ralsei:** * Finally... the game show is over!
+**Ralsei:** * Even if that concert was a bit ROCKY... playing music was fun!
+**Susie:** * Yeah, kinda makes me think... We should have our own band for REAL!
+**Ralsei:** * Okay!
+**Mr. Tenna:** * Wow, folks! Looks like they've reached the end of our FINAL BOARD!
+**Mr. Tenna:** * It's sad to say goodbye, but when you gotta go... you gotta go!
+**Mr. Tenna:** * MIKE, roll the credits...!
+
+*(The credits begin to roll.)*
+
+**[TV TIME CREDITS]**
+*   Director - Mr. "Ant" Tenna
+*   Special Thanks - Dark Fountain That Gives The World Form
+
+**Mr. Tenna:** * STOP!!! BREAKING NEWS!
+**Mr. Tenna:** * Due to your SPEED, viewer donations have been POURING IN...
+**Mr. Tenna:** * And we have met the SPECIAL INCENTIVE!
+**Ralsei:** * I... Incentive?
+**Mr. Tenna:** * YES! The Fun-O-Meter doesn't lie! The viewers' voices are in..!
+**Mr. Tenna:** * You've qualified for...
+**Mr. Tenna:** * The Bonus Round!!!
+
+*(The text "BONUS ROUND 3" appears on the board.)*
+
+**Ralsei:** * Err... there's ANOTHER round...?
+**Susie:** * I mean, yeah, it was FUN, but... We do kinda have an adventure to get back to...
+**Ralsei:** * The Dark Fountain still needs to be sealed, too...
+**Susie:** * Yeah, can we, uh, just pass? On the bonus round...?
+**Mr. Tenna:** * Pass? P... Pass? You mean... STOP PLAYING!?
+**Susie:** * Yeah.
+**Mr. Tenna:** * Well... I mean... If you want to!
+
+*(The text "BONUS ROUND" is crossed out and replaced with "CANCELLED".)*
+
+**Mr. Tenna:** * I mean, it was just gonna be a special board, but... alright!
+**Mr. Tenna:** * Mike! Tear down the board! Tear down the set!
+**Mr. Tenna:** * Tear down my house! Tear down my kids!!
+**Mr. Tenna:** * Audience... you're gonna have to go home!
+**Mr. Tenna:** * Please... (sniff) make sure to check out our gift shop (sniff)...
+**Mr. Tenna:** * (sniff) It's got... (sniff) funny whirligigs...
+**Ralsei:** * Umm, Tenna, we're sorry to depress you, but...
+**Susie:** * Look... uh. I guess if you REALLY want us to play it..
+**Mr. Tenna:** * (sniff)... you'll play?
+**Susie:** * Maybe just for a little bit?
+
+*(The "CANCELLED" text disappears, and "BONUS ROUND CONFIRMED" appears.)*
+
+**Mr. Tenna:** * MARVELOUS!!! Mike, rebuild the set!! Rebuild my kids!!
+**Mr. Tenna:** * We are gonna have a GREAT show for you folks!! The best ever!
+**Ralsei:** * Can we change Susie's name yet?
+**Mr. Tenna:** * Ho! And now a WORM from our sponsors!!!
+
+*(A short animation appears on the screen with Rouxls Kaard accidentally releasing worms. They quickly crawl away.)*
+</Combined_Deltarune_Chapter_3_Board_2>
+<Combined_Deltarune_Chapter_3_After_Board_2>
+###**obj_green_room_final**
+
+**Ralsei:** * I suppose... we should get ready for the next round?
+**Ralsei:** * ... I'm fine as long as you want to keep playing, Susie!
+**Susie:** * ...
+**Susie:** * I mean, the last game was wicked fun, but...
+**Susie:** * Get the feeling this'll keep going, until it gets
+**Susie:** * ... feels bad, but...
+**Susie:** * Let's go tell him this time's gonna be the last, okay, Kris?
+
+*(The team approaches Ramb.)*
+
+**Ramb:** * Kris! Bang-up job getting S-rank, luv! For that, a little prize...
+*   *(White Ribbon was added to your ARMORS.)*
+
+*(Lancer is lying on the floor.)*
+
+**Lancer:** * Susie! Blue Kris! I'm doing my Hurricane Attack. Want to help!?
+> ♥ Help or Don't Help / No response / Pick him up
+**Susie:** * Obviously.
+
+*(Kris picks up Lancer.)*
+
+**Lancer:** * Ooh, carry me! Carry me!
+*   *(You picked up LANCER into your LANCERS.)*
+**Lancer:** * Now, put me down! Put me down!
+*   *(You dropped LANCER from your LANCERS.)*
+
+*(The team approaches Rouxls, who is sitting on the couch with Lanino and Elnina.)*
+
+**Rouxls Kaard:** * Haha... You three STILL aren't readyeth for the Chef Game?
+**Ralsei:** * Um... we already did that.
+**Rouxls Kaard:** * What.
+**Susie:** * Yeah. Like, on the first board. Where were you?
+**Rouxls Kaard:** * Doing... my Freakinge... MAKE-UP??
+**Rouxls Kaard:** * I mean... haha. I kneweth that. ACTUALLYE.
+**Rouxls Kaard:** * Perhaps, I just Liketh wearing clothing... On Purpose?
+
+*(Kris approaches Lanino and Elnina.)*
+
+**Rouxls Kaard:** * Tell them, my Loverse. Tell them of my Glorie.
+**Lanino:** * Uh... Elnina... really sees a lot in him, so...
+**Elnina:** * And, um... Lanino sees a lot in him, so...
+**Rouxls Kaard:** * They're sayingeth, I'm Hotte.
+
+*(Kris approaches Susie.)*
+
+**Susie:** * Y'know if you lick old screens it makes rainbows?
+> ♥ Obviously / No thanks
+**Susie:** * Heh, 'course you would know that... weirdo.
+
+*(The team leaves the rewards room and returns to the green room. The lights go out, and they go through the "Stage" door.)*
+
+###**obj_red_carpet_hallway_2**
+
+*(The team finds themselves in a dark hallway with a red carpet. In front is a large double door with stars. Golden award statues stand on the sides.)*
+
+**Pippin (right):** * What happens, happens... I think I fit in just fine, don't I?
+**Pippin (right):** * Kris, tell this bozo he's got nothin' to worry about!
+
+*(Kris approaches Pippin, and he jumps aside.)*
+
+**Remote-like-darkner(Zipper):** * In the once upon a time, there was a land like purple cliffs.
+**Remote-like-darkner(Zipper):** * A frozen waste, watery basin, a metal desert.
+**Remote-like-darkner(Zipper):** * But, this theater was built upon that... and, it grew.
+**Remote-like-darkner(Zipper):** * Not everyone liked the change. Some people left.
+**Remote-like-darkner(Zipper):** * Of course, that was in the days of the black-and-white.
+
+*(Kris approaches the character with projector eyes.)*
+
+**Projector-eyes:** * In the once upon a time, there was a land like purple cliffs.
+**Projector-eyes:** * A frozen waste, watery basin, a metal desert.
+**Projector-eyes:** * But, this theater was built upon that... and, it grew.
+**Projector-eyes:** * Not everyone liked the change. Some people left.
+**Projector-eyes:** * Of course, that was in the days of the black-and-white.
+
+<Combined_Deltarune_Chapter_3_Sword_Route_Segment_2>
+###**obj_green_room_s_rank**
+
+*   *(Exclusive changing room for S-Rank players only!)*
+> ♥ Enter / Do not
+
+*(Kris enters the door with the letter "S". He finds himself in a long hallway that leads to a dressing room.)*
+
+**Pippin:** * Oh, it's you... Let me check if you're on the guest list.
+**Pippin:** * ...
+**Pippin:** * ... I see! S-rank on Board 2. Please enjoy our luxury facilities.
+
+*(Kris enters the dressing room. It's a shabby room with mirrors, a vending machine, and a shower stall. A character resembling Swatch stands by the mirror.)*
+
+*(Kris approaches the shower stall. A dark silhouette appears from behind the curtain, lets out a scream, and disappears.)*
+
+*(Kris approaches a character resembling an extension cord, who is standing by the door.)*
+
+**Ramb:** * I'm glad you're having REAL fun, Kris. It's the least I could do.
+**Ramb:** * Not often a Dark World pops up in your own house, you know?
+**Ramb:** * ... though, it could. If you ever wanted it to.
+
+*(Kris approaches the game console in the secret room backstage.)*
+
+*   *(Looks like a game console.)*
+*   *(Play it?)*
+> ♥ Yes / No
+
+*(The TV screen turns on. After a series of glitches and title cards, the 8-bit game "Mantle" begins.)*
+
+###**obj_mantle_game_sword_route**
+
+*(The game begins. The blue hero sprite (Kris) appears on the tropical island from the second round. He is unarmed.)*
+
+*(The hero explores the island, which is now inhabited by enemies: yellow lizards, blue fish, a yellow flower that obstructs movement and spits fire, and yellow-lime ghosts. He avoids them as he cannot attack.)*
+
+*(The hero finds a secret passage under a waterfall and picks up a sword.)*
+
+*   *(YOU GOT THE SWORD)*
+
+*(Armed, the hero begins to fight the monsters. After defeating several enemies, he levels up.)*
+
+*   *(LV UP! YOU ARE NOW LV2!)*
+
+*(Having reached LV2, the hero can now chop down cacti. He swims across the sea to the northern part of the map previously blocked by Tenna and cuts down the cactus blocking the path to a cave.)*
+
+*(The hero approaches an ice door.)*
+
+*   *(THE DOOR IS LOCKED)*
+*   *(UNLOCKED WITH THE ICE KEY)*
+
+*(The hero uses the Ice Key obtained in the previous game session. The door opens, and he enters an ice dungeon.)*
+
+*(Inside the dungeon, the hero fights new, icy enemies. Some of them are immune to the sword. A blue bird blocks a narrow passage, preventing him from passing. The hero is forced to find another way and fight other monsters to gain strength.)*
+
+*(After a long dungeon crawl, the hero reaches the maximum level.)*
+
+*   *(LV UP! YOU ARE NOW LV3!)*
+*   *(LV UP! YOU ARE NOW LV4! MAX LEVEL!)*
+
+*(Now, at the maximum level, the hero can chop down large trees. He returns to one of the previous rooms and cuts down the trees that were blocking a secret passage.)*
+
+*(Behind the passage, the hero finds a mysterious figure in a white cloak.)*
+
+*   *(A mysterious figure stands before you.)*
+
+*(The figure in the white cloak joins the hero. Now they travel together.)*
+
+*(They encounter enemies that are immune to the hero's sword. A new command appears: "ICE".)*
+
+*(The hero commands the cloaked figure to use ice magic to freeze the enemies, after which the hero can move them onto a weight panel.)*
+
+*(They return to the blue bird, which is still blocking the path.)*
+
+*(The hero commands the cloaked figure to freeze the bird.)*
+
+*(The figure in the white cloak unleashes a powerful stream of ice that instantly turns the blue bird into an ice statue.)*
+
+*   *(For some reason, you remembered Berdly.)*
+
+*(The path is clear. The hero and the cloaked figure enter a maze.)*
+
+*(The hero moves through the maze. Every time he takes a wrong turn, the figure in the white cloak stops at the correct turn and waits.)*
+
+*   *(For some reason, you got the feeling the White Cloak stops if you go the wrong way.)*
+
+*(Following the silent clues of his companion, the hero successfully navigates the maze. They reach the final room.)*
+
+*(They approach a large demonic door.)*
+
+*   *(THE DOOR IS LOCKED)*
+
+*   *(THE ICE KEY WAS USED UP)*
+*   *(SHE WAS USED UP)*
+*(The White Cloak disappears.)*
+
+*(The screen darkens, and text appears.)*
+
+*   Well done.
+*   You found my secret hiding place.
+*   But there's nothing here...
+*   ...is there?
+
+*(More text appears.)*
+
+*   Oh, you found that, too?
+*   Perfect, just perfect...
+*   Thanks for all your hard work, Kris!
+
+*(And another.)*
+
+*   YOU WERE USED UP.
+
+*(The TV screen goes dark, showing static, and then turns off completely.)*
+
+*(Kris returns to the room and approaches RAMB again.)*
+
+**Ramb:** * Kris! How were the games? Just to your liking?
+**Ramb:** * ...
+**Ramb:** * ... What? ... someone backstage with you?
+**Ramb:** * No, Kris. I was back here on security the whole time.
+**Ramb:** * Tenna's really starting to stick that nose of his around, though.
+**Ramb:** * Sorry, but I think we're gonna have to make the next one the last one.
+
+**Ramb:** * ...
+**Ramb:** * Kris, you sure you're feeling... normal?
+**Ramb:** * ... Well, you are talking to a power strip. So maybe not. Haha!
+
+*(Kris leaves the dressing room, goes through the hallway, and returns to the green room, where Susie and Ralsei are waiting.)*
+
+###**obj_green_room_wakeup**
+
+*(Kris returns to the Green Room. He approaches Susie again.)*
+
+**Susie:** * Hey, Kris, you're back!
+**Susie:** * ... dude, Ralsei, Kris is back!
+
+**Ralsei:** * H... huh? O-Oops...
+**Ralsei:** * Sorry, I got wrapped up in playing an RPG...
+**Susie:** * Yeah, just walking around and not fighting anything.
+**Ralsei:** * S-Sorry! We can get going now.
+</Combined_Deltarune_Chapter_3_Sword_Route_Segment_2>
+
+*(The team heads towards the "Stage" door. Kris approaches the vending machine.)*
+
+*   *(POINTS to ITEMS!)*
+> ♥ Buy / Don't Buy
+*   *(It's a vending machine.)*
+**[Vending Machine - Buy Menu]**
+*   **TVDinner** (60 PTs)
+*   **DeluxeDinner** (120 PTs)
+*   **LodeStone** (60 PTs)
+*   **GingerGuard** (111 PTs)
+*   **Exit**
+
+*(The player buys a GingerGuard, a DeluxeDinner, and a LodeStone. Then buys another GingerGuard.)*
+
+*(The team exits into the hallway with the double doors. The guard Zipper is still blocking the path to the door with two stars.)*
+
+**Zipper:** * No one gets inside. Mr. Tenna's orders.
+**Ralsei:** * Seems pretty suspicious to me...
+> Don't do anything / Fight him / ♥ Press his buttons
+
+*(Kris presses Zipper's "buttons" (chest).)*
+
+*   *(You played his chest like the bongos.)*
+**Zipper:** * HEY, HANDS OFF THE MOICHANDISE!!
+**Zipper:** * A---choo!!!
+
+*(Zipper sneezes. The heroes are teleported to the adjacent room. When the heroes return...)*
+
+**Zipper:** * No one gets inside. Mr. Tenna's orders.
+**Zipper:** * Mr. Tenna said if anyone wants to fight, don't fight 'em.
+**Zipper:** * You an' me are pals... got it? Now smile.
+**Zipper:** * No one gets inside. Mr. Tenna's orders.
+> Fight him / ♥ Press his buttons
+
+*(Kris presses Zipper again.)*
+
+**Zipper:** * Alright, alright, I give, I give! I'm ticklish!
+**Zipper:** * Just be outta there quick, got it?
+
+*(Zipper steps aside. The team enters the door.)*
+
+###**obj_darkness_void**
+
+*(The scene shifts to a dark room, illuminated by old TVs hanging from wires.)*
+
+**Susie:** * Where the heck is this...?
+**Susie:** * It's kinda cold in here...
+
+*(The team walks forward.)*
+
+**Ralsei:** * Umm... Kris... Since now seems like a good moment...
+**Ralsei:** * We haven't really been able to... discuss much for a while.
+**Ralsei:** * I wonder if you should... ask Susie how she's doing...?
+> ♥ Ask Susie how she's doing / Ask Ralsei how he's doing / Don't
+
+*(Kris turns to Susie.)*
+
+**Susie:** * ... what?
+**Susie:** * You wanna say something about Ralsei?
+
+*(Kris turns to Ralsei.)*
+
+**Ralsei:** * Ask Susie how she's doing?
+
+*(Kris turns to Susie.)*
+
+**Susie:** * Ask Susie how she's doing?
+**Susie:** * ... uh, good, I guess.
+**Susie:** * Honestly? Playing with Ralsei and you has been great. Just...
+**Susie:** * We kinda... skipped over the whole, Dark World's not real thing.
+**Susie:** * I mean, I kind of knew it... couldn't be, you know.
+**Susie:** * Like, going on adventures, making friends...
+**Susie:** * It... it already all sounds like a dream.
+**Susie:** * So the fact that it kind of is...
+**Susie:** * ... doesn't mess me up so much.
+> Sucks to be you / I'm not a dream / ♥ Your friendships are real
+
+**Susie:** * Hahahaha!
+**Susie:** * The stupid, fake-heroic way you said that... pretty good.
+**Susie:** * Alright, Kris. If Ralsei can't come to the Light World...
+**Susie:** * Then YOU'RE gonna wear doggy ears and do my homework.
+**Susie:** * ... stop howling! Man, you're such a pain in the ass. Heh.
+**Susie:** * ... But yeah, maybe it's not real. The dark world.
+**Susie:** * I just wish Ralsei would realize...
+**Susie:** * That doesn't matter to me so much.
+
+*(Ralsei approaches them.)*
+
+**Ralsei:** * Seems like everything went alright...?
+
+*(The team moves on. They enter the next room with six large screens.)*
+
+###**obj_censored_room**
+
+*(Six large, turned-off TVs hang on the walls. In the corner is a door with a parental lock.)*
+
+*   *(A console and TV.)*
+*   *(It won't turn on...)*
+
+*(Kris approaches the door.)*
+
+*   *(It's a door with a PARENTAL LOCK system to prevent the viewing of R-RATED MOVIES.)*
+> Enter Code / ♥ Do Not
+
+*(Kris tries to enter the code 000.)*
+*   *(... wrong combination!)*
+*(Strange animations appear on the screens: circles on the first, yellow grass on the second, a blue ball on the third.)*
+
+*(Kris approaches the console. It displays the solution to the puzzle, which needs to be entered at the door.)*
+
+*(Kris returns to the door and enters the code 213, taken from the clues on the screens.)*
+
+*   *(You entered the numbers knowingly.)*
+
+*(The door opens. The team enters a new hallway.)*
+
+###**obj_parental_lock_corridor**
+
+*(The scene shifts to a dark hallway, littered with old TVs. The screens show the number 213 in a jumbled order.)*
+
+**Susie:** * W... where'd you get the sword? That's badass.
+
+*(Kris approaches the next locked door.)*
+
+*   *(It's a door with a PARENTAL LOCK system to prevent the viewing of MUSIC VIDEOS.)*
+> Enter Code / ♥ Do Not
+
+*(Kris solves the puzzle on the screens, which shows that the code must be assembled from pieces (1225). He enters the code.)*
+
+*   *(You entered the numbers knowingly.)*
+
+*(The door opens, and the team goes outside.)*
+</Combined_Deltarune_Chapter_3_After_Board_2>
+
+<Combined_Deltarune_Chapter_3_Tenna_Go_Mad>
+###**obj_snow_set**
+
+*(The team finds themselves on a film set covered in snow. In the background is a fake winter landscape and a Kristmas tree decorated with toys from *Kinder Surprise*.)*
+
+**Susie:** * Damn, who turned on the AC!?
+**Susie:** * Where the heck... is this?
+
+**Ralsei:** * This set... there's... something strange about it...
+**Ralsei:** * Wait, look over there, you two!
+
+*(In the background, a Dark Fountain is visible, stylized as a purple mist emanating from a large black tower.)*
+
+**Ralsei:** * There it is! The Dark Fountain!
+**Susie:** * ... what the heck is that?
+
+*(Next to the Kristmas tree is a giant *Kinder Surprise* egg.)*
+
+**Susie:** * It's like a giant... gotchy ball thing?
+**Susie:** * What's... inside it...?
+
+*(A transparent capsule rolls out of the egg, inside which Toriel is sleeping.)*
+
+**Susie:** * Toriel!?
+**Susie:** * Kris, what the hell is Toriel doing asleep in there!?
+**Susie:** * We were so busy with the game, I forgot she'd...
+**Susie:** * Obviously she'd be part of the Dark World, too!
+**Susie:** * Damn, Kris, we have to get to the Fountain right now, or...
+
+*(Mr. Tenna appears, now standing next to Toriel.)*
+
+**Mr. Tenna:** * Phew! There you are, still sleeping like a little angel!
+**Mr. Tenna:** * Haha! Who the HECK knows what I'd do if you woke up!
+**Mr. Tenna:** * ...
+**Mr. Tenna:** * I'm sorry we gotta do this to you, Tori...
+**Mr. Tenna:** * You were the last one to really... give me a good look, back then.
+**Mr. Tenna:** * But hey, that's show business! Nothing... stays big forever.
+**Mr. Tenna:** * Without... a little HELP, that is.
+**Mr. Tenna:** * That's why you're gonna be our little TRUMP CARD...
+**Mr. Tenna:** * Heheheh...
+
+*(Tenna lifts the egg above his head, revealing your location.)*
+
+**Susie:** * ...
+**Ralsei:** * Umm...
+**Mr. Tenna:** * That's it!
+
+*(The screen switches to a test signal with the text "TECHNICAL DIFFICULTIES".)*
+
+
+###**obj_stage_finale_toriel_capture**
+
+*(The scene returns to the game show stage. Kris, Susie, and Ralsei stand stunned at their podiums as Tenna continues as if nothing happened.)*
+
+**Mr. Tenna:** * WELCOME back to another ELECTRIFYING episode of TV TIME!
+**Ralsei:** * W-wait a second...
+**Mr. Tenna:** * Today's board will take place in beautiful TV CITY...
+**Mr. Tenna:** * (But don't ask why the cars don't have feet!)
+**Mr. Tenna:** * Collect two Q's from each corner of the map, and...
+
+**Susie:** * Game... over! Give back Toriel and let us go home. Now.
+
+**Mr. Tenna:** * Game... over?
+**Ralsei:** * Mr. Tenna, I'm not certain what your plan is, but...
+**Ralsei:** * We'd like to go seal the Dark Fountain now.
+**Ralsei:** * I think... the show's gotten a little old.
+**Mr. Tenna:** * No, haha! Ralsei, RALSEI! Buddy-BOY! It's fine! I GET IT!
+**Mr. Tenna:** * CLASSIC TV... sometimes just takes a little TIME to APPRECIATE!
+**Mr. Tenna:** * So how about this?
+**Mr. Tenna:** * We'll all do ONE more little GAME!
+**Mr. Tenna:** * One last ENCORE!
+**Mr. Tenna:** * And this time, until you LIKE IT!
+
+*(The scene changes to a red, burning arena. Kris, Susie, and Ralsei are trapped in transparent capsules.)*
+
+**Susie:** * H-hey, what the heck are you...
+
+**Mr. Tenna:** * GAME OVER!?
+**Mr. Tenna:** * THE GAME's never OVER!
+**Mr. Tenna:** * And if you don't wanna play anymore...
+**Mr. Tenna:** * It's time for ME to TAKE CONTROL!
+**Mr. Tenna:** * MIKE, crank it all up to MAX!
+
+*(Everyone except Kris kicks the capsules from the inside.)*
+
+**Mr. Tenna:** * IT'S!! TV!! TIME!!
+
+*(A small pink TV appears above Tenna.)*
+
+**Mr. Tenna:** * Now it's my turn to play!
+
+
+*(A copy of Mr. Tenna appears on the screen inside the newly created game.)*
+
+**Mr. Tenna:** * I'm not broken! I don't have burn-in! I'm... FUN!
+**Mr. Tenna:** * C'mon, say it!!! FUN! I'm FUN!
+**Mr. Tenna:** * Fine. You don't wanna say it?
+**Mr. Tenna:** * Maybe a quiz will help you answer!!!
+
+###**obj_quiz_2_fight**
+
+*(A quiz begins.)*
+
+**Mr. Tenna:** * AREN'T YOU HAVING SO MUCH FUN?
+> OF COURSE!
+> OF COURSE!
+> OF COURSE!
+> OF COURSE!
+
+*(Kris doesn't have time to choose an answer, and Tenna strikes him with lightning.)*
+
+**Mr. Tenna:** * OUT OF TIME! WRONG! WRONG! WRONG!
+
+*(Tenna damages all the heroes.)*
+
+*(The quiz ends.)*
+
+**Mr. Tenna:** * Wasn't that quiz just oodles of fun, folks!?
+**Mr. Tenna:** * Just look at that Fun-o-meter!!! Haha!!!
+**Mr. Tenna:** * I wonder what's next!? Looks like a battle!
+
+*(A filler battle with Shadowguy begins.)*
+
+###**obj_filler_battle_1**
+
+*(Tenna stands in the center, watching the battle.)*
+
+**Mr. Tenna:** * We've got a very special battle for you today, folks!
+**Mr. Tenna:** * Very important to the plot!
+**Mr. Tenna:** * All you have to do to win... is say "I love TV"!
+**Mr. Tenna:** * And, hahaha, don't think you'll be able to try anything funny.
+**Mr. Tenna:** * Ever read this CONTRACT? Hmm, says you guys are my ACTORS...
+**Mr. Tenna:** * And that means... you've gotta ACT!
+
+*(The player selects ACT -> Resist. All characters resist.)*
+
+**Mr. Tenna:** * Uh oh, our contestants... seem to have chosen the WRONG ANSWER!
+**Mr. Tenna:** * You know what THAT means! IT'S! TV! TIME!
+
+*(Tenna attacks, summoning laughing star projectiles. The attack deals damage.)*
+
+*(The player selects ACT -> Resist again.)*
+
+**Mr. Tenna:** * WRONG ANSWER! IT'S! TV! TIME!
+
+*(Tenna attacks again.)*
+
+**Mr. Tenna:** * WRONG ANSWER! IT'S! TV! TIME!
+
+*(The player selects ACT -> Resist.)*
+
+**Mr. Tenna:** * Our contestants have been very naughty!
+**Mr. Tenna:** * Mike! Back to the board!
+
+*(The battle ends.)*
+
+**Mr. Tenna:** * Oh... a healing spot! That way, everyone can keep playing!
+*(Tenna heals all the characters. Even if everyone has lost hope of breaking free and just stands still.)*
+
+**Mr. Tenna:** * Phew! That battle earlier was a WORKOUT!!
+**Mr. Tenna:** * Let's never fight again! We're a HAPPY family, aren't we, Kris?
+**Mr. Tenna:** * ... Kris?
+**Mr. Tenna:** * HEY! LOOK! Behind this door lies another PHYSICAL CHALLENGE!!
+**Mr. Tenna:** * GET READY, FOLKS!!!
+
+*(The scene shifts to a bar counter. Kris stands alone in a waiter's outfit.)*
+
+###**obj_second_physical_challenge**
+
+*(Susie and Ralsei are in capsules on the sides.)*
+
+**Mr. Tenna:** * Ahhh... Kris, remember when your brother was here?
+**Mr. Tenna:** * You used to spend so, so, so much time with him.
+**Mr. Tenna:** * With me.
+**Mr. Tenna:** * Watching cartoons. Playing games.
+**Mr. Tenna:** * Smiling. Laughing. Crying.
+**Mr. Tenna:** * Why? Why don't you two do that anymore...?
+**Mr. Tenna:** * What!? He went to COLLEGE?
+**Mr. Tenna:** * Well... why'd he have to go do THAT!?
+**Mr. Tenna:** * You. Can learn. ANYTHING! On TV!
+**Mr. Tenna:** * Ahahahaha!!!
+**Mr. Tenna:** * Yes. The instructions. Right. The INSTRUCTIONS!!!
+**Mr. Tenna:** * They're coming out of the pipes.
+**Mr. Tenna:** * They're crawling out of the pipes.
+**Mr. Tenna:** * Where are they going...!?
+**Mr. Tenna:** * Hahaha... I... I don't... KNOW!
+**Mr. Tenna:** * Ahahahaha!!!
+
+*(A timer appears on the screen. A minigame begins. Kris, as a bartender, must dodge Molotov cocktails falling from above. The bottles fall like a solid rain, and then Tenna switches the background from white to black, changing the attack pattern.)*
+
+*(Kris dodges. He takes 15 damage. The minigame ends.)*
+
+**Mr. Tenna:** * PHEW! What a challenge, folks!
+**Mr. Tenna:** * Now, is it me or does everyone look a little SLEEPY!?
+**Mr. Tenna:** * C'mon, SUSIE! WHAT happened to our late-night TV marathon!?
+**Mr. Tenna:** * Let's wake up those noggins with a little QUIZ!!!
+
+*(The second filler QUIZ begins.)*
+
+###**obj_filler_quiz_2**
+
+*(The question appears on the screen: "WHAT'S ANOTHER WORD FOR, "TELEVISION"?" (sic))*
+
+**Mr. Tenna:** * I know what you're thinking!!! YOU'RE WRONG!!!
+
+> MAN'S BEST FRIEND
+> THE GOOD STUFF
+> BETTER THAN EMAIL
+> NEVER THROWN AWAY
+
+*(The selection remains on the first option. No one presses a single button.)*
+
+**Mr. Tenna:** * WRONG! WRONG! WRONG!!!
+*(Tenna attacks.)*
+
+*(The quiz ends.)* 
+
+**Mr. Tenna:** * I'm sorry. I'm sorry about the pipes.
+**Mr. Tenna:** * I knew. I knew. I shouldn't have done it.
+**Mr. Tenna:** * But you know, every pipe goes SOMEWHERE! They had to go SOMEWHERE!!!
+**Mr. Tenna:** * Wait, no. Not another battle. Please.
+**Mr. Tenna:** * The family's fighting again.
+
+*(A filler battle with Shadowguy begins.)*
+
+###**obj_filler_battle_2**
+
+*(Tenna replaces all buttons with ACT.)*
+**Mr. Tenna:** * Now, where the heck is my debit card?
+
+*(Kris uses Sharpshoot to defeat him without wasting time. However, due to the absence of a spare button, the action will be useless until Boogie is used.)*
+
+*(The player selects ACT -> Boogie, shooting at Shadowguy's hat, and incidentally, shooting at Tenna.)*
+
+**Mr. Tenna:** * H-Hey!!
+**Mr. Tenna:** * How could you let them use that act!?
+**Mr. Tenna:** * You're!! Fired!!
+**Mr. Tenna:** * Alright, no more of THAT guy!
+
+*(The heroes are healed. Tenna stands sadly with his back to the heroes.)*
+
+**Mr. Tenna:** * I know. I know what you need.
+**Mr. Tenna:** * To get your minds off of this. And your eyes back on me.
+**Mr. Tenna:** * A little MUSIC!!!
+**Mr. Tenna:** * THAT's right!! SHOW tunes!! KRIS on the PIANO!! You LOVE it, don't ya, folks!?
+
+*(The "LIGHTNERS LIVE" minigame.)*
+
+**Mr. Tenna:** * That's right! A MUSICAL CHALLENGE! And this time, it's... 
+**Mr. Tenna:** * Oh God, Oh God, it's coming. 
+**Mr. Tenna:** * ...The music is coming. 
+**Mr. Tenna:** * I can't stop it... (The text shakes.)*
+
+*(A snippet of Spamton's theme plays, which suddenly, but slowly, cuts off.)*
+
+**Mr. Tenna:** * Hey, so, uh... what the HECK was that?
+**Mr. Tenna:** * Haha, I'm with you guys! That was WEIRD!
+**Mr. Tenna:** * I wonder what's next! Looks like a quiz!
+
+*(The next quiz begins.)*
+
+###**obj_filler_quiz_3**
+
+**Mr. Tenna:** * WHAT'S THIS BUTTON ON THE TELEVISION DO?
+*(A picture of an "OFF" button is shown.)*
+> NEVER PRESS IT
+> I DON'T KNOW
+> UNUSED
+> I'M SORRY, I'M SORRY
+
+*(Kris selects "I'M SORRY, I'M SORRY".)*
+
+**Mr. Tenna:** * I KNOW WHAT YOU'RE THINKING!!! YOU'RE WRONG!!!
+
+*(Tenna damages the heroes.)*
+
+**Mr. Tenna:** * Ahhhhhh, that was SO... normal!!
+**Mr. Tenna:** * MIKE!!! How about we ONLY have quizzes from now on quizzes!?
+**Mr. Tenna:** * Or... uh, we could have a battle! Great. GREAT.
+**Mr. Tenna:** * Love it when you listen to me, Mike. Love it.
+
+*(Tenna initiates a battle against Zapper.)*
+
+###**obj_filler_battle_3**
+
+**Mr. Tenna:** * IT'S! TV! TIME!!!
+
+*(The heroes gather 100% TP to select ACT -> OffButton, after which they disappear from their capsules.)*
+
+**Mr. Tenna:** * H-huh!? Susie...? Kris...? Hey, Mike?
+**Mr. Tenna:** * DON'T TELL ME YOU DIDN'T LIKE YOUR SESSION!
+**Mr. Tenna:** * Hey, Mike? Could you, uh, cancel my 4am shock therapy session?
+**Mr. Tenna:** * 'Cause it looks like it's happening right now...
+**Mr. Tenna:** * ALL HANDS ON DECK!!! EVERYONE FIND THE LIGHTNERS!!!
+
+*(The battle ends.)*
+
+**Mr. Tenna:** * Where are you!? My contestants!
+**Mr. Tenna:** * I'll give you funny goop that gets stuck on the carpet! A lifetime supply!
+**Mr. Tenna:** * Come baaaackk!!!
+</Combined_Deltarune_Chapter_3_Tenna_Go_Mad>
+<Combined_Deltarune_Chapter_3_TV_World>
+###**obj_balloon_room_escape**
+
+*(The scene begins in a dark room, filled to the brim with translucent red and white balloons. Kris, Susie, and Ralsei stand in a small clear space.)*
+
+**Ralsei:** * Looks like we got away...
+**Susie:** * Now's our chance! Let's get out of here!!
+
+*(The team moves to the right, exiting the balloon room.)*
+
+###**obj_tvworld_entrance**
+
+*(The team finds themselves in a large hall with a red carpet. Golden statues of Mr. Tenna stand on the sides. In the background, behind barriers, silhouettes of an enthusiastically applauding crowd are visible.)*
+
+*(Kris approaches a save point.)*
+
+**[Save Menu]**
+*   Player LV 3 4:48:13
+*   TV World - Entrance
+*   ♥ Save
+*   Return
+*   Storage
+*   Recruits
+
+**[Save Menu]**
+*   File Saved
+
+*(Tenna passed you by, thinking you had already escaped.)*
+
+**Mr. Tenna:** * WHAT DO YOU MEAN YOU HAVEN'T FOUHD THE LIGHTHERS YET?
+**Mr. Tenna:** * Arrghhh!! You're all... FIRED!!!
+
+**Mr. Tenna:** * I mean, uh... Hired!!!
+
+**Mr. Tenna:** * I mean, uh... No more POIHTs until you CAPTURE them!! You're like POINTs, right!?
+**Mr. Tenna:** * Okay, then we're CLEAR, right! You guys...
+
+**Mr. Tenna:** * What do you MEAH you don't want to fight themt? Wh... What the!?
+**Mr. Tenna:** * Read the FINE PRINT in your CONTRACT, buddy! How QUIT complaining and GO!
+
+*(Tenna ran off to 'catch you'.)*
+
+*(The team walks down the red carpet to the right. The golden statues gleam under the spotlights. They approach a heavy red curtain, behind which stands a Pippin.)*
+
+**Pippin:** * Oh, you're here for the next CHALLENGE, aren't you?
+**Pippin:** * Hurry, hurry! It's just behind this curtain!
+
+*(The team goes behind the curtain.)*
+
+###**obj_wild_west_minigame**
+
+*(The team finds themselves in a new location. On the TV screen is an 8-bit desert.)*
+
+**Susie:** * The wild west, huh...
+**Susie:** * ... got the feeling this game's gonna be a good one, right, Ralsei?
+**Ralsei:** * Umm, sure, just...
+
+*(Susie and Kris jump onto Ralsei, who transforms into a green horse.)*
+
+**Ralsei:** * Why do I have to be the horse...!?
+
+*(A "rail shooter" style minigame begins. The team gallops alongside a train, shooting at enemies (Shadowguys) that appear in the windows. Kris successfully completes the round, earning points.)*
+
+**[In-game text]:** * ROUND CLEAR
+
+*(The minigame ends. The team returns to the stage, now behind the train.)*
+
+###**obj_dance_hall**
+
+*(The team moves on and enters a hall resembling a dance floor. In the background, silhouettes of Shadowguys are dancing. The path splits.)*
+
+*(The team takes the lower path and encounters enemies.)*
+
+*(A battle with a Shadowguy and a Shuttah begins.)*
+
+**[Battle Text]**
+*   Shadowguy and Shuttah shimmy in!
+*   Everyone gets ready to knock the enemies' socks off!
+*   *(The "Sharpshoot" minigame begins. The player shoots at the enemies.)*
+*   *(Enemies attack.)*
+*   Kris spared Shuttah!
+*(RECRUIT 2/25)*
+*   *(Enemies attack.)*
+*   Kris spared Shadowguy!
+*(RECRUIT 3/25)*
+*   You Won!
+*   Got 0 EXP and 350 D$.
+
+*(The team moves on and encounters the next group of enemies.)*
+
+*(A battle with a Shadowguy and two Pippins begins.)*
+
+**[Battle Text]**
+*   Pippins attempts to engage you in a life or death rock paper scissors match.
+*   *(Kris uses a DeluxeDinner on Susie. Ralsei uses Pacify. Susie attacks.)*
+*   *(Enemies attack. Kris, Susie, and Ralsei take damage. Kris and Ralsei fall (DOWN).)*
+*   *(Susie is left alone. The enemies attack again, and Susie falls too.)*
+
+*(The screen goes black.)*
+
+*   *(The party is defeated.)*
+
+**[GAMEOVER Screen]**
+*   This is not you
+*   Please, don't give up!
+> ♥ CONTINUE / GIVE UP
+
+*(The battle starts over.)*
+
+**[Battle Text]**
+*   *(Kris uses a TVDinner on the whole team. Susie uses Rude Buster. Ralsei uses Pacify.)*
+*   *(Enemies attack.)*
+*   *(Kris uses Sharpshoot, defeating the Shadowguy.)*
+*(RECRUIT 4/25)*
+*   *(The remaining Pippins attack.)*
+*   *(Kris uses Sharpshoot, defeating one Pippin.)*
+*(RECRUIT 5/25)*
+*   *(The last Pippin attacks.)*
+*   *(Kris uses Sharpshoot and defeats the last enemy.)*
+*(RECRUIT 6/25)*
+*   You Won!
+*   Got 0 EXP and 425 D$.
+
+*(The team moves on through the hall, passing dancing silhouettes, and encounters another group of enemies.)*
+
+*(A battle with a Shadowguy and a Shuttah begins.)*
+
+**[Battle Text]**
+*   *(Kris uses Sharpshoot, defeating both enemies.)*
+*(RECRUIT 7/25)*
+*(RECRUIT 8/25)*
+*   You Won!
+*   Got 0 EXP and 350 D$.
+
+*(The team moves on and encounters the last group of enemies in this hall.)*
+
+*(A battle with a Shadowguy and two Pippins begins.)*
+
+**[Battle Text]**
+*   *(Kris uses Sharpshoot, defeating all three enemies.)*
+*(RECRUIT 9/25)*
+*(RECRUIT 10/25)*
+*(RECRUIT 11/25)*
+*   You Won!
+*   Got 0 EXP and 425 D$.
+
+*(The team passes through the entire hall and enters the next door.)*
+
+###**obj_dungeon_entrance**
+
+*(The team finds themselves in a dark, gloomy room resembling a prison or dungeon. A Pippin stands guard in front.)*
+
+**Pippin:** * This is the dungeon. Press your luck against security...
+**Pippin:** * ... or buy your way out.
+
+*(Kris approaches a save point.)*
+
+**[Save Menu]**
+*   Player LV 3 4:56:25
+*   TV World - Goulden Sam
+*   ♥ Save
+*   Return
+*   Storage
+*   Recruits
+
+**[Save Menu]**
+*   File Saved
+
+###**obj_dungeon_stealth_zone**
+
+*(The team goes behind a curtain and finds themselves in a dark dungeon. The words "stealth zone" are written on the wall.)*
+
+**Susie:** * Always wanted to sneak like this. Let's hit the wall, Kris.
+
+*(The team presses against the wall and slowly moves to the right.)*
+
+**Susie:** * ...
+**Susie:** * Let's just go super fast.
+*   *(You and Susie decided to go really really fast in every Stealth Zone.)*
+
+*(The team quickly slides along the wall to the end of the zone. They approach a trash can.)*
+
+*   *(Inside the trash...)*
+
+*(They enter the next room, filled with trash cans.)*
+
+*   *(You dug through the trash...)*
+*   *(And found trash!)*
+*   *(You dug through the trash...)*
+*   *(TVSlop was added to your STORAGE.)*
+*   *(You dug through the trash...)*
+
+*(A Ribbick jumps out of the trash can. A battle begins.)*
+
+###**obj_ribbick_battle_1**
+
+**[Battle Text]**
+*   Ribbick hopped into view!
+*   Kris used CroakOn!
+*   *(A "Press Y repeatedly!" minigame begins. Mercy increases by 64%.)*
+**Ribbick:** * Woo hoo
+*   *(Ribbick attacks by clapping its hands and throwing dice.)*
+*   Ralsei spared Ribbick!
+*(Mercy increases by 10%.)*
+**Ribbick:** * Guruuuu---
+*   *(Ribbick attacks with hearts inside a shrinking square.)*
+*   *(Ralsei falls (DOWN).)*
+*   Kris used ReviveMint on Ralsei!
+*   Susie spared Ribbick!
+*(Mercy reaches 100%. The enemy's name turns yellow.)*
+*   You Won!
+*   Got 0 EXP and 81 D$.
+*   *(RECRUIT 1/3)*
+
+*(The team returns to the room with the trash cans.)*
+
+*   *(You dug through the trash...)*
+*   *(Inside was 2 POINTS!)*
+
+*(The team enters the next "stealth zone". A cage is visible in the background.)*
+
+*(The team quickly slides along the wall. A Pippin on a rocket flies past.)*
+
+*(The team approaches the cage.)*
+
+*   *(It's a cage with flimsy chains.)*
+*   *(Remove them?)*
+> ♥ Yes / No
+*   *(You removed the flimsy chains.)*
+
+*(The Pippin that was in the cage is freed and runs away.)*
+
+*(The team enters the next room, which looks like a backstage area.)*
+
+###**obj_backstage_cooler_encounter**
+
+*(The team approaches a water cooler. It starts to vibrate. A battle begins.)*
+
+###**obj_watercooler_battle**
+
+*(A lone Watercooler appears on the battlefield. Tense, yet slightly comical battle music plays.)*
+
+*   *(A strong aura emanates from the Watercooler.)*
+
+*(Kris selects ACT -> ActCool. Everyone gathers around the cooler and chats.)*
+
+*   *(Everyone chat around the watercooler.)*
+*(Mercy increases by 25%.)*
+
+*(The Watercooler attacks. A text bubble saying "Buble" appears from it. White water droplets fly from all sides of the screen, forcing the SOUL to maneuver in the center.)*
+
+*   *(Everyone chat around the watercooler.)*
+*(Mercy increases by 25%.)*
+
+*(The Watercooler attacks with water droplets again. The attack becomes denser. Ralsei falls (DOWN).)*
+
+*   *(The watercooler leaves an icy silence.)*
+
+*(Kris uses a DeluxeDinner on Ralsei. Susie attacks, dealing 29 damage.)*
+
+*   *(The watercooler leaves an icy silence.)*
+
+*(The Watercooler attacks one last time. Kris and Susie take damage.)*
+
+*   *(Kris spared Watercooler!)*
+*   *(Susie spared Watercooler!)*
+*(Mercy reaches 100%. The name "Watercooler" turns yellow.)*
+
+*   You Won!
+*   Got 0 EXP and 0 D$.
+*   *(RECRUIT 1/1)*
+
+*(The battle ends. The team returns to the room.)*
+
+*   *(.. there was another WATERCOOLER!)*
+*   *(They seem relieved you didn't flirt with it.)*
+
+*(The team moves on, passing through another "stealth zone" and a room with trash cans, where a Ribbick jumps out of one.)*
+
+*(A battle with three Ribbicks begins.)*
+
+###**obj_ribbick_battle_2**
+
+**[Battle Text]**
+*   Ribbicks hopped into view!
+*   Kris used CroakOnX!
+*   *(A "Press Y repeatedly!" minigame begins. Mercy for all three enemies increases by 64%.)*
+**Ribbick 1:** * Sissy snuzz...
+**Ribbick 2:** * what's the buzz?
+**Ribbick 3:** * hip, hip
+*   *(Enemies attack with their hands.)*
+*   *(Kris, Susie, and Ralsei use SPARE. All three enemies are spared.)*
+*   *(RECRUIT 3/3)*
+*   You Won!
+*   Got 0 EXP and 243 D$.
+
+*(The team returns to the room with the trash cans and moves on.)*
+
+###**obj_dungeon_rouxls_encounter**
+
+*(The team enters the last room of the dungeon. In the center is a large red wagon, resembling a circus wagon. Inside, behind bars, sit a ShadowGuy and a Pippin who was illegally trading for Dark Dollars.)*
+
+*   *(You are greeted by yet another prisonlike location.)*
+*   *(You question why your adventures feature so many of these.)*
+
+*(The team passes the wagon and enters the next "stealth zone". They go through several rooms with trash cans, collecting points and items, and fighting another group of Ribbicks.)*
+
+*(The team reaches a room with a puzzle where they need to move characters onto pressure plates. A diagram of the puzzle is visible on a large screen in the background.)*
+
+*(The player solves the puzzle by switching between characters and pushing them onto the correct plates. After solving it, a chest opens.)*
+
+*   *(You opened the treasure chest.)*
+*   *(Inside was 300 POINTS.)*
+
+*(The team moves on and finds a room with another chest and a character in the shape of a trash can with glasses.)*
+
+*   *(DeluxeDinner was added to your STORAGE.)*
+
+*(The team passes through the last "stealth zone" and finds themselves in a room with a large screen showing an office routine. A Pippin stands in front of the screen.)*
+
+*(A minigame begins where you need to start a lawnmower that will destroy their contracts. The player successfully recruits 15 of them.)*
+
+*(RECRUIT 1)*
+*(RECRUIT 1)*
+*(RECRUIT 1)*
+*(RECRUIT 1)*
+
+*(RECRUIT 10x)*
+
+*(RECRUIT 1)*
+
+*(The team moves on and finds themselves in an elevator that goes up.)*
+
+###**obj_final_concert_hall**
+
+*(The team exits the elevator and finds themselves in a large hall resembling a concert venue. Below is a crowd of spectators. On the walls are numerous screens showing various characters and "TV TIME!" logos.)*
+
+*(The team navigates a maze of red carpets, surrounded by screens. They reach a final quiz.)*
+
+*(A quiz minigame begins. The player must quickly select the correct answers. After several correct answers, the game ends.)*
+
+*(The team moves on and finds themselves on a large stage in front of a crowd. In the background is a huge sign "DARKNERS LIVE".)*
+
+*   *(You are filled with the power of a live studio audience.)*
+
+**[Save Menu]**
+*   Player LV 3 5:05:24
+*   TV World - Concert
+*   ♥ Save
+*   Return
+*   Storage
+*   Recruits
+
+**[Save Menu]**
+*   File Saved
+
+*(The team walks across the stage, passing various enemies who are now part of the scenery.)*
+</Combined_Deltarune_Chapter_3_TV_World>
+<Combined_Deltarune_Chapter_3_Rouxle_Kaard(Again)>
+###**obj_final_concert_hall**
+
+*(The team walks across the stage, past dancing silhouettes of Shadowguys and Pippins. The lights go out.)*
+
+*(Rouxls Kaard's laughter is heard.)*
+
+**Rouxls Kaard:** * Geh-ha-ha-ha...
+
+*(A spotlight illuminates Rouxls, Lanino, and Elnina, who appear on stage.)*
+
+**Ralsei:** * R-Rouxls Kaard!
+**Rouxls Kaard:** * AND, don't forget my Loverse, Sun Guy and Moon Girl.
+**Ralsei:** * Um...
+**Ralsei:** * Kris, get ready for another fight!
+**Rouxls Kaard:** * Ha! Quell your mouth, my dearest Bimbitoe!
+**Rouxls Kaard:** * We're just hereth for the Snackse.
+**Rouxls Kaard:** * Goeth on. I hath no quarrel with thee.
+**Ralsei:** * Umm... you don't?
+**Ralsei:** * But... if you capture us, won't you earn Tenna's admiration?
+**Rouxls Kaard:** * Haha! Oh, please! I am Beyonde such shallow Desires...
+**Rouxls Kaard:** * For you See, I hath already Gotten them!
+**Rouxls Kaard:** * My two Paramours art already TV Guy's Second-In-Commande...
+**Rouxls Kaard:** * And by the Transitive Propertie, that also maketh ME...?
+**Rouxls Kaard:** * This world's Personal Duke of Puzzles?
+**Rouxls Kaard:** * Right, Honey 1 and Honey 2? That's howeth this Workse?
+**Lanino & Elnina:** * Umm...?
+**Rouxls Kaard:** * See? It's totally how it Workse.
+**Rouxls Kaard:** * Now begone!
+
+*(Rouxls, Lanino, and Elnina strike poses. Lanino and Elnina look embarrassed.)*
+
+**Lanino:** * Each moment with Rouxlsy, is... um, so informative.
+**Lanino:** * See, he has us write everything on these cards...
+**Rouxls Kaard:** * The Rouxls Kaard Relationshipe Systeme...
+> ♥ Hear more / No more
+**Rouxls Kaard:** * Seest, thou writeth everything thou feelst on a Card.
+**Rouxls Kaard:** * Then, when it's timeth to communicathe.
+**Rouxls Kaard:** * Thou just... throwest them all awai.
+**Rouxls Kaard:** * Becauseth everything we threeth needst.
+**Rouxls Kaard:** * Patheths my Chest,
+**Rouxls Kaard:** * Is right... Here.
+**Lanino:** * In... our hearts?
+**Rouxls Kaard:** * What? No. This is justeth where I keepeth MY Cards.
+**Rouxls Kaard:** * They're Strongre. They haveth like, Abilitiese and stuff.
+**Rouxls Kaard:** * It's really justeth about havingst the Best Decke.
+**Elnina:** * Umm, see? This system, really makes me see how bright Lanino is..
+**Lanino:** * It's like Rouxls...
+**Rouxls Kaard:** * Rouxlsypoo.
+**Lanino:** * It's like Rouxlsypoo says, a relationship, is about.
+**Elnina:** * Umm, not being alone. And with two partners, you are umm, less alone.
+> ♥ Hear more / Enough
+**Elnina:** * And, the higher your collective, err... stat total, umm.. becomes.
+**Elnina:** * And the, umm, stronger your, combo attacks, become.
+**Lanino:** * All I know is, each shining moment I spend with Rouxlsypoo...
+**Lanino:** * Makes each drop of Elnina's presence, that much more precious.
+**Rouxls Kaard:** * Fear not. I haveth givenst up the path of Violense.
+**Rouxls Kaard:** * Never against shallst we Cross Swordes.
+**Rouxls Kaard:** * For I hath found... Love. Loverse.
+> ♥ Hear more / Please no more
+**Rouxls Kaard:** * Thosest, who shouldst Adoreth me. And changeth my socks.
+**Rouxls Kaard:** * And changeth, my Worms. And changeth, my Cereale.
+**Rouxls Kaard:** * And watcheth, little Lancer. And moisten, his eyes.
+**Rouxls Kaard:** * And shineth light, in his Mouthe, to see if he's Sicke.
+**Rouxls Kaard:** * And shineth light, in his hands, to see if they're Sicke.
+**Rouxls Kaard:** * And shineth light, in his Mouthe, to see if he's Sicke 2.
+**Rouxls Kaard:** * My loverse, oh loverse.
+**Rouxls Kaard:** * It would be Coole, to have More.
+
+*(Rouxls, Lanino, and Elnina leave the stage.)*
+
+*(The lights go out again.)*
+
+**Rouxls Kaard:** * Guyse?
+
+*(A spotlight illuminates Rouxls, who is now wearing a chef's hat.)*
+
+**Rouxls Kaard:** * So it actually Doesn't Worke.
+**Rouxls Kaard:** * We had a talk, and it doesn't Worke.
+**Rouxls Kaard:** * Even IF I dateth them... I'm NOT?? 2nd in Commande??
+**Rouxls Kaard:** * So. Headsts together.
+**Rouxls Kaard:** * What art we going to Do about That.
+**Susie:** * If you fight us we'll kick your ass.
+**Rouxls Kaard:** * Yes, haha. I Knowst. We shalth not fight.
+**Rouxls Kaard:** * Unless we did... Nonviolentlie?
+**Ralsei:** * Please don't start a battle.
+**Rouxls Kaard:** * Okaye,
+**Rouxls Kaard:** * But what if... I Do
+
+*(A battle with Rouxls Kaard begins.)*
+
+###**obj_rouxls_battle_final**
+
+**Rouxls Kaard:** * I must defeast thou, so TV Guy recognizes my Glorye!
+**Rouxls Kaard:** * But feare not. The four of us needst not Attacke.
+**Rouxls Kaard:** * For what is a Showe... If thou dost not ACT?
+
+*(Rouxls uses a "RULES CARD". Now the team can only use ACT.)*
+
+*   *(With the effect of the RULES CARD, you can only ACT!)*
+
+*(All team members use ACT -> Performance.)*
+
+*   *(Everyone acted out their performance!)*
+
+**Rouxls Kaard:** * Yes, yes! Non-violence! Bigge 'ups', my friends.
+**Rouxls Kaard:** * Now for my ACT, I shalt hire people,
+**Rouxls Kaard:** * to shooteth you.
+
+*(Rouxls summons two rabbits with pistols. They attack with paper airplanes with "rouxlsrules" written on them.)*
+
+*(The team uses ACT -> Performance again.)*
+
+**Kris:** * Hooh! What a battle, art I Righte?
+**Susie:** * Hey, we're gonna get our asses kicked just dancing around!
+**Ralsei:** * Th... there must be something we can do...!
+
+*(Lancer appears.)*
+
+**Lancer:** * Ho ho ho! A dance battle? Deal me in!
+**Susie:** * Lancer! Hey!
+**Ralsei:** * L-Lancer, help us! Rouxls used his Rules Card...
+**Lancer:** * I see, I see! Don't worry! I'm on the case!
+
+*(Lancer uses a "LANCER Card". Now the team can use ACT -> Lancer.)*
+
+*   *(Lancer used the LANCER Card! Now you can... LANCER?)*
+
+*(Kris uses ACT -> Lancer.)*
+
+*   *(Lancer, don't bother Lesser Daddy when he's harming your friends.)*
+
+*(Enemies attack. Lancer turns them into spades, which recruits them to the team's side.)*
+
+*   *(Lancer recruits the enemies to your side!)*
+*   *(It's highly effective!)*
+*   *(The enemies joined you!)*
+
+**Rouxls Kaard:** * It's fine...
+**Rouxls Kaard:** * Not only do I have more guys where that came from,
+**Rouxls Kaard:** * but I also have more cards!
+
+*(Rouxls summons two wolves with balls of yarn. Ralsei turns into a large ball of yarn.)*
+
+**Ralsei:** * Kris, Susie, I'm sorry! I've become a big cuddly ball...!
+**Rouxls Kaard:** * ...
+**Rouxls Kaard:** * I don't thinketh, THIS is what I askedst for.
+**Rouxls Kaard:** * Likest, Yarne? You don't even havest Gun's?
+**Rouxls Kaard:** * Okaye. Okaye. I see. I see.
+**Rouxls Kaard:** * Your a little bit Fired, byst the way.
+**Rouxls Kaard:** * NEXT!!!
+**Rouxls Kaard:** * Don't worry guys, I'll get a refund on that one.
+**Rouxls Kaard:** * You may hath gotten rid of my Goones.
+**Rouxls Kaard:** * But can thou defeast... The powere... of Love?
+**Rouxls Kaard:** * Honeyes!!! Oh my Honeyes!!!!
+
+*(Lanino and Elnina appear.)*
+
+*(A minigame begins where you have to dodge Rouxls's attacks and select the correct cards (Lancer) to recruit Lanino and Elnina.)*
+
+*   *(Dodge ROUXLses, select LANCERs!)*
+
+*(The player successfully completes the minigame.)*
+
+*   *(Lancer recruits the enemies to your side!)*
+*   *(It's working!)*
+
+**Lanino:** * I'm so proude to be dating the Sun AND the Moon... You're not the Moon? You're a CLOUD? WHAT?
+**Rouxls Kaard:** * Gehahah... Separate? US? No, I think- Freakinge Not.
+**Rouxls Kaard:** * I think thou Missedst thine vitale Fact... Thereupon, the THREE of US.
+**Rouxls Kaard:** * Art in a Teame Relationshipe.
+**Rouxls Kaard:** * Just liketh you Guyse.
+**Susie:** * The hell are you talking about? L... like us!?
+**Rouxls Kaard:** * Wait, you guyse artn't a Thinge?
+**Susie:** * No.
+**Rouxls Kaard:** * Um. I...
+**Rouxls Kaard:** * Nowe Honeye. I'm processinge thise.
+**Lanino:** * Don't... don't call me honey anymore.
+**Elnina:** * La... Lanino!?
+**Lanino:** * I'm sorry, Elnina... I'm... going to the other side.
+**Elnina:** * I...
+**Elnina:** * I thought YOU were the one who liked Rouxls, so I.
+**Lanino:** * I'm sorry, my sunshine!
+**Elnina:** * I'm sorry, my dewdrop!
+**Elnina:** * The weather should always stick together...
+**Rouxls Kaard:** * Ah... ha ha ha!
+**Rouxls Kaard:** * Just as planned. The two Loverse... are reunited.
+**Rouxls Kaard:** * I shall now... Taketh my leave.
+
+*(Rouxls tries to leave, but Lancer blocks his path.)*
+
+**Lancer:** * Hey, Lesser Dad!
+**Lancer:** * The guys with big guns wanna get paid!
+
+*(The rabbits with pistols surround Rouxls and shoot him. He falls.)*
+
+*   You Won!
+*   Got 0 EXP and 800 D$.
+
+*(The battle ends. The team returns to the stage.)*
+
+**Lanino:** * No, my sunny moon! I... I... You go first!
+**Elnina:** * I really didn't like that guy that much!
+**Lanino:** * He was hot but really weird!
+**Elnina:** * He moved the laser pointer too fast!
+
+*(Lanino and Elnina make up and leave.)*
+
+**Lanino:** * From now on, the only third person for us...
+**Elnina:** * Is... each other.
+**Lanino:** * Kris! Thank you for reuniting us! We are... in your debt!
+**Elnina:** * We're on your side now... weather you like it or not!
+
+*(Lanino and Elnina are recruited.)*
+
+**Rouxls Kaard:** * Looke. I saidst what I cameth for.
+
+*(Rouxls throws a basket of snacks and disappears.)*
+
+*   *(The incense of hot snacks and spicy flavors assaults you.)*
+*   *(You are filled with the power of the primal invention of fire.)*
+
+**[Save Menu]**
+*   File Saved
+
+*(The team moves on across the stage.)*
+</Combined_Deltarune_Chapter_3_Rouxle_Kaard(Again)>
+<Combined_Deltarune_Chapter_3_Pre_Tenna_Battle>
+###**obj_purple_cliffs_transition**
+
+*(The team goes behind a red curtain and finds themselves in a new location—purple cliffs. In the background are mountains and a starry sky. The sound of wind is heard.)*
+
+*(The team walks along a narrow path. Along the way, they see several piles of ash from which smoke rises.)*
+
+*(They reach a bridge where Mr. Tenna meets them.)*
+
+**Mr. Tenna (Mike's voice):** * L-look everyone!! It'll be fine!! I'm cutting edge!! I'm new!! I'm TV!!
+**Mr. Tenna (Mike's voice):** * Three-colors, cathode raytube!! Make you laugh, make you cry!!
+**Mr. Tenna (Mike's voice):** * Entertainment that never gets old!!
+
+*(The real Mr. Tenna appears, but in a black-and-white, older version.)*
+
+**Mr. Tenna:** * H-hey, stop!! Don't go...!!
+**Mr. Tenna:** * Darnit, this is all that little spammy MAILMAN'S fault!!
+**Mr. Tenna:** * He... he told me he was gonna teach me how to use technology!!
+**Mr. Tenna:** * H... How to plug in and make! It! BIG...!
+**Mr. Tenna:** * And where is HE!?
+**Mr. Tenna:** * Arrrgh, if I could get my hands on...
+**Mr. Tenna:** * Wait, where are you going!?
+**Mr. Tenna:** * Stop!! Help me!! Help!!
+**Mr. Tenna:** * Does anyone know what an e-mail is???
+
+*(The team passes him. He is left alone on the bridge.)*
+
+*(The team moves on and sees Lanino and Elnina leaving.)*
+
+**Mr. Tenna:** * Elnina!! Lanino!? You two!? C'mon, old friends, you can't leave...!
+**Mr. Tenna:** * Fine!! Fine, you wanna go, go!!
+**Mr. Tenna:** * We'll see how far the Lightners get...
+**Mr. Tenna:** * Without the WEATHER CHANNEL!! HAHAHA!
+**Mr. Tenna:** * How can they know the Weather without TV!?? Hahahaha!!
+**Mr. Tenna:** * What? Apps? What... What are those!? Everything's changing so fast...
+
+*(A beam of light falls on Tenna.)*
+
+**Mr. Tenna:** * M... Mike? Mike, you... you're leaving, too!?
+**Mr. Tenna:** * MIKE!! NO!! ANYONE BUT YOU!! ANYONE!!
+
+*(Tenna is left alone in the darkness.)*
+
+<Combined_Deltarune_Chapter_3_THE_EGG_SEGMENT>
+###**obj_purple_cliffs_final**
+
+*(The team walks along the purple cliffs. Ahead, on a bridge, a character resembling a TV remote with a lightning bolt on its chest awaits them.)*
+
+*(The team approaches him. He suddenly teleports them to another part of the location.)*
+
+*(The team returns to the bridge. The remote-character (Zipper) is standing there again.)*
+
+*(Zipper approaches the edge of the platform, where a large purple egg is visible below.)*
+
+*(Suddenly, Zipper jumps from above and lands right in front of Kris.)*
+
+**Zipper:** * You's a cheater, ain't ya.
+> ♥ Cheater / Not Really
+**Zipper:** * Now, honesty, that'll take you somewhere.
+**Zipper:** * Where you headed?
+> Where I came from / ♥ Nowhere / Here
+**Zipper:** * You's was already heading that way, weren't ya, Kris?
+
+*(The screen flashes white. Kris finds himself alone in a dark, empty room resembling a backstage area. Zipper stands nearby.)*
+
+###**obj_nowhere_game**
+
+*(Kris approaches an old TV in the center of the room. On the screen is an 8-bit block puzzle game, which Kris solves.)*
+
+*(The TV screen changes. It now shows a monochrome room resembling the living room from Kris's house. A character in a blue wizard's hat with the letters ABC appears next to Kris.)*
+
+**Wizard:** * Mumble... mumble... fumble... fumble...
+*   *(He hardly seems comprehensible.)*
+
+*(Kris enters the TV and starts controlling an 8-bit sprite of himself inside the monochrome room.)*
+
+*(Kris approaches the couch.)*
+**Wizard (on screen):** * Mumble, Mumble... where could this be...?
+*(Kris approaches the bookshelf.)*
+**Wizard (on screen):** * Nowhere? Mumble... No, no... This is somewhere...
+*(Kris approaches the plant.)*
+**Wizard (on screen):** * Mumble, this old tome admires your... inquisitiveness.
+*(Kris approaches the dresser.)*
+**Wizard (on screen):** * Mumble... You're very interested in going nowhere, aren't you?
+*(Kris approaches the lamp.)*
+**Wizard (on screen):** * Mumble... well, I have a ticket there. I have a ticket there...
+*(Kris approaches the refrigerator.)*
+**Wizard (on screen):** * Mumble, mumble... A ticket to nowhere...
+*(Kris approaches the sink.)*
+**Wizard (on screen):** * Mumble, mumble... But, the ticket is somewhere...
+*(Kris approaches the microwave.)*
+**Wizard (on screen):** * Mumble, mumble... Yes, it was left here... It was left here by...
+*(Kris approaches the trash can.)*
+**Wizard (on screen):** * Mumble, oh, I don't seem to remember...
+*(Kris approaches the wardrobe.)*
+**Wizard (on screen):** * Mumble... mumble... You are alone, are you?
+
+*(Kris opens the wardrobe.)*
+**Wizard (on screen):** * YOU LOOKED IN THE WARDROBE.
+**Wizard (on screen):** * ALAS, THE WARDROBE WAS EMPTY!
+
+*(Kris approaches the wardrobe again.)*
+**Wizard (on screen):** * YOU LOOKED IN THE WARDROBE.
+**Wizard (on screen):** * ALAS, THE WARDROBE WAS EMPTY!
+**Wizard (on screen):** * Mumble, mumble... can't find the ticket?
+**Wizard (on screen):** * Odd, quite odd...
+**Wizard (on screen):** * Considering, you've been holding it from the moment you stepped in the room.
+
+*(A TripTicket appears in Kris's inventory.)*
+
+**Wizard (on screen):** * Mumble, mumble...
+**Wizard (on screen):** * Good, it's not a good idea to go nowhere with somebody else.
+**Wizard (on screen):** * Mumble, mumble... Alone is better...
+**Wizard (on screen):** * I only have one ticket after all... Where is it...
+**Wizard (on screen):** * Mumble, mumble... That's right, it's in the wardrobe!
+**Wizard (on screen):** * Why don't you head over to the right... mumble...
+
+*(Kris exits the TV.)*
+
+*(Kris approaches the Wizard.)*
+**Wizard:** * Mumble, mumble...
+**Wizard:** * You know, it's quite hard to understand you sometimes.
+**Wizard:** * Perhaps you should try speaking up!
+
+*(Kris opens the inventory. In the KEY ITEMS section, there is now a "TripTicket".)*
+**[Item Description]**
+*   **TripTicket:** A ticket to nowhere. It shows a map pointing to the left of a red X.
+
+*(Kris tries to discard the ticket but cannot.)*
+
+*(Kris approaches the Wizard again.)*
+**Wizard:** * Mumble, mumble...
+**Wizard:** * Perhaps you should try speaking up!
+
+*(Kris leaves the room. The screen flashes white.)*
+*(Somehow, you ended in another place)*
+
+###**obj_egg_man_crossroads**
+
+*(Kris stands at a crossroads in a world designed in the style of an old 8-bit game with a green palette. There are several cat-like characters around him, in different colors.)*
+
+*(Kris approaches the pink character.)*
+**Pink Mini-Rudin:** KRIS, YOU LOOK RATHER BIG...
+**Pink Mini-Rudin:** HAVE YOU BEEN WORKING OUT?
+
+*(Kris approaches the blue character.)*
+**Blue Mini-Rudin:** OH, KRIS, WHAT ARE YOU DOING HERE.
+**Blue Mini-Rudin:** DID YOU COME HERE TO PLAY WITH US?
+
+*(Kris approaches the orange character.)*
+**Orange Mini-Rudin:** WELCOME TO MANCOUNTRY.
+
+*(Kris approaches the pink character again.)*
+**Pink Mini-Rudin:** COPIES ARE MONOCHROME,
+**Pink Mini-Rudin:** BUT YOU COLORED EACH OF US IN WITH CARE.
+
+* (Kris goes to the left, into a new area.)*
+
+###**obj_egg_man_forgotten_island**
+
+* (Kris finds himself on a "Forgotten Island" inhabited by orange cats.)*
+
+*(Kris approaches the sign.)*
+**Sign:** WELCOME TO FORGOTTEN ISLAND!
+**Sign:** THIS ISLAND IS A WORLD HERITAGE SITE!
+
+* (Kris approaches the cat.)*
+**Orange Mini-Rudin:** KRIS? SOMEONE WAS LOOKING FOR YOU.
+**Orange Mini-Rudin:** THOUGH, I DON'T REMEMBER WHO.
+
+*(Kris approaches another mini-Rudin:.)*
+**Orange Mini-Rudin:** DID YOU TRY BEHIND THE TREE?
+
+* (Kris approaches the other cat.)*
+**Orange Mini-Rudin:** I'M TRYING TO SEE AS FAR AS I CAN,
+**Orange Mini-Rudin:** BUT IT DOESN'T LOOK TOO GOOD.
+
+*(Kris approaches another mini-Rudin:.)*
+**Orange Mini-Rudin:** TAKE A LOOK.
+**Orange Mini-Rudin:** I SENSE NOTHING BUT EVIL FROM THAT PLACE!
+
+* (Another mini-rudin)*
+**Mini-Rudin:** WE ARE THE 7 FLYING ACES!
+**Mini-Rudin:** TO CHEAT AT CARDS, YOU COPIED 7 ACES...
+**Mini-Rudin:** IT DIDN'T WORK WELL.
+**Mini-Rudin:** WE GOT LOST IN THE COUCH, AND ENDED UP HERE.
+
+* (Kris goes north, into a building with columns.)*
+
+###**obj_egg_man_tree_room**
+
+*(Kris enters the door and finds himself in a room with a single tree. A man appears from behind a tree.)*
+
+**Man:** WELL,
+**Man:** SPRING CHANGED TO SUMMER, AND SUMMER CHANGED TO COLD,
+**Man:** AND SURE ENOUGH,
+**Man:** I AM THE FORGOTTEN MAN.
+**Man:** WILL YOU FORGET ME, TOO?
+> YES / ♥ NO
+**Man:** ARE YOU SURE? YOU HAVE FORGOTTEN ME MANY TIMES BEFORE.
+**Man:** EVEN IF YOU MEET ME, I WILL BE FORGOTTEN THEREAFTER.
+**Man:** SOMETIMES I EVEN FORGET MYSELF...
+**Man:** I ASK AGAIN. WILL YOU FORGET ME?
+> YES / ♥ NO
+**Man:** YOU'LL REMEMBER ME?
+**Man:** WELL. IN THAT CASE, FORGET ABOUT IT.
+**Man:** I AM JUST A MAN.
+**Man:** LISTEN WELL TO MY STORY.
+**Man:** ONCE UPON A TIME, THE WHOLE WORLD LOOKED LIKE THIS.
+**Man:** DO YOU THINK SO?
+> ♥ YES / NO
+**Man:** REALLY? YOU BELIEVE SOMETHING SO ABSURD?
+**Man:** I'M HAPPY TO HEAR IT. LET ME CONTINUE...
+**Man:** WELL, THE WORLD CHANGED. SOCIETY WAS DEVELOPED.
+**Man:** THE EARTH WAS COVERED IN WATER, DINOSAURS APPEARED, AN ICE AGE,
+**Man:** HM... ACTUALLY, THERE ARE STILL DINOSAURS... IS IT MIXED UP?
+**Man:** IN ANY CASE, THIS ISLAND IS THE ONLY PLACE LEFT I CAN TALK.
+**Man:** DO YOU UNDERSTAND WHAT I'M SAYING?
+> ♥ YES / NO
+**Man:** FUNNY, I HAVEN'T THE FAINTEST CLUE WHAT IT ALL MEANS.
+**Man:** BUT ONE DAY, THIS ISLAND WILL DISAPPEAR, TOO.
+**Man:** WE MAY NOT MEET AGAIN IN THAT CASE.
+**Man:** DID YOU WANT TO MEET AGAIN?
+> ♥ YES / NO
+**Man:** OH, JOY.
+**Man:** I'LL TELL YOU MY SCHEDULE. LISTEN CAREFULLY.
+**Man:** ON THURSDAY, I GO TO SELL THE DONUTS.
+**Man:** ON FRIDAY, I TOSS THE LEFTOVERS IN THE DUMPSTER.
+**Man:** ON SATURDAY, I LET IT COOL ON THE WINDOWSILL.
+**Man:** ON SUNDAY, I HARVEST THE WHEAT.
+**Man:** HOLD YOUR BREATH, HEAD TO THE LEFT, AND COUNT BACKWARDS TO 100...
+**Man:** DID YOU REMEMBER TO WRITE THAT DOWN?
+> ♥ YES / NO
+**Man:** HOW VERY KIND OF YOU.
+**Man:** PLEASE TAKE THIS TO REMEMBER ME.
+**(KRIS RECEIVED THE EGG.)**
+**Man:** ALTHOUGH, YOU MAY LOSE IT IN ANOTHER DAY.
+**Man:** SO BE SURE TO PUT IT SOME WHERE.
+**Man:** THERE'S NO SHAME IN AN EGG.
+> YES / ♥ NO
+**Man:** YOU ARE VERY OPINIONATED.
+**Man:** I LIKE YOU!
+**Man:** YOU MAY FORGET ME, I MAY FORGET MYSELF,
+**Man:** BUT I WILL REMEMBER YOUR KINDNESS.
+**Man:** NOW, THIS ISLAND WILL DISAPPEAR SOON. YOU MUST DEPART.
+**Man:** IF YOU WILL IT, WE SHALL MEET AGAIN AT THAT PLACE...
+**Man:** WHETHER 11 HOURS OR 11 YEARS, DELTARUNE WILL BE WAITING.
+**Man:** SO TAKE YOUR TIME, WASH YOUR FACE, AND GET DRESSED!
+
+*(The man disappears. Kris's sprite changes to his clothes from the Dark World. He leaves the room.)*
+
+###**obj_nowhere_exit**
+
+*(Kris exits the "Nowhere" room. Zipper is waiting for him outside.)*
+
+**Zipper:** * Kris, all done?
+> Yes / ♥ Not Yet
+**Zipper:** * Kris, what's that TICKET?
+**Zipper:** * Nevermind, hurry or Mr. Tenna's gonna get mad.
+
+*(The screen flashes white. Kris rejoins Susie and Ralsei on the platform.)*
+
+**Susie:** * Kris! Where the hell did you go?
+**Ralsei:** * We were so worried!
+> ♥ I got an egg / I went nowhere
+**Susie:** * An... egg?
+**Ralsei:** * Oh! How... interesting!
+*(You showed them the EGG. It is an egg.)*
+*(EGG was added to your KEY ITEMS.)*
+**Susie:** * ... whatever. Let's just keep going.
+</Combined_Deltarune_Chapter_3_THE_EGG_SEGMENT>
+
+*(The team returns to the concert hall, and then to the Green Room.)*
+
+###**obj_purple_cliffs_reunion**
+
+*(Kris finds himself on the platform with the egg again, now with Susie and Ralsei.)*
+
+*(Kris approaches a chest.)*
+*   *(You opened the treasure chest.)*
+*   *(Inside was 1 POINTS.)*
+*   *(1 POINTS was added to your SCORE.)*
+
+*(The team walks back across the bridge. Shuttah meets them.)*
+
+**Shuttah:** * Kris! What, you met such an old hermit.
+**Shuttah:** * ... Ooh la la. No. I don't believe anything, without the picture.
+**Shuttah:** * Except for the astrology.
+**Shuttah:** * Because of course... I am the star.
+
+*(Shuttah poses, and Kris takes his picture.)*
+
+*(The team moves on and returns to the concert hall.)*
+
+*(Some kind of stone statue.)*
+//(This Zipper is petrified)
+
+**Pippin:** * I don't get it... Shouldn't I have been the one to turn to stone!?
+**Pippin:** * W... will he be stuck if he stays like this...?
+**Pippin:** * Kris, you should really hurry up and seal the fountain!
+
+
+###**obj_green_room_final_visit**
+
+*(The team enters the Green Room.)*
+
+*   *(After the performance, when all the actors have gone home...)*
+*   *(You feel a sense of emptiness.)*
+
+**[Save Menu]**
+*   File Saved
+
+*(Kris approaches the vending machine.)*
+*   *(Due to the devaluation of POINTS as currency...)*
+*   *(This machine now only accepts DARK DOLLARS.)*
+*   *(We apologize for the convenience.)*
+*   *(It's a vending machine.)*
+> ♥ Buy / Sell / Talk / Exit
+**[Vending Machine - Buy Menu]**
+*   **TVDinner** ($200)
+*   **DeluxeDinner** ($600)
+*   **LodeStone** ($220)
+*   **GingerGuard** ($862)
+*   **Exit**
+*(The player buys several DeluxeDinners.)*
+
+*(The team enters the door with the letter "S".)*
+
+###**obj_backstage_ramb_final**
+
+*(Kris enters the dressing room and goes into the secret room backstage, where Ramb is waiting.)*
+
+**Ramb:** * Kris... Kris, that's you, isn't it, luv?
+**Ramb:** * Good show, good show...
+**Ramb:** * Tenna's been up to this and that, that and this... All sorts of boring stuff.
+**Ramb:** * But Kris! Oh, Kris! You and I know... The REAL drama happens BACKSTAGE!
+**Ramb:** * That's why... I got it ready for you, y'know.
+**Ramb:** * One last game.
+**Ramb:** * And I'll keep watch.
+**Ramb:** * Well, just as long as... haha. Just as long as I can.
+**Ramb:** * Now, Kris, I hate to trouble you, I really do, but...
+**Ramb:** * Y' see, I can't really move myself now.
+**Ramb:** * If you could just shove me out of the way...
+**Ramb:** * Yes, that's right! Just like that!
+
+*(Kris pushes Ramb aside.)*
+
+**Ramb:** * Kris!
+**Ramb:** * ... enjoy the games, eh, luv?
+**Ramb:** * ...
+**Ramb:** * Kris... I'm an ignorant plug. Can't say I know your motivation.
+**Ramb:** * But... I saw. I saw you make it, you know. The Fountain.
+**Ramb:** * Could it be... you just wanted to have fun again?
+**Ramb:** * Heh heh heh... some REAL fun, just like the old days.
+**Ramb:** * ...
+**Ramb:** * That's been my purpose, y'know. Letting you play your games.
+**Ramb:** * But, heh, now that the games are almost over...
+**Ramb:** * Makes you think, was it really all such a good idea?
+**Ramb:** * Your mother. Your poor mother, what will happen if she wakes up...?
+**Ramb:** * ... ah, what am I doing? A power strip, giving YOU a lecture...
+**Ramb:** * ... just play your games, luv.
+**Ramb:** * ...
+**Ramb:** * Kris... if not for fun, why'd you do it?
+**Ramb:** * ... mum's the word, innit. Fair play, fair play.
+
+*(Ramb disappears. Kris approaches the last, previously empty TV.)*
+
+*   *(Looks like a game console.)*
+*   *(Play it?)*
+> ♥ Yes / No
+
+###**obj_mantle_game_sword_route_final**
+
+*(The TV screen turns on. After a series of glitches and title cards, the final session of the 8-bit game "Mantle" begins. A red heart appears on a black background, over which THE HERO is layered again.)*
+
+*(The game begins. The blue hero sprite (Kris) appears somewhere in the city. He is unarmed but quickly finds a sword.)*
+
+*(To be able to cut the red ribbon blocking the path, the hero needs to reach LV3. The only enemies that give enough experience are the NPC versions of his friends.)*
+
+*(Every time this happens, the real Kris, standing in front of the TV, turns his head away from the screen.)*
+
+*(Having reached LV3, the hero cuts the red ribbon and enters a dark dungeon. A long and tedious experience grind begins, where the hero fights numerous monsters to reach the maximum level.)*
+
+*(At the end of the dungeon, a pixelated copy of Mr. Tenna awaits him.)*
+
+**Mr. Tenna (in-game):** * How did things turn out like this...
+**Mr. Tenna (in-game):** * Keeping poor TORIEL all locked up...
+**Mr. Tenna (in-game):** * If only HE hadn't abandoned me.
+**Mr. Tenna (in-game):** * My old partner...
+**Mr. Tenna (in-game):** * I was gonna put him on TV! Make him a STAR!
+**Mr. Tenna (in-game):** * I gave him everything! Everything I had! My life advice!
+**Mr. Tenna (in-game):** * All. He had. To do. Was tell me what his little secret was.
+**Mr. Tenna (in-game):** * His secret to being a BIG SHOT...
+**Mr. Tenna (in-game):** * It took a little sweet talk...
+**Mr. Tenna (in-game):** * But just when I had, finally, finally? Ha ha -
+**Mr. Tenna (in-game):** * Gotten him to sign the deal.
+**Mr. Tenna (in-game):** * He suddenly had to take a phone call.
+**Mr. Tenna (in-game):** * But when he picked it up, his face turned pale...
+**Mr. Tenna (in-game):** * And he ran right out of the room with the receiver...
+**Mr. Tenna (in-game):** * So I went to pick it up...
+**Mr. Tenna (in-game):** * Thinking it was finally my chance to be a BIG SHOT.
+**Mr. Tenna (in-game):** * But there was nobody there!
+**Mr. Tenna (in-game):** * That little freak RIPPED ME OFF!
+**Mr. Tenna (in-game):** * I wish they never brought that laptop home...
+
+**Mr. Tenna (in-game):** * K... Kris! Kris, I didn't see you there!
+**Mr. Tenna (in-game):** * I... I did what you said, Kris! Ha... just like our deal.
+**Mr. Tenna (in-game):** * Y-you aren't gonna turn me off again, are you...?
+
+*(The hero attacks and defeats the in-game copy of Tenna, as it is the only way to proceed.)*
+
+*(After defeating Tenna, the hero finds the exit from the dungeon. The game screen goes dark. When it turns on again, the pixelated hero delivers a blow that seems to knock the ODDCONTROLLER out of the real Kris's hands. The controller falls to the floor.)*
+
+###**obj_shelter_meadow**
+
+*(Kris finds himself alone in a quiet, sunlit meadow. In front of him is the entrance to a Shelter.)*
+
+*   *(As you try to move Kris towards the shelter's entrance, his sprite actively resists. He repeatedly tries to turn and walk back, fighting against your control.)*
+*   *(After a brief struggle, you force Kris to enter the shelter.)*
+
+###**obj_secret_mantle_battle**
+
+*(Inside, it is dark and quiet. Kris walks down a long corridor. At the end, he finds an intricate room.)*
+
+**???**: * Kris... oh... Kris... Is it fun, Kris? around like this...
+**???**: * That's why you're searching for them, aren't you? 
+**???**: * The SHADOW CRYSTALs... ... and the SHADOW MANTLE that I'm holding!
+**???**: * Do you honestly think it'll get you what you want...?
+**???**: * ... no, part of you is just... enjoying this, isn't it?
+**???**: * Oh, don't make that sour face. I can see in the dark, you know! 
+**???**: * The question is... Can you?
+
+*(A non-turn-based, bullet-hell style battle begins with a bat-like creature. The battle has several phases, each more difficult than the last.)*
+
+*   **(Phase 1):** The enemy attacks with simple bombs.
+*   **(Phase 2):** The attacks become more intense, and the enemy now summons 'Image_friend'-like entities.
+*   **(Phase 3):** The enemy begins to spew six projectiles in different trajectories from itself.
+*   **(Phase 4):** The enemy summons flamethrower-like lines of fire.
+*   **(Final Phase):** The background turns red. The enemy uses all its attacks simultaneously. The hero delivers a devastating blow, defeating the enemy.
+
+*(After the victory, the screen darkens. Text from an unknown voice appears.)*
+
+**???**: * There! That's what I wanted to see!
+**???**: * Flickering red, like pretty little flames.
+**???**: * Your eyes can't hide it, Kris. Without play...
+**???**: * The knife grows dull.
+**???**: * Haha... well, enough of that! We both have work to do!
+**???**: * So if you want this MANTLE, hurry up and take it.
+**???**: * If you can reach it!
+
+*(A chest appears in the 8-bit game. However, THE HERO cannot pick it up. THE HERO exits and pushes Kris. Then Kris himself enters the screen as if it were a location and opens the chest.)*
+
+*   *(You opened the treasure chest.)*
+*   *(Inside was ShadowMantle.)*
+*   *(ShadowMantle was added to your ARMORS.)*
+
+*(The game ends. Kris returns to the floor. Susie appears.)*
+
+**Susie:** * Hey Kris!
+**Susie:** * What the hell are you doing?
+**Susie:** * Being a tryhard all by yourself?
+**Susie:** * You seriously enjoy this?
+> ♥ Of course. Games are fun. / No
+**Susie:** * ...
+**Susie:** * If you get all sweaty playing games alone...
+**Susie:** * You're gonna end up like Berdly, right?
+**Susie:** * ... Okay, enough bird noises. I get it.
+**Susie:** * Anyway.
+**Susie:** * Here. Stole you a drink.
+**Susie:** * Now stop making us wait already.
+
+*(Susie leaves. Kris picks up the drink.)*
+
+*   *(You found a FlatSoda.)*
+*   *(FlatSoda was added to your STORAGE.)*
+
+*(Kris leaves the secret room.)*
+
+**Ralsei:** * ... K... Kris? I'm sorry, Kris! I... I forgot all about you!
+**Ralsei:** * I got so into playing games with Susie, I...
+
+**Susie:** * Heh, you should have seen it, Kris!
+**Susie:** * He was actually RAGING at the falling arrow part.
+
+**Ralsei:** * I suppose I was, not very chuffed, by that dart.
+**Ralsei:** * But I... I had fun.
+**Ralsei:** * ... s-sorry! Did you want to play, Kris?
+
+**Susie:** * Dude, we need to seal the fountain.
+
+**Ralsei:** * Oh! Right! I...
+**Ralsei:** * How did I... forget about that...?
+
+**Susie:** * Let's go.
+</Combined_Deltarune_Chapter_3_Sword_Route_Segment_3>
+
+###**obj_goulden_sam_shop**
+
+*(The team exits the Green Room and heads to the dungeon ("Goulden Sam"). They approach the wagon where a Pippin is sitting.)*
+
+**Pippin:** * TV Dinner?
+> Buy 1 for $300 / ♥ Buy 3 for $800 / Nope
+*   *(You bought 3 TVDinners.)*
+*   *(TVDinner x3 was added to your STORAGE.)*
+</Combined_Deltarune_Chapter_3_Pre_Tenna_Battle>
+<Combined_Deltarune_Chapter_3_Finale>
+###**obj_green_room_exit**
+
+*(The team exits the Green Room and heads to the hallway with the double doors with stars.)*
+
+*(Kris approaches the door, and it opens. The team enters.)*
+
+###**obj_darkness_void**
+
+*(The scene shifts to a dark room, illuminated by old TVs hanging from wires.)*
+
+*(The team walks forward, passes through the room with six turned-off screens and the hallway with parental locks, just like last time.)*
+
+###**obj_snow_set_final**
+
+*(The team finds themselves on the snowy film set again. In the background, the Dark Fountain is visible.)*
+
+**Ralsei:** * Look! There, I can see it...!
+**Ralsei:** * There's the Dark Fountain! If we can just...
+
+*(Mr. Tenna appears. He lands between the team and the Fountain.)*
+
+**Mr. Tenna:** * No! NO!! NO!!!
+**Mr. Tenna:** * WHAT are you doing!? WHERE are you going!? Ahaha!!
+
+*(Mr. Tenna changes his form to a black-and-white, older version with a top hat.)*
+
+**Mr. Tenna:** * There are still GAMES to play!! SHOWS to watch!!
+**Mr. Tenna:** * Laughs and SCREAMS!! Smiles and TEARS!!
+**Mr. Tenna:** * Just wander back to your seats and we can...
+
+<Combined_Deltarune_Chapter_3_Vs_Tenna>
+*(Susie and Ralsei rush forward, but Tenna throws them back.)*
+
+**Susie:** * ENOUGH of your dumb games!!
+**Susie:** * Why the hell do you want us to play so bad anyway!?
+
+*(Tenna turns to Kris, his head bowed.)*
+
+**Mr. Tenna:** * Kris.
+**Mr. Tenna:** * Kris knows why.
+**Mr. Tenna:** * Do you remember it, Kris?
+
+*(Tenna's face turns into a screen with static.)*
+
+**Mr. Tenna:** * When everyone came over for the holidays?
+
+*(The screen fills with white static, and a flashback begins.)*
+
+###**obj_tenna_flashback**
+
+*(The scene shifts to a warm, cozy view of Kris's living room during Kristmas. Silhouettes of family and friends are gathered in front of the TV. On the TV screen is a white rectangle of light.)*
+
+**Mr. Tenna (voiceover):** * Back when I was just a little old TV.
+**Mr. Tenna (voiceover):** * Everyone used to gather around my glow to watch the specials,
+**Mr. Tenna (voiceover):** * Smiling.
+**Mr. Tenna (voiceover):** * Smiling. Laughing.
+**Mr. Tenna (voiceover):** * Smiling. Laughing. Eating butterscotch pie.
+**Mr. Tenna (voiceover):** * Wasn't that just so much... fun?
+**Mr. Tenna (voiceover):** * To watch me.
+**Mr. Tenna (voiceover):** * I... was so happy.
+**Mr. Tenna (voiceover):** * Then...
+
+(The silhouettes begin to disappear, one by one, in a precise, agonizing order. Dess disappears first, her figure just vanishes into thin air. Carol follows her. Then comes a split in the family: the father, Asgore, slowly melts away, leaving a void. Noelle and then Rudy stop coming too. After them, Azriel's brother leaves, his silhouette goes off into the distance, towards the college. Even Kris himself seems to be moving away, his figure is getting dimmer. In the end, only Toriel remains, but her attention dissipates over time, absorbed by worries.)
+
+**Mr. Tenna (voiceover):** * People stopped coming.
+**Mr. Tenna (voiceover):** * Everyone disappeared... one by one...
+
+*(Only one silhouette remains.)*
+
+**Mr. Tenna (voiceover):** * No one wanted to watch TV anymore.
+**Mr. Tenna (voiceover):** * No one wanted to play games anymore.
+
+*(The last silhouette disappears. The room becomes empty.)*
+
+*(The scene darkens, leaving only the white rectangle of light from the screen.)*
+
+**Mr. Tenna (voiceover):** * I've been all alone...
+**Mr. Tenna (voiceover):** * Until now.
+
+*(A small blue TV with a wide smile appears.)*
+
+**Mr. Tenna (voiceover):** * When the KNIGHT appeared...
+**Mr. Tenna (voiceover):** * The ROARING KNIGHT.
+**Mr. Tenna (voiceover):** * And I was told that if I keep you three busy,
+**Mr. Tenna (voiceover):** * I can have ALL the people watch me that I want.
+
+*(The flashback ends. The scene returns to the snowy set.)*
+
+###**obj_snow_set_confrontation**
+
+**Mr. Tenna:** * And, I've been having SO much fun playing with you all,
+**Mr. Tenna:** * I... just don't want it to end!
+**Mr. Tenna:** * So... please... just say it with me.
+
+*(Tenna raises a microphone.)*
+
+**Mr. Tenna:** * IT'S!! TV!! TIME!!!
+
+**Susie:** * Enough already!!
+
+*(Susie rushes at Tenna but misses as he dodges.)*
+
+**Mr. Tenna:** * Wh-what are you doing!? I just had this suit DE-AXED!!
+**Susie:** * We're done messing around.
+**Susie:** * Give back Toriel. Now.
+**Mr. Tenna:** * Alright. I get it.
+**Mr. Tenna:** * I. GET IT! I REALLY get it!!
+**Mr. Tenna:** * Talking!! I've been doing too much... TALKING!!
+**Mr. Tenna:** * NO MORE questions!! What you need...
+**Mr. Tenna:** * Is another PHYSICAL CHALLENGE!!
+
+*(The scene transforms into a battle arena. A "SCORE" board appears.)*
+
+*(The final battle with Mr. Tenna begins.)*
+
+###**obj_tenna_final_battle**
+
+**Mr. Tenna:** * That's right folks! One last challenge! 1000 points or bust! Can you do it!?
+
+*(A series of minigames begins, which are Tenna's attacks. The team must score points to win.)*
+
+**Mr. Tenna:** * But don't think it's gonna be easy!! Because today...
+**Mr. Tenna:** * We've got an all-star cast!
+
+*(**Attack 1: Stars.** Kris dodges falling stars, collecting them for points.)*
+
+**Mr. Tenna:** * COWABUNGA-DERO! THAT'S THE SMOOTH TASTE OF TV TIME!
+
+*(**Attack 2: Lightning.** Tenna attacks with lightning. The team dodges.)*
+
+**Mr. Tenna:** * Haha, no way we can use that take! CUT!!
+**Mr. Tenna:** * Cut, I said! CUT! SMASH CUT!
+
+*(**Attack 3: Minigames.** Tenna switches channels, launching short, chaotic versions of previous minigames: "DODGE FIRE", "SHOOT THE TARGETS", "PROTECT RALSEI", "BOUNCE THE BALL", "LIGHTNERS LIVE".)*
+
+*(During the attacks, Tenna continues to commentate.)*
+
+**Mr. Tenna:** * HEAR THAT WHINE!? THAT'S THE SOUND OF A HAPPY CUSTOMER!
+**Mr. Tenna:** * SICK OF THE CLASSICS!?
+**Mr. Tenna:** * NEO shows, NEO programs, just WATCH, WATCH, WATCH!
+**Mr. Tenna:** * FRESH FROM THE JUICE! FRESH FROM THE JUICE!
+**Mr. Tenna:** * CLAP AND CHEER, SMILE AND SCREAM! ENTERTAINMENT ON YOUR SCREEN!
+**Mr. Tenna:** * SUSIE, YOU LIKED WATCHING, DIDN'T YOU!?
+**Mr. Tenna:** * COME, ON! TELL 'EM! TELL 'EM!
+**Mr. Tenna:** * COME ON KIDS, THE AUDIENCE LOVES IT!! CAN'T YOU HEAR 'EM CRYING!?
+**Mr. Tenna:** * ALL RIGHT! IF ONE PHYSICAL CHALLENGE ISN'T ENOUGH...
+**Mr. Tenna:** * HOW ABOUT A DOUBLE FEATURE!?
+
+*(After each successful minigame, the score increases. Tenna becomes more and more desperate.)*
+
+**Mr. Tenna:** * ... WHERE... WHERE'S THE AUDIENCE? WHERE'D THEY GO...? WHERE ARE THEY!?
+**Mr. Tenna:** * THAT DAMN AUDIENCE! I GAVE THEM SO MANY POINTS HERE TODAY!
+**Mr. Tenna:** * MIKE... MIKE, IF YOU'RE STILL HERE... BAN EVERYONE FROM THE GIFT SHOP!
+**Mr. Tenna:** * I'M STILL MARVELOUS! I'M STILL MYSTERIOUS!
+**Mr. Tenna:** * TORIEL OUGHTA KNOW SHE DOESN'T NEED A NEW TV!!
+**Mr. Tenna:** * BACK TO YOUR REGULARLY SCHEDULED PROGRAMMING!
+**Mr. Tenna:** * ALRIGHT, YOU ASKED FOR IT! TIME FOR THE GRAND FINALE!
+**Mr. Tenna:** * THAT'S IT! IT'S TIME FOR THE FINAL EPISODE!
+**Mr. Tenna:** * WHAT WILL HAPPEN TO OUR HEROES...
+**Mr. Tenna:** * WHEN THEY REALIZE THIS SHOW IS NEVER GONNA END!?
+
+*(The battle reaches its climax. The screen begins to glitch heavily, switching between all previous minigames and locations at a tremendous speed. In the center of this chaos, Tenna continues to attack.)*
+
+*(Finally, after the final attack, Tenna falls, defeated. The screen explodes in a flash of white light.)*
+
+*(The scene returns to the snowy set. Tenna lies on the ground, his body sparking.)*
+
+**Mr. Tenna:** * N... no...! No no...
+**Mr. Tenna:** * Nooooooo...
+</Combined_Deltarune_Chapter_3_Vs_Tenna>
+
+*(Tenna shrinks in size, turning into a small character in a cap, and falls into a beam of light.)*
+
+**Mr. Tenna:** * I... I just wanted to be watched...
+**Mr. Tenna:** * I just wanted you to look at me...
+**Mr. Tenna:** * One last time..
+**Mr. Tenna:** * ...
+**Mr. Tenna:** * Since... since a little while ago...
+**Mr. Tenna:** * All that I've been broadcasting, is the same reruns, over and over...
+**Mr. Tenna:** * I... I don't have anything anyone wants to watch anymore..
+**Mr. Tenna:** * I'm irrelevant... I'm junk...
+**Mr. Tenna:** * I don't wanna be thrown away...
+
+*(Two more beams of light appear, illuminating Ralsei and Susie.)*
+
+**Ralsei:** * Mr. Tenna... I... understand how you feel.
+**Ralsei:** * To want to be... important. To be... useful.
+**Ralsei:** * Perhaps... you might not be watched much anymore...
+**Ralsei:** * But... that doesn't make you a failure, Tenna.
+**Ralsei:** * You've brought smiles, light into Lightner's lives...
+**Ralsei:** * ... to Kris's family and friends, for so long.
+**Ralsei:** * So, there's nothing to be ashamed of.
+**Ralsei:** * If... that ever comes to an end.
+**Ralsei:** * Darkners... all become obsolete eventually.
+**Ralsei:** * But we aren't "real", Tenna.
+**Ralsei:** * We shouldn't make Lightners worry about what happens to us.
+**Ralsei:** * It'd just... make them unhappy, wouldn't it?
+
+**Mike (voice from the spotlight):** * ...
+**Mike (voice from the spotlight):** * m... m... maybe... you're right...
+**Mike (voice from the spotlight):** * B... but... I...
+
+**Susie:** * Hey.
+**Susie:** * You wanna know what I think?
+**Ralsei:** * Susie?
+**Susie:** * I think...
+
+*(Susie approaches Ralsei and Kris.)*
+
+**Susie:** * You don't have to take being thrown away.
+
+*(The light focuses on Susie.)*
+
+**Susie:** * Lemme tell you.
+**Susie:** * I've never really been able to... make friends.
+**Susie:** * I was always... the scary girl. The bad kid.
+**Susie:** * The only times anyone ever got close to me,
+**Susie:** * ... were as a joke.
+**Susie:** * And even if I did start to make a real friend...
+**Susie:** * ... I'd always end up...
+**Susie:** * Moving away.
+
+*(Flashbacks appear: an empty classroom, a graveyard, a diner.)*
+
+**Susie (voiceover):** * When I moved here, I thought it would be the same thing.
+**Susie (voiceover):** * I felt like you.
+**Susie (voiceover):** * I felt like a broken toy no one wanted.
+**Susie (voiceover):** * ...
+**Susie (voiceover):** * Kris's mom saw me. Toriel.
+**Susie (voiceover):** * Saw me sitting on the bench in the graveyard, crying.
+**Susie (voiceover):** * She asked me what was wrong, and...
+**Susie (voiceover):** * Told me everything was going to be okay.
+**Susie (voiceover):** * Took me to the diner. Bought me a hot chocolate.
+**Susie (voiceover):** * Talked to me. Told me I'd make friends.
+**Susie (voiceover):** * That... gave me hope. Even just a little.
+**Susie (voiceover):** * ...
+
+*(The flashbacks end. The scene returns to the team.)*
+
+**Susie:** * And recently. That hope's been growing.
+**Susie:** * Because... now I have friends.
+**Susie:** * Real friends.
+**Susie:** * Friends I wanna keep.
+**Susie:** * Kris. Ralsei. Lancer... Toriel, too.
+**Susie:** * Even though I thought I was broken...
+**Susie:** * I just needed to find the right people, y'know?
+**Susie:** * So...
+**Susie:** * Don't worry, dude.
+**Susie:** * Someone out there wants you. Promise.
+**Susie:** * Kris, you'll help me ask around town, right?
+**Susie:** * Someone's gotta want a TV.
+
+**Mike (voice from the spotlight):** * You... you'll help me?
+**Mike (voice from the spotlight):** * SUSIE!!! You...
+
+*(Tenna in his colored form appears again, his body floating in the air.)*
+
+**Mr. Tenna:** * You're INCREDIBLE! You're AMAZING!! No... you're MARVELOUS!!
+**Mr. Tenna:** * I feel electric!! I feel like a million bucks!!
+**Mr. Tenna:** * This... this must be what HOPE feels like!!
+**Mr. Tenna:** * We're inventing a Hall of Fame just for you!!!
+
+*(Susie turns to him.)*
+
+**Susie:** * But... you gotta give back Toriel.
+**Susie:** * She's got people that need her, too.
+
+**Mr. Tenna:** * I...
+**Mr. Tenna:** * I understand!
+**Mr. Tenna:** * I know it's not what the KNIGHT wants, but...
+**Mr. Tenna:** * Kris!! Susie!! Good contestants deserve a good prize!!
+**Mr. Tenna:** * This way!!
+
+*(Tenna points to the Dark Fountain. The team follows him.)*
+
+**Ralsei:** * Susie...
+**Susie:** * Hear that, Ralsei?
+**Susie:** * No one's gonna get thrown away.
+**Susie:** * Not you. Not me. Not Kris.
+**Susie:** * Got it?
+
+**Ralsei:** * ...
+**Ralsei:** * ... got it, Susie.
+
+**Susie:** * Well, let's go!
+
+###**obj_snow_set_fountain_approach**
+
+*(The team stands on the snowy film set after defeating Tenna.)*
+
+**Susie:** * Well, let's go!
+
+*(The team walks towards the Dark Fountain and the capsule with Toriel.)*
+
+<Combined_Deltarune_Chapter_3_Vs_The_Roaring_Knight>
+*(Suddenly, a blow is struck from behind. Tenna falls, his arms severed, and his body sparks.)*
+
+*(Behind him appears a tall, coal-black figure with a white outline—the Knight.)*
+
+**Susie:** * T- TENNA!?
+
+*(The team runs up to the Knight.)*
+
+**Susie:** * Who... WHO the hell are you!?
+
+*(The Knight tries to grab the capsule with Toriel, but the team blocks his path.)*
+
+**Susie:** * If... if you don't tell us who you are, then...
+
+*(Susie draws her axe.)*
+
+**Susie:** * Like hell we're letting you take her...!
+
+*(The Knight steps back, towards the Dark Fountain.)*
+
+**Susie:** * Kris! Ralsei! C'mon!!
+
+*(The team rushes to attack. The Knight dodges and prepares for battle. The screen flashes, and a battle begins.)*
+
+###**obj_knight_battle**
+
+*   *(The Roaring Knight appeared.)*
+
+*(**Turn 1**)*
+*   *(The Knight uses the "Star Storm" attack. A purple cone emerges from its palm, emitting six-pointed stars that explode.)*
+*   *(Kris, Susie, and Ralsei defend.)*
+
+*(**Turn 2**)*
+*   *(You felt something hovering close behind your head...)*
+*   *(The Knight uses the "Tracking Swords" attack. Swords appear around the SOUL and attack one by one.)*
+*   *(Susie uses Rude Buster. Deals 108 damage.)*
+*   *(Kris and Ralsei defend.)*
+
+*(**Turn 3**)*
+*   *(Suddenly, the north wind blew fiercely.)*
+*   *(The Knight uses the "Box Splitter" attack. It splits the battlefield in half, and projectiles fly from the rift.)*
+*   *(Susie uses Rude Buster. Deals 116 damage.)*
+*   *(Kris and Ralsei defend.)*
+
+*(**Turn 4**)*
+*   *(Your vision narrows.)*
+*   *(The Knight uses the "Sword Tunnel" attack. Two rows of swords move across the screen, creating a narrow corridor.)*
+*   *(Kris uses a DeluxeDinner on himself. Susie and Ralsei defend.)*
+
+*(**Turn 5**)*
+*   *(Your chest feels tight.)*
+*   *(The Knight uses the "Rotating Slash" attack. Rotating red lines turn into cutting strikes.)*
+*   *(Kris, Susie, and Ralsei defend.)*
+
+*(**Turn 6**)*
+**Susie:** * Heheh...
+**Susie:** * Didn't... think we'd still be standing, did you?
+*   *(The Knight uses "Star Storm" (Phase 2).)*
+*   *(Kris uses a TVDinner on the whole team.)*
+*   *(Susie and Ralsei defend.)*
+
+*(**Turn 7**)*
+**Susie:** * Thing is, you actually...
+**Susie:** * You actually messed up, picking a fight with US!
+*   *(The Knight uses "Tracking Swords" (Phase 2).)*
+*   *(Susie uses Rude Buster. Deals 121 damage. Kris attacks, dealing 65 damage.)*
+*   *(Ralsei defends.)*
+
+*(**Turn 8**)*
+**Susie:** * You? You're all damn alone...
+**Susie:** * Me? I got... Kris and Ralsei behind me.
+*   *(The Knight uses "Box Splitter" (Phase 2).)*
+*   *(Kris, Susie, and Ralsei attack. Kris deals 65 damage, Susie misses, Ralsei deals 19 damage.)*
+
+*(**Turn 9**)*
+**Susie:** * Even... even if you knock me down...
+**Susie:** * As long as Kris, Ralsei, are here...
+*   *(The Knight uses "Sword Tunnel" (Phase 2). Kris falls (SWOON).)*
+
+*(**Turn 10**)*
+**Susie:** * As long as I'm here to lift them back up...
+**Susie:** * Heh... you're never gonna win, you hear me?!
+*   *(The Knight uses "Rotating Slash" (Phase 2).)*
+*   *(Susie uses a ReviveMint on Kris. Ralsei defends.)*
+
+*(**Turn 11**)*
+**Susie:** * So... give up.
+*   *(The Knight uses "Star Storm" (Phase 3).)*
+*   *(Kris, Susie, and Ralsei defend.)*
+
+*(**Turn 12**)*
+**Susie:** * You know you can't win... so... give up!
+*   *(The Knight uses "Tracking Swords" (Phase 3).)*
+*   *(Kris, Susie, and Ralsei attack. Kris deals 65 damage, Susie misses, Ralsei deals 19 damage.)*
+
+*(**Turn 13**)*
+**Susie:** * ... You won't even...
+**Susie:** * ... say a thing, huh...
+*   *(The Knight uses "Box Splitter" (Phase 3).)*
+*   *(Kris, Susie, and Ralsei defend.)*
+
+*(**Turn 14**)*
+**Susie:** * ... heh... heheheh...
+**Susie:** * Man, I'm done talking.
+**Susie:** * ... people like you... just piss me off.
+*   *(The Knight uses "Sword Tunnel" (Phase 3). Kris and Ralsei fall (SWOON).)*
+
+*(Susie is left alone.)*
+
+
+*   *(The enemy suddenly let down its guard!)*
+*   *(Susie uses Rude Buster, dealing 150 damage.)*
+
+*(The Knight's health 'falls below a critical threshold.' Its body begins to distort, like analog static.)*
+
+*(The screen flashes white.)*
+
+*(The scene returns to the battlefield. The Knight stands, swaying, its form unstable.)*
+
+**Susie:** * We... we actually beat it?
+**Susie:** * What, don't tell me you've had ENOUGH already?
+**Susie:** * C'mon, we were just getting started!
+**Susie:** * Heheh...
+**Susie:** * Not so tough NOW, are you?
+
+*(You got Shadow BlackShard)*
+//A dagger-Like shard of the Black Knife. 
+//Strikes the weakness of dark-element enemies.
+//16ATK
+*(You got Shadow Crystal)*
+
+*(Susie swings her axe for a final blow. The Knight instantly recovers its form and parries the blow with its sword. A black shard flies off the Knight's sword.)*
+
+*(The screen darkens. The sound of a swift cutting blow is heard.)*
+
+*(The light returns. Susie falls to her knees, then to the ground, in a state of SWOON.)*
+
+**Ralsei:** * S-Susie!!!
+**Ralsei:** * H... how could you...
+
+*(The screen darkens again. Another blow is heard.)*
+
+*(The light returns. Ralsei is also lying on the ground in a state of SWOON.)*
+
+*(The Knight slowly approaches the lone Kris. It forces Kris to kneel on one knee and places its sword on his shoulder, as if knighting him. The screen darkens.)*
+
+*(Kris is in a state of DOWN.)*
+
+###**obj_knight_escape**
+
+*(The battle is lost. Susie lies on the ground, breathing heavily.)*
+
+**Susie:** * No... you... you can't...
+**Susie:** * You can't... take her...
+
+*(Suddenly, blue spears fly at the Knight. Undyne appears in her police uniform.)*
+
+**Undyne:** * Hey!! You!! Stop!! Police!!
+**Undyne:** * Wh... What the hell is going on here!!?
+**Undyne:** * You've got some explaining to do, punk!!
+
+*(The Knight turns to Undyne. It transforms into a winged creature and grabs her.)*
+
+**Undyne:** * Hey, what are you doing!?
+**Undyne:** * Put me... PUT ME DOWN!!!
+
+*(The Knight carries Undyne through large doors that act as a portal between worlds. The doors disappear.)*
+</Combined_Deltarune_Chapter_3_Vs_The_Roaring_Knight>
+
+*(Susie struggles to her feet.)*
+
+**Susie:** * Hey...
+**Susie:** * Hey, where the hell are you going!?
+
+*(Susie runs to Kris, grabs his hand, and they run together in the direction the Knight disappeared.)*
+
+###**obj_hometown_shelter_chase**
+
+*(Susie, dragging Kris behind her, runs out of the Dark World back into the Town. It is now night. They run down the street past the church.)*
+
+**Susie:** * Down here, past the church!!
+
+*(They run along a narrow path between trees and come out to the bunker in the south of the town. Black smoke is billowing from the bunker.)*
+
+*(Susie runs up to the massive steel doors of the bunker and tries to open them.)*
+
+**Susie:** * HEY! HEY OPEN UP!
+
+*(The doors do not yield.)*
+
+**Susie:** * Undyne...! Officer Undyne, say something!!
+**Susie:** * H-hey... hey, this is a joke, right!?
+**Susie:** * You're about to come out of there, right!?
+**Susie:** * ...
+
+*(Susie desperately pounds on the door, but there is no answer. The door opens on its own, revealing only darkness inside.)*
+
+**Susie:** * What the... what the hell is this?
+**Susie:** * It's some sort of... electronic... lock?
+**Susie:** * Kris, what the hell is going on...!?
+**Susie:** * Why... why did they take Undyne in here?
+**Susie:** * And... why were they trying to take... Toriel?
+
+*(Susie pounds on the door again.)*
+
+**Susie:** * What the hell are they doing, Kris? Like, if the cops...
+**Susie:** * ...
+**Susie:** * It's no good... the door, it's solid steel...
+**Susie:** * This... weird panel. If we could just... get someone to tell us how it works...
+**Susie:** * But... we can't, right?
+**Susie:** * We can't tell anyone about this, right? Because...
+**Susie:** * ... Because you saw that smoke, right, Kris?
+**Susie:** * There's... gotta be a dark world in there.
+**Susie:** * ... if anybody else went in there, they'd...
+
+*(The figure pounds again.)*
+
+**Susie:** * ...
+**Susie:** * Toriel...! She's still in the...
+**Susie:** * ...
+
+**Susie:** * Damn it. I... I hate to give up here, Kris, but...
+**Susie:** * I...
+
+*(Susie steps away from the door and sits on the ground, hugging its knees.)*
+
+**Susie:** * ...
+**Susie:** * Let's... just go seal that fountain.
+
+*(Susie stands up and walks in direction of Kris's house)*
+
+*(Kris is left alone in front of the bunker door. He approaches it.)*
+
+*   *(On the shelter was a strange panel.)*
+*   *(It looked like a digital security lock...)*
+*   *(There were three entry fields, and three symbols besides them.)*
+*   *(One had a pine tree beside it.)*
+*   *(One had an officer's badge beside it.)*
+*   *(And one had the DELTA RUNE.)*
+*   *(...)*
+
+*(The bunker door creaks open.)*
+</Combined_Deltarune_Chapter_3_Finale>
+</Combined_Deltarune_Chapter_3_Storytext>
