@@ -16,6 +16,8 @@ tags:
 - deltarune
 - game-script
 - dialogue
+- deltarune-chapter-2
+- deltarune-chapter-3
 size_categories:
 - 1K<n<10K
 ---
