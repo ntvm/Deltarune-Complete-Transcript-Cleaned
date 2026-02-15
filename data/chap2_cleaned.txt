@@ -1,3 +1,18 @@
+Chapter 1 was completed.
+♥ Play Chapter 2
+Chapter Select
+deltarune
+CHAPTER 2
+CHAPTER 2
+Start Chapter 2 from Chapter 1's FILE.
+♥ Your Room [Chapter 1 END]
+Completion FILE not found.
+Completion FILE not found.
+Don't Use Chapter 1 FILE
+--- [Pause/Transition] ---
+This will start Chapter 2 in FILE Slot 1.
+♥ Start
+Back
 Toriel: "Kris."
 Toriel: "Kris...?"
 Toriel: "Kris, honey..."
@@ -16,6 +31,7 @@ Toriel: "Well, hurry out of bed. It is time for school."
 *CYBER-SOUND*
 *It is not yet time to wash your hands.*
 *On the shower ledge, there's a small container of apple-scented shampoo...*
+*... and a gallon-sized container of pet shampoo.*
 *It's a landline phone.*
 *But you already have a cell phone.*
 *It's the TV.*
@@ -218,6 +234,7 @@ Seam: "As you find stronger treasure, I'm sure you'll have little reason to retu
 Seam: "But if you have some time, I'll offer you a biscuit and a hint!"
 Block: "Bow bow."
 Block: "(I'm bjust a block.)"
+--- [Pause/Transition] ---
 King: "Ah... the Lightners."
 King: "... have you come to humiliate me...?"
 [Player Choice: Hell yeah!]
@@ -469,11 +486,11 @@ Ralsei: "Oh, Kris! It's a free editable CYBERPEDIA! I'll add an entry...!"
 Ralsei: "From now on, defeating enemies with violence will make them LOST."
 Ralsei: "LOST enemies cannot become citizens of our town."
 Ralsei: "But, the bonds you break may make you stronger..."
-Hathy: "Lightners! I haven't seen many of you recently."
-Hathy: "If you didn't know, an evil ruler is taking over."
-Hathy: "I don't really like politics, so I have no opinion on this."
-Tasque: "If you try to talk to me about politics..."
-Tasque: "We will have no choice but to cross swords..."
+Plug guy with hat: "Lightners! I haven't seen many of you recently."
+Plug guy with hat: "If you didn't know, an evil ruler is taking over."
+Plug guy with hat: "I don't really like politics, so I have no opinion on this."
+Plug guy with hat: "If you try to talk to me about politics..."
+Plug guy with hat: "We will have no choice but to cross swords..."
 *Tasques crossed your path!*
 *Susie roared!! The enemies became TIRED.*
 Susie: "Who's king of the jungle now!?"
@@ -558,6 +575,14 @@ Queen: "Your Transformation Is Combining All Your Weak Points"
 Queen: "Self-Esteem Crushing Efficiency 300% And Rising"
 Queen: "Commence Virtual Beatdown"
 *The arcade battle begins.*
+**ROUND 1**
+**FIGHT**
+**Press [Z] Or [X] If You Dare**
+**DODGE with [Left] or [Right]!**
+**Press [Down] to Duck!**
+**HIT IT**
+**I said shut up!!**
+**K.O.**
 *The arcade machine explodes.*
 Susie: "Heh, thought you could beat us?"
 Queen: "Regal Laughter"
@@ -679,18 +704,22 @@ Shopkeeper 1: "You're selling them!"
 Rebel_darkner: "I heard this unassuming store is the rebel base."
 Rebel_darkner: "But, I realized I don't really know how I would help them."
 *The party enters the shop. The shopkeepers are Sweet, Cap'n, and K_K.*
+**[Shop Menu]**
 [Player Choice: Yo!]
 [Player Choice: What's up?]
 [Player Choice: Hey!]
+**[Buy Menu]**
 *Player buys 3 CD Bagels and 1 GlowWrist.*
 Shopkeeper: "Thanks!"
 Shopkeeper: "Cool! It's in your STORAGE."
 Shopkeeper: "Thanks, guys!"
+**[Talk Menu]**
 [Player Choice: About yourselves]
 [Player Choice: Performance]
 [Player Choice: About Queen]
 [Player Choice: Junk Work]
 [Player Choice: Exit]
+**[About yourselves]**
 Sweet: "I'm Sweet."
 Cap'n: "The ladies call me Cap'n!"
 K_K: "K_K!"
@@ -709,6 +738,7 @@ K_K: "Crash! Boom!"
 Sweet: "That's why we made this junk shop!"
 Cap'n: "We'll fund our musical rebellion!"
 K_K: "Can we make noise music, too?"
+**[Performance]**
 Sweet: "What, wanna see what we got!?"
 Cap'n: "Yo, yo, can you handle this!?"
 K_K: "Hold onto your antennas!!"
@@ -716,6 +746,7 @@ K_K: "Hold onto your antennas!!"
 Sweet: "Yo, how was that!"
 Cap'n: "Did you get rocked?!"
 K_K: "All our songs are only 4 seconds long!!"
+**[About Queen]**
 Sweet: "Queen wasn't always so... harsh."
 Cap'n: "No, she WAS! She just got WORSE somehow!"
 Sweet: "It wasn't 'til that DARK FOUNTAIN showed up,"
@@ -732,6 +763,7 @@ K_K: "... I like candy."
 Sweet: "Yeah, you're right, K_K! We gotta focus on what's important!"
 Cap'n: "If the band fights, we'll get outta tune!"
 K_K: "Anyone have any lemon drops?"
+**[Junk Work]**
 Sweet: "Our main gig is making scrap into machines."
 Cap'n: "Our clients are sometimes a bit off-key though."
 K_K: "They smell off-key too!!"
@@ -744,10 +776,12 @@ K_K: "I couldn't even understand him!"
 Sweet: "Now, all we gotta do is follow the blueprints, right?"
 Cap'n: "It'll be our big time break!!"
 K_K: "Yeah!! Haha!! It's gonna break apart! Big time!!"
+**[Exit]**
 Sweet: "See ya!"
 Cap'n: "Smell ya!"
 K_K: "Hear ya!"
 *Player equips various items.*
+**[Item Descriptions]**
 *   **GlowWrist: "A tough bracelet made of green wires, and studded with sharp glowing lights."
 *   **Ragger2: "A sharp and scratchy scarf. Worse healing, better attack."
 *   **FiberScarf: "A basic scarf made of lightly magical fiber."
@@ -757,7 +791,9 @@ K_K: "Hear ya!"
 Some Darnkner: "Crash! Boom! Bang! There's a terrific noise coming from the building nearby.."
 *You are filled with the power of noise*
 *Player saves the game.*
+**[Save Menu]**
 *(The party encounters a battle with a "Smorgasbord 2": "Werewire, Tasque, Virovirokun.)*"
+**[Battle Text]**
 Ralsei: "There, there, it's okay, little..."
 Tasque: "meowowmeow meowmeow"
 Virovirokun: "Don't let this bug you"
@@ -974,6 +1010,7 @@ Berdly: "Kidnapper!! Kris, our truce... is OVER!!!"
 Berdly: "Noelle!! This may hurt, but it's to help you!!"
 Noelle: "W-wait, just listen to me---!!!"
 *Battle with Berdly begins.*
+**[Battle Text]**
 Berdly: "Kris! I get it! Your head's gotten big from solving that puzzle by DUMB LUCK!"
 Berdly: "So now you're trying to win Noelle over... By taking advantage of her kindness!?"
 Berdly: "Partake, Kris! The Zephyr of Punishment!"
@@ -1081,6 +1118,7 @@ Spamton: "WHY DON'T YOU"
 Spamton: "[[Show it off?]]"
 Spamton: "HAEAHAEAHAEAH!!"
 *A battle with Spamton begins.*
+**[Battle Text]**
 [Player Choice: TELL ME MORE]
 [Player Choice: GIVE MONEY]
 [Player Choice: DON'T BUY]
@@ -1199,6 +1237,7 @@ Susie: "God, teaching you sarcasm was a mistake."
 Ralsei: "Hahahaha!"
 Ralsei: "... Oh, Kris...? What's that you have there?"
 Ralsei: "Is that a... gift for someone?"
+**[Gift Choice]**
 [Player Choice: Give to Noelle]
 [Player Choice: Give to Ralsei]
 [Player Choice: Give to Susie]
@@ -1217,6 +1256,7 @@ Berdly: "With... nipples?"
 Berdly: "... Hmph. Guess I'll forgive you for now."
 Berdly: "See you, Kris."
 *Berdly leaves.*
+**[Reaction to Gift]**
 Susie: "Why the hell'd you give it to Berdly!?"
 Noelle: "Why did you give it to Berdly!?"
 Ralsei: "Um, what.. unexpected kindness, Kris!"
@@ -1386,14 +1426,17 @@ Susie: "Kris, that's gotta be him!!"
 Susie: "Quick, we gotta think of some way to get out!!"
 Susie: "Anything you smuggled in that might help us!?"
 *The player opens Kris's inventory. It contains a Glowshard, a ChocDiamond, a Clubswich, and a ReviveMint. The player reads the descriptions.*
+**[Item Descriptions]**
 *   **Glowshard: "A shimmering shard. Its value increases each Chapter."
 *   **ChocDiamond: "It's quite small, but some people REALLY like it. +??HP"
 *   **Clubswich: "A sandwich that can be split into 3. Heals 70 HP to the team."
 *   **ReviveMint: "Heals a fallen ally to MAX HP. A minty green crystal."
 *The player uses the Clubswich. Kris's health is restored to 120/120. Then the player checks stats and equipment.*
+**[Stats Screen]**
 *   **STATS: "ATK 12, Defense 6, Magic 0, Guts 0."
 *   **SPELLS: "ACT - Do all sorts of things. It isn't magic."
 *The player changes Kris's equipment. The Wood Blade is replaced with the BounceBlade, the White Ribbon with the Pink Ribbon.*
+**[Equipment Descriptions]**
 *   **Wood Blade: "A wooden practice blade with a carbon-reinforced core."
 *   **BounceBlade: "A pink saber with a rubber blade. Weak, but increases defense."
 *   **White Ribbon: "A crinkly hair ribbon that slightly increases your defense."
@@ -1407,6 +1450,7 @@ Susie: "Your phone going off or something?"
 *Distorted, chaotic music plays.*
 *It's nothing but garbage noise.*
 *The player uses the "Lancer" item.*
+**[Item Description]**
 *   **Lancer: "Hoho! It's me, Lancer! Release me and I will release you!"
 *Lancer jumps out of Kris's pocket.*
 Lancer: "Because I missed you!! Ha ha ha!!"
@@ -1674,6 +1718,7 @@ Tasque Manager: "Which painting's name is third alphabetically?"
 Tasque Manager: "Incorrect. It seems your organization is lacking."
 Tasque Manager: "Someone ought to whip you into shape!"
 *A battle with Tasque Manager begins.*
+**[Battle Text]**
 *After the battle, the team continues down the hallways, dodging attacks and breaking vases.*
 *The team takes a teacup elevator to the next floor.*
 *The team enters a dining room where they are met by Swatchlings and other guests.*
@@ -1836,6 +1881,7 @@ Spamton NEO: "TODAY, THE WHOLE FAMILY CAN TAKE A LITTLE [Ride Around Town]..."
 Spamton NEO: "[Attention Customers! Clean up on Aisle 3!]"
 Spamton NEO: "SOMEONE LEFT [There] SOULS, [Lyeing Ar]"
 *The battle proceeds. The party must use "Snap" ACTs to cut Spamton's wires, or charge TP to fire a "Big Shot".*
+**[Battle Text]**
 Spamton NEO: "KRIS! ISN'T THIS [Body] JUST [Heaven]LY!?"
 Spamton NEO: "3X THE [Fire]Power. 2X THE [Water]Power. AND BEST OF ALL, FLYING IN [Style]"
 Spamton NEO: "WE'LL TURN THOSE [Schmoes] AND [Daves] INTO [Rosen Graves]"
@@ -1874,6 +1920,7 @@ Spamton: "With a power like that..."
 Spamton: "Maybe you three can break your own strings."
 Spamton: "Let me become your strength."
 *Spamton transforms into the Dealmaker scarf and the ShadowCrystal.*
+//+5DF, +5 Magic, $ +30%, reduces damage received from Puppet/Cat attacks by 40%
 *Kris holds the ShadowCrystal up to his eye.*
 *The party equips the new items and leaves the basement.*
 Berdly: "K..."
@@ -1896,6 +1943,7 @@ Ralsei: "H-huh...? Y-you mean..."
 Ralsei: "* (Y-you think of me as more than a lackey...?)"
 *A sparkle appears above Ralsei, he is happy.*
 *Kris and Ralsei are left alone. They approach a save point.*
+**[Save Menu]**
 *They move on and see a golden statue of Berdly stuck in a toilet in a bathroom.*
 Ralsei: "When are they gonna be done in there?"
 *Kris and Ralsei approach a large green river of acid. A monitor hangs on the wall.*
@@ -1961,6 +2009,7 @@ Ralsei: "It's, um... It's actually a rejected, uh, design we made..."
 Rouxls Kaard: "Ha ha, and Soone, THOU shalt tasteth Rejection"
 Rouxls Kaard: "Firsthandeth, in the form of varieth Bulletst!"
 *A "Capture the Houses" minigame-battle begins.*
+**[Battle Text]**
 *   **Ralsei: "Umm, Mr. Kaard? What happens if WE win?"
 *   **Rouxls Kaard: "STOP!!! STOP BUILDINGETH HOUSES!! I HAVE TO WIN!!!"
 *   **Rouxls Kaard: "It seemseth the Game hath been Overed!"
@@ -2201,9 +2250,11 @@ Susie: "Man, we gotta work on your delivery."
 *Susie helps Ralsei up.*
 Susie: "Anyway, let's go."
 *The team reunites. They approach a save point.*
+**[Save Menu]**
 *The team goes up the stairs.*
 *They enter a room where a Werewire is waiting.*
 *A battle with the Werewire begins.*
+**[Battle Text]**
 *After the victory, the team moves on. Susie gets in an elevator.*
 *Kris and Ralsei go to another room where they find a statue of Susie.*
 Susie: "(... huh, never seen Noelle wear anything like this...?)"
@@ -2246,6 +2297,7 @@ Queen: "It Will Be A Shame To Force You To Serve Me"
 Queen: "An Enjoy"
 *A battle with Queen on her flying throne begins.*
 *The battle begins. Queen is sitting on her throne, and Berdly is hanging from a wire, connected to her throne.*
+**[Battle Text]**
 Ralsei: "Queen, think of the Lightners! Aren't we supposed to make them happy?"
 Queen: "Is That Not What I Am Doing?"
 Queen: "Think Lightners Have Already Been Enslaved By Me And My Kin"
@@ -2295,6 +2347,7 @@ Berdly: "Haha! Well enough tales, Kris. Good luck."
 Berdly: "May the smarts... NOT be with you."
 Ralsei: "Okay."
 *Kris and Ralsei are left alone. They approach a save point.*
+**[Save Menu]**
 *On the roof, against the backdrop of the night city, stands Queen. Noelle and Berdly are trapped in cages. Berdly is connected to a wire hanging from above.*
 Queen: "The Knight"
 Queen: "Today, It Deigned To Create This World"
@@ -2386,6 +2439,8 @@ Rouxls Kaard: "Whatevereth this thingeth is!!"
 Queen: "Finally... a worthy opponent."
 *The battle takes place in a fighting game style.*
 *The Giga Queen robot starts to smoke and overheat.*
+**[Battle Power... Dropping...]**
+**[Overheat... Activated]**
 Queen: "Listen Well"
 Queen: "You May Have Defeated Me"
 Queen: "But I Still Possess One Thing"
@@ -2405,6 +2460,7 @@ Noelle: "W..."
 Queen: "What's... Wrong... Noelle?"
 Queen: "I Know It Would... Make You... Happy"
 Queen: "Or... Should I, With The Last 1% Of My Battery..."
+(Queen theatrically crushes Kris and Susie)
 Queen: "Crush Susie Into 8... Bits?"
 Noelle: "Leave..."
 Noelle: "Leave her alone!"
@@ -2467,6 +2523,7 @@ Ralsei: "Do you realize what will happen if you do that?"
 Berdly: "I... we'll... just..."
 Ralsei: "You'll bring the Roaring."
 *A cutscene begins where Ralsei explains what "The Roaring" is. Apocalyptic landscapes are shown, where the earth cracks and giant Titans emerge from the fountains.*
+**[Text during Roaring cutscene]**
 *The cutscene ends. Everyone on the roof is in shock.*
 Queen: "Oh Damn I Did Not Know That"
 Ralsei: "You... didn't?"
@@ -2594,6 +2651,7 @@ Susie: "Let's go."
 Susie: "..."
 Susie: "(Hey Kris, shouldn't we go check on Lancer?)"
 Susie: "(He should be back in the school closet, right...?)"
+--- [Pause/Transition] ---
 *Kris and Susie go into the closet.*
 *Kris and Susie return to Castle Town and place Lancer on the ground. He comes back to life.*
 Lancer: "Hoho! I'm back, baby!"
@@ -2604,15 +2662,19 @@ Queen: "So This Is Your "Castle Town". It's Not Bad. Kris, Susie... On Behalf of
 King: "Hmph. Do what you please with the boy. But if he cries... Bounce him on the ground like a ball."
 Queen: "I Think It Is Time To A"
 King: "... As you wish."
+--- [Pause/Transition] ---
 *Kris and Susie leave the school. It is now evening.*
 Susie: "Alright, let's go."
 *Kris and Susie walk through the town. They approach the Town Hall.*
+**[Town Hall]**
 *Inside the Town Hall are several characters.*
 Receptionist: "Oh, I'm sorry. You're looking for the mayor. She's very busy."
 Bear: "That bald guy keeps trying to show me something from his briefcase. Is it a bribe?"
 Athlete: "PUT ME IN, COACH!!!"
 Business Baby: "Well well. If it isn't the teens. Our beloved "rats of the city." You wanna get a job? You better graduate from Diaper School first. That's what I did. And look at me now. I don't have a job."
+--- [Pause/Transition] ---
 *Kris and Susie approach the bunker in the south of the town. Monster Kid and Snowy are standing there.*
+**[Bunker]**
 Snowy: "You think it's true? You really think there's..."
 Monster Kid: "What, you chicken? Haha, you gotta beak and wings? Like a chicken?"
 Snowy: "I ain't afraid! Only kids believe that stuff!"
@@ -2628,7 +2690,9 @@ Susie: "... What's... the deal with this place?"
 Susie: "Well, you don't gotta talk about it."
 *Kris approaches the bunker door.*
 *It's locked.*
+--- [Pause/Transition] ---
 *Kris and Susie go to the hospital.*
+**[Hospital]**
 *In Rudy's room.*
 Noelle: "SUSIE!? WHY ARE YOU HERE!?"
 Rudy: "Susie! Nice! Heard a lot about you!"
@@ -2642,6 +2706,7 @@ Susie: "Huh?"
 Rudy: "Hahaha! Hahahaha!! Just kidding!! Well, kinda kidding."
 *Rudy starts coughing.*
 Rudy: "What is it, Krismas?"
+>**(Choose an option)**
 [Player Choice: >**Current situation**]
 [Player Choice: >]
 > >**Rudy: "Heheh... seems like, I need some more tests. So just... gotta wait it out. They can't keep me down for too long, baby! Sooner or later, I'll be back on my feet! 'Sides, your dad ain't much without his main man!"
@@ -2656,8 +2721,11 @@ Rudy: "What is it, Krismas?"
 [Player Choice: >**Nothing**]
 [Player Choice: >]
 > >**Rudy: "Heh, not much of a talker, huh? That's fine."
+--- [Pause/Transition] ---
 *Kris and Susie go to Sans's store.*
+**[Sans's Store]**
 Sans: "hey. hey. welcome to the convenience store. you wanna buy something, put it in a basket and bring it here. in case you didn't know what a store was."
+>**(Choose an option)**
 [Player Choice: >**Buy things**]
 [Player Choice: >]
 > >**Sans: "hey, what's up"
@@ -2679,8 +2747,11 @@ Sans: "hey. hey. welcome to the convenience store. you wanna buy something, put 
 [Player Choice: >**Nothing**]
 [Player Choice: >]
 > >**Sans: "alright."
+--- [Pause/Transition] ---
 *Kris and Susie approach an alley where Bratty is sitting.*
+**[Bratty's Alley]**
 Bratty: "(snicker, snicker) Like, Lil Krissy, you hear? That, uh, guy at the pizza place? God, what was his name? Pizzapants? Heard he got, like, a SUPER hot girlfriend. What was her name? Like, uh... Hahahah... haha... Pizza... rina? Hahahah. Anyway, what, did you like, wanna talk?"
+>**(Choose an option)**
 [Player Choice: >**Talk**]
 [Player Choice: >]
 > >**Bratty: "Krissy, like, GUESS what? Today I like, went to the beach to play my uke, and... Like, guess who's ALREADY there? That COPYCAT, playing the same song I wanted to play. Oh my god. Cat on the beach. Grody. Did she, like, get lost looking for the litter box? So like, I try to like, play the same song, too... To, you know, assert my ukelele dominance. And we end up, ugh - get this - Playing the whole song. TOGETHER. Like, oh my god, who does this girl think she IS? She thinks she can just, like, HARMONIZE with me!? Ugh."
@@ -2690,13 +2761,17 @@ Bratty: "(snicker, snicker) Like, Lil Krissy, you hear? That, uh, guy at the piz
 [Player Choice: >**Susie**]
 [Player Choice: >]
 > >**Bratty: "OMG, it's, like, SO sweet you have a nasty dirty little friend. But like... this is MY polluted alleyway? So like... I think I might have to go to the mayor and get a traffic sign? That says like, no plus-ones. Because, like... okay?"
+--- [Pause/Transition] ---
 *Kris and Susie approach the pizzeria.*
+**[ICE-E'S P'ZZA]**
 Pizzapants: "Little buddy! You aren't gonna BELIEVE this!! I'VE!!! Got a GIRLFRIEND!!! Asriel!! You've GOT to tell Asriel RIGHT NOW!! He's gonna be so proud of me!!! ... Huh? What's she look like? Ah, Little BUDDY. How do I put it... I... I... don't actually know!! I haven't met her in real life!! But from her online profile... God, Little Buddy. She must be STACKED."
 [Player Choice: Lie and say you want to hear more]
 Pizzapants: "So far, she's the perfect girl, little buddy. She loves pizza, AND bikes. And to top it off... she sent me a picture. Of herself. Wearing a pizza bikini. Look!!! LOOK AT THIS!!! GOD DAMN!!!!"
 *It's several pixels that vaguely resemble a zoomed-in JPEG of a pepperoni pizza.*
 Pizzapants: "Yes, I know what you're thinking, Little Buddy. Her camera. Is not. Of the highest caliber. But to a scholarly man of the world like myself, This is what love looks like, Little Buddy."
+--- [Pause/Transition] ---
 *Kris and Susie approach the police station, where Alphys is talking to Undyne.*
+**[Police Station]**
 Susie: "Uh oh. Alphys. Hell if I'm going any further. Already close enough to getting banned from school. Don't wanna be banned from outside of school too. (... that's a thing, right?)"
 *Kris goes inside.*
 Undyne: "HEY!!! Uhh, punk! Anything to report!?"
@@ -2712,6 +2787,7 @@ Undyne: "Look, "GET WELL SOON"'S ALL THE STORE HAD!! OPEN IT AND I'LL ARREST YOU
 Alphys: "H... huh? Kris? Do you have something for me?"
 [Player Choice: Give chocolate]
 Alphys: "H.. huh...? Kris...? What is that you're giving me...? A... a box of... heart shaped ch... chocolates? W-woah, Kris... I... ... What? It's from the... police? You mean sh.. SHE's giving me this... um... Un... Um... Get well soon? Gift? To my bike? A-and um, there's a note on this that says, "Open this and I'll arrest you, you little punk." Kris, I... I... Tell her I... uh, appreciate it?"
+>**(Choose an option)**
 [Player Choice: >**Complain**]
 [Player Choice: >]
 > >**Alphys: "C... complain? About what?"
@@ -2727,10 +2803,13 @@ Alphys: "H.. huh...? Kris...? What is that you're giving me...? A... a box of...
 [Player Choice: >**See ya**]
 [Player Choice: >]
 > >**Alphys: "Oh, how's your project going with, err... Susie? What? Y-you went to the LIBRARY!? Together!? With Noelle and Berdly!? Th-that's amazing, Kris!! And, you're not hurt or anything...? This has nothing to do with me, but the Teen Zone... Seems to have some... g-good anime reviews, you know? Not sure if you and the gang, were, Ch-checking that out as you studied? Next time you go you might want to... Casually bring that up, among your fellow teens. I... I know your dad liked Mew Mew 2 at least!! A-again, nothing to do with me!! Eheheh!!"
+--- [Pause/Transition] ---
 *Kris and Susie approach the graveyard.*
+**[Graveyard]**
 Susie: "... So, uh, this is your idea of hanging out, Kris? Going to the graveyard? ... works for me I guess."
 *They approach Gerson's grave. His son, Alvin, is standing there.*
 Alvin: "Kris. Welcome. Did you seek something from me?"
+>**(Choose an option)**
 [Player Choice: >**Gerson**]
 [Player Choice: >]
 > >**Alvin: "It's been a few years since my father passed on... Fans of his famous book series, Lord of the Hammer... We still received condolences from them until just recently. A brave warrior... Kris, it is a shame you were not able to have him as a teacher. And, difficult for Ms. Alphys, as his replacement. Let us pray that the Angel will smile upon her."
@@ -2830,16 +2909,20 @@ Susie: "That... sounds good to me! Yeah!"
 Toriel: "Splendid! I will make sure everything is in order."
 Toriel: "Just... call your parents, will you not?"
 Susie: "Yeah, of course!"
+(Susie pretended the call)
 Susie: "So what the hell, a sleepover?  Damn, I haven't had one of those in forever, heh..."
 Susie: "(Hey, Kris, it's not like someone has to tell you to sit, right!?)"
 Susie: "There, chill out for a sec! So now what?"
 Susie: "I got it! Maybe... between... the pillows... here? There! Knew I'd find the remote in there! You can always find good stuff wedged in the couch. Jeez, it's dusty. When'd you last use this thing?"
 Susie: "Heheheh! *Now lemme just... get comfortable, here, and... There!... Well, who cares! Let's just watch TV! So what are we gonna marathon tonight? Blood Crushers 3? Hell Busters? Invasion of the Cat Petters? Heh, maybe ICE-E The Movie's more your speed, huh, Kris? HAHAHAHA!!! HAHAHAHA!!! Hahahaha... haha... ha..."
+--- [Pause/Transition] ---
 *Kris and Susie watch TV.*
 Susie: "It's been a good day, huh, Kris? You, Ralsei, Lancer, everyone... It's... just cool hanging out together, right? ... that's why, y'know... Don't you think we should... Try to have them come to OUR world?"
 Susie: "Now THIS is something we can MARATHON! Are you READY Kris? For 12 hours of building-bashing, car-crunching action!? 'cause we are LOCKED IN. Got it? I better not see you move until your eyes are bloodshot!"
 Susie: "Heheheh! *Now lemme just... get comfortable, here, and... There!"
 *... Susie fell asleep.*
+--- [Pause/Transition] ---
+*Toriel calling a police mid-night.*
 Toriel: "Officer...? Officer...?"
 Toriel: "Thank goodness, I finally got through..."
 Toriel: "I thought I saw someone prowling around outside..."

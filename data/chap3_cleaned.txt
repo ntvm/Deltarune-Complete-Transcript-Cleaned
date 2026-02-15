@@ -1,6 +1,16 @@
+CHAPTER 3
+Please select a file.
+♥ [EMPTY] ---
 RRG 3: "15:29"
+TV World - Cooking Show
 RRG 3: "36:43"
+Cold Place
+Copy Erase Chapter Select
+Ch 2 Files English End Program
+ENTER YOUR OWN NAME.
 [Player Choice: KRIS]
+THIS IS YOUR NAME.
+KRIS
 [Player Choice: NO / ♥ YES]
 Susie: "H..."
 Susie: "H... huh!?"
@@ -15,7 +25,9 @@ Susie: "Let's see what else is around."
 *Kris and Susie walk across a bridge made of the same material as the couch.*
 *A stale wind... you stifle a sneeze.*
 *You are filled with the power of not sneezing.*
+**[Save Menu]**
 *   Player LV 3 0: "01:52"
+**[Save Menu]**
 *Kris and Susie continue walking. Ralsei appears from under the bridge.*
 Ralsei: "W-wait for me!"
 Susie: "Ralsei!"
@@ -248,6 +260,7 @@ Mr. Tenna: "And maybe learn to LOVE each other a little along the way."
 Mr. Tenna: "Now, don't TOUCH THAT DIAL, and don't STOP THOSE SMILES!! Because..."
 Mr. Tenna: "IT'S!! TV!! TIME!!!"
 *The scene continues in the 8-bit game "The Legend of Tenna". Kris, Susie, and Ralsei, as pixelated avatars, are in a desert.*
+**[TV Time Game Screen]**
 Mr. Tenna: "Welcome to the WORLD of TV TIME!!"
 Mr. Tenna: "Now begin! Our state of the art... adventure!!!"
 Susie: "Hey, I can move. Cool."
@@ -263,6 +276,7 @@ Pink TV Guy: "GOOD LUCK!"
 Susie: "Where's the "shut up" button?"
 Mr. Tenna: "Sorry kid, that's premium!"
 *The players approach a shop.*
+**[In-Game Shop Screen]**
 Susie: "How do I kill this guy?"
 Mr. Tenna: "Get in line, kid!"
 *The players continue to explore the desert, collecting stars and coins that add points to their score.*
@@ -274,6 +288,7 @@ Elnina: "OH, MY OASIS! MY OASIS! WITH THE SUNNY MOON REFLECTED IN THE WATER... T
 Mr. Tenna: "Quiz vortex! Watch out!"
 *The team gets caught in the whirlwind. The scene changes to a quiz show.*
 *Kris, Susie, and Ralsei are back on the game show stage at their podiums. A question appears on the big screen.*
+**[Quiz Screen]**
 [Player Choice: ♥ TV-THIRTY!]
 [Player Choice: TV TIME!!!]
 [Player Choice: PAST MIDNIGHT]
@@ -283,6 +298,7 @@ Susie: "Uhhh..."
 Mr. Tenna: "THAT'S EXACTLY RIGHT FOLKS!!! Way to start this quiz with a BANG!"
 Mr. Tenna: "Next question!"
 *The next question appears on the screen with a Ralsei plush toy and a "$32" price tag.*
+**[Quiz Screen]**
 [Player Choice: HIGHER]
 [Player Choice: LOWER]
 [Player Choice: ♥ PRICELESS]
@@ -292,6 +308,7 @@ Ralsei: "My... value...?"
 *The player selects "PRICELESS".*
 Mr. Tenna: "That's right! This little guy costs $32!"
 Mr. Tenna: "Next question!"
+**[Quiz Screen]**
 [Player Choice: CHOCOLATE]
 [Player Choice: ♥ PIE]
 [Player Choice: SALSA]
@@ -305,6 +322,7 @@ Mr. Tenna: "Pie! You loved pie, didn't you? With the family!"
 Mr. Tenna: "You and brother with whipped cream beards..."
 Mr. Tenna: "Right in front of the TV!! Right in front of ME!!"
 Mr. Tenna: "Anyway, onto the results!!"
+**[Results Screen]**
 *   (Score tally: "Kris and Ralsei get points, Susie does not.)"
 *The scene returns to the 8-bit game.*
 Mr. Tenna: "Solve the Quiz, get a Q!!!"
@@ -331,12 +349,14 @@ Mr. Tenna: "But this ain't your normal Saturday night slam fest!"
 Mr. Tenna: "Perform well, and you'll get extra points!!!"
 Mr. Tenna: "For best "results", take no damage, win fast, and get gobs of TP!!!"
 Mr. Tenna: "It's a battle scene! Win hard and fast for extra points!"
+**[Battle Text]**
 Mr. Tenna: "Boo boo for bozos!"
 Mr. Tenna: "Wow!! Our heroes are grazing like goats!!!"
 Mr. Tenna: "Wow!! A spare!!!"
 Mr. Tenna: "Don't adjust your set!! This battle is real, folks!!"
 Mr. Tenna: "Don't adjust your set!! Kris is BLUE, AND FIGHTING AGAIN!"
 *The scene returns to the 8-bit game. The battle results appear on screen.*
+**[Battle Results Screen]**
 *   TURNS: "5 A! AWESOME!"
 *   HURT: "3x B! NOT BAD!"
 *   TP: "100 S! PERFECT!"
@@ -354,7 +374,9 @@ Ralsei: "Kris! I'll protect you!"
 *The team crosses a bridge, collecting coins. They move to the next location.*
 Susie: "Woah, what is that?"
 *Kris picks up a croissant.*
+**[In-game text]**
 Susie: "Whoa, really?"
+**[In-game text]**
 Susie: "Finally, some goddamn GAMEPLAY."
 *Susie in the game picks up a pot and throws it at Ralsei.*
 Ralsei: "Watch what you're throwing!"
@@ -386,10 +408,12 @@ Mr. Tenna: "But this ain't your normal Saturday night slam fest!"
 Mr. Tenna: "Perform well, and you'll get extra points!!!"
 Mr. Tenna: "For best "results", take no damage, win fast, and get gobs of TP!!!"
 Mr. Tenna: "It's a battle scene! Win hard and fast for extra points!"
+**[Battle Text]**
 Mr. Tenna: "Boo boo for bozos!"
 Mr. Tenna: "What will our heroes do next!?"
 Mr. Tenna: "Don't adjust your set!! This battle is real, folks!!"
 Mr. Tenna: "Wow!! Our heroes are grazing like goats!!!"
+**[Battle Results Screen]**
 *   TURNS: "6 KINDA SLOW!"
 *   HURT: "3X B! NOT BAD!"
 *   TP: "100 S! PERFECT!"
@@ -433,6 +457,7 @@ Mr. Tenna: "Pie! You loved pie, didn't you? With the family!"
 Mr. Tenna: "You and brother with whipped cream beards..."
 Mr. Tenna: "Right in front of the TV!! Right in front of ME!!"
 Mr. Tenna: "Anyway, onto the results!!"
+**[Results Screen]**
 *   P: "180"
 *The team returns to the game.*
 Mr. Tenna: "A rousing battle! Mike! Give them a free tube yogurt!"
@@ -444,16 +469,20 @@ Mr. Tenna: "Watch it! Falling rocks!"
 Ralsei: "Kris! I'll protect you!"
 *The team picks up a croissant.*
 Susie: "Woah, what is that?"
+**[In-game text]**
 Susie: "Whoa, really?"
+**[In-game text]**
 Susie: "Finally, some goddamn GAMEPLAY."
 Ralsei: "Watch what you're throwing!"
 Ralsei: "H-hey!"
 Ralsei: "Watch THIS!"
+(Susie throws Ralsei's character into the pond.)
 Ralsei: "I... I'm drowning!!"
 Mr. Tenna: "Ralsei plush! Fill him with liquid, throw him against the wall!"
 Ralsei: "Stop advertising me! I'm dying!"
 *The scene continues in the 8-bit game on the TV screen. The team is in front of another, unsolvable block puzzle.*
 Mr. Tenna: "Another puzzle! Child's play for our heroes!"
+(When the heroes realize the puzzle is unsolvable)
 Mr. Tenna: "Child's play? I meant baby's work! This is bad, folks!"
 Ralsei: "Don't worry, Kris!"
 Ralsei: "According to the manual..."
@@ -467,14 +496,17 @@ Mr. Tenna: "What a great puzzle, folks!"
 *The puzzle is solved. The team moves on and encounters another group of enemies.*
 Mr. Tenna: "Don't adjust your set! Kris is BLUE, and FIGHTING AGAIN!"
 *A battle with Shadowguy begins.*
+**[Battle Text]**
 Mr. Tenna: "Miss something!? The battle will be available on laserdisc!"
 Mr. Tenna: "No damage!? What a show!!!"
+**[Battle Results Screen]**
 *   TURNS: "5 A! AWESOME!"
 *   HURT: "3X B! NOT BAD!"
 *   TP: "100 S! PERFECT!"
 *The team solves another puzzle and enters a bonus zone with coins.*
 Mr. Tenna: "As a reward, a BONUS ZONE!!!"
 Susie: "Hell yeah!"
+(There are about 18 coins in the stash)
 Kris: "What? Only 1 point!?"
 Mr. Tenna: "Hey hey!! We've got a budget!"
 *The team passes through a field of cacti.*
@@ -489,8 +521,10 @@ Susie: "Watch what?"
 Ralsei: "SUSIE!!"
 *Eventually, the bombs run out, and a key appears instead, which Susie picked up by spamming the 'pick up' button. The team gets the key.*
 Mr. Tenna: "Well, some of you survived! Take a key!"
+**[In-game text]**
 *The team returns to the waterfall.*
 Susie: "It's easy if you hold something over your head."
+(Susie uses Ralsei as a living umbrella, causing him to take damage.)
 Ralsei: "HEY!!!"
 Mr. Tenna: "Watch it! Falling peaches!!"
 Ralsei: "Didn't you say rocks, before?"
@@ -507,6 +541,7 @@ Lancer: "HO HO HO! YOU HAVE RESCUED ME!"
 Lancer: "I WILL GIVE YOU EVERYTHING I HAVE!....."
 Lancer: "AND, ALL I HAVE, IS MYSELF!"
 *Lancer joins the team in the game.*
+**[In-game text]**
 *The team solves a few more puzzles and collects coins, then returns to the Sphinx.*
 Sphinx: "WOW, YOU GOT TWO Q'S JUST FOR ME!?"
 Sphinx: "OH, OH, THAT'S MUCH BETTER!"
@@ -536,11 +571,13 @@ Mr. Tenna: "He got embarrassed about liking the green dinosaur..."
 Mr. Tenna: "...and switched to being a big fan of the fiery magician girl!"
 Mr. Tenna: "Which is, maybe its own type of embarrassing, but..."
 Mr. Tenna: "...Anyway, onto the results!!"
+**[Results Screen]**
 *   P: "1200"
 *The team returns to the game.*
 Sphinx: "WELL DONE. FOR YOU THAT KNOWS, A NOSE!"
 *The Sphinx's nose falls off, revealing a passage.*
 *The team goes through, Susie destroys all the pots and gets a second key.*
+---
 *The team looks at a dead end made of cacti.*
 Susie: "Man, it'd be cool to have, like, a weapon."
 Susie: "You could like... cut everything down."
@@ -555,6 +592,7 @@ Lancer: "HOW'S THAT!? A KEY FOR YOU!!"
 Lancer: "AS A BONUS, I BLOCKED THE WATER FROM FLOWING."
 Lancer: "BYE NOW!"
 *The team picks up the key.*
+**[In-game text]**
 *The team now has 3 keys.*
 Pippin: "THE RESERVOIR IS CLUGGED WITH STONE."
 Pippin: "NOW, WHAT HAPPENS TO OASIS?"
@@ -574,6 +612,8 @@ Mr. Tenna: "All you have to do is say "I love to watch TV" 99 times and you will
 Ralsei: "Ninety... Ni--"
 Mr. Tenna: "Let's hear it!!"
 *The battle with Lanino and Elnina begins.*
+**[ACT Menu] Check / ♥ ILoveTV / ILoveTVX **
+**[Battle Text]**
 Lanino: "Tonight's weather is..."
 Elnina: "Tonight's weather is..."
 Lanino: "Moon."
@@ -612,6 +652,7 @@ Elnina: "Y-you really think ANYONE can do a RAIN attack..."
 Lanino: "H-huh? Uh..."
 Elnina: "Fine... I get it... I'm just raining on your parade..."
 Elnina: "Goodbye..."
+(Elnina disappears.)
 Lanino: "Who needs a wet blanket like her anyway!?"
 *Lanino is ecstatic. His weather forecast cards show "999".*
 Lanino: "Nice move, huh, Elnina!?"
@@ -628,10 +669,12 @@ Mr. Tenna: "HAHA!! I LOVE WATCHING TV!!!"
 *The "I Love TV" counter quickly reaches 99 after Tenna praises himself the remaining 76 times.*
 Mr. Tenna: "Ok battle's over folks See you later!!!"
 *The game returns to 8-bit mode.*
+**[Battle Results Screen]**
 *   TURNS: "7 S! PERFECT!"
 *   HURT: "13X BIG OUCH!"
 *   TP: "89 S! PERFECT!"
 *The team receives the MOONCLOUD STONE.*
+**[In-game text]**
 *For some reason, the team returns to the cacti. Kris finds a shy cactus, moves it aside, and gets a key.*
 *The team approaches the pyramid and uses three of the four keys plus the Mooncloud Stone.*
 Mr. Tenna: "This is it! Your final test!"
@@ -666,15 +709,19 @@ Mr. Tenna: "Now get those pans over easy, or these eggs are gonna be TOUGH!"
 Mr. Tenna: "IT'S!! TV!! TIME!!!"
 *Mr. Tenna disappears. The cooking minigame begins.*
 *A timer and a popularity meter appear on the screen. Susie and Ralsei (in chef outfits) start throwing ingredients from their kitchen stations. Kris must catch them and stack them on their head.*
+**[On-screen text]**
 *   SCORE: "0"
 *   POPULARITY: "★★★★★"
 *   TIME: "97"
 *  : "Throw (B): Jump"
 *Kris successfully catches milk, eggs, bowls.*
+**[On-screen text]**
 *Lanino (Sun) appears and starts running back and forth.*
 *Kris continues to catch.*
+**[On-screen text]**
 *Elnina (Cloud) appears and starts running back and forth.*
 *Kris continues to catch, the stack on their head getting taller and taller, then distributes the food to the customers. Time runs out.*
+**[On-screen text]**
 Mr. Tenna: "THAAAT'S IT!!!"
 Mr. Tenna: "Well, would you LOOK at those smiling customers!?"
 Mr. Tenna: "They're happy as yet-to-be-cooked clams!"
@@ -684,10 +731,12 @@ Susie: "So did we win?"
 Mr. Tenna: "What do you THINK? That was the most UNFORGETTABLE show in prime time!!"
 Mr. Tenna: "MIKE! Show the results of THE BOARD!"
 *An evaluation screen appears.*
+**[EVALUATION Screen]**
 Ralsei: "Look Kris!! We won!!! We won!!!"
 Susie: "Woah, it's over already? Damn, we were just having fun!"
 Ralsei: "See you next episode everyone!!"
 *The show's credits begin to roll.*
+**[TV TIME CREDITS]**
 Mr. Tenna: ":** * STOP! STOP! STOP!!!"
 Mr. Tenna: "It CAN'T be over already!! NO!!"
 *The "FUN-O-METER" thermometer rises to 80%.*
@@ -728,7 +777,9 @@ Lancer: "Now, I gotta go press buttons for pennies..."
 Lancer: "See you in the funny stages!"
 *Lancer leaves through the door.*
 *Kris looks around the room.*
+**[Save Menu]**
 *   BLUE LV 3 13: "03:03"
+**[Save Menu]**
 *Kris approaches the game console where Susie is sitting.*
 Susie: "Wanna play, Ralsei? It's got racin"
 Ralsei: "M... me? No, I'd rather just watch you two!"
@@ -790,9 +841,11 @@ Ramb: "You wanna talk more? Shh! Let's do it in the dressing room."
 [Player Choice: ♥ Buy / Don't Buy]
 Susie: "You don't get money for sticking stuff in the machine, dumbass!"
 Susie: "That's like the first thing ANYONE tries."
+**[Vending Machine - Buy Menu]**
 *The player buys a TVDinner and a DeluxeDinner.*
 *Item placed in STORAGE.*
 *Kris saves the game.*
+**[Save Menu]**
 *Kris approaches Susie.*
 Susie: "Ralsei, would you lick an old TV for 50 bucks?"
 Ralsei: "Err... Umm... depends... what's on TV?"
@@ -807,6 +860,7 @@ Pippin: "One day when I accidentally broke the rules, this guy stood by my 6 sid
 Pippin: "Since then, I decided to play fair. ... y'know, if it helps this guy out!"
 Pippin: "Hey Kris, remember the Flying Aces? ... Well, me neither..."
 *Kris approaches a vending machine in the hallway.*
+**[Vending Machine - Buy Menu]**
 *Kris exits the menu. The team moves on and enters the rewards room.*
 *The team enters the door with the letter "C". Inside is a small room with two Pippin characters standing on either side of a water cooler.*
 *Kris approaches the cooler. It starts to vibrate.*
@@ -895,6 +949,7 @@ Rabbik: "(I'm sure you'll take me back to Castle Town later.)"
 *Shadowguy let out a funny scream while putting on his socks. Then the curtain closed again.*
 *Kris approaches the second curtain.*
 *The player opens the inventory and equips the Saber10.*
+**[Item Description]**
 *   **Saber10: "A saber made of 10 cactus needles. Fortunately, can deal more than 10 damage."
 *Kris approaches Ramb, who is now standing by the entrance.*
 Ramb: "Ah, Kris. Look at you, a dressing room big shot! Cheers, cheers."
@@ -923,6 +978,7 @@ Ramb: "Freedom's just a thing for big shots."
 *An 8-bit minigame in the style of The Legend of Zelda - Mantle begins.*
 *The player controls a blue sprite of Kris, which has just layered over a red SOUL. At first, the player is helpless, wandering the map in search of a sword and eventually stumbling upon a hatch. The sword is found. First, Kris destroys purple ghosts, reaching level two, then lime-green ones (which throw arrow projectiles) and another pair of purple ones, finally beating the only Fish on the map and leveling up to LV3. Now the player can chop down cacti. Then he enters an ice zone, where he fights enemies and reaches LV4. (The player can even destroy trees). After that, the player looks for a place on the map where there are trees instead of a wall and enters a pseudo-infinite forest. The player must chop down trees and move to 'Adjacent cells' until they find a red chest containing the Ice-key.*
 *Kris opens the chest.*
+**[In-game text]**
 *A rapid succession of glitchy images and sounds occurs on the screen. The game ends.*
 *Kris returns to reality, standing in front of the turned-off screen.*
 Ramb: "Kris! How was it? Lots 'o fun?"
@@ -952,6 +1008,7 @@ Attendant: "A-Door is for ARCADE. You can replay a PHYSICAL CHALLENGE for fun."
 Attendant: "B-Door is for BALL MACHINE. Spend points to earn random prizes!"
 Attendant: "C-Door is for COOLER. Feel free to have a drink."
 *Kris approaches the reverse vending machine.*
+**[Reverse Vending Machine - Sell Menu]**
 *The player sells several items, including a DogDollar and a LancerCookie.*
 *Kris approaches Lanino, who is standing in the corner.*
 Lanino: "Oh, you three! It is I, Lanino. The Green Room was, BUSY, so I'm in here."
@@ -982,6 +1039,7 @@ Ralsei: "Wonder what we'll end up playing...?"
 Susie: "Guess a game about a giant question mark..."
 [Player Choice: ♥ Play COOKING SHOW / Quit]
 *(The cooking minigame replays. The process is identical to the previous one: "Kris catches ingredients thrown by Susie and Ralsei and serves the finished dishes. Lanino and Elnina appear again as special guests. After completion, the player receives an S-RANK on the results screen.)*"
+**[CHEF RESULTS Screen]**
 *   TALLEST STACK: "9"
 *   FOODS WASTED: "15"
 *   HAPPY CUSTOMERS: "11"
@@ -1053,9 +1111,11 @@ Mr. Tenna: "Paycuts!!! You guys are actually gonna get paycuts!"
 Mr. Tenna: "Is anybody gonna listen to me!?!?"
 *The Tenna statue is covered in yellow paint and explodes.*
 *The screen turns white, then black.*
+**[SUSIEZILLA RESULTS Screen]**
 *   CLEAR TIME: "0:03:17"
 *   TOTAL SCORE: "610"
 *The team returns to the hallway.*
+---
 *Kris approaches the ball machine again and inserts points.*
 *The player inserts 1225 points, bringing the "GOLD CHANCE" to 100%.*
 *The player confirms the action. The screen darkens. The ball machine disappears, revealing a new passage to the north. The music changes to "FindHer.ogg".*
@@ -1116,6 +1176,7 @@ Susie: "Pff. Can't you even pose?"
 *The team goes outside and encounters enemies.*
 Mr. Tenna: "Don't adjust your set! Kris is BLUE, and FIGHTING AGAIN!"
 *A battle with two Pippins begins.*
+**[Battle Text]**
 Pippin 1: "Rock me, spill me, shock and thrill me!"
 Pippin 2: "Will I win? Or will I win... BIG?"
 Mr. Tenna: "Oh no!! Mike, don't look!!"
@@ -1124,6 +1185,7 @@ Mr. Tenna: "My nose is tingling from the excitement, folks!!!"
 Pippin: "Will I win? Or will I win... BIG?"
 Mr. Tenna: "Our heroes score a pacifist knockdown!!"
 *RECRUIT 2/5*
+**[Battle Results Screen]**
 *   TURNS: "3 S! PERFECT!"
 *   HURT: "1X A! AWESOME!"
 *   TP: "45 B! NOT BAD!"
@@ -1180,6 +1242,7 @@ Susie: "Wow. Looks like mine, dude."
 *At first glance, some coins seem impossible to collect without being two cells tall.*
 Mr. Tenna: "Well, haha, good luck reaching thoose!"
 Mr. Tenna: "I keep my investments SHORT-proof!"
+Umm, let's just go, Susie...
 *Susie collects the coins with Ralsei's head.*
 Ralsei: "W-Wait!"
 Ralsei: "I... I'm covered in ill-gotten gains"
@@ -1212,9 +1275,11 @@ Ralsei: "Wait a second... Your controllers are..."
 Susie: "Look out, Kris! Enemy!"
 Ralsei: "Susie, you can't use Kris's controller!"
 *A battle with three Pippins begins.*
+**[Battle Text]**
 *RECRUIT 3/5*
 *RECRUIT 4/5*
 *RECRUIT 5/5*
+**[Battle Results Screen]**
 *   TURNS: "4 S! PERFECT!"
 *   HURT: "1X A! AWESOME!"
 *   TP: "80 S! PERFECT!"
@@ -1292,6 +1357,7 @@ Shuttah: "COULD YOU AT LEAST TAKE A PHOTO OF ME?"
 Mr. Tenna: "I see you've met Shuttah, our camerathing! Now... Action!"
 *A battle with Shuttah begins.*
 Mr. Tenna: "I see you've met Shuttah, our camerathing! Now... Action!"
+**[Battle Text]**
 Shuttah: "Not in the mood for the photo shoot? Mmm..."
 Shuttah: "Then how about I shoot... YOU?"
 Shuttah: "Aaannd TURN!"
@@ -1329,6 +1395,7 @@ Shuttah: "In the name of..."
 Shuttah: "... THE LOVE."
 *Shuttah disappears. Mercy reaches 100%.*
 *RECRUIT 1/2*
+**[Battle Results Screen]**
 *   TURNS: "10 S! PERFECT!"
 *   HURT: "5X B! NOT BAD!"
 *   TP: "100 S! PERFECT!"
@@ -1383,6 +1450,7 @@ Ralsei: "Umm, they seem a little... inappropriate. Do I have to...?"
 Mr. Tenna: "TOO BAD! NOW, AUDIENCE! Give it up one last time..."
 Mr. Tenna: "IT'S!! TV!! TIME!!!"
 *The main part of the rhythm game begins. The song "Lazy Blue" plays. The player hits notes in time. In the background, Ralsei sings the lyrics, which are displayed on the screen.*
+**[Lyrics during song]**
 *The song ends. The team gets a high score.*
 Ralsei: "Wow, they loved it! I'm starting to feel like a real rocker!"
 Susie: "Yeah, that was sick! Though, uh... Lucky I was carrying you guys. We barely passed."
@@ -1392,6 +1460,7 @@ Mr. Tenna: "That's how you know we've got a REAL winner on our hands, folks!"
 Mr. Tenna: "Anyway, BOARD'S OVER! So without further ado..."
 Mr. Tenna: "Let's see those RESULTS!!!"
 *An evaluation screen appears.*
+**[EVALUATION Screen]**
 *The team returns to the game show stage.*
 Ralsei: "Finally... the game show is over!"
 Ralsei: "Even if that concert was a bit ROCKY... playing music was fun!"
@@ -1401,6 +1470,7 @@ Mr. Tenna: "Wow, folks! Looks like they've reached the end of our FINAL BOARD!"
 Mr. Tenna: "It's sad to say goodbye, but when you gotta go... you gotta go!"
 Mr. Tenna: "MIKE, roll the credits...!"
 *The credits begin to roll.*
+**[TV TIME CREDITS]**
 Mr. Tenna: "STOP!!! BREAKING NEWS!"
 Mr. Tenna: "Due to your SPEED, viewer donations have been POURING IN..."
 Mr. Tenna: "And we have met the SPECIAL INCENTIVE!"
@@ -1542,6 +1612,7 @@ Susie: "Yeah, just walking around and not fighting anything."
 Ralsei: "S-Sorry! We can get going now."
 *The team heads towards the "Stage" door. Kris approaches the vending machine.*
 [Player Choice: ♥ Buy / Don't Buy]
+**[Vending Machine - Buy Menu]**
 *The player buys a GingerGuard, a DeluxeDinner, and a LodeStone. Then buys another GingerGuard.*
 *The team exits into the hallway with the double doors. The guard Zipper is still blocking the path to the door with two stars.*
 Zipper: "No one gets inside. Mr. Tenna's orders."
@@ -1809,7 +1880,9 @@ Susie: "Now's our chance! Let's get out of here!!"
 *The team moves to the right, exiting the balloon room.*
 *The team finds themselves in a large hall with a red carpet. Golden statues of Mr. Tenna stand on the sides. In the background, behind barriers, silhouettes of an enthusiastically applauding crowd are visible.*
 *Kris approaches a save point.*
+**[Save Menu]**
 *   Player LV 3 4: "48:13"
+**[Save Menu]**
 *Tenna passed you by, thinking you had already escaped.*
 Mr. Tenna: "WHAT DO YOU MEAN YOU HAVEN'T FOUHD THE LIGHTHERS YET?"
 Mr. Tenna: "Arrghhh!! You're all... FIRED!!!"
@@ -1835,22 +1908,28 @@ Ralsei: "Why do I have to be the horse...!?"
 *The team moves on and enters a hall resembling a dance floor. In the background, silhouettes of Shadowguys are dancing. The path splits.*
 *The team takes the lower path and encounters enemies.*
 *A battle with a Shadowguy and a Shuttah begins.*
+**[Battle Text]**
 *RECRUIT 2/25*
 *RECRUIT 3/25*
 *The team moves on and encounters the next group of enemies.*
 *A battle with a Shadowguy and two Pippins begins.*
+**[Battle Text]**
 *The screen goes black.*
+**[GAMEOVER Screen]**
 [Player Choice: ♥ CONTINUE / GIVE UP]
 *The battle starts over.*
+**[Battle Text]**
 *RECRUIT 4/25*
 *RECRUIT 5/25*
 *RECRUIT 6/25*
 *The team moves on through the hall, passing dancing silhouettes, and encounters another group of enemies.*
 *A battle with a Shadowguy and a Shuttah begins.*
+**[Battle Text]**
 *RECRUIT 7/25*
 *RECRUIT 8/25*
 *The team moves on and encounters the last group of enemies in this hall.*
 *A battle with a Shadowguy and two Pippins begins.*
+**[Battle Text]**
 *RECRUIT 9/25*
 *RECRUIT 10/25*
 *RECRUIT 11/25*
@@ -1859,7 +1938,9 @@ Ralsei: "Why do I have to be the horse...!?"
 Pippin: "This is the dungeon. Press your luck against security..."
 Pippin: "... or buy your way out."
 *Kris approaches a save point.*
+**[Save Menu]**
 *   Player LV 3 4: "56:25"
+**[Save Menu]**
 *The team goes behind a curtain and finds themselves in a dark dungeon. The words "stealth zone" are written on the wall.*
 Susie: "Always wanted to sneak like this. Let's hit the wall, Kris."
 *The team presses against the wall and slowly moves to the right.*
@@ -1868,6 +1949,7 @@ Susie: "Let's just go super fast."
 *The team quickly slides along the wall to the end of the zone. They approach a trash can.*
 *They enter the next room, filled with trash cans.*
 *A Ribbick jumps out of the trash can. A battle begins.*
+**[Battle Text]**
 Ribbick: "Woo hoo"
 *Mercy increases by 10%.*
 Ribbick: "Guruuuu---"
@@ -1892,6 +1974,7 @@ Ribbick: "Guruuuu---"
 *The battle ends. The team returns to the room.*
 *The team moves on, passing through another "stealth zone" and a room with trash cans, where a Ribbick jumps out of one.*
 *A battle with three Ribbicks begins.*
+**[Battle Text]**
 Ribbick 1: "Sissy snuzz..."
 Ribbick 2: "what's the buzz?"
 Ribbick 3: "hip, hip"
@@ -1914,7 +1997,9 @@ Ribbick 3: "hip, hip"
 *The team navigates a maze of red carpets, surrounded by screens. They reach a final quiz.*
 *A quiz minigame begins. The player must quickly select the correct answers. After several correct answers, the game ends.*
 *The team moves on and finds themselves on a large stage in front of a crowd. In the background is a huge sign "DARKNERS LIVE".*
+**[Save Menu]**
 *   Player LV 3 5: "05:24"
+**[Save Menu]**
 *The team walks across the stage, passing various enemies who are now part of the scenery.*
 *The team walks across the stage, past dancing silhouettes of Shadowguys and Pippins. The lights go out.*
 *Rouxls Kaard's laughter is heard.*
@@ -2068,6 +2153,7 @@ Elnina: "We're on your side now... weather you like it or not!"
 *Lanino and Elnina are recruited.*
 Rouxls Kaard: "Looke. I saidst what I cameth for."
 *Rouxls throws a basket of snacks and disappears.*
+**[Save Menu]**
 *The team moves on across the stage.*
 *The team goes behind a red curtain and finds themselves in a new location—purple cliffs. In the background are mountains and a starry sky. The sound of wind is heard.*
 *The team walks along a narrow path. Along the way, they see several piles of ash from which smoke rises.*
@@ -2155,6 +2241,7 @@ Wizard: "Mumble, mumble..."
 Wizard: "You know, it's quite hard to understand you sometimes."
 Wizard: "Perhaps you should try speaking up!"
 *Kris opens the inventory. In the KEY ITEMS section, there is now a "TripTicket".*
+**[Item Description]**
 *   **TripTicket: "A ticket to nowhere. It shows a map pointing to the left of a red X."
 *Kris tries to discard the ticket but cannot.*
 *Kris approaches the Wizard again.*
@@ -2233,6 +2320,7 @@ Man: "DID YOU REMEMBER TO WRITE THAT DOWN?"
 [Player Choice: ♥ YES / NO]
 Man: "HOW VERY KIND OF YOU."
 Man: "PLEASE TAKE THIS TO REMEMBER ME."
+**(KRIS RECEIVED THE EGG.)**
 Man: "ALTHOUGH, YOU MAY LOSE IT IN ANOTHER DAY."
 Man: "SO BE SURE TO PUT IT SOME WHERE."
 Man: "THERE'S NO SHAME IN AN EGG."
@@ -2271,12 +2359,15 @@ Shuttah: "Because of course... I am the star."
 *Shuttah poses, and Kris takes his picture.*
 *The team moves on and returns to the concert hall.*
 *Some kind of stone statue.*
+//(This Zipper is petrified)
 Pippin: "I don't get it... Shouldn't I have been the one to turn to stone!?"
 Pippin: "W... will he be stuck if he stays like this...?"
 Pippin: "Kris, you should really hurry up and seal the fountain!"
 *The team enters the Green Room.*
+**[Save Menu]**
 *Kris approaches the vending machine.*
 [Player Choice: ♥ Buy / Sell / Talk / Exit]
+**[Vending Machine - Buy Menu]**
 *The player buys several DeluxeDinners.*
 *The team enters the door with the letter "S".*
 *Kris enters the dressing room and goes into the secret room backstage, where Ramb is waiting.*
@@ -2646,6 +2737,9 @@ Susie: "C'mon, we were just getting started!"
 Susie: "Heheh..."
 Susie: "Not so tough NOW, are you?"
 *You got Shadow BlackShard*
+//A dagger-Like shard of the Black Knife.
+//Strikes the weakness of dark-element enemies.
+//16ATK
 *You got Shadow Crystal*
 *Susie swings her axe for a final blow. The Knight instantly recovers its form and parries the blow with its sword. A black shard flies off the Knight's sword.*
 *The screen darkens. The sound of a swift cutting blow is heard.*

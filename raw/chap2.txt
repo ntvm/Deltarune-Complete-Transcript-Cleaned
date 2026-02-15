@@ -711,12 +711,12 @@ Back
 **Ralsei:** * LOST enemies cannot become citizens of our town.
 **Ralsei:** * But, the bonds you break may make you stronger...
 
-**Hathy:** * Lightners! I haven't seen many of you recently.
-**Hathy:** * If you didn't know, an evil ruler is taking over.
-**Hathy:** * I don't really like politics, so I have no opinion on this.
+**Plug guy with hat:** * Lightners! I haven't seen many of you recently.
+**Plug guy with hat:** * If you didn't know, an evil ruler is taking over.
+**Plug guy with hat:** * I don't really like politics, so I have no opinion on this.
 
-**Tasque:** * If you try to talk to me about politics...
-**Tasque:** * We will have no choice but to cross swords...
+**Plug guy with hat:** * If you try to talk to me about politics...
+**Plug guy with hat:** * We will have no choice but to cross swords...
 
 *(Tasques crossed your path!)*
 *(Susie roared!! The enemies became TIRED.)*
@@ -4107,6 +4107,8 @@ Back
 *(... Susie fell asleep.)*
 
 <----->
+
+*(Toriel calling a police mid-night.)*
 
 **Toriel:**Officer...? Officer...?
 **Toriel:**Thank goodness, I finally got through...
