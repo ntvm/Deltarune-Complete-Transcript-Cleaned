@@ -3836,7 +3836,7 @@
 {"context": "Scene: Obj Church Aftermath", "speaker": "Ralsei", "text": "SUSIE"}
 {"context": "Scene: Obj Church Aftermath", "speaker": "Ralsei", "text": "[Horrified face]* SUSIE, WAIT!!"}
 {"context": "Scene: Obj Church Aftermath", "speaker": "Narrator", "text": "Kris and Ralsei follow her."}
-{"context": "Scene: Obj Church Aftermath", "speaker": "[NOTE", "text": "SUSIE BROKE THE LAST PROPHECY. PLAYERS WILL NEVER SEE THE SPECIFIC ENDING OF THE PROPHECY. ONLY SUSIE, RALSEI AND THE KNIGHT KNOW THE FINAL TRAGEDY (also Kris potentially knowing the ending). IT IS HEAVILY IMPLIED THAT SOMETHING TERRIBLE HAPPENS, GIVEN THAT THE DELTA RUNE TRIANGLE IS SHATTERED IN HALF EXACTLY ON SUSIE'S SIDE.]"}
+{"context": "Scene: Obj Church Aftermath", "speaker": "SYSTEM", "text": "[NOTE: SUSIE BROKE THE LAST PROPHECY. PLAYERS WILL NEVER SEE THE SPECIFIC ENDING OF THE PROPHECY. ONLY SUSIE, RALSEI AND THE KNIGHT KNOW THE FINAL TRAGEDY (also Kris potentially knowing the ending). IT IS HEAVILY IMPLIED THAT SOMETHING TERRIBLE HAPPENS, GIVEN THAT THE DELTA RUNE TRIANGLE IS SHATTERED IN HALF EXACTLY ON SUSIE'S SIDE.]"}
 {"context": "Scene: Obj Prophecy Break", "speaker": "Narrator", "text": "THE LAST PROPHECY. THE STORY'S END."}
 {"context": "Scene: Obj Prophecy Break", "speaker": "Narrator", "text": "AND THEN. WHEN ALL HOPE IS LOST FOR THE TALE"}
 {"context": "Scene: Obj Prophecy Break", "speaker": "Narrator", "text": "THE FINAL TRAGEDY UNVEILS."}
@@ -4067,4 +4067,4 @@
 {"context": "Scene: Obj Krisroom Night Final", "speaker": "Narrator", "text": "Ring Ring Ring."}
 {"context": "Scene: Obj Krisroom Night Final", "speaker": "...", "text": "Kris..."}
 {"context": "Scene: Obj Krisroom Night Final", "speaker": "...", "text": "... don't forget, Kris..."}
-{"context": "Scene: Obj Krisroom Night Final", "speaker": "[NOTE", "text": "Speaker deliberately ambiguous. Candidates: Dess, Carol, Rudy. Voice matches opening monologue speaker tag but identity is unconfirmed by game. Do NOT attribute to Susie or any specific character in JSONL metadata.]"}
+{"context": "Scene: Obj Krisroom Night Final", "speaker": "SYSTEM", "text": "[NOTE: Speaker deliberately ambiguous. Candidates: Dess, Carol, Rudy. Voice matches opening monologue speaker tag but identity is unconfirmed by game. Do NOT attribute to Susie or any specific character in JSONL metadata.]"}
