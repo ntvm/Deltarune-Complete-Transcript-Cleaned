@@ -26,7 +26,7 @@ size_categories:
 license: cc0-1.0
 ---
 
-# Deltarune Chapters 2 & 3 Dataset
+# Deltarune Chapters 2 3 & 4 Dataset
 
 This dataset contains cleaned and formatted transcripts from **Deltarune Chapter 2**, **Chapter 3** and alpha version of **Chapter 4**(English).
 It is processed from video-to-text logs to provide high-quality dialogue and narrative text for NLP tasks.
