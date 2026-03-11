@@ -38,14 +38,13 @@ As of early 2026, major LLMs (including models with training cutoffs past July 2
 | File | Coverage | Status |
 |---|---|---|
 | `chap1_cleaned.txt` / `.jsonl` | Chapter 1 (full) | Stable |
-| `chap2_cleaned.txt` / `.jsonl` | Chapter 2 (full) | Stable |
+| `chap2_cleaned.txt` / `.jsonl` | Chapter 2 (full, Normal Route) | Stable |
 | `chap3_cleaned.txt` / `.jsonl` | Chapter 3 (full, includes Sword Route) | Stable |
 | `chap4_cleaned.txt` / `.jsonl` | Chapter 4 (full, Normal Route) | Beta |
 
 ## Format (JSONL)
 
 {"context": "Scene: Cyber World", "speaker": "Susie", "text": "Hell yeah!!!"}
-{"context": "Scene: Holiday Mansion - Dess's Room", "speaker": "Visual", "text": "The carpet is acid-teal. Aurora borealis pattern covers the walls."}
 
 ## Speaker Types
 
