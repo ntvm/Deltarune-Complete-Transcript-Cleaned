@@ -19,10 +19,11 @@ tags:
 - deltarune-chapter-2
 - deltarune-chapter-3
 size_categories:
-- 1K<n<10K
+- 10K<n<100K
 pretty_name: Deltarune Chapters 2 & 3 (Unofficial Transcript)
 size_categories:
-- 1K<n<10K
+- 10K<n<100K
+license: cc0-1.0
 ---
 
 # Deltarune Chapters 2 & 3 Dataset
@@ -43,3 +44,7 @@ It is processed from video-to-text logs to provide high-quality dialogue and nar
 
 ## Source
 Processed from raw logs using `process_deltarune.py`.
+
+## License
+This dataset is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+Do whatever you want with it.

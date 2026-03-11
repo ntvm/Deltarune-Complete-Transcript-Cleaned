@@ -184,7 +184,7 @@
 {"context": "Scene: Obj Tvworld Intro", "speaker": "Narrator", "text": "The sensation of your screen"}
 {"context": "Scene: Obj Tvworld Intro", "speaker": "Narrator", "text": "The show that makes you scream"}
 {"context": "Scene: Obj Tvworld Intro", "speaker": "Narrator", "text": "Say it with him, folks!"}
-{"context": "Scene: Obj Tvworld Intro", "speaker": "Narrator", "text": "MR. (And) TENNA'S TV TIME!!"}
+{"context": "Scene: Obj Tvworld Intro", "speaker": "Narrator", "text": "MR. (Ant) TENNA'S TV TIME!!"}
 {"context": "Scene: Obj Mr Tenna Intro", "speaker": "Narrator", "text": "The title card ends. Mr. Tenna appears on the bridge in front of the team."}
 {"context": "Scene: Obj Mr Tenna Intro", "speaker": "Mr. Tenna", "text": "What Lovely contestants we've got TODAY, folks---!!!"}
 {"context": "Scene: Obj Mr Tenna Intro", "speaker": "Ralsei", "text": "Con... Contestants?"}
@@ -600,7 +600,7 @@
 {"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Mr. Tenna (viewer)", "text": "As a reward, a BONUS ZONE!!!"}
 {"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Susie (viewer)", "text": "Hell yeah!"}
 {"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Narrator", "text": "There are about 18 coins in the stash"}
-{"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Kris (viewer)", "text": "What? Only 1 point!?"}
+{"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Susie (viewer)", "text": "What? Only 1 point!?"}
 {"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Mr. Tenna (viewer)", "text": "Hey hey!! We've got a budget!"}
 {"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Narrator", "text": "The team passes through a field of cacti."}
 {"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Mr. Tenna (viewer)", "text": "Ouch! Don't touch the cactuses!"}
@@ -804,7 +804,6 @@
 {"context": "Scene: Obj Tvworld Game Desert End", "speaker": "Pink TV Guy", "text": "A GRUELING ENCOUNTER THAT WILL TEST ALL OF YOUR SKILLS."}
 {"context": "Scene: Obj Tvworld Game Desert End", "speaker": "Pink TV Guy", "text": "ARE YOU PREPARED... FOR THE WORST?"}
 {"context": "Scene: Obj Tvworld Game Desert End", "speaker": "Player", "text": "♥ YES / LET ME THINK"}
-{"context": "Scene: Obj Tvworld Game Desert End", "speaker": "Kris (viewer)", "text": "Yeah, okay I guess."}
 {"context": "Scene: Obj Tvworld Game Desert End", "speaker": "Mr. Tenna (viewer)", "text": "And so, our contestants... have spoken..."}
 {"context": "Scene: Obj Tvworld Game Desert End", "speaker": "Mr. Tenna (viewer)", "text": "What may be their final words!!?"}
 {"context": "Scene: Obj Tvworld Game Desert End", "speaker": "Mr. Tenna (viewer)", "text": "Kids, cover your parents' eyes!!"}
@@ -1068,10 +1067,10 @@
 {"context": "Scene: Obj Pre Stage 2", "speaker": "Player", "text": "♥ See what Susie's doing / Let's just chill dude"}
 {"context": "Scene: Obj Pre Stage 2", "speaker": "Ralsei", "text": "Then, let's close our eyes and think about what she's doing now..."}
 {"context": "Scene: Obj Pre Stage 2", "speaker": "Narrator", "text": "The screen darkens. The scene shifts to the stage where Susie is talking to Mr. Tenna."}
-{"context": "Scene: Obj Pre Stage 2", "speaker": "Mr. Tenna (Mike's voice)", "text": "... located... in the purple cliffs? Perfect! Don't waste any time."}
-{"context": "Scene: Obj Pre Stage 2", "speaker": "Mr. Tenna (Mike's voice)", "text": "You know what comes next. Assembly, air holes, soft, soothing music..."}
-{"context": "Scene: Obj Pre Stage 2", "speaker": "Mr. Tenna (Mike's voice)", "text": "Then we just need time."}
-{"context": "Scene: Obj Pre Stage 2", "speaker": "Mr. Tenna (Mike's voice)", "text": "One more board, just ONE more board and then..."}
+{"context": "Scene: Obj Pre Stage 2", "speaker": "Mr. Tenna", "text": "... located... in the purple cliffs? Perfect! Don't waste any time."}
+{"context": "Scene: Obj Pre Stage 2", "speaker": "Mr. Tenna", "text": "You know what comes next. Assembly, air holes, soft, soothing music..."}
+{"context": "Scene: Obj Pre Stage 2", "speaker": "Mr. Tenna", "text": "Then we just need time."}
+{"context": "Scene: Obj Pre Stage 2", "speaker": "Mr. Tenna", "text": "One more board, just ONE more board and then..."}
 {"context": "Scene: Obj Pre Stage 2", "speaker": "Susie", "text": "Hey."}
 {"context": "Scene: Obj Pre Stage 2", "speaker": "Narrator", "text": "Mr. Tenna falls from his spot backstage onto the stage."}
 {"context": "Scene: Obj Pre Stage 2", "speaker": "Mr. Tenna", "text": "S... SUSIE!!!"}
@@ -1372,7 +1371,7 @@
 {"context": "Scene: Obj Pre Stage 2 Start", "speaker": "Mr. Tenna", "text": "By the way, don't forget to take lots of PHOTOS while you're on VACATION!"}
 {"context": "Scene: Obj Pre Stage 2 Start", "speaker": "Mr. Tenna", "text": "Now, we're gonna have some real fun in the sun today, SO DON'T TOUCH THAT DIAL!"}
 {"context": "Scene: Obj Pre Stage 2 Start", "speaker": "Mr. Tenna", "text": "(Well, okay, you can touch it. Just be gentle.)"}
-{"context": "Scene: Obj Pre Stage 2 Start", "speaker": "Mr. Tenna (Mike's voice)", "text": "IT'S!! TV!! TIME!!!"}
+{"context": "Scene: Obj Pre Stage 2 Start", "speaker": "Mr. Tenna", "text": "IT'S!! TV!! TIME!!!"}
 {"context": "Scene: Obj Tvworld Game Island", "speaker": "Narrator", "text": "The game switches back to 8-bit mode. The team appears on a tropical island."}
 {"context": "Scene: Obj Tvworld Game Island", "speaker": "[In-game text]", "text": "Welcome to Kidakoda ISLAND!"}
 {"context": "Scene: Obj Tvworld Game Island", "speaker": "Susie (viewer)", "text": "Alright Ralsei, turn into a surfboard."}
@@ -1568,7 +1567,7 @@
 {"context": "Scene: Obj Tvworld Game Island Censored", "speaker": "Mr. Tenna (viewer)", "text": "This part's unfinished! Go back!"}
 {"context": "Scene: Obj Tvworld Game Island Censored", "speaker": "Narrator", "text": "This is a lie."}
 {"context": "Scene: Obj Tvworld Game Island Censored", "speaker": "Mr. Tenna (viewer)", "text": "Unfinished! UNFINISHED, I said!"}
-{"context": "Scene: Obj Tvworld Game Island Censored", "speaker": "Kris (viewer)", "text": "Mike, cut! cut!!!"}
+{"context": "Scene: Obj Tvworld Game Island Censored", "speaker": "Mr. Tenna (viewer)", "text": "Mike, cut! cut!!!"}
 {"context": "Scene: Obj Tvworld Game Island Censored", "speaker": "Narrator", "text": "The TV screen abruptly switches to \"SMPTE\" color bars."}
 {"context": "Scene: Obj Tvworld Game Island Censored", "speaker": "Mr. Tenna (viewer)", "text": "Phew! Sorry folks, our contestants got a little lost"}
 {"context": "Scene: Obj Tvworld Game Island Censored", "speaker": "Narrator", "text": "The scene continues in the 8-bit game on the TV screen. The team is sailing on the sea."}
@@ -2348,7 +2347,7 @@
 {"context": "Scene: Obj Ribbick Battle 1", "speaker": "Narrator", "text": "Kris used CroakOn!"}
 {"context": "Scene: Obj Ribbick Battle 1", "speaker": "Narrator", "text": "A \"Press Y repeatedly!\" minigame begins. Mercy increases by 64%."}
 {"context": "Scene: Obj Ribbick Battle 1", "speaker": "Ribbick", "text": "Woo hoo"}
-{"context": "Scene: Obj Ribbick Battle 1", "speaker": "Narrator", "text": "Ribbick attacks by clapping its hands and throwing dice."}
+{"context": "Scene: Obj Ribbick Battle 1", "speaker": "Narrator", "text": "Pippin attacks by clapping its hands and throwing dice."}
 {"context": "Scene: Obj Ribbick Battle 1", "speaker": "Narrator", "text": "Ralsei spared Ribbick!"}
 {"context": "Scene: Obj Ribbick Battle 1", "speaker": "Narrator", "text": "Mercy increases by 10%."}
 {"context": "Scene: Obj Ribbick Battle 1", "speaker": "Ribbick", "text": "Guruuuu---"}
@@ -2410,6 +2409,19 @@
 {"context": "Scene: Obj Ribbick Battle 2", "speaker": "Narrator", "text": "You Won!"}
 {"context": "Scene: Obj Ribbick Battle 2", "speaker": "Narrator", "text": "Got 0 EXP and 243 D$."}
 {"context": "Scene: Obj Ribbick Battle 2", "speaker": "Narrator", "text": "The team returns to the room with the trash cans and moves on."}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Narrator", "text": "[Battle Text]"}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Narrator", "text": "Ribbick wants to be friends with a dancing trash can."}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Ribbick", "text": "A messy and unfocused girl."}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Ribbick", "text": "A rowdy and dirty girl."}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Narrator", "text": "Kris used CroakOnX!"}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Ribbick", "text": "A poorly trimmed boy."}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Ribbick", "text": "A quiet and smelly boy."}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Narrator", "text": "Kris used CroakOnX!"}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Ribbick", "text": "A lost and lost and lost girl."}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Ribbick", "text": "A crying and crying and crying boy."}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Narrator", "text": "Kris used CroakOnX!"}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Narrator", "text": "Ribbick is dirtier than ever, but that's fine."}
+{"context": "Scene: Obj Ribbick Battle 3", "speaker": "Narrator", "text": "Battle end"}
 {"context": "Scene: Obj Dungeon And Rouxls Encounter", "speaker": "Narrator", "text": "The team enters the last room of the dungeon. In the center is a large red wagon, resembling a circus wagon. Inside, behind bars, sit a ShadowGuy and a Pippin who was illegally trading for Dark Dollars."}
 {"context": "Scene: Obj Dungeon And Rouxls Encounter", "speaker": "Narrator", "text": "You are greeted by yet another prisonlike location."}
 {"context": "Scene: Obj Dungeon And Rouxls Encounter", "speaker": "Narrator", "text": "You question why your adventures feature so many of these."}
@@ -2529,9 +2541,9 @@
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Rouxls Kaard", "text": "Yes, yes! Non-violence! Bigge 'ups', my friends."}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Rouxls Kaard", "text": "Now for my ACT, I shalt hire people,"}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Rouxls Kaard", "text": "to shooteth you."}
-{"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "Rouxls summons two rabbits with pistols. They attack with paper airplanes with \"rouxlsrules\" written on them."}
+{"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "Rouxls summons two rabbit-like shadowguys with pistols. They attack with paper airplanes with \"rouxlsrules\" written on them."}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "The team uses ACT -> Performance again."}
-{"context": "Scene: Obj Rouxls Battle Final", "speaker": "Kris", "text": "Hooh! What a battle, art I Righte?"}
+{"context": "Scene: Obj Rouxls Battle Final", "speaker": "Rouxls Kaard", "text": "Hooh! What a battle, art I Righte?"}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Susie", "text": "Hey, we're gonna get our asses kicked just dancing around!"}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Ralsei", "text": "Th... there must be something we can do...!"}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "Lancer appears."}
@@ -2589,10 +2601,10 @@
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Rouxls Kaard", "text": "Ah... ha ha ha!"}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Rouxls Kaard", "text": "Just as planned. The two Loverse... are reunited."}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Rouxls Kaard", "text": "I shall now... Taketh my leave."}
-{"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "Rouxls tries to leave, but Lancer blocks his path."}
+{"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "Rouxls tries to leave backwardly, but Lancer appears right in front of him."}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Lancer", "text": "Hey, Lesser Dad!"}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Lancer", "text": "The guys with big guns wanna get paid!"}
-{"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "The rabbits with pistols surround Rouxls and shoot him. He falls."}
+{"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "The rabbits with pistols surround Rouxls. Expectedly, he ran away"}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "You Won!"}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "Got 0 EXP and 800 D$."}
 {"context": "Scene: Obj Rouxls Battle Final", "speaker": "Narrator", "text": "The battle ends. The team returns to the stage."}
@@ -2616,9 +2628,9 @@
 {"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Narrator", "text": "The team goes behind a red curtain and finds themselves in a new location—purple cliffs. In the background are mountains and a starry sky. The sound of wind is heard."}
 {"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Narrator", "text": "The team walks along a narrow path. Along the way, they see several piles of ash from which smoke rises."}
 {"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Narrator", "text": "They reach a bridge where Mr. Tenna meets them."}
-{"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Mr. Tenna (Mike's voice)", "text": "L-look everyone!! It'll be fine!! I'm cutting edge!! I'm new!! I'm TV!!"}
-{"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Mr. Tenna (Mike's voice)", "text": "Three-colors, cathode raytube!! Make you laugh, make you cry!!"}
-{"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Mr. Tenna (Mike's voice)", "text": "Entertainment that never gets old!!"}
+{"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Mr. Tenna", "text": "L-look everyone!! It'll be fine!! I'm cutting edge!! I'm new!! I'm TV!!"}
+{"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Mr. Tenna", "text": "Three-colors, cathode raytube!! Make you laugh, make you cry!!"}
+{"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Mr. Tenna", "text": "Entertainment that never gets old!!"}
 {"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Narrator", "text": "The real Mr. Tenna appears, but in a black-and-white, older version."}
 {"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Mr. Tenna", "text": "H-hey, stop!! Don't go...!!"}
 {"context": "Scene: Obj Purple Cliffs Transition", "speaker": "Mr. Tenna", "text": "Darnit, this is all that little spammy MAILMAN'S fault!!"}
@@ -3148,8 +3160,8 @@
 {"context": "Scene: Obj Tenna Final Battle", "speaker": "Susie", "text": "Someone out there wants you. Promise."}
 {"context": "Scene: Obj Tenna Final Battle", "speaker": "Susie", "text": "Kris, you'll help me ask around town, right?"}
 {"context": "Scene: Obj Tenna Final Battle", "speaker": "Susie", "text": "Someone's gotta want a TV."}
-{"context": "Scene: Obj Tenna Final Battle", "speaker": "Narrator", "text": "Mike (voice from the spotlight):** * You... you'll help me?"}
-{"context": "Scene: Obj Tenna Final Battle", "speaker": "Narrator", "text": "Mike (voice from the spotlight):** * SUSIE!!! You..."}
+{"context": "Scene: Obj Tenna Final Battle", "speaker": "Mr. Tenna", "text": "You... you'll help me?"}
+{"context": "Scene: Obj Tenna Final Battle", "speaker": "Mr. Tenna", "text": "SUSIE!!! You..."}
 {"context": "Scene: Obj Tenna Final Battle", "speaker": "Narrator", "text": "Tenna in his colored form appears again, his body floating in the air."}
 {"context": "Scene: Obj Tenna Final Battle", "speaker": "Mr. Tenna", "text": "You're INCREDIBLE! You're AMAZING!! No... you're MARVELOUS!!"}
 {"context": "Scene: Obj Tenna Final Battle", "speaker": "Mr. Tenna", "text": "I feel electric!! I feel like a million bucks!!"}

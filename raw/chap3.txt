@@ -248,7 +248,7 @@ KRIS
 *(The sensation of your screen)*
 *(The show that makes you scream)*
 *(Say it with him, folks!)*
-*(MR. (And) TENNA'S TV TIME!!)*
+*(MR. (Ant) TENNA'S TV TIME!!)*
 
 ###**obj_mr_tenna_intro**
 
@@ -808,7 +808,7 @@ KRIS
 **Mr. Tenna (viewer):** * As a reward, a BONUS ZONE!!!
 **Susie (viewer):** * Hell yeah!
 (There are about 18 coins in the stash)
-**Kris (viewer):** * What? Only 1 point!?
+**Susie (viewer):** * What? Only 1 point!?
 **Mr. Tenna (viewer):** * Hey hey!! We've got a budget!
 
 *(The team passes through a field of cacti.)*
@@ -1087,7 +1087,7 @@ Elnina: * Goodbye...
 **Pink TV Guy:** * A GRUELING ENCOUNTER THAT WILL TEST ALL OF YOUR SKILLS.
 **Pink TV Guy:** * ARE YOU PREPARED... FOR THE WORST?
 > ♥ YES / LET ME THINK
-**Kris (viewer):** * Yeah, okay I guess.
+
 **Mr. Tenna (viewer):** * And so, our contestants... have spoken...
 **Mr. Tenna (viewer):** * What may be their final words!!?
 **Mr. Tenna (viewer):** * Kids, cover your parents' eyes!!
@@ -1463,10 +1463,10 @@ Elnina: * Goodbye...
 
 *(The screen darkens. The scene shifts to the stage where Susie is talking to Mr. Tenna.)*
 
-**Mr. Tenna (Mike's voice):** * ... located... in the purple cliffs? Perfect! Don't waste any time.
-**Mr. Tenna (Mike's voice):** * You know what comes next. Assembly, air holes, soft, soothing music...
-**Mr. Tenna (Mike's voice):** * Then we just need time.
-**Mr. Tenna (Mike's voice):** * One more board, just ONE more board and then...
+**Mr. Tenna:** * ... located... in the purple cliffs? Perfect! Don't waste any time.
+**Mr. Tenna:** * You know what comes next. Assembly, air holes, soft, soothing music...
+**Mr. Tenna:** * Then we just need time.
+**Mr. Tenna:** * One more board, just ONE more board and then...
 **Susie:** * Hey.
 
 *(Mr. Tenna falls from his spot backstage onto the stage.)*
@@ -1902,7 +1902,7 @@ Elnina: * Goodbye...
 **Mr. Tenna:** * Now, we're gonna have some real fun in the sun today, SO DON'T TOUCH THAT DIAL!
 **Mr. Tenna:** * (Well, okay, you can touch it. Just be gentle.)
 
-**Mr. Tenna (Mike's voice):** * IT'S!! TV!! TIME!!!
+**Mr. Tenna:** * IT'S!! TV!! TIME!!!
 
 ###**obj_tvworld_game_island**
 
@@ -2182,7 +2182,7 @@ Umm, let's just go, Susie...
 **Mr. Tenna (viewer):** * This part's unfinished! Go back!
 *(This is a lie.)*
 **Mr. Tenna (viewer):** * Unfinished! UNFINISHED, I said!
-**Kris (viewer):** * Mike, cut! cut!!!
+**Mr. Tenna (viewer):** * Mike, cut! cut!!!
 
 *(The TV screen abruptly switches to "SMPTE" color bars.)*
 
@@ -3367,7 +3367,7 @@ Umm, let's just go, Susie...
 *   Kris used CroakOn!
 *   *(A "Press Y repeatedly!" minigame begins. Mercy increases by 64%.)*
 **Ribbick:** * Woo hoo
-*   *(Ribbick attacks by clapping its hands and throwing dice.)*
+*   *(Pippin attacks by clapping its hands and throwing dice.)*
 *   Ralsei spared Ribbick!
 *(Mercy increases by 10%.)*
 **Ribbick:** * Guruuuu---
@@ -3463,6 +3463,30 @@ Umm, let's just go, Susie...
 *   Got 0 EXP and 243 D$.
 
 *(The team returns to the room with the trash cans and moves on.)*
+
+###**obj_ribbick_battle_3**
+
+**[Battle Text]**
+
+*    Ribbick wants to be friends with a dancing trash can.
+
+**Ribbick:** * A messy and unfocused girl.
+**Ribbick:** * A rowdy and dirty girl. 
+
+*   Kris used CroakOnX!
+
+**Ribbick:** * A poorly trimmed boy. 
+**Ribbick:** * A quiet and smelly boy. 
+
+*   Kris used CroakOnX!
+
+**Ribbick:** * A lost and lost and lost girl.
+**Ribbick:** * A crying and crying and crying boy. 
+
+*   Kris used CroakOnX!
+
+*    Ribbick is dirtier than ever, but that's fine.
+*   *(Battle end)*
 
 ###**obj_dungeon_and_rouxls_encounter**
 
@@ -3633,11 +3657,11 @@ Umm, let's just go, Susie...
 **Rouxls Kaard:** * Now for my ACT, I shalt hire people,
 **Rouxls Kaard:** * to shooteth you.
 
-*(Rouxls summons two rabbits with pistols. They attack with paper airplanes with "rouxlsrules" written on them.)*
+*(Rouxls summons two rabbit-like shadowguys with pistols. They attack with paper airplanes with "rouxlsrules" written on them.)*
 
 *(The team uses ACT -> Performance again.)*
 
-**Kris:** * Hooh! What a battle, art I Righte?
+**Rouxls Kaard:** * Hooh! What a battle, art I Righte?
 **Susie:** * Hey, we're gonna get our asses kicked just dancing around!
 **Ralsei:** * Th... there must be something we can do...!
 
@@ -3713,12 +3737,12 @@ Umm, let's just go, Susie...
 **Rouxls Kaard:** * Just as planned. The two Loverse... are reunited.
 **Rouxls Kaard:** * I shall now... Taketh my leave.
 
-*(Rouxls tries to leave, but Lancer blocks his path.)*
+*(Rouxls tries to leave backwardly, but Lancer appears right in front of him.)*
 
 **Lancer:** * Hey, Lesser Dad!
 **Lancer:** * The guys with big guns wanna get paid!
 
-*(The rabbits with pistols surround Rouxls and shoot him. He falls.)*
+*(The rabbits with pistols surround Rouxls. Expectedly, he ran away)*
 
 *   You Won!
 *   Got 0 EXP and 800 D$.
@@ -3760,9 +3784,9 @@ Umm, let's just go, Susie...
 
 *(They reach a bridge where Mr. Tenna meets them.)*
 
-**Mr. Tenna (Mike's voice):** * L-look everyone!! It'll be fine!! I'm cutting edge!! I'm new!! I'm TV!!
-**Mr. Tenna (Mike's voice):** * Three-colors, cathode raytube!! Make you laugh, make you cry!!
-**Mr. Tenna (Mike's voice):** * Entertainment that never gets old!!
+**Mr. Tenna:** * L-look everyone!! It'll be fine!! I'm cutting edge!! I'm new!! I'm TV!!
+**Mr. Tenna:** * Three-colors, cathode raytube!! Make you laugh, make you cry!!
+**Mr. Tenna:** * Entertainment that never gets old!!
 
 *(The real Mr. Tenna appears, but in a black-and-white, older version.)*
 
@@ -4509,8 +4533,8 @@ Umm, let's just go, Susie...
 **Susie:** * Kris, you'll help me ask around town, right?
 **Susie:** * Someone's gotta want a TV.
 
-**Mike (voice from the spotlight):** * You... you'll help me?
-**Mike (voice from the spotlight):** * SUSIE!!! You...
+**Mr. Tenna:** * You... you'll help me?
+**Mr. Tenna:** * SUSIE!!! You...
 
 *(Tenna in his colored form appears again, his body floating in the air.)*
 
