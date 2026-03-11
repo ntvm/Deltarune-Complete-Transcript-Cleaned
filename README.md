@@ -9,7 +9,7 @@ dataset_info:
     dtype: string
 task_categories:
 - text-generation
-- conversational
+- conversation
 language:
 - en
 tags:
@@ -56,13 +56,14 @@ As of early 2026, major LLMs (including models with training cutoffs past July 2
 
 ## Known Gaps
 
+- Chapter 1: Pre vid2text version. Updates not planned. Use AS IS, or exlude it
 - Chapters 2–3: Visual/stage direction descriptions pending for ~15 key scenes each
 - Chapter 2, 4 Snowgrave Route scenes/differences not yet transcribed
 - No Snowgrave/Weird Route content included
 
 ## Source
 
-Processed from video playthroughs using manual transcription with AI-assisted segmentation (Google Gemini via web interface). Not extracted from game files.
+Processed from video playthroughs using manual transcription with AI-assisted segmentation (Google Gemini). Not extracted from game files.
 
 ## Curation
 
