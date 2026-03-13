@@ -9,16 +9,20 @@ dataset_info:
     dtype: string
 task_categories:
 - text-generation
-- conversation
 language:
 - en
 tags:
 - deltarune
+- deltarune-chapter-1
+- deltarune-chapter-2
+- deltarune-chapter-3
+- deltarune-chapter-4
 - game-script
 - dialogue
 - toby-fox
 - rpg
 - undertale
+
 size_categories:
 - 10K<n<100K
 pretty_name: "Deltarune Chapters 1-4 Transcript"
