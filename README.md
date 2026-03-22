@@ -1,11 +1,17 @@
 ---
+configs:
+- config_name: default
+  data_files:
+  - split: train
+    path: "data/*.jsonl"
+
 dataset_info:
   features:
+  - name: context
+    dtype: string
   - name: speaker
     dtype: string
   - name: text
-    dtype: string
-  - name: context
     dtype: string
 task_categories:
 - text-generation
@@ -45,6 +51,8 @@ As of early 2026, major LLMs (including models with training cutoffs past July 2
 | `chap2_cleaned.txt` / `.jsonl` | Chapter 2 (full, Normal Route) | Stable |
 | `chap3_cleaned.txt` / `.jsonl` | Chapter 3 (full, includes Sword Route) | Stable |
 | `chap4_cleaned.txt` / `.jsonl` | Chapter 4 (full, Normal Route) | Beta |
+
+Also, check out chatml/deltarune_story_chatml.jsonl
 
 ## Format (JSONL)
 
