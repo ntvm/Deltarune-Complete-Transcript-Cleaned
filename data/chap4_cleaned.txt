@@ -1576,7 +1576,7 @@ Noelle: "O-oh, really!? Then, um, here! I'll show you around!"
 WEAPON: "CactusNeedle"
 ARMOR: "Bandage"
 MONEY: "2"
-Phone: "Ring... *(Kris's phone makes a noise.)* No one picked up."
+Phone: "Ring... (Kris's phone makes a noise.) No one picked up."
 
 [Scene: Obj Holiday Mansion 1F]
 *(Kris, Susie, and Noelle enter through the front door into the entrance foyer. A fully functional Santa animatronic on a side table waves and plays a repetative "Hohoho" When Kris turns it on.)*
@@ -1978,7 +1978,7 @@ Susie: "[Looking away/Defensive] * Sorry your dream was, stupid and fake."
 Susie: "[Looking away/Defensive] * With that part."
 Noelle: "[Confused/Amused] * (Then what's wagging behind her...?)"
 Susie: "[Embarrassed/Looking away] * (Let's shut up for a while...)"
-[INTERCUT: "Dess's Room, simultaneous with current conversation]"
+*[INTERCUT: Dess's Room, simultaneous with current conversation]*
 *(A battle between Kris and the SOUL begins.)*
 *(This is not a normal battle. The SOUL is the one being attacked.)*
 *[Battle Text]*
@@ -1990,7 +1990,7 @@ Susie: "[Embarrassed/Looking away] * (Let's shut up for a while...)"
 *(The SOUL dodges, hiding outside Kris's reach.)*
 *(Kris pauses to catch breath. The SOUL edges toward the red guitar, pushing aside the gift box.)*
 *(Kris slams the stick down, narrowly missing.)*
-[INTERCUT: "Dess's Room, the noise alerts Susie and Noelle downstairs]"
+*[INTERCUT: Dess's Room, the noise alerts Susie and Noelle downstairs]*
 *(The SOUL touches the guitar again, producing a loud riff. Kris slams the hockey stick down repeatedly, the noise echoing through the mansion.)*
 Susie: "... wait a sec."
 Susie: "(Dude, stop making so much goddamn noise!)"
@@ -2529,16 +2529,16 @@ Bibliox: "... whose do we? Whose do we decimal."
 Bibliox: "It was the best of times, it was the blurst of times."
 *Bibliox attacks with letters and torn pages.*
 Susie: "Damn, that stupid cane made us get hit!"
-(Select the right spelling!: "GAURDIAN / GUARDIAN / GAURDAIN)"
+*Select the right spelling!: GAURDIAN / GUARDIAN / GAURDAIN*
 [Player Choice: ♥ GUARDIAN]
 *Success!*
 Bibliox: "Mumble, mumble..."
-(Select the right spelling!: "ATRIUM / ARTIUM / ATRUIM)"
+*Select the right spelling!: ATRIUM / ARTIUM / ATRUIM*
 [Player Choice: ♥ ATRIUM]
 *... but, it was misspelled!*
 Susie: "Susie spared Bibliox!"
 *(Recruit 1/3)*
-(Select the right spelling!: "FESTIVAL / FESTIAVL / FESTAVIL)"
+*Select the right spelling!: FESTIVAL / FESTIAVL / FESTAVIL*
 [Player Choice: ♥ FESTIVAL]
 *Success!*
 Bibliox: "Lauren Ipsome, Laur..."
@@ -2860,7 +2860,7 @@ Susie: "Heh, screw you."
 [Scene: Obj Dark Sanctuary Library Return]
 Susie: "Hey, I, uh, got the music copied down, kinda."
 Susie: "Might not be perfect, but..."
-Ralsei: "(Approaching from the shadows)* * ..."
+Ralsei: "(Approaching from the shadows) ..."
 Susie: "Ralsei, where the heck were you!?"
 Ralsei: "H-huh? I was... um... I..."
 Susie: "I got the puzzle solution, let's just go!"
@@ -2913,7 +2913,7 @@ Miss Mizzle: "Ah, it's breaking!"
 Susie: "Damn... so this is the Magic Axe, huh."
 *(Susie reaches out and grabs the weapon. It pulses with a blinding golden light.)*
 *(You got the JusticeAxe.)*
-Old Man: "(Appearing behind them)* * Wait a tick! You gotta pay for that!"
+Old Man: "(Appearing behind them) Wait a tick! You gotta pay for that!"
 Susie: "... Pay!? The heck are you talking about?"
 Susie: "This is still the inside of my study, ain't it?"
 Old Man: "Nothin' else was free, so why'd ya think we'd start here?"
@@ -2951,7 +2951,7 @@ Old Man: "of the Hammer of Justice!"
 *(The Old Man slams his cane into the floor. A shockwave of light erupts. He grows in size, his tattered coat becoming heavy plate armor. His cane transforms into a colossal, glowing warhammer.)*
 
 [Scene: Obj Battle Hammer Of Justice]
-[Battle Start: "The Hammer of Justice]"
+*[Battle Start: The Hammer of Justice]*
 *[Battle Text]*
 *The bell of justice rings...*
 *ATTACK to show what you've got!*
@@ -2977,7 +2977,7 @@ Hammer of Justice: "Chapter 4. The Trials of the Holy Hammer."
 Hammer of Justice: "A great smith gives the heroes a terrible weapon."
 *(Attack: The Hammer of Justice throws his hammer. It bounces off the walls of the box, creating shockwaves on every impact. Susie's HP drops to 12.)*
 Susie: "... damn... I... couldn't keep up..."
-Old Man: "(Reverting to his normal form)* * Geheheh... well, you gave it your best shot!"
+Old Man: "(Reverting to his normal form) Geheheh... well, you gave it your best shot!"
 Old Man: "Here."
 Susie: "... huh?"
 Old Man: "I saw the fire in your eyes..."
@@ -3380,10 +3380,10 @@ Susie: "But this...?"
 Susie: "This is like... Something else, y'know?"
 Susie: "Something... important."
 *(Kris and Susie pass several low-contrast stone tablets embedded in the pillar.)*
-(Tablet 1: ")* *What do you call a man with one eye?"
-(Tablet 2: ")* *Why does the angel make its cry?"
-(Tablet 3: ")* *Who will call the girl who snows?"
-(Tablet 4: ")* *I don't know... ha ha ha... I don't know."
+*(Tablet 1:) What do you call a man with one eye?*
+*(Tablet 2:) Why does the angel make its cry?*
+*(Tablet 3:) Who will call the girl who snows?*
+*(Tablet 4:) I don't know... ha ha ha... I don't know.*
 Susie: "Kris... before, I didn't think I could be a hero."
 Susie: "I wasn't good enough. I mean, I was... bad."
 Susie: "I still kinda am bad. In some ways, I guess."
@@ -4131,7 +4131,7 @@ Susie: "Is that... your..."
 Susie: "W-wait a sec! The old man!"
 Susie: "C'mon!! We... we still gotta talk to him!"
 *(Susie runs out of the sanctuary. Kris gets up and follows.)*
-Ralsei: "(Voice)* * Kris!"
+Ralsei: "(Voice) Kris!"
 *(Ralsei appears from the shadows.)*
 Ralsei: "Kris... Kris, you're alright!"
 Ralsei: "I can't believe... it actually worked..."
@@ -4144,7 +4144,7 @@ Ralsei: "Kris, w... where's Susie?"
 Ralsei: "SUSIE"
 Ralsei: "[Horrified face]* SUSIE, WAIT!!"
 *(Kris and Ralsei follow her.)*
-[NOTE: "SUSIE BROKE THE LAST PROPHECY. PLAYERS WILL NEVER SEE THE SPECIFIC ENDING OF THE PROPHECY. ONLY SUSIE, RALSEI AND THE KNIGHT KNOW THE FINAL TRAGEDY (also Kris potentially knowing the ending). IT IS HEAVILY IMPLIED THAT SOMETHING TERRIBLE HAPPENS, GIVEN THAT THE DELTA RUNE TRIANGLE IS SHATTERED IN HALF EXACTLY ON SUSIE'S SIDE.]"
+SYSTEM: [NOTE: SUSIE BROKE THE LAST PROPHECY. PLAYERS WILL NEVER SEE THE SPECIFIC ENDING OF THE PROPHECY. ONLY SUSIE, RALSEI AND THE KNIGHT KNOW THE FINAL TRAGEDY (also Kris potentially knowing the ending). IT IS HEAVILY IMPLIED THAT SOMETHING TERRIBLE HAPPENS, GIVEN THAT THE DELTA RUNE TRIANGLE IS SHATTERED IN HALF EXACTLY ON SUSIE'S SIDE.]
 
 [Scene: Obj Prophecy Break]
 *THE LAST PROPHECY. THE STORY'S END.*
@@ -4337,7 +4337,7 @@ Sans: "hahahahah. good one."
 Sans: "not only did you totally botch that joke, but,"
 Sans: "i'm dancin' with ya, so it doesn't make any sense."
 Toriel: "Ahhhahaha!!"
-Susie: "(Entering)* * Are... we, uh... interrupting? Something?"
+Susie: "(Entering) Are... we, uh... interrupting? Something?"
 Toriel: "Oh! Kris! Snoozy!"
 Toriel: "No, no, you are not interrupting anything!"
 Susie: "We were looking for you at church, and..."
@@ -4393,4 +4393,4 @@ Susie: "... right?"
 *(Ring Ring Ring.)*
 ...: "Kris..."
 ...: "... don't forget, Kris..."
-[NOTE: "Speaker deliberately ambiguous. Candidates: Dess, Carol, Rudy. Voice matches opening monologue speaker tag but identity is unconfirmed by game. Do NOT attribute to Susie or any specific character in JSONL metadata.]"
+SYSTEM: [NOTE: Speaker deliberately ambiguous. Candidates: Dess, Carol, Rudy. Voice matches opening monologue speaker tag but identity is unconfirmed by game. Do NOT attribute to Susie or any specific character in JSONL metadata.]

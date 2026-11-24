@@ -966,15 +966,553 @@
 {"context": "Scene: Obj City Split Up", "speaker": "Susie", "text": "Ralsei, you're going with me!"}
 {"context": "Scene: Obj City Split Up", "speaker": "Ralsei", "text": "H-huh!? K-Kris, I...!!"}
 {"context": "Scene: Obj City Split Up", "speaker": "Narrator", "text": "Susie drags Ralsei away, leaving Kris alone."}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "The party reaches a new puzzle area. Noelle steps onto a platform."}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "It's a dead end...?"}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "The platform starts to fall."}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "Kris!! The platform's falling!! H-help me!!"}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Kris solves the puzzle, saving Noelle."}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "S-sorry, Kris, you just saved me, didn't you...?"}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "Th... this one's falling, too!"}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "Kris, whatever you just did, keep doing it!!"}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Berdly appears on the upper walkway."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Kris walks east along the blue walkway of Cyber City Entrance past the pastel \"WELCOME TO THE CITY\" billboard and animated cat-monitor screens, reaching a Save Point."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "You have neither fluffy boys nor mean girls with you now."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Reluctantly, you are filled with the power from the cat sign."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Kris speaks to a non-hostile Werewire standing near an \"INFO\" sign and a \"5 STOP\" crosswalk switch."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Werewire", "text": "I heard the rollercoasters are undergoing maintenance."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Werewire", "text": "That's a pain because it's our only form of public transit."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Sign", "text": "Welcome to Cyber City! Pedestrians need to press the switch to cross traffic!"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Kris hits the pedestrian switches and crosses both lanes of red and pink legged cars. On the other side, two Swatchlings sweep the street beneath yellow warning signs."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Swatchling", "text": "A large event is going to happen in the streets later."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Swatchling", "text": "We were told to make room for something BIG..."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Swatchling", "text": "What are we cleaning up for, you ask?"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Swatchling", "text": "We don't know. A parade, perhaps?"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Kris enters the dark alleyway and digs through a glowing blue trash can."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "You dug through the trash..."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "And found $20!"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "20 Dark Dollars was added to your MONEY HOLE."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Walking south down the street—briefly spotting Noelle standing ahead—Kris is ambushed by two Poppups."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "[Battle Text]"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Poppups popped up!"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "You unconsciously clicked on a popup about \"monsters 4 humans\" \"in your area,\""}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Huh...!"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Huh...!? That made another one!?"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Poppup 1", "text": "This application is only supported by OS 2000."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Poppup 2", "text": "Click Here! Click Here! Click Here! Click Here!"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Poppup 3", "text": "Click Here! Click Here! Click Here! Click Here!"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "You just kept clicking and clicking on ads!!"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "The Poppups multiply rapidly until they glitch out and crash."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "The Poppups crashed!"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "You won! Got 0 EXP and 231 D$."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "Back in the alleyway near the Save Point, Kris checks another trash can."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "You dug through the trash..."}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "And found a CD Bagel!"}
+{"context": "Scene: Obj City Kris Alone", "speaker": "Narrator", "text": "CD Bagel was added to your STORAGE."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Kris walks east into the next dark alley. Noelle stands alone in her white robe. Noticing Kris with a [!], she spins around; her portrait shows wide, startled eyes, raised eyebrows, open mouth, and beads of sweat."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Noelle", "text": "(Startled, sweatdropping) K-Kris!! What are you---"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Queen calls out from off-screen to the right with a calm, smiling visor."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "Oh Noelle Sweetie"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "With another [!], Noelle bolts into a narrow dark alcove in the upper wall, clutching her hands over her mouth in wide-eyed, sweating panic."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Noelle", "text": "(Panicked) (Don't let her find me...)"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Queen struts in from the right; her visor displays red \"????\"."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "Noelle Sweetie Darling Honey Where Are You"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Queen crosses her arms with a cheerful smiling visor."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "We're A Team Now Remember"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "You Still Have To Be My Willing Minion"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Queen spots Kris with a [!] and shifts to her standard visor."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "... Kris"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "It Appears"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "Our Comrades Have Pressed The Escape Key On Us"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Queen's visor dims into shadow."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": ".... So It Has Come To This..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "In Order To Find Our Teams..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Queen flashes a broad grin on her visor."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "We Must Form An Uneasy Truce..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Berdly yells from off-screen."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "Queen!! My splendid Queen!! Where are you!!"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Queen clutches her head in panic with red \"X\" eyes on her visor."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "(Panicked) Oh No Don't Let Him Find Me"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Queen leaps straight up into full horizontal splits braced against the walls directly over Noelle's alcove. Both squeeze their eyes shut silently as Berdly walks in from the right."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "Ah, Kris... NOT the lifeform I was looking for."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "... Hmm? Where's the rest of the C+ Squad?"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "Don't tell me you got abandoned?? HA!!"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "HAHA!! That's what you get for trusting Susie!! HA!!"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "H... Huh? Noelle? Queen?"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "They're just... busy retro gaming somewhere!!"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "I bet they're waiting for me on the player select screen!!"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "Listening to strangely groovy music!! HAHA! HA!! HA!!"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Berdly lowers his arms and looks away glumly."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "... Sigh."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "He turns back toward Kris with a composed smirk."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "So it's come to this."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "In order to find our respective teams..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "It APPEARS..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "We must form an uneasy truce..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Still wedged in splits above Noelle, Queen yells with red \"X\" eyes."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "What The"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "Who The Beep Said You Could Double Trucies"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "Huh? Did you hear something?"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "Honk Honk No It's Just The Sounds Of The City"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "Oh okay."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Berdly", "text": "Hmph. Well I'll be ahead. Don't be LATE!!!"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Berdly walks off-screen to the right. Queen drops smoothly to the ground."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "Kris As Part Of Our Truce (The Better One)"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "Keep Distracting Berdly And Find Noelle"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "For You See..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "Berdly... He's..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "OK There's Nothing Wrong With Him He's Just Annoying"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Queen", "text": "Toodles"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Queen struts off-screen to the right. Noelle steps cautiously out of the alcove and walks down to Kris, her portrait showing a gentle, bashful smile, glancing slightly aside."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Noelle", "text": "(Shyly smiling) Kris, I... um... if it's okay..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Noelle", "text": "(Shyly smiling) ... G-got any room for another truce?"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Choose an option"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Player", "text": "♥ Of course"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Noelle", "text": "(Relieved, gentle smile) Thanks, Kris..."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Player", "text": "No Triple Trucies"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Noelle", "text": "(Playfully laughing, eyes closed) Har har, very funny! (Warm, earnest smile) Well, I'd rather take my chances with you than her!"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Noelle joined the party!"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Kris touches the nearby Save Point."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Noelle has joined your party."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "You are filled with the power of not knowing what a sugarplum is."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "File Saved"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Stepping back toward Noelle triggers a short conversation. Noelle's portrait shows a sheepish, shy smile, glancing sideways."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Noelle", "text": "(Sheepish smile) So, um, any idea where Susie is?"}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Narrator", "text": "Kris stands silently. Noelle instantly flushes in panic—her portrait snapping to wide, startled eyes, raised eyebrows, and flustered defensiveness."}
+{"context": "Scene: Obj City Kris Meets Noelle", "speaker": "Noelle", "text": "(Flustered/defensive) What!? WHAT?? I'm just asking!! It's a normal question!!"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "Backtracking west to the first intersection and heading north past the cat-faced cones, Kris and Noelle enter an encounter with two Poppups."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "[Battle Text]"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "Noelle got nervous and looked at the ground!"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "The enemies got shrivelled and TIRED from lack of attention!"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Poppup 1", "text": "NEED... LOOK... ME..."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Poppup 2", "text": "NEED... LOOK... ME..."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "Noelle cast SLEEPMIST!"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "You won! Got 0 EXP and 164 D$."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "Entering the Trash Zone alleyway, Kris speaks to Nubert."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Nubert", "text": "Nuelle, eh? Not a bad name, says Nubert."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "Kris checks Lancer inside KEY ITEMS; Lancer's sprite bounces cheerfully below the menu."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Lancer (Item Description)", "text": "Ho-ho! A soft cream is following you! Can we make them a bad guy?"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "Kris leads Noelle west past a giant heap of junk to a lone, locked gray door and knocks. Noelle's portrait shifts to wide-eyed, sweatdropping unease, then a tense closed-eyes nervous smile, open-mouthed dread, and finally soft, eyes-closed melancholy."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "The door is locked."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Noelle", "text": "(Nervous, wide-eyed) Kris...? Wh-why did you bring me here...?"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Noelle", "text": "(Strained, closed-eyes smile) No one's home... no, no one's around at all."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Noelle", "text": "(Worried dread) It's... it's so creepy..."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Noelle", "text": "(Eyes closed, pensive) ..."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Noelle", "text": "(Eyes closed, wistful) (At the same time, it's kind of nostalgic...)"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Narrator", "text": "Digging through nearby trash cans on the way back east, Kris finds a Dark Candy and checks a purple bag: \"(It's an eggplant that looks like a trashbag.)\" Returning to the alley ahead, Kris speaks to Hacker."}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Hacker", "text": "I went to the store, and they needed a signature, to use a credit card,"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Hacker", "text": "But, when I tried to encrypt my signature,"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Hacker", "text": "By drawing random squiggles,"}
+{"context": "Scene: Obj City Secret Detours And Alleys", "speaker": "Hacker", "text": "They didn't like that."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "Kris and Noelle encounter a Virovirokun. Noelle's portrait appears in wide-eyed, sweatdropping alarm."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Panicked) H-huh!? What's going on!?"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Panicked) What are we doing!?"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "Kris selects [ACT] -> [TakeCareX]."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Confused, wide-eyed) H... huh? What are you telling me to do? ACT...?"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Panicked) Can someone please explain what's going on?!"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Virovirokun", "text": "Oh boy, is this your first time in a battle?"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Timid, sheepish glance aside) Uh... well... um... yes."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Virovirokun", "text": "Oh boy..."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "The screen fades to black."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "You and Virovirokun explained how battles work to Noelle."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "When the screen returns, Noelle's portrait lights up with an excited, sparkling grin, shifting to an eager smile, then a matter-of-fact deadpan stare."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Excited grin) I get it! It's kind of like Dragon Blazers!"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Hopeful smile) And if we're nice to you, we can win through mercy?"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Virovirokun", "text": "Yeah"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Deadpan) And the way I have to do that is..."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Deadpan) Dressing up in a weird costume."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Virovirokun", "text": "Yeah"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Noelle", "text": "(Unimpressed stare) ..."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "Kris appears in a doctor coat and Noelle in a nurse costume, tossing medicine—Noelle trips and lands flat on her face."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "You and Noelle showed the enemy tender loving care!"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Virovirokun", "text": "Nice"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "Virovirokun looks healthy."}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "Kris spared Virovirokun!"}
+{"context": "Scene: Obj City Alleys With Noelle", "speaker": "Narrator", "text": "You won! Got 0 EXP and 94 D$."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Kris and Noelle walk south into the first \"annoying mouse room\". Kris reads the INFO sign (`Mice will rotate 90 degrees when they collide with the block. Push blocks to get mice in the holes. Use the bell to reset.`) and steps on the blue release switch. A purple mouse pops out; Noelle's portrait snaps to sheer horror, hair bristling and eyes wide, before shifting into a strained, apologetic nervous smile."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Terrified) A M-m-m-m..."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Terrified) Mouse!?"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Nervous smile) S... sorry, Kris, could you... d-deal with them somehow?"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Hopeful/nervous) Maybe if you can get them in the other mouse hole?"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Troll 1 — Kris steps on the switch without blocking the path, sending a mouse bounding off the wall toward Noelle."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Panicked) K-Kris! If the mice hit a wall, they'll come over here..."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Nervous smile) (Try using those blocks to get them into the hole?)"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Kris steps close beside Noelle."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Flustered) D-don't let the mice hit the walls, Kris!"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Panicked) They'll bounce over here and crawl on me...!"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Troll 2 — Kris walks upward toward the top entrance; Noelle bursts into an amused, playful laugh."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Playful) Oh, merry Krismaaaas--"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Playful) That's where we came from!"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Laughing brightly) Kris, are you afraid of mice, too? Fahahaha!"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Troll 3 — Kris deliberately rotates the green tiles to aim a mouse directly at Noelle, knocking her into the air. Noelle glares with an exasperated squint, then a dry, mildly traumatized deadpan."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Exasperated glare) Gosh, you did that on purpose, didn't you!?"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Deadpan) (It's like when they swapped my eggnog with mayo...)"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Troll 4 — Kris attempts to leave through the bottom exit three times."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Forced encouraging smile) H-hey, Kris? You can't leave yet, y'know!"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "You need to deal with the mice, first."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Encouraging smile) You can do it, Kris! I believe in you!"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Second attempt: Noelle's portrait turns anxious and pleading with sweatdrops."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Anxious) Kris, you, um... aren't gonna leave me here, are you?"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Pleading, sweatdropping) Th-think about all the p-pencils I gave you!"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Pleading) The... the peppermint cookies I shared with you!"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Desperate smile) I'll do your homework for you."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Third attempt: Noelle looks genuinely hurt and wide-eyed."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Worried/hurt) Kris? Are... you really going to leave me...?"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Player", "text": "♥ Sorry, I'll do the puzzle"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Player", "text": "Proceed"}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Noelle relaxes into a shy, relieved smile."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Relieved) Th-thanks, Kris..."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Narrator", "text": "Kris flips the directional arrow and routes the mouse cleanly into the \"in\" hole. The barrier opens; Noelle walks over smiling sheepishly."}
+{"context": "Scene: Obj Mouse Puzzle Normal", "speaker": "Noelle", "text": "(Relieved smile) L-looks like that took care of it..."}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Narrator", "text": "Exiting south, Kris speaks to a Yellow Addison standing in a doorway booth."}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Addison (Yellow)", "text": "We are Addisons! All we do is advertise!!"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Addison (Yellow)", "text": "This is an advertisement too! *(Small text: \"Advertisements now only $9.99!\")"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Narrator", "text": "Continuing east and north, Kris speaks to a Blue Addison."}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Addison (Blue)", "text": "Don't like advertisements? Block ads for only $9.99!"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Addison (Blue)", "text": "Change your mind? Bring them back for only $9.99!"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Narrator", "text": "Stepping north into the plaza overlooking a pink Addison's cotton candy stand, Kris and Noelle spot Susie and Ralsei standing together eating cotton candy. Noelle stops at the cones, wide-eyed, sparkling, and blushing deeply, before lowering into a bashful frown, then squinting in curiosity, worry, partial recognition, and sudden panic."}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Noelle", "text": "(Starstruck, blushing) (S... Susie...!! She's right there...!!)"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Noelle", "text": "(Bashful, discouraged) (But I... I can't get the courage to say anything...)"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Noelle", "text": "(Confused) (...?)"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Noelle", "text": "(Worried) (Who's that person she's with, anyway...?)"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Noelle", "text": "(Squinting) (It looks kind of like...)"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Noelle", "text": "(Panicked, wide-eyed) (Ahhh, they're looking over here! Let's go!!)"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Narrator", "text": "If interacted with again:"}
+{"context": "Scene: Obj City Addisons And Susie Ralsei Fun", "speaker": "Noelle", "text": "(Panicked) (Let's get out of here!)"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Kris and Noelle slide down a blue strip between neon city signs and immediately encounter two Ambyu-Lances."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "[Battle Text]"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Ambyu-Lances beeped"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Kris selects [ACT] -> [Hospitality]. Kris and Noelle point forward simultaneously."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Noelle acted warmly towards Ambyu-Lance!"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Noelle", "text": "(Gentle, reassuring smile) Needles aren't scary... medicine's important, you know?"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Ambyu-Lance 1", "text": "This girl is so sweet... Let's give her free bullets!"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Ambyu-Lance 2", "text": "All in a day's work, wee-woo."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "On Turn 2, Noelle repeatedly puts on and takes off a tiny white nurse hat at high speed while raising Mercy."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Noelle takes on and off her nurse hat really fast!"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Ambyu-Lances", "text": "All in a day's work, wee-woo."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Kris spared Ambyu-Lance!"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Noelle spared Ambyu-Lance!"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "You won! Got 0 EXP and 180 D$."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Stepping past a yellow Addison booth (\"Advertisements now only $9.99†\"), Kris and Noelle enter a dark alley beside a Queen poster showing a \"#1\" trophy. Noelle's portrait shifts to a troubled, downcast frown, baffled with a sweatdrop, solemn shut eyes, and finally a weak, wistful half-smile."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Noelle", "text": "(Troubled) (Queen... She says she wants me to be happy, but...)"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Noelle", "text": "(Baffled, sweatdropping) (Why would I want to eat a casserole made of wires?)"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Noelle", "text": "(Solemn, distressed) (And why can't I... Just... Refuse?)"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Noelle", "text": "(Vulnerable, downcast) (Sometimes I feel like...)"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Noelle", "text": "(Weak, wistful half-smile) (Kris and Dad are the only ones I can say no to...)"}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Kris opens the nearby chest and obtains `Pink Ribbon`, equipping it onto Noelle in place of RoyalPin."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Noelle (Menu)", "text": "... feels familiar."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Narrator", "text": "Heading up onto the upper traffic avenue, Kris solves the multi-lane STOP switch crosswalk and speaks to two citizens on the right sidewalk."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Wired NPC", "text": "Can't even cross the street without getting my ass kicked."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Wired NPC", "text": "I love the city."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Suited NPC", "text": "Since everyone else got plugged they're a lot more agreeable."}
+{"context": "Scene: Obj City After Mouse Puzzle", "speaker": "Suited NPC", "text": "It's nice."}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Narrator", "text": "Kris and Noelle stop before a large illuminated billboard advertising a giant yellow Ferris wheel. Noelle beams with an ecstatic grin, softens into a warm smile, glances aside shyly, and grimaces with an awkward laugh."}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Narrator", "text": "It's an advertisement for a giant ferris wheel."}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Noelle", "text": "(Excited grin) Gosh, that's amazing!"}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Noelle", "text": "(Warm, open-eyed smile) Makes the one at the festival look like a toy, haha!"}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Noelle", "text": "(Shy, wistful smile) I... I wonder if Susie would want to..."}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Noelle", "text": "(Awkward laugh, sweatdropping) ... Gosh, who am I kidding?"}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Narrator", "text": "Choose an option"}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Player", "text": "♥ I will ride with you"}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Noelle", "text": "(Skeptical squint) Oh, so you can shake it when we reach the top? (Cringing memory, eyes squeezed shut) Just like at the festival when we were kids? (Playful, suspicious glare) I KNOW there's a catch with you, Kris! NO thanks!"}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Player", "text": "Susie would"}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Noelle", "text": "(Shy, hopeful blush) R-really? Y-you really think so? (Cheerful, closed-eyes laugh) Faha, and coming from Susie Expert Kris! Thanks! (Blank silence) ... (Squinting, suspiciously baffled) (Hey, Kris, how'd YOU become the Susie Expert!?)"}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Player", "text": "Susie wouldn't"}
+{"context": "Scene: Obj Ferris Wheel Ad", "speaker": "Noelle", "text": "(Flustered, startled) Y-you're right! Even if I asked her, she'd... (Tense grimace) Probably just laugh at me. (Wide-eyed, blushing fluster) And, gosh, push me to the ground, and... (Starry-eyed, blushing daydream) L-laugh at me some more, and then... (Panicked, sweating) (... What were we talking about again?)"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Narrator", "text": "Stepping south into a side alley, Kris and Noelle encounter a Pink Addison running a shoe storefront."}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Addison (Pink)", "text": "Ohhon!! Two young beings together on a school night..."}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Addison (Pink)", "text": "Could I interest you in some brand new Dating Shoes...?"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Narrator", "text": "Noelle's eyes widen in flustered panic, shifting to a strained, sweating smile."}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Noelle", "text": "(Flustered panic) H-huh...? No, no, you've got it totally wrong!"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Noelle", "text": "(Strained, sweating smile) Kris and I are just... umm... fr... friends?"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Narrator", "text": "Noelle's expression softens into quiet, closed-eyes reflection, then opens calmly before furrowing in uncertain confusion."}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Noelle", "text": "(Gentle, closed-eyes smile) (Kris's been my neighbor forever...)"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Noelle", "text": "(Gentle smile) (We've been through so much, sometimes it feels like...)"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Noelle", "text": "(Calm, earnest) (We know each other better than anyone.)"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Noelle", "text": "(Uncertain confusion) (... yet, somehow, it's hard to say we're exactly friends...?)"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Narrator", "text": "Choose an option"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Player", "text": "♥ We're friends"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Noelle", "text": "(Cheerful, closed-eyes smile) Yep! That's right! We're friends! (Shy, softly touched glance aside) (It's... surprisingly nice just hearing Kris say that...)"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Player", "text": "We're something else"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Noelle", "text": "(Wide-eyed, horrified bewilderment) (Wh-what does that mean???) (Panicked, sweating grimace) (There's no good interpretation, that's for sure!)"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Addison (Pink)", "text": "Ah, you two don't look together!"}
+{"context": "Scene: Obj Shoe Shop", "speaker": "Addison (Pink)", "text": "Can I interest you in some brand new Divorcing Shoes...?"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Narrator", "text": "Heading south, they reach a cyan electric forcefield blocked by two floor switches."}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Noelle", "text": "Hmm, looks like you need to hold it down."}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Noelle", "text": "Kris, you keep standing on this one!"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Narrator", "text": "As Noelle walks toward the second switch, Kris steps off the first switch, snapping the barrier back up. Noelle spins around in wide-eyed panic, then adopts a half-lidded, sardonic squint."}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Noelle", "text": "(Panicked) Kris!! Stay on the switch! Stay! Stay!"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Noelle", "text": "(Sardonic squint) ... gosh, do you need a dog treat or something?"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Player", "text": "♥ Yes"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Player", "text": "Nooooo"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Narrator", "text": "Noelle freezes with huge, stunned, sweating eyes."}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Noelle", "text": "(Stunned) (... why did they sound so genuine?)"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Narrator", "text": "Kris steps back on the switch; Noelle crosses and stands on the second switch."}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Noelle", "text": "OK, now you come over here!"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Narrator", "text": "Kris runs away to the left edge of the room first, making Noelle shout in panic, before walking back over to join her."}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Noelle", "text": "(Panicked) Kris! Get back here!!"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Noelle", "text": "(Smiling warmly) Nice teamwork!"}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Narrator", "text": "Walking south down the corridor, Kris inspects three stacked cardboard boxes."}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Narrator", "text": "You became lost in the craftsmanship."}
+{"context": "Scene: Obj Lightning Puzzle Normal", "speaker": "Narrator", "text": "Of the boxes."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Ahead on a brightly lit blue plaza, Noelle spots Queen and gasps with a [!], freezing behind the corner in terror."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Panicked) Kris, it's Queen... She's right over there!"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Terrified) C-Can you distract her somehow!!?"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Kris steps into the plaza alone. Queen stands holding a goblet of glowing green liquid, laughing with \"LMAO\" on her visor."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Lmao"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "You're here"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Sorry Kris While I've Been Looking For You"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "I've Had Like 4 Of These All-Ages Appropriate"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Glasses of Pure Battery Acid"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Queen hurls the goblet to the ground; it shatters in sparks."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Don't Worry That Was My Throwing Glass It's Safe"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Look"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Kris Cross Applesauce"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Now That We Are Trucies I Feel Like We Are On The Same"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Mathematical Wavelength"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Queen drapes an arm affectionately over Kris's shoulder."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "You Get Me Kris"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "You Do Not Do Crazy Things Like \"Have Opinions\""}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Or Scream When I Capture You"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Or Tell Me Horrible Plans For Smartboy Theme Park"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "I Just Cannot Compute It"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Why Everyone Else Is So... Ungrateful"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Queen hurls a second goblet, causing a massive explosion."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Whoops That Was My Extra Dangerous Glass"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Visor: \"HA HA\"."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Kris"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "I Just Want To Make Everyone Smile"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "And If I Become An Evil Villain To Accomplish That"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Is That Bad?"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "It's Okay"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "You Do Not Have To Answer"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Visor: \"LMAO\"."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "You Would Be Wrong"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "But Kris... While We're Still Trucies"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Maybe We Could... Make The Most Of It"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "An arcade cabinet drops into the plaza. Queen leans down to eye level with Kris."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "We Could Play That Game Again"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Wasn't That... Fun, Kris"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Just You And Me"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Visor: \"NICE\"."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Having A Good Time"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "No One Else To Get In The Way"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "A colossal golden statue of a muscular Berdly flexing in \"IQ\" briefs crashes onto the arcade cabinet, and Berdly drops down beside it."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Berdly", "text": "Queen!! I've been looking everywhere to show you this!!"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Berdly", "text": "A monument to our greatness... Together."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen (Visor: \"????\")", "text": "Oh / * Um / * How Do I Put This / * Very... / * ..."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen (Visor: \"LYING\")", "text": "Smart / * So Smart You Are / * I Love Tolerating You"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Berdly", "text": "Haha!! I KNEW you'd be enamored. Such perfect taste."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen (Visor: \"LYING\")", "text": "Very Cool Statues / * I Did Not Know You Had... Nipples"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Berdly", "text": "Haha... I will SOON... in our IDEAL WORLD."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Berdly", "text": "Kris, feel free to admire our artisanship."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Berdly", "text": "Queen and I have PLANS to consider."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Haha Yes Oooh So Good Looking Forward To That"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "MMmmm Yum Yum Yum Yum Yum"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Let's Go Burghley"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Berdly runs off to the right; Queen walks slowly after him, then backs up and sprints off to the left."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen (Visor: \"LYING\")", "text": "Keep Going I Am Right Behind You"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Procedurally Lowering The Volume Of My Voice"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Sorry Kris I Must Alt Tab Out Of Here"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Outside the plaza, Queen passes Noelle, who is wearing a cardboard box over her head with a goofy face drawn on it."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Queen", "text": "Wow Cool Face"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Noelle runs back to Kris in her box, lifting it off with a relieved, awkward smile before putting it back on—then immediately walking straight into the statue's base."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "Phew..."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "Looks like my disguise worked."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Relieved smile) It's silly looking, but it beats hiding..."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "Let's get going, Kris!"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Bonks into the golden Berdly statue."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "Just realized... I can't see anything... haha..."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Nervous laugh) Guess I'll try not to wear it unless I have to."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "OK, let's go for real this time!!"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "Kris stands before Berdly's statue and inspects it four times in a row while Noelle's portrait shifts from huge open-mouthed laughter, to an awkward sigh, to exasperated wide eyes, to a strained forced smile, and finally a furious shouting scowl."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Laughing wildly) What is this!? Fahahahaha..."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "... phew!"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "..."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Grimacing, sweatdropping) (Kris, can you stop looking at this?)"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "2nd inspection"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "You became lost in the craftsmanship."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Wide-eyed exasperation) (Why do we have to look at it twice?)"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "There's so much to look at here."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Exasperated) (Kris!?)"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "3rd inspection"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "It's a work of art."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Nervous wide eyes) (What part are you looking at?!)"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Forced smile) If I say I like it, will you stop looking at it?"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "4th inspection"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Awkward stare) Hey, isn't this thing just the best...?"}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Narrator", "text": "This statue seems to suck bad."}
+{"context": "Scene: Obj City Queen Truce And Statue", "speaker": "Noelle", "text": "(Furious shout) KRIS!!!!!!!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Walking right into a small alcove behind three cardboard-box counters and glowing equalizer bars, Kris and Noelle meet Sweet, Cap'n, and K_K."}
+{"context": "Scene: Obj City After Shop", "speaker": "Sweet", "text": "Yo! How's it hangin'?"}
+{"context": "Scene: Obj City After Shop", "speaker": "Sweet", "text": "We're making some extra money by selling in the city!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "We gotta make those bucks somehow!! Heheh!!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Sweet", "text": "Gotta buy new gear!!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "Gotta get new kicks!!"}
+{"context": "Scene: Obj City After Shop", "speaker": "K_K", "text": "I wanna buy a car!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Sweet", "text": "Good thinkin', K_K! Gotta have a way to get around!"}
+{"context": "Scene: Obj City After Shop", "speaker": "K_K", "text": "Honk! Honk!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Kris steps up to the counter."}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "What'll it be, chief? I got CD Bagels, $80 a pop!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Player", "text": "Talk"}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "And who is that, ahem, madimoyzel?"}
+{"context": "Scene: Obj City After Shop", "speaker": "Sweet", "text": "Leave her alone, Cap!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "Nice radio antenna you got there..."}
+{"context": "Scene: Obj City After Shop", "speaker": "Sweet", "text": "Those are antlers, Cap!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "H-huh!? I, uhh... hmm."}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "..."}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "Let's play her a song!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Music starts and K_K dances happily. Kris talks twice more: \"This music, it's nice music. / That's my favorite genre.\" and buys a CD Bagel for $80."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "CD Bagel was added to your STORAGE."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Leaving the counter:"}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "Did you like the big statue?"}
+{"context": "Scene: Obj City After Shop", "speaker": "Sweet", "text": "Building it sucked!"}
+{"context": "Scene: Obj City After Shop", "speaker": "K_K", "text": "Took a lot of scrap."}
+{"context": "Scene: Obj City After Shop", "speaker": "Sweet", "text": "The other job we did was way better!"}
+{"context": "Scene: Obj City After Shop", "speaker": "K_K", "text": "It was big."}
+{"context": "Scene: Obj City After Shop", "speaker": "Cap'n", "text": "It's gonna blow your mind!"}
+{"context": "Scene: Obj City After Shop", "speaker": "K_K", "text": "It was big."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Kris interacts with the nearby Save Point."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Energetic music wafts from the boxes."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "You are filled with the power of musical bagels."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "File Saved"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Backtracking left up to the street shops, Kris visits the Blue Addison outside \"Cyber Shoes II\"."}
+{"context": "Scene: Obj City After Shop", "speaker": "Addison (Blue)", "text": "Welcome to Cyber Shoes"}
+{"context": "Scene: Obj City After Shop", "speaker": "Addison (Blue)", "text": "Free samples!! Would you like one??"}
+{"context": "Scene: Obj City After Shop", "speaker": "Player", "text": "Don't (1st & 2nd) -> Take (3rd)"}
+{"context": "Scene: Obj City After Shop", "speaker": "Noelle", "text": "(Sheepish smile) Umm, I don't really do... shoes."}
+{"context": "Scene: Obj City After Shop", "speaker": "Noelle", "text": "(Shy sidelong glance) (At least not unless they're custom-made...)"}
+{"context": "Scene: Obj City After Shop", "speaker": "Addison (Blue)", "text": "You'll never get stronger without a daily dose of shoes!!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "On taking the sample:"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "You got a small shoe with a toothpick through it..."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Using Lancer in KEY ITEMS: Lancer pops out dancing at the bottom of the menu and crunches the shoe."}
+{"context": "Scene: Obj City After Shop", "speaker": "Lancer", "text": "Wow! Thanks for the free sample! I couldn't eat another bite!!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Walking right to the Pink Addison's \"Tea shop\", Kris buys `Kris Tea` and `Noelle Tea` for $100 each."}
+{"context": "Scene: Obj City After Shop", "speaker": "Addison (Pink)", "text": "This is the HOTTEST tea shop! HOT HOT!! 50% off!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Addison (Pink)", "text": "For $100, Choose your OWN flavor!!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Kris Tea and Noelle Tea were added to your STORAGE."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Continuing down and left past a spinning Virovirokun to a red chest, Kris obtains `BounceBlade` and tests equipping Kris's weapons onto Noelle in the EQUIP menu:"}
+{"context": "Scene: Obj City After Shop", "speaker": "BounceBlade", "text": "S-stop thwacking me!"}
+{"context": "Scene: Obj City After Shop", "speaker": "MechaSaber", "text": "\\*chk\\* A-AHH! Scared myself..."}
+{"context": "Scene: Obj City After Shop", "speaker": "Spookysword", "text": "(It's kinda cool...)"}
+{"context": "Scene: Obj City After Shop", "speaker": "Wood Blade", "text": "(It has bite marks...)"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Interacting with the nearby Save Point (`Dark World?`) to move teas into Pocket, Kris tests consumables on the party)."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Noelle (Using Kris Tea on Kris, +10 HP):** * (... no reaction?)"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Noelle (Using Noelle Tea on Noelle, +10 HP):** * ... this is just water! You're pranking me, right?!"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Noelle (Using Kris Tea on Noelle, +70 HP):** * Tastes like cinnamon! (What is this aftertaste...?)"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Noelle (Using Noelle Tea on Kris, +70 HP):** * (Umm, do they like it or not...?)"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Returning to the avenue past the Tasque area, Kris inspects and buys the $300 `Mannequin` from a Yellow Addison (`Buy! Buy! Buy! We're sold out! Buy!`)."}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Noelle (Attempting to equip Mannequin):** * (Why did they spend $300 on this!?)"}
+{"context": "Scene: Obj City After Shop", "speaker": "Narrator", "text": "Kris equips the Mannequin onto Armor Slot II instead, changing Kris's overworld sprite into the blue dress."}
+{"context": "Scene: Obj City Battles And Traffic", "speaker": "Narrator", "text": "Along the avenue and traffic lanes, Kris and Noelle can encounter local enemies:"}
+{"context": "Scene: Obj City Battles And Traffic", "speaker": "Tasques", "text": "Noelle:** * (Oh, it's a cat... I wonder if it likes being pet...) (Noelle pet Tasque! Tasque is purring.)"}
+{"context": "Scene: Obj City Battles And Traffic", "speaker": "Werewires", "text": "(You jiggled your body! / Noelle pulled on the plug! / Werewire is emitting a low purr.)"}
+{"context": "Scene: Obj City Battles And Traffic", "speaker": "Virovirokuns", "text": "(Noelle offered a cold compress!)"}
+{"context": "Scene: Obj City Battles And Traffic", "speaker": "Ambyu-Lances", "text": "(Noelle acted warmly towards Ambyu-Lance!)"}
+{"context": "Scene: Obj City Battles And Traffic", "speaker": "Narrator", "text": "Crossing the next multi-lane traffic puzzle with Annoying Dog warning signs, Kris walks down an isolated blue alley to the right—only for the Annoying Dog in a tiny red toy car to slam into Kris in rapid bursts of 24 damage, flattening them into a GAME OVER screen as the dog casually drives past."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Resuming in a dark alley beside a green dumpster and whistling green cloud, Kris inspects behind the dumpster: `(The room between... There is a room between.)` and checks the dumpster: `(It's a dumpster... seems like there's a pillow inside.)`"}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Walking to the left corner, Kris inspects a patch of green moss."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "You found the [Moss]!"}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Your title was upgraded to [Moss Finder].)* *(Noelle's title upgrades to [Moss Neutral]."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Noelle", "text": "(Wide-eyed, sweating bewilderment) (Why do they look so pleased?)"}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Inspecting the moss a second time, Noelle forces a cheerful closed-eyes smile before cringing sheepishly."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Noelle", "text": "(Cheerful, closed-eyes smile) (I guess marimos and stuff are kind of cute...?)"}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Noelle", "text": "(Cringing sheepishly) (... What the heck am I saying?)"}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Stepping left onto the road, Kris knocks on a lone blue door."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Knock, knock, knock"}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Stranger", "text": "You found the only knockable door in the city."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Stranger", "text": "This here is my pride and joy..."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Running back and forth between the road and dumpster alley, Kris slips alone into the hidden room between—walking down a long blue corridor to a glowing pink-and-red tree in darkness."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Well, there is a man here. He might be happy to see you. What do you think? -> ♥ Yes"}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "You got the Egg."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Well, there was not a man here."}
+{"context": "Scene: Obj City Moss And Egg", "speaker": "Narrator", "text": "Stepping out and using `Egg` from KEY ITEMS: `(You used the Egg.)`, Kris walks back out onto the Cyber City road beside Noelle."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "Weaving back and forth across the pedestrian crossings between the two busy highways of yellow cars, Kris and Noelle enter the second mouse puzzle chamber (`annoying mouse room 2`), featuring rotation tiles, \"out\" and \"in\" mouse pipes, an [INFO] terminal, and an electric barrier blocking a blue switch."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Mildly concerned) Looks like another electric wall."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "Noelle walks to the \"in\" hole beside the terminal with curious surprise, then thoughtful skepticism."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Curious) Huh? This hole has a switch inside of it..."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Thoughtful) Maybe we could try to put something inside...?"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Neutral) What do you think, Kris?"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "Sign on the wall lights up: \"annoying mouse room 2\"."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "[INFO BOX]"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "It's a citizen's duty to properly rotate and release mice using the traffic signs."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "[Z]", "text": "Engage and Disengage."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "[Left] [Right]", "text": "Rotate."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "[Down]", "text": "Release."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "When Kris releases mice from the \"out\" pipe, stray mice bounce into Noelle several times, startling her into the air."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Startled, sweating) I... I wish they wouldn't jump out like that!"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Dismayed, sweating) (How many more times am I gonna get hit by mice...?)"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "After taking a third stray hit, Noelle's portrait shifts to panicked disbelief and exasperated worry."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Panicked) Wh-why do those mice keep attacking me?!"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Worried) What do I look like, the girl from the Nutcracker?"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "Choose an option"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Player", "text": "♥ Yes"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Shy, hopeful smile looking aside) Then, Kris... m-maybe you can take your sword... (Bright, closed-eyes blushing smile) And be the hero that protects me from the mice? (Smile fading into blank waiting) (...) (Uncomfortable, sweatdropping squint as Kris stands silent) (Don't just stand there in silence...)"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Player", "text": "They like you"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Flustered stammer) H-huh? No way! If that's the case... Get them to just give me a lunchbox instead!"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Player", "text": "Unknown"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Dry, knowing squint) (Only Kris would say \"unknown\", not \"I don't know.\") (... then keep standing there like that.) (...) (Are they waiting for me to stop mumbling?)"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "Kris routes a mouse cleanly into the \"in\" hole. Noelle walks onto the grid with a beaming smile, only to freeze in blank confusion and puzzled worry."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Beaming) Kris! You did it! We should be able to..."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Blank confusion) ... huh?"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Puzzled) The forcefield's still up."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Anxious) D-did we miss something? H-hello?"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Worried) I wonder what we did wrong... The forcefield is still up."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Narrator", "text": "Re-routing the tiles cleanly into the \"in\" pipe, Kris launches a full stream of mice that erupt directly beneath Noelle, blasting her clear over the electric barrier onto the floor switch on the right. Noelle lands with an angry scowl before blinking sheepishly as the barrier drops."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Angry) Kris, I can't believe you made those mice--"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Surprised) Huh?"}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Sheepish blink) I... I guess landing on the switch turned off the forcefield..."}
+{"context": "Scene: Obj City Mouse Puzzles", "speaker": "Noelle", "text": "(Cheerful smile) Let's go, Kris."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "In the next hallway, Kris approaches a wedge of yellow cheese beneath a warning sign. Noelle watches with an anxious, pleading smile."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Noelle", "text": "(Anxious, pleading) Kris..."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Noelle", "text": "You aren't going to touch that cheese, are you?"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Player", "text": "♥ I am going to touch the cheese"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Player", "text": "I do not touch the cheese"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "If [I do not touch the cheese] is chosen, Noelle repeats her warning until Kris chooses to touch it."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "You rubbed the cheese down like a beloved pet."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Suddenly...!"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "A purple Maus bursts out, starting a battle."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "[Battle Text]"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Maus blocked the way!"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Kris selects [ACT] -> [Fear] with Noelle; Noelle points in terrified panic, then disgusted grimace."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Noelle", "text": "(Terrified) Th-the way it moves is just so... so scary!"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Noelle", "text": "(Disgusted) It's disgusting!!"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Maus was rejected... everyone felt TIRED."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Maus", "text": "(I can't help it, I'm a scary guy.)"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Maus's clicking sounds more like splat noises."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Kris catches Maus with [TrapAll], heals Noelle with a LightCandy, and Noelle spares Maus — RECRUIT 1/3."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "You won! Got 0 EXP and 126 D$."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Back in the hallway, Noelle grimaces in exhausted disgust."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Noelle", "text": "(Exhausted disgust) I... I never want to see cheese ever again..."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Walking east into a massive hall whose floor is completely covered in dozens of cheese wedges, Noelle freezes with bulging eyes and screams."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Noelle", "text": "(Horrified shout) KRIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Kris weaves across the sea of cheese, opens a hidden chest in the top-left alcove (`CD Bagel` added to ITEMs), and engages a patrolling pair of Maice."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "[Battle Text]"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Maice blocked the way!"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "After an initial missed TrapAll, Kris traps and spares the first Maus (RECRUIT 2/3), then focuses on trapping and having Noelle repeatedly Spare the second Maus—using [Heal Prayer] (+55 HP) and `ClubsSandwhich` along the way."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Noelle spared Maus! But its name wasn't YELLOW..."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Maus", "text": "(Catch me, catch me!) (Hee hee hee...)"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Maus is thinking about overly elaborate machines."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Maus keeps running between your feet."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Noelle spared Maus! (RECRUIT 3/3)"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "You won! Got 0 EXP and 248 D$."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Inspecting the flattened cheese spot after the battle:"}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "The cheese was destroyed in the heat of battle."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Feels like you lost sight of what was important."}
+{"context": "Scene: Obj City Cheese And Mice", "speaker": "Narrator", "text": "Kris and Noelle leave the cheese hall and walk south toward the next puzzle chamber."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Kris and Noelle enter a large puzzle chamber featuring an upper catwalk, a red wall lever, two grid towers beneath a digital red signboard reading \"??????????\", and a dark pit below. Kris stops at the broken bridge edge; Noelle looks forward worriedly."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Worried) It's a dead end...?"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Walking left and down the stairs past the lever, Noelle steps onto the first tile of the left grid (`I?????????`) and looks up at the board in confusion."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Confused) Hmm... the switch didn't seem to work?"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Suddenly, the platform shakes violently and begins dropping downward. Noelle's portrait twists into wide-eyed, screaming terror."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Screaming panic) Kris!! The platform's falling!! H-help me!!"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "A glowing pink neon sign lights up on the wall: \"annoying mouse room 3\". On the first attempt, Noelle drops all the way into the mousepile below. The music fades as she pops back up shouting furiously, narrows her eyes into a fierce scowl, then softens into a shy apology and a calm smile."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Furious shout) KRIS!!!!!!!"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Squinting scowl) Gosh, you're lucky Dess isn't here!"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Squinting scowl) Otherwise YOU'D be facedown in a mousepile!"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Frowning silence) ..."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Shy, apologetic) S... sorry, I didn't mean to get so mad."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Calm smile) Sure... okay, we can try again."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Resetting the puzzle, Kris launches two mice through the \"in\" pipe; they erupt beneath Noelle, tossing her safely onto the right tower grid (`IL????????`). Noelle lands wide-eyed in panic, blinks in stunned surprise, then shifts into a sheepish, flustered smile."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Panicked) Kris!! What are you doing!! You made me --"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Stunned blink) H... huh?"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Sheepish, flustered smile) S-sorry, Kris, you just saved me, didn't you...?"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Immediately, the second platform begins shaking and dropping beneath her feet."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Panicked) Th... this one's falling, too!"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Desperate, pleading) Kris, whatever you just did, keep doing it!!"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Berdly glides onto the upper-left catwalk above Kris, smirking smugly as Kris adjusts the rotation tiles and launches mice to bounce Noelle rapidly between the tiles—spelling `ILO???????`, `ILOV??????`, `ILOVE?????`, `ILOVEM????`, `ILOVEMO???`, `ILOVEMOU??`, and `ILOVEMOUS?`—while Noelle repeatedly reacts via tiny corner mini-portraits."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "Ahh, Kris. Stuck on this puzzle, I see?"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "I thought I heard Noelle calling for help, but..."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "I get what that sound was now. Kris."}
@@ -983,7 +1521,7 @@
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "Stuck on a puzzle just like this one, no doubt."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "If only I was there to do it for her."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "She's but a powerless doe without my help..."}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Powerless!!?)"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Noelle (mini-portrait, indignant):** (Powerless!?)"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "Though being alone might be better than being with you!"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "Kris, you would only get in the way!"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "After all, you can't understand Noelle like I can."}
@@ -992,134 +1530,165 @@
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "I can read her feelings like a strategy guide."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "Which, I have NEVER needed by the way!"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "You may see her as the simpleton girl next door."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Noelle (mini-portrait, exasperated):** SIMPLETON?"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "But the reality. Is that she is."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "A lovestruck girl with her heart on her sleeve."}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(H-huh!? Berdly!?)"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Noelle (mini-portrait, startled):** ... H-huh? Berdly?"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "And... Kris... The target of her affection..."}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(BERDLY??? DEADLY KNOWS???)"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "May be surprising to you."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Noelle (mini-portrait, wide-eyed panic):** BERDLY??? BERDLY KNOWS???"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "It's... Truly sad. Such love... May never fruit."}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Berdly solves the puzzle, creating a path that spells \"ILOVEMOUSE\"."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Noelle (mini-portrait, stunned silence):** ..."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "But still, I have to support her, Kris."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "She's my friend."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Noelle (mini-portrait, touched):** Berdly..."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "Also, my only worthy opponent at racing games."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Noelle (mini-portrait, furious shock):** WHY THAT!?"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "On the final bounce, Noelle lands on the last tile. The digital signboard turns bright green, displaying **`ILOVEMOUSE`**! All barriers drop, and Noelle steps calmly onto the floor below."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Berdly freezes on the upper catwalk in stunned disbelief, pushes up his glasses in flustered denial, and runs off to the right."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "What."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "How did you..."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "HOW DID YOU SOLVE THAT??"}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "Even a broken clock is right once a day."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "Even a broken clock is right once."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "And Kris, if anyone asks..."}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "I solved the puzzle!!"}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "It's not fair for YOU to get extra credit for a fluke!"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "It's not fair for YOU to get extra credit for a fluke!!"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "Get it!? Let NO ONE think otherwise! ESPECIALLY Susie!"}
 {"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Berdly", "text": "You KNOW she'd just... lord it over me!"}
-{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Berdly leaves."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "The party reaches the end of the alleyway, where Berdly is waiting."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Noelle!? What are you doing with Kris!?"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "Um, I... um.. I.."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "We... have a truce...?"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Noelle walks over to Kris on the left floor, beaming warmly with a relieved, closed-eyes smile."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Relieved) Gosh."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Thoughtful smile) ... Y'know, I don't think I'm afraid of mice anymore."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Bright, cheerful smile) Actually, I think they might be kind of... cute?"}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Noelle", "text": "(Smiling) Anyways, let's keep going."}
+{"context": "Scene: Obj Berdly Puzzle Encounter", "speaker": "Narrator", "text": "Noelle is now immune to mice."}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "Climbing the stairs past a Save Point into the next dark blue street, Kris searches three glowing blue trash cans along the walkway and lower alcove, finding `$20`, `$80`, and a `CD Bagel`."}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "Walking east past a dolphin billboard, Kris and Noelle are ambushed by a Poppup and a Maus."}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "[Battle Text]"}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "Kris clicks Poppup with [ACT] -> [Click], spawning a second Poppup; Noelle acts alongside Kris."}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "You unconsciously clicked on a popup about \"monsters 4 humans\" in your area,"}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "Huh...!? That made another one??"}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "Noelle clicked on a link for Hot Female Santas In Your Area!"}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "On Turn 2, Kris clicks again until an overwhelming flood of Poppups fills the screen and flees, leaving Maus behind. On Turn 3, Kris selects [ACT] -> [Compliment]."}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "Noelle complimented the enemies!"}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Noelle", "text": "(Soft, shy smile) They're... kind of cute, right...?"}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Maus", "text": "(I can't help it, I'm a cutey guy.)"}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "After Noelle heals Kris with [Heal Prayer] (+55 HP), she spares Maus."}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "Maus is squeaking cheerfully."}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Maus", "text": "(Left, right, right, left...)"}
+{"context": "Scene: Obj City Trash And Poppup", "speaker": "Narrator", "text": "You won! *(Maus recruited 3/3.)"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Exiting south past a traffic light into a dark blue alley, Kris and Noelle stop as Berdly drops in on the right with a [!]. Noelle flinches backward in alarmed panic."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "(Alarmed) Uh-uh oh--"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Noelle!? What are you doing with Kris??"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "(Flustered, sweating smile) Um, I... um... I... I..."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "(Hesitant) We... have a truce...?"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "A... truce!? With... Kris?"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Hahaha!! That's impossible!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "That would be double truces."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "Huh?"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "That would be double trucies."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "(Confused) Huh?"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Worry not, my dearest Noelle."}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "I know what you really want to say."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "You... you do?"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "(Uncertain) You... you do?"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Going along with all this..."}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "You feel... forced, don't you?"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "It's why you're not with Queen right now."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "Berdly... you..."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Yes! I do!!"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "(Hopeful, surprised) Berdly... you get it?"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Yes!! I do!!"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Kris is FORCING you to be on THEIR side!!"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Kidnapper!! Kris, our truce... is OVER!!!"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Berdly summons his glowing green halberd overhead."}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Noelle!! This may hurt, but it's to help you!!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "W-wait, just listen to me---!!!"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Noelle", "text": "(Wide-eyed terror) W-wait, just listen to me---!!!"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Battle with Berdly begins."}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "[Battle Text]"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Berdly blocks the way!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "You encouraged Noelle to use her mind!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Her MAGIC increased! Berdly found her smarts appealing!"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Kris! I get it! Your head's gotten big from solving that puzzle by DUMB LUCK!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Berdly laughs and goes to his mind palace."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Kris used the REVIVEMINT!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "So now you're trying to win Noelle over... By taking advantage of her kindness!?"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Berdly preens condescendingly."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "You encouraged Noelle to use her mind!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Noelle acted smart!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Partake, Kris! The Zephyr of Punishment!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Berdly tries to entice Noelle to his side by gyrating his hips!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Kris used the HEARTSDONUT!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Behold!!! Comrades!!!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Berdly summons two Werewires."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "You jiggled your body! Noelle pulled on the plug!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Noelle cast HEAL PRAYER!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "That's right, Kris! Unlike you, I am a GENIUS! And you'll never beat US fighting alone!"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "So now you think it's your chance to usurp me at my weakest..."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "By taking my most precious thing... Noelle!"}
 {"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Berdly thanks Noelle profusely."}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "You pretended to knit a home-made dunce cap!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Berdly liked that!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "You won!"}
-{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Got 0 EXP and 0 D$."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "But guess what, Kris! I have one or more things you will NEVER have!"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Berdly summons two Werewires onto the field; Kris heals Noelle with a ChocoDiamond while Noelle casts [Sleep Mist], putting both Werewires to sleep — RECRUIT 1/6, 2/6."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "That's right, Kris! Unlike YOU, I have a LOVING TEAM behind me!"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "And you'll never beat US fighting alone!"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Kris heals with Darkburger and Noelle uses CD Bagel as Berdly notices his allies vanished."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "My... my allies are gone? Ha! They're probably just... Helping Queen search for me!"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Sh..."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Smells like frozen chicken."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "S-summon..."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Berdly", "text": "Just WAIT! The original ones are gonna come back any minute now!"}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "Kris and Noelle finish the battle with FIGHT and IceShock."}
+{"context": "Scene: Obj Berdly Final Battle", "speaker": "Narrator", "text": "You won! Got 0 EXP and 300 D$."}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Narrator", "text": "Back in the alley, Berdly drops to one knee. Noelle watches him with gentle, sympathetic concern."}
 {"context": "Scene: Obj After Berdly Battle", "speaker": "Berdly", "text": "D-damn it!"}
-{"context": "Scene: Obj After Berdly Battle", "speaker": "Noelle", "text": "Berdly, are you okay...?"}
-{"context": "Scene: Obj After Berdly Battle", "speaker": "Noelle", "text": "Kris, maybe we should have gone easier on him.."}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Noelle", "text": "(Concerned) Berdly, are you okay...?"}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Noelle", "text": "Kris, maybe we should have gone easier on him..."}
 {"context": "Scene: Obj After Berdly Battle", "speaker": "Berdly", "text": "Go easier!? Ha! Haha! Hahaha!"}
 {"context": "Scene: Obj After Berdly Battle", "speaker": "Berdly", "text": "The only one going easy mode, was me!"}
-{"context": "Scene: Obj After Berdly Battle", "speaker": "Noelle", "text": "You look... Exhausted."}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Noelle", "text": "(Sympathetic) You look... Exhausted."}
 {"context": "Scene: Obj After Berdly Battle", "speaker": "Berdly", "text": "I'm only tired of HOLDING BACK MY TRUE POWER!"}
 {"context": "Scene: Obj After Berdly Battle", "speaker": "Berdly", "text": "Ah, Noelle. It'd be too simple to save you now."}
 {"context": "Scene: Obj After Berdly Battle", "speaker": "Berdly", "text": "Kris! Go ahead and train your strength values."}
-{"context": "Scene: Obj After Berdly Battle", "speaker": "Berdly", "text": "Try hard, and maybe someday you'll be a worthy rival."}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Berdly", "text": "Try hard, and maybe someday you'll be a worthy rival!"}
 {"context": "Scene: Obj After Berdly Battle", "speaker": "Berdly", "text": "Heh! Sometimes I can't believe how cool I am..."}
-{"context": "Scene: Obj After Berdly Battle", "speaker": "Narrator", "text": "Berdly ran away."}
-{"context": "Scene: Obj After Berdly Battle", "speaker": "Noelle", "text": "(He hit me in the face with a tornado...)"}
-{"context": "Scene: Obj After Berdly Battle", "speaker": "Narrator", "text": "After the battle, you are filled with the power of chicken nuggets."}
-{"context": "Scene: Obj After Berdly Battle", "speaker": "Narrator", "text": "File Saved"}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Narrator", "text": "Berdly dashes off-screen to the right. Noelle's portrait shifts into a flat, deadpan, exhausted frown."}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Noelle", "text": "(Deadpan, exhausted) (He hit me in the face with a tornado...)"}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Narrator", "text": "Kris touches the nearby Save Point near the pink cones."}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Narrator", "text": "After defeating Berdly, a certain scent hangs in the air..."}
+{"context": "Scene: Obj After Berdly Battle", "speaker": "Narrator", "text": "You are filled with the power of chicken nuggets."}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "Crossing the pink-car boulevard onto an upper walkway, Kris and Noelle hear Queen's laugh from off-screen. Noelle panics and slips her goofy cardboard box over her head."}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Noeeeeelle Honey Where Are You"}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Noelle", "text": "(Panicked) (Oh no, here she comes...)"}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "Queen enters holding a steaming green Battery Acid Pie, glances briefly at Noelle-in-the-box with a [!], then turns to Kris."}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Noelle Come Home I Made You A Battery Acid Pie"}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Oh, Kris Perfect Timing"}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "Queen hurls the pie behind Kris; it explodes violently."}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Have You Seen --"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "Berdly falls from the sky."}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Berdly", "text": "Oh my Luxurious Quuuueeeeennn!!"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Oh My Circuits Kris Get In The Car"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "Queen and Kris get in the car and drive away."}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Berdly", "text": "(Off-screen) Oh my Luxurious Quuueeeeeeenn!!"}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "(Visor: wide panicked circles) Oh My Circuits Kris Get In The Car"}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "A black sedan crashes down over Queen and Kris, leaving Noelle standing outside in her box. Berdly sprints in carrying a \"Gamer's Delight\" pie on a plate, pauses, and runs back left."}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Berdly", "text": "My Queen!! Where are you!!"}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Berdly", "text": "I've baked you a Gamer's Delight!!"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Berdly", "text": "Hmm.. she's not here..."}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "Berdly leaves."}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "Queen and Kris return."}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Berdly", "text": "Hmm... she's not here..."}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "Queen and Kris pop out beside Noelle in her cardboard box."}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "That Was Close"}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Kris"}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Who Is Your Friend"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "My Face Recognition Software Does Not Compute"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "... And"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Something About Them Seems"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Cool"}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "My Face Recognition Software Does Not Compute Them"}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": ".... And Yet"}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Something About Them Seems Familiar"}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Robotic Even"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Noelle", "text": "(...)"}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Noelle", "text": "(Deadpan silence inside box) (...)"}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Kris We Must Drive To Find Noelle"}
 {"context": "Scene: Obj City Reunite After Berdly", "speaker": "Queen", "text": "Everyone Get In The Car"}
-{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "Noelle with a box on her head and Kris get in the car."}
+{"context": "Scene: Obj City Reunite After Berdly", "speaker": "Narrator", "text": "All three climb into the sedan and speed east down the highway."}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Kris Press Directions To Steer"}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Kris Don't Hit The Cars"}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Kris Don't Hit The Cars!"}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Narrator", "text": "Kris collides with a walking pink car; Queen immediately changes her mind."}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Haha Okay Actually Hit All The Cars"}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "So Much Traffic Isn't It Wonderful"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Lightners Love Traffic They Look It Up All The Time"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Poor Noelle She Would Love Hitting All These Cars"}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "Umm, actually, I.. she, um, might not, um..."}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "(Flustered, sweating grimace) Umm, actually, I... she, um, might not, um..."}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Narrator", "text": "A bright yellow banana appears on the road ahead; Kris steers straight into it."}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Stop Everything"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Kris Get The Banana"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Potassium"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Here Comes A Crossing Get Ready To Stop"}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Narrator", "text": "The car stops in front of a huge traffic jam."}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Oh My Circuits It's A Traffic Jam"}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Narrator", "text": "The sedan brakes before a towering wall of jammed pink cars blocking the boulevard; the camera pans right to the crosswalk Walk button on the far side and back."}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "(Visor: dizzy circles) Oh My Circuits It's A Traffic Jam"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "A Dog Must Have Wandered In The Road Again"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Kris Be A Dear And Go Press The Walk Button"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "It's Just Over On The Other Side Of The Road"}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Narrator", "text": "Kris gets out of the car. A minigame of crossing the road begins."}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "Umm.. I'll go, too..."}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "(Worried, nervous smile) Umm... I'll go, too..."}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "No"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "You Must Stay"}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "!?"}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "(Wide-eyed shock) !?"}
 {"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Until You Hear All Of My Mixtape"}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "O-okay..."}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "(Kris... hurry up, please...)"}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Narrator", "text": "Kris crosses the road."}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Next Up Is My CD Of Various Car Horns"}
-{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "(Kris, please hurry...)"}
-{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Kris walks down an alley towards the traffic light switch."}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "(Timid, flustered) O-okay..."}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "(Desperate plea) (Kris... hurry up, please...)"}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Narrator", "text": "Kris steps out of the car; harsh screeching blares from the stereo inside."}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Queen", "text": "Next Up Is My CD Of Vintage Hard Disk Noises"}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Noelle", "text": "(Desperate, sweating) (Kris, please hurry...)"}
+{"context": "Scene: Obj Highway Chase 2", "speaker": "Narrator", "text": "Kris crosses south into a dark alleyway past \"#1 Queen\" posters toward the traffic light switch."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Buy Queen Clean! The most popular cleaning flavors!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Queen Clean! Made of 100% acid!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "A container opens with a crash, and Spamton appears from it."}
@@ -1161,15 +1730,17 @@
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "HEY HEY HEY! I'VE NEVER SEEN A [[HeartShapedObject]] LIKE THAT BEFORE!!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "MY EYES ARE [[Burning]] LIKE [[DVDs of ANY movie at Half-price!]]"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "I HAVE A VERY SPECIL [Deal] FOR YOU KID!"}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Choose an option"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Player", "text": "TELL ME MORE"}
-{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "THAT'S THE ATTITUDE YOU LITTLE [[Slime]]!"}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Spamton", "text": "THAT'S THE ATTITUDE YOU LITTLE [[Slime]]!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "DEALS LIKE THIS ONLY COME ONCE IN YOUR [[Ant-sized]] [[Rapidly-shrinking]] LIFE!!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "MEET LOCAL SINGLES STRAIGHT FROM [My] [[Hyperlink Blocked]]."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "THERE'S NOTHING WRONG WITH HAVING A NICE [Splurge] EVERY ONCE IN A WHILE."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "BELIEVE IT OR [[Not]]!! I USED TO BE A BIG SHOT. THE BIGGEST!!! BUT NOW..."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "I NEED A LITTLE [[Genorisity]]"}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Choose an option"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Player", "text": "GIVE MONEY"}
-{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "YUM YUM. DELICIOUS KROMER."}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Spamton", "text": "YUM YUM. DELICIOUS KROMER."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "DID YOU HAVE ANYMORE?"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "You felt your KROMER being absorbed..."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Wrong choice...?"}
@@ -1178,8 +1749,9 @@
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "ONLY FOR THE LOW, LOW PRICE OF 1000 KROMER."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "AN AWESOME PRICE. AN ABSOLUTELY [[Terrifying]] PRICE"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "PRICES SO LOW. EVERYONE I KNOW IS [[Dead]]!!!"}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Choose an option"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Player", "text": "DON'T BUY"}
-{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "WHAT!? YOU DON'T HAVE ENOUGH [Wacky Stacks]!?"}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Spamton", "text": "WHAT!? YOU DON'T HAVE ENOUGH [Wacky Stacks]!?"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Kid. you're [Killing] me! HAHAHA!!! HAHAHA!!!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "PLEASE STOP [Killing] ME I WILL GIVE Y OU ANOTHER DEAL."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "I WAS ONLY EVER IN IT FOR THE [Freedom]."}
@@ -1189,15 +1761,17 @@
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "SO... SOUNDS GOOD. DOESN'T IT? KID!?"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "DON'T YOU WANT TO BE JUST LIKE YOUR OLD PAL SPAMTON?????"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "TAKE THE DEAL"}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Choose an option"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Player", "text": "TAKE DEAL"}
-{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "DEAL OR NO DEAL. THAT'S THE TV SHOW."}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Spamton", "text": "DEAL OR NO DEAL. THAT'S THE TV SHOW."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "WHERE THE PEOPLE WHO DON'T TAKE THE DEAL"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "GET FILLED WITH BULLETS FIRED FROM THE HOST'S MOUTH!!!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "DON'T WORRY KIDS I'M AN [HonestMan]"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "I JUST NEED YOUR [Account Details] AND THE [Number on theB4ck]!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "THEN YOU CAN ENJOY 1000 Fr3e KROmer"}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Choose an option"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Player", "text": "REFUSE"}
-{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "WHAT!? YOU DON'T NEED IT!?!?"}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Spamton", "text": "WHAT!? YOU DON'T NEED IT!?!?"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "THAT'S A REAL BIGSHOT MOVE KID!!! YOU'RE LIKE ME..."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "[Desperate]"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "BUT WE KNOW WHAT WE WANT, DON'T WE!?"}
@@ -1205,8 +1779,9 @@
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "[Hyperlink Blocked]."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "WILL Y OU TAKE THE FINAL DEAL!?"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "REMEMBER... THIS IS UP TO YOU! I WON'T FORCE YOU."}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Choose an option"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Player", "text": "YES DEAL"}
-{"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "THEN A DEAL 'S A DEAL!!!"}
+{"context": "Scene: Obj City Spamton Alley", "speaker": "Spamton", "text": "THEN A DEAL 'S A DEAL!!!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "PLEASURE DOING BUSINESS WITH YOU KID!!!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "You Won!"}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "Got 0 EXP and -36 D$."}
@@ -1223,7 +1798,7 @@
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "The poster is torn, revealing a faded one underneath."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "BIG SHOT AUTOS! TAKE A RIDE AROUND TOWN IN OUR SPECIAL..."}
 {"context": "Scene: Obj City Spamton Alley", "speaker": "Narrator", "text": "The rest is cut off."}
-{"context": "Scene: Obj Highway End", "speaker": "Narrator", "text": "Kris reaches the button and presses it. The traffic jam disappears."}
+{"context": "Scene: Obj Highway End", "speaker": "Narrator", "text": "Kris reaches the crosswalk button and presses it. The traffic jam disappears, and Kris returns to the car where Noelle is waiting inside her cardboard box beside Queen."}
 {"context": "Scene: Obj Highway End", "speaker": "Queen", "text": "Get In"}
 {"context": "Scene: Obj Highway End", "speaker": "Narrator", "text": "Kris gets in the car, and they continue on their way."}
 {"context": "Scene: Obj Highway End", "speaker": "Queen", "text": "Kris We Have To Drive To Find Noelle"}
@@ -1259,20 +1834,22 @@
 {"context": "Scene: Obj Highway End", "speaker": "Queen", "text": "Use This"}
 {"context": "Scene: Obj Highway End", "speaker": "Narrator", "text": "Queen's Mixtape was thrown into your KEY ITEMS."}
 {"context": "Scene: Obj Highway End", "speaker": "Queen", "text": "Toodles"}
-{"context": "Scene: Obj Highway End", "speaker": "Narrator", "text": "Queen flies away. Noelle takes the box off her head."}
+{"context": "Scene: Obj Highway End", "speaker": "Narrator", "text": "Queen flies away. Noelle takes the cardboard box off her head, exhaling in relief."}
 {"context": "Scene: Obj Highway End", "speaker": "Noelle", "text": "Ph... phew..."}
 {"context": "Scene: Obj Highway End", "speaker": "Noelle", "text": "..."}
 {"context": "Scene: Obj Highway End", "speaker": "Noelle", "text": "Somehow, I feel like... we're almost out of here."}
 {"context": "Scene: Obj Highway End", "speaker": "Noelle", "text": "Let's go, Kris!"}
 {"context": "Scene: Obj Highway End", "speaker": "Narrator", "text": "Kris and Noelle walk on."}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "Gosh, that was close, wasn't it, Kris...?"}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "This... Strange world... this big city..."}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "It's so wild... It kind of makes my head spin."}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "...?"}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "Looks like another puzzle..."}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "Maybe if I go... down... here?"}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Narrator", "text": "Noelle goes down to the lower level to solve the letter puzzle."}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "...when I said this city makes my head spin..."}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Narrator", "text": "Kris and Noelle walk onto a high blue walkway overlooked by a \"?\" digital display and a glowing cyber skyline, blocked ahead by a cyan double-node barrier beside pink cones. Noelle catches up from the left, smiling nervously with wide, unsettled eyes and a slight sweatdrop, before shifting to anxious, overwhelmed discomfort."}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Nervous smile, sweating) Gosh, that was close, wasn't it, Kris...?"}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Anxious) This... Strange world... this big city..."}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Uneasy) It's so wild... It kind of makes my head spin."}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Narrator", "text": "Noelle looks up at the \"?\" display with blank curiosity, then turns toward the cone gap with a sheepish, eyes-closed, slightly flustered smile."}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Blank curiosity) ...?"}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Curious) Looks like another puzzle..."}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Sheepish smile) Maybe if I go... down... here?"}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Narrator", "text": "Noelle drops down onto the lower level, stepping across the letter tiles **`D`**, **`E`**, **`C`**, **`E`**, **`M`**, **`B`**, **`E`**, **`R`** as Kris triggers the corresponding floor switches behind dark skyscraper silhouettes along the upper path."}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "... when I said this city makes my head spin..."}
 {"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "I didn't mean in a bad way... you know?"}
 {"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "I always wanted to go someplace new, you know?"}
 {"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "... And Dess... always told me she'd take me."}
@@ -1288,45 +1865,49 @@
 {"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "With warm sleeves that smelled like cinnamon."}
 {"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "I guess I didn't mind being scared if it meant..."}
 {"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "Someone would comfort me."}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Narrator", "text": "Noelle solves the puzzle, spelling the word \"DECEMBER\"."}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Sigh...)"}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Kris is the only one who knows how weird I am.)"}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(It's not fair, y'know?)"}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Everyone knows how weird YOU are. Fahahaha.)"}
-{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Narrator", "text": "Kris and Noelle reunite and walk on."}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Kris and Noelle approach the carnival games."}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Narrator", "text": "Stepping onto \"R\", the display completes **`DECEMBER`** and clears the upper barrier. Noelle hops back up beside Kris; her portrait shifts from an eyes-closed sighing smile, to a shyly downcast warm smile, to a wide-eyed pouting blush, and finally into a bright closed-eyes laugh."}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Sighing smile) (Sigh...)"}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Shy, warm) (Kris is the only one who knows how weird I am.)"}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Pouting, blushing) (It's not fair, y'know??)"}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Noelle", "text": "(Cheerful laugh) (Everyone knows how weird YOU are. Fahahaha.)"}
+{"context": "Scene: Obj City Puzzle Noelle Dess", "speaker": "Narrator", "text": "Kris and Noelle walk east together toward the carnival plaza."}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Kris and Noelle pass four carnival ball-throwing booths (`LOOK`, `BUY`, dolphin signs) with white pin targets."}
 {"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "It's a ball throwing game. Prizes are seated under the counter."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "O-oh no, she's coming back this way!!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "I'll hide in that stall!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Noelle hides. Queen appears."}
-{"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "Hey Check This Out"}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Queen throws a ball, knocks down all the bottles, and wins a prize—a plush toy of Noelle in a box."}
-{"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "Sweet"}
-{"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "Where's My Peon"}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "Oh! Um..."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "H-here!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "Ha Ha"}
-{"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "Nice"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "As Kris nears the rightmost dolphin booth, Queen's laugh echoes from the right. Noelle panics wide-eyed and ducks out of sight behind the \"LOOK\" booth counter—before slipping into her cardboard box inside the dolphin booth."}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Panicked) Q-queen!!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Queen struts in from the right, winds up, and throws a baseball straight through the rightmost dolphin booth, smashing the pins and revealing Noelle sitting in her cardboard box behind the counter."}
+{"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "Hey Kris"}
+{"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "(Visor: \"NICE\") Sweet Right"}
+{"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "Where's My Prize"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Startled, sweating) Oh! Um..."}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Flustered) H-here!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "(Visor: \"NICE\") Ha Ha Nice"}
 {"context": "Scene: Obj City Carnival", "speaker": "Queen", "text": "Wait I Actually Don't Want This"}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Queen throws the prize. Susie and Ralsei appear."}
-{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Hahaha, how was THAT!?"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Queen dumps the yellow Noelle plushie directly onto Kris's head and marches off-screen to the right. Moments later, Ralsei—carrying a giant pink cotton candy—and Susie sprint in from the left."}
+{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Hahaha, how was THAT!"}
 {"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "Haha, Susie! You're not supposed to ATTACK people with it!"}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Oh yeah!? Watch me!!!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "Kris!!! There you are!!!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "(Excited) Kris!!!!! There you are!!!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Susie strikes a pose and launches a tiny green \"UltimateHeal\" spark at Kris, healing +2 HP."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Kris!! Check out my new attack!!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Susie uses \"UltimateHeal\" on Kris."}
 {"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "You felt slightly healed."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Heh, how's that!? Meet the new healing master, Kris!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "Oh. Yes. She is a real... \"master\" at it, Kris."}
+{"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "(Deadpan) Oh. Yes. She is a real... \"master\" at it, Kris."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "God, teaching you sarcasm was a mistake."}
-{"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "Hahahaha!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "Hahahahaha!"}
 {"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "... Oh, Kris...? What's that you have there?"}
 {"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "Is that a... gift for someone?"}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "[Gift Choice]"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Choose an option"}
 {"context": "Scene: Obj City Carnival", "speaker": "Player", "text": "Give to Noelle"}
-{"context": "Scene: Obj City Carnival", "speaker": "Player", "text": "Give to Ralsei"}
-{"context": "Scene: Obj City Carnival", "speaker": "Player", "text": "Give to Susie"}
-{"context": "Scene: Obj City Carnival", "speaker": "Player", "text": "♥ Give to Berdly"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Kris walks over to the dolphin booth and offers the plushie to Noelle inside her box. Noelle's portrait shifts from startled fluster, to a deeply touched closed-eyes smile, to hopeful wide-eyed anticipation—before snapping into stunned disbelief, indignant glare, and a furious shout as she pops up and knocks the cardboard box clean off her head."}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Startled, flustered) K... Kris...? Y... You have something for me...?"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Touched, closed-eyes smile) (Kris hasn't given me a gift like this...)"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Gentle smile) (Since we were little kids.)"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Hopeful surprise) (Are they saying they want things to go back to...)"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Stunned disbelief) W-wait, isn't that the plush I just gave Queen!?"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Indignant glare) What!? You want a refund!? So you can...!?"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Furious shout) Come on, say that to my face!! Gosh!!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Player", "text": "Give to Berdly"}
 {"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Berdly appears."}
 {"context": "Scene: Obj City Carnival", "speaker": "Berdly", "text": "Kris, have you seen..."}
 {"context": "Scene: Obj City Carnival", "speaker": "Berdly", "text": "Kris!? We took a break from trucing for ONE second..."}
@@ -1341,66 +1922,60 @@
 {"context": "Scene: Obj City Carnival", "speaker": "Berdly", "text": "... Hmph. Guess I'll forgive you for now."}
 {"context": "Scene: Obj City Carnival", "speaker": "Berdly", "text": "See you, Kris."}
 {"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Berdly leaves."}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "[Reaction to Gift]"}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Why the hell'd you give it to Berdly!?"}
 {"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "Why did you give it to Berdly!?"}
 {"context": "Scene: Obj City Carnival", "speaker": "Ralsei", "text": "Um, what.. unexpected kindness, Kris!"}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "... Let's just get the hell out of here."}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Noelle runs out from her hiding spot."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "W... wait!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "N... Noel..."}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Everyone reunites."}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Noelle runs out from her hiding spot: \"W... wait!\""}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Hearing Noelle, Susie leaps back in shock as Noelle steps out from behind the counter."}
+{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "N... Noelle!?"}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "... the hell were you doing in there? That's cheating."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "I... I... um..."}
-{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "... hm. Glad you're okay though."}
-{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Since that stupid Queen took you, I was kinda worried."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Thump, thump...)"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Panicked stammer, blushing) I... I... um. I..."}
+{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "(Softening, glancing aside) ... hm. Glad you're okay though."}
+{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Since that stupid Queen took you, I was kinda worried..."}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Wide-eyed, heavy blush) (Thump, thump...)"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Suddenly, Susie crosses her arms and points accusingly with a sharp grin."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Wait."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Aren't you on their side!?"}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "H-huh!?"}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "W-wait, wait, wait, wait, wait!!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "Umm, I... I..."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "Kris, help me..."}
-{"context": "Scene: Obj City Carnival", "speaker": "Player", "text": "♥ We have a truce"}
-{"context": "Scene: Obj City Carnival", "speaker": "Player", "text": "She is our enemy"}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "Th... that's right! We have a truce!!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Wide-eyed panic, sweating) H-huh!?"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Frantic) W-wait, wait, wait, wait, wait!!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Sweating) Umm, I... I..."}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Desperate plea toward Kris) (Kris, help me...)"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Choose an option"}
+{"context": "Scene: Obj City Carnival", "speaker": "Player", "text": "We have a truce"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Relieved, stammering) Th... that's right! We have a truce!!"}
 {"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "Kris said I could... I could be on your team!"}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Oh, really?"}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "... well, if Kris said so, I guess."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Didn't really wanna kill you anyway."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Thump, thump...)"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Noelle (mini-portrait, blushing):** Thump, thump..."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "So? Get in line already."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "O... okay!!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "Kris... also s-said I should be... behind... Susie."}
-{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Uhh... well, if Kris said so?"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Eager, flustered) O... okay!!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Noelle hops into line, then quickly swaps places with Ralsei to stand directly behind Susie."}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Shy, blushing smile) Kris... also s-said I should be... behind you."}
+{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Uhh... well, if Kris said so."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Let's go already."}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Berdly returns."}
-{"context": "Scene: Obj City Carnival", "speaker": "Berdly", "text": "Hmph. Guess I'll join too. ... but only for this room!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "(NO ONE WAS ASKING YOU)"}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "The whole team is together."}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "The Original Starwalker slides in behind Ralsei at the tail of the line."}
+{"context": "Scene: Obj City Carnival", "speaker": "Starwalker", "text": "I will also           join"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Walking slightly right together, Susie pauses and turns back to Noelle."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "... Hey, Noelle. One thing we gotta get straight."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "Y-y-y-yes?"}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Startled, wide-eyed fluster) Y-y-y-yes?"}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Where the hell'd you put that cool box?"}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "Umm, I... I just sort of... I..."}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Flustered stammer, sweating) Umm, I... I just sort of... I..."}
 {"context": "Scene: Obj City Carnival", "speaker": "Susie", "text": "Whatever. Just make us another one."}
-{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "... um... o-okay, sure!"}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Kris approaches the last game."}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "It's a ball throwing game. Prizes are seated under the counter."}
-{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "The team leaves the carnival area."}
+{"context": "Scene: Obj City Carnival", "speaker": "Noelle", "text": "(Relieved, sheepish sweatdrop smile) ... um... o-okay, sure!"}
+{"context": "Scene: Obj City Carnival", "speaker": "Narrator", "text": "Kris briefly inspects the remaining carnival booth (`It's a ball throwing game. Prizes are seated under the counter.`), and the team leaves the carnival area."}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Narrator", "text": "The team approaches the teacup ride."}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Ralsei", "text": "Look Kris! Another teacup ride!"}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Ralsei", "text": "But there's only 3 seats..."}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Noelle", "text": "(M-maybe two of us could... sh-share one?)"}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Susie", "text": "Damn, guess we gotta take the stairs."}
-{"context": "Scene: Obj Teacup Ride 2", "speaker": "Narrator", "text": "The team goes up the stairs."}
-{"context": "Scene: Obj Teacup Ride 2", "speaker": "Narrator", "text": "At the top, they find another teacup ride."}
+{"context": "Scene: Obj Teacup Ride 2", "speaker": "Narrator", "text": "The team goes up the stairs. At the top, they find another teacup ride."}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Noelle", "text": "Wait, I know! Umm, to turn off that force field..."}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Noelle", "text": "You just stay standing on this switch!"}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Susie", "text": "Huh."}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Susie", "text": "Well, see ya!"}
-{"context": "Scene: Obj Teacup Ride 2", "speaker": "Narrator", "text": "Susie and Ralsei leave, leaving Kris and Noelle."}
-{"context": "Scene: Obj Teacup Ride 2", "speaker": "Narrator", "text": "Kris and Noelle solve the mouse and cheese puzzle."}
-{"context": "Scene: Obj Teacup Ride 2", "speaker": "Narrator", "text": "After solving the puzzle."}
+{"context": "Scene: Obj Teacup Ride 2", "speaker": "Narrator", "text": "Susie and Ralsei leave, leaving Kris and Noelle. Kris and Noelle solve the mouse and cheese puzzle."}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Susie", "text": "Hell yea! Take that, you stupid mice!"}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Ralsei", "text": "It's nice seeing you enjoy a puzzle, Susie."}
 {"context": "Scene: Obj Teacup Ride 2", "speaker": "Susie", "text": "Well. Maybe they aren't awful if you do 'em like that."}
@@ -1567,22 +2142,22 @@
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "Lancer jumps onto Kris's shoulders. The player can now move freely around the room."}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "Kris examines the items in the room, which turn out to be the results of his internet searches."}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "It's a VHS explaining how to install video game piano."}
-{"context": "Scene: Obj Mansion Prison Escape", "speaker": "(From search query", "text": "video game piano tutorial)"}
-{"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "(Use the communicator?)* > Yes"}
+{"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "From search query: video game piano tutorial"}
+{"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "(Use the communicator?) > Yes"}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "You tried to use the communicator."}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Susie", "text": "Kris!? The hell are you doing!?"}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Susie", "text": "Huh? Trying to fit your head inside? Yeah, me too."}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Susie", "text": "HEY!! WE DON'T HAVE TIME FOR THIS!!"}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "It's dozens of gumballs."}
-{"context": "Scene: Obj Mansion Prison Escape", "speaker": "(From search query", "text": "how many gumballs in gumball machine)"}
+{"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "From search query: how many gumballs in gumball machine"}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "It's a jelly in the shape of various knives."}
-{"context": "Scene: Obj Mansion Prison Escape", "speaker": "(From search query", "text": "sharpest kitchen knife jello)"}
+{"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "From search query: sharpest kitchen knife jello"}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "It's Jongler's Book on Jongleing And Other Tricks"}
-{"context": "Scene: Obj Mansion Prison Escape", "speaker": "(From search query", "text": "how to use magic)"}
+{"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "From search query: how to use magic"}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "It's a calendar with college vacation circled."}
-{"context": "Scene: Obj Mansion Prison Escape", "speaker": "(From search query", "text": "summer vacation college when.)"}
+{"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "From search query: summer vacation college when."}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "It's two pixellized Toriels playing the piano."}
-{"context": "Scene: Obj Mansion Prison Escape", "speaker": "(From search query", "text": "video game piano tutoriel)"}
+{"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "From search query: video game piano tutoriel"}
 {"context": "Scene: Obj Mansion Prison Escape", "speaker": "Narrator", "text": "Kris leaves the room."}
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "Kris, Susie, and Lancer reunite in the guest hall, filled with purple doors with a bat symbol."}
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Susie", "text": "Kris, hey!!!"}
@@ -1609,13 +2184,13 @@
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Berdly", "text": "... in distress! And if I cannot help her, then...!"}
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Susie", "text": "Okay FINE you can come if you shut up."}
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "Berdly joins the party. Kris examines the doors."}
-{"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "(The nameplate reads BURGHLEY I MEAN BERDLY. Peek inside?)* > No"}
+{"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "(The nameplate reads BURGHLEY I MEAN BERDLY. Peek inside?) > No"}
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "You respected the Gamer's Code. No screen peeking."}
-{"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "(The nameplate reads CATTY'S ROOM. Peek inside?)* > Yes"}
+{"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "(The nameplate reads CATTY'S ROOM. Peek inside?) > Yes"}
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "It's wallpapered with the pink cat ad from the city. It's animated, too."}
-{"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "(The nameplate reads JOCKINGTON'S ROOM. Peek inside?)* > Yes"}
+{"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "(The nameplate reads JOCKINGTON'S ROOM. Peek inside?) > Yes"}
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "... it's just a basketball court."}
-{"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "(The nameplate reads ASRIEL'S ROOM. Peek inside?)* > Yes"}
+{"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "(The nameplate reads ASRIEL'S ROOM. Peek inside?) > Yes"}
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "You opened the door with your eyes closed. You saw nothing."}
 {"context": "Scene: Obj Mansion Guesthall", "speaker": "Narrator", "text": "The team enters the next room."}
 {"context": "Scene: Obj Mansion Puzzle Berdly", "speaker": "Narrator", "text": "The room is a stage with a shadow puzzle. Susie and Berdly take positions on the sides."}
@@ -2430,7 +3005,7 @@
 {"context": "Scene: Obj Ferris Wheel Dream", "speaker": "Narrator", "text": "It's a calendar."}
 {"context": "Scene: Obj Ferris Wheel Dream", "speaker": "Narrator", "text": "Every page is the last month, every day is the twenty-fifth."}
 {"context": "Scene: Obj Ferris Wheel Dream", "speaker": "Narrator", "text": "Kris tries to lie down on Noelle's bed."}
-{"context": "Scene: Obj Ferris Wheel Dream", "speaker": "Narrator", "text": "(Lie down in the bed?)* > Yes"}
+{"context": "Scene: Obj Ferris Wheel Dream", "speaker": "Narrator", "text": "(Lie down in the bed?) > Yes"}
 {"context": "Scene: Obj Ferris Wheel Dream", "speaker": "Ralsei", "text": "K-Kris, what if Noelle came in here...?"}
 {"context": "Scene: Obj Ferris Wheel Dream", "speaker": "Susie", "text": "Yeah, what if she has ticks? Get out of there!"}
 {"context": "Scene: Obj Ferris Wheel Dream", "speaker": "Narrator", "text": "The team leaves Noelle's room and returns to the main hall."}

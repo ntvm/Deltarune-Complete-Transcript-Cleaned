@@ -1279,25 +1279,709 @@ Back
 
 *(Susie drags Ralsei away, leaving Kris alone.)*
 </Combined_Deltarune_Chapter_2_damsel_in_distress>
+<Combined_Deltarune_Chapter_2_Alone_with_Noelle_(Normal-Route)>
+###**obj_city_kris_alone**
+
+*(Kris walks east along the blue walkway of Cyber City Entrance past the pastel "WELCOME TO THE CITY" billboard and animated cat-monitor screens, reaching a Save Point.)*
+*(You have neither fluffy boys nor mean girls with you now.)*
+*(Reluctantly, you are filled with the power from the cat sign.)*
+
+*(Kris speaks to a non-hostile Werewire standing near an "INFO" sign and a "5 STOP" crosswalk switch.)*
+**Werewire:** * I heard the rollercoasters are undergoing maintenance.
+**Werewire:** * That's a pain because it's our only form of public transit.
+
+**Sign:** * Welcome to Cyber City! Pedestrians need to press the switch to cross traffic!
+
+*(Kris hits the pedestrian switches and crosses both lanes of red and pink legged cars. On the other side, two Swatchlings sweep the street beneath yellow warning signs.)*
+**Swatchling:** * A large event is going to happen in the streets later.
+**Swatchling:** * We were told to make room for something BIG...
+**Swatchling:** * What are we cleaning up for, you ask?
+**Swatchling:** * We don't know. A parade, perhaps?
+
+*(Kris enters the dark alleyway and digs through a glowing blue trash can.)*
+*(You dug through the trash...)*
+*(And found $20!)*
+*(20 Dark Dollars was added to your MONEY HOLE.)*
+
+*(Walking south down the street—briefly spotting Noelle standing ahead—Kris is ambushed by two Poppups.)*
+
+**[Battle Text]**
+*   Poppups popped up!
+*   You unconsciously clicked on a popup about "monsters 4 humans" "in your area,"
+*   Huh...!
+*   Huh...!? That made another one!?
+**Poppup 1:** * This application is only supported by OS 2000.
+**Poppup 2:** * Click Here! Click Here! Click Here! Click Here!
+**Poppup 3:** * Click Here! Click Here! Click Here! Click Here!
+*   You just kept clicking and clicking on ads!!
+*(The Poppups multiply rapidly until they glitch out and crash.)*
+*   The Poppups crashed!
+*   You won! Got 0 EXP and 231 D$.
+
+*(Back in the alleyway near the Save Point, Kris checks another trash can.)*
+*(You dug through the trash...)*
+*(And found a CD Bagel!)*
+*(CD Bagel was added to your STORAGE.)*
+
+###**obj_city_kris_meets_noelle**
+
+*(Kris walks east into the next dark alley. Noelle stands alone in her white robe. Noticing Kris with a [!], she spins around; her portrait shows wide, startled eyes, raised eyebrows, open mouth, and beads of sweat.)*
+**Noelle:** *(Startled, sweatdropping)* * K-Kris!! What are you---
+
+*(Queen calls out from off-screen to the right with a calm, smiling visor.)*
+**Queen:** * Oh Noelle Sweetie
+
+*(With another [!], Noelle bolts into a narrow dark alcove in the upper wall, clutching her hands over her mouth in wide-eyed, sweating panic.)*
+**Noelle:** *(Panicked)* * (Don't let her find me...)
+
+*(Queen struts in from the right; her visor displays red "????".)*
+**Queen:** * Noelle Sweetie Darling Honey Where Are You
+*(Queen crosses her arms with a cheerful smiling visor.)*
+**Queen:** * We're A Team Now Remember
+**Queen:** * You Still Have To Be My Willing Minion
+
+*(Queen spots Kris with a [!] and shifts to her standard visor.)*
+**Queen:** * ... Kris
+**Queen:** * It Appears
+**Queen:** * Our Comrades Have Pressed The Escape Key On Us
+*(Queen's visor dims into shadow.)*
+**Queen:** * .... So It Has Come To This...
+**Queen:** * In Order To Find Our Teams...
+**Queen:** * ...
+*(Queen flashes a broad grin on her visor.)*
+**Queen:** * We Must Form An Uneasy Truce...
+
+*(Berdly yells from off-screen.)*
+**Berdly:** * Queen!! My splendid Queen!! Where are you!!
+
+*(Queen clutches her head in panic with red "X" eyes on her visor.)*
+**Queen:** *(Panicked)* * Oh No Don't Let Him Find Me
+
+*(Queen leaps straight up into full horizontal splits braced against the walls directly over Noelle's alcove. Both squeeze their eyes shut silently as Berdly walks in from the right.)*
+**Berdly:** * Ah, Kris... NOT the lifeform I was looking for.
+**Berdly:** * ... Hmm? Where's the rest of the C+ Squad?
+**Berdly:** * Don't tell me you got abandoned?? HA!!
+**Berdly:** * HAHA!! That's what you get for trusting Susie!! HA!!
+**Berdly:** * H... Huh? Noelle? Queen?
+**Berdly:** * They're just... busy retro gaming somewhere!!
+**Berdly:** * I bet they're waiting for me on the player select screen!!
+**Berdly:** * Listening to strangely groovy music!! HAHA! HA!! HA!!
+*(Berdly lowers his arms and looks away glumly.)*
+**Berdly:** * ...
+**Berdly:** * ... Sigh.
+*(He turns back toward Kris with a composed smirk.)*
+**Berdly:** * So it's come to this.
+**Berdly:** * In order to find our respective teams...
+**Berdly:** * It APPEARS...
+**Berdly:** * We must form an uneasy truce...
+
+*(Still wedged in splits above Noelle, Queen yells with red "X" eyes.)*
+**Queen:** * What The
+**Queen:** * Who The Beep Said You Could Double Trucies
+
+**Berdly:** * Huh? Did you hear something?
+**Queen:** * Honk Honk No It's Just The Sounds Of The City
+**Berdly:** * Oh okay.
+**Berdly:** * Hmph. Well I'll be ahead. Don't be LATE!!!
+
+*(Berdly walks off-screen to the right. Queen drops smoothly to the ground.)*
+**Queen:** * Kris As Part Of Our Truce (The Better One)
+**Queen:** * Keep Distracting Berdly And Find Noelle
+**Queen:** * For You See...
+**Queen:** * Berdly... He's...
+**Queen:** * OK There's Nothing Wrong With Him He's Just Annoying
+**Queen:** * Toodles
+
+*(Queen struts off-screen to the right. Noelle steps cautiously out of the alcove and walks down to Kris, her portrait showing a gentle, bashful smile, glancing slightly aside.)*
+**Noelle:** *(Shyly smiling)* * Kris, I... um... if it's okay...
+**Noelle:** *(Shyly smiling)* * ... G-got any room for another truce?
+
+>**(Choose an option)**
+>
+> > ♥ **Of course:**
+> >
+> >**Noelle:** *(Relieved, gentle smile)* * Thanks, Kris...
+>
+> >**No Triple Trucies:**
+> >
+> >**Noelle:** *(Playfully laughing, eyes closed)* * Har har, very funny! *(Warm, earnest smile)* * Well, I'd rather take my chances with you than her!
+*(Noelle joined the party!)*
+
+*(Kris touches the nearby Save Point.)*
+*(Noelle has joined your party.)*
+*(You are filled with the power of not knowing what a sugarplum is.)*
+*(File Saved)*
+
+*(Stepping back toward Noelle triggers a short conversation. Noelle's portrait shows a sheepish, shy smile, glancing sideways.)*
+**Noelle:** *(Sheepish smile)* * So, um, any idea where Susie is?
+*(Kris stands silently. Noelle instantly flushes in panic—her portrait snapping to wide, startled eyes, raised eyebrows, and flustered defensiveness.)*
+**Noelle:** *(Flustered/defensive)* * What!? WHAT?? I'm just asking!! It's a normal question!!
+
+###**obj_city_secret_detours_and_alleys**
+
+*(Backtracking west to the first intersection and heading north past the cat-faced cones, Kris and Noelle enter an encounter with two Poppups.)*
+
+**[Battle Text]**
+*   Noelle got nervous and looked at the ground!
+*   The enemies got shrivelled and TIRED from lack of attention!
+**Poppup 1:** * NEED... LOOK... ME...
+**Poppup 2:** * NEED... LOOK... ME...
+*   Noelle cast SLEEPMIST!
+*   You won! Got 0 EXP and 164 D$.
+
+*(Entering the Trash Zone alleyway, Kris speaks to Nubert.)*
+**Nubert:** * Nuelle, eh? Not a bad name, says Nubert.
+
+*(Kris checks Lancer inside KEY ITEMS; Lancer's sprite bounces cheerfully below the menu.)*
+**Lancer (Item Description):** * Ho-ho! A soft cream is following you! Can we make them a bad guy?
+
+*(Kris leads Noelle west past a giant heap of junk to a lone, locked gray door and knocks. Noelle's portrait shifts to wide-eyed, sweatdropping unease, then a tense closed-eyes nervous smile, open-mouthed dread, and finally soft, eyes-closed melancholy.)*
+*(The door is locked.)*
+**Noelle:** *(Nervous, wide-eyed)* * Kris...? Wh-why did you bring me here...?
+**Noelle:** *(Strained, closed-eyes smile)* * No one's home... no, no one's around at all.
+**Noelle:** *(Worried dread)* * It's... it's so creepy...
+**Noelle:** *(Eyes closed, pensive)* * ...
+**Noelle:** *(Eyes closed, wistful)* * (At the same time, it's kind of nostalgic...)
+
+*(Digging through nearby trash cans on the way back east, Kris finds a Dark Candy and checks a purple bag: "(It's an eggplant that looks like a trashbag.)" Returning to the alley ahead, Kris speaks to Hacker.)*
+**Hacker:** * I went to the store, and they needed a signature, to use a credit card,
+**Hacker:** * But, when I tried to encrypt my signature,
+**Hacker:** * By drawing random squiggles,
+**Hacker:** * They didn't like that.
+
+###**obj_city_alleys_with_noelle**
+
+*(Kris and Noelle encounter a Virovirokun. Noelle's portrait appears in wide-eyed, sweatdropping alarm.)*
+**Noelle:** *(Panicked)* * H-huh!? What's going on!?
+**Noelle:** *(Panicked)* * What are we doing!?
+
+*(Kris selects [ACT] -> [TakeCareX].)*
+**Noelle:** *(Confused, wide-eyed)* * H... huh? What are you telling me to do? ACT...?
+**Noelle:** *(Panicked)* * Can someone please explain what's going on?!
+**Virovirokun:** * Oh boy, is this your first time in a battle?
+**Noelle:** *(Timid, sheepish glance aside)* * Uh... well... um... yes.
+**Virovirokun:** * Oh boy...
+
+*(The screen fades to black.)*
+*(You and Virovirokun explained how battles work to Noelle.)*
+
+*(When the screen returns, Noelle's portrait lights up with an excited, sparkling grin, shifting to an eager smile, then a matter-of-fact deadpan stare.)*
+**Noelle:** *(Excited grin)* * I get it! It's kind of like Dragon Blazers!
+**Noelle:** *(Hopeful smile)* * And if we're nice to you, we can win through mercy?
+**Virovirokun:** * Yeah
+**Noelle:** *(Deadpan)* * And the way I have to do that is...
+**Noelle:** *(Deadpan)* * Dressing up in a weird costume.
+**Virovirokun:** * Yeah
+**Noelle:** *(Unimpressed stare)* * ...
+
+*(Kris appears in a doctor coat and Noelle in a nurse costume, tossing medicine—Noelle trips and lands flat on her face.)*
+*(You and Noelle showed the enemy tender loving care!)*
+**Virovirokun:** * Nice
+*(Virovirokun looks healthy.)*
+*(Kris spared Virovirokun!)*
+*(You won! Got 0 EXP and 94 D$.)*
+
+###**obj_mouse_puzzle_normal**
+
+*(Kris and Noelle walk south into the first "annoying mouse room". Kris reads the INFO sign (`Mice will rotate 90 degrees when they collide with the block. Push blocks to get mice in the holes. Use the bell to reset.`) and steps on the blue release switch. A purple mouse pops out; Noelle's portrait snaps to sheer horror, hair bristling and eyes wide, before shifting into a strained, apologetic nervous smile.)*
+**Noelle:** *(Terrified)* * A M-m-m-m...
+**Noelle:** *(Terrified)* * Mouse!?
+**Noelle:** *(Nervous smile)* * S... sorry, Kris, could you... d-deal with them somehow?
+**Noelle:** *(Hopeful/nervous)* * Maybe if you can get them in the other mouse hole?
+
+*(Troll 1 — Kris steps on the switch without blocking the path, sending a mouse bounding off the wall toward Noelle.)*
+**Noelle:** *(Panicked)* * K-Kris! If the mice hit a wall, they'll come over here...
+**Noelle:** *(Nervous smile)* * (Try using those blocks to get them into the hole?)
+*(Kris steps close beside Noelle.)*
+**Noelle:** *(Flustered)* * D-don't let the mice hit the walls, Kris!
+**Noelle:** *(Panicked)* * They'll bounce over here and crawl on me...!
+
+*(Troll 2 — Kris walks upward toward the top entrance; Noelle bursts into an amused, playful laugh.)*
+**Noelle:** *(Playful)* * Oh, merry Krismaaaas--
+**Noelle:** *(Playful)* * That's where we came from!
+**Noelle:** *(Laughing brightly)* * Kris, are you afraid of mice, too? Fahahaha!
+
+*(Troll 3 — Kris deliberately rotates the green tiles to aim a mouse directly at Noelle, knocking her into the air. Noelle glares with an exasperated squint, then a dry, mildly traumatized deadpan.)*
+**Noelle:** *(Exasperated glare)* * Gosh, you did that on purpose, didn't you!?
+**Noelle:** *(Deadpan)* * (It's like when they swapped my eggnog with mayo...)
+
+*(Troll 4 — Kris attempts to leave through the bottom exit three times.)*
+**Noelle:** *(Forced encouraging smile)* * H-hey, Kris? You can't leave yet, y'know!
+**Noelle:** * You need to deal with the mice, first.
+**Noelle:** *(Encouraging smile)* * You can do it, Kris! I believe in you!
+*(Second attempt: Noelle's portrait turns anxious and pleading with sweatdrops.)*
+**Noelle:** *(Anxious)* * Kris, you, um... aren't gonna leave me here, are you?
+**Noelle:** *(Pleading, sweatdropping)* * Th-think about all the p-pencils I gave you!
+**Noelle:** *(Pleading)* * The... the peppermint cookies I shared with you!
+**Noelle:** *(Desperate smile)* * I'll do your homework for you.
+*(Third attempt: Noelle looks genuinely hurt and wide-eyed.)*
+**Noelle:** *(Worried/hurt)* * Kris? Are... you really going to leave me...?
+> ♥ Sorry, I'll do the puzzle
+> Proceed
+*(Noelle relaxes into a shy, relieved smile.)*
+**Noelle:** *(Relieved)* * Th-thanks, Kris...
+
+*(Kris flips the directional arrow and routes the mouse cleanly into the "in" hole. The barrier opens; Noelle walks over smiling sheepishly.)*
+**Noelle:** *(Relieved smile)* * L-looks like that took care of it...
+
+###**obj_city_addisons_and_susie_ralsei_fun**
+
+*(Exiting south, Kris speaks to a Yellow Addison standing in a doorway booth.)*
+**Addison (Yellow):** * We are Addisons! All we do is advertise!!
+**Addison (Yellow):** * This is an advertisement too! *(Small text: "Advertisements now only $9.99!")*
+
+*(Continuing east and north, Kris speaks to a Blue Addison.)*
+**Addison (Blue):** * Don't like advertisements? Block ads for only $9.99!
+**Addison (Blue):** * Change your mind? Bring them back for only $9.99!
+
+*(Stepping north into the plaza overlooking a pink Addison's cotton candy stand, Kris and Noelle spot Susie and Ralsei standing together eating cotton candy. Noelle stops at the cones, wide-eyed, sparkling, and blushing deeply, before lowering into a bashful frown, then squinting in curiosity, worry, partial recognition, and sudden panic.)*
+**Noelle:** *(Starstruck, blushing)* * (S... Susie...!! She's right there...!!)
+**Noelle:** *(Bashful, discouraged)* * (But I... I can't get the courage to say anything...)
+**Noelle:** *(Confused)* * (...?)
+**Noelle:** *(Worried)* * (Who's that person she's with, anyway...?)
+**Noelle:** *(Squinting)* * (It looks kind of like...)
+**Noelle:** *(Panicked, wide-eyed)* * (Ahhh, they're looking over here! Let's go!!)
+
+*(If interacted with again:)*
+**Noelle:** *(Panicked)* * (Let's get out of here!)
+
+###**obj_city_after_mouse_puzzle**
+
+*(Kris and Noelle slide down a blue strip between neon city signs and immediately encounter two Ambyu-Lances.)*
+
+**[Battle Text]**
+*   Ambyu-Lances beeped
+*(Kris selects [ACT] -> [Hospitality]. Kris and Noelle point forward simultaneously.)*
+*   Noelle acted warmly towards Ambyu-Lance!
+**Noelle:** *(Gentle, reassuring smile)* * Needles aren't scary... medicine's important, you know?
+**Ambyu-Lance 1:** * This girl is so sweet... Let's give her free bullets!
+**Ambyu-Lance 2:** * All in a day's work, wee-woo.
+*(On Turn 2, Noelle repeatedly puts on and takes off a tiny white nurse hat at high speed while raising Mercy.)*
+*   Noelle takes on and off her nurse hat really fast!
+**Ambyu-Lances:** * All in a day's work, wee-woo.
+*   Kris spared Ambyu-Lance!
+*   Noelle spared Ambyu-Lance!
+*   You won! Got 0 EXP and 180 D$.
+
+*(Stepping past a yellow Addison booth ("Advertisements now only $9.99†"), Kris and Noelle enter a dark alley beside a Queen poster showing a "#1" trophy. Noelle's portrait shifts to a troubled, downcast frown, baffled with a sweatdrop, solemn shut eyes, and finally a weak, wistful half-smile.)*
+**Noelle:** *(Troubled)* * (Queen... She says she wants me to be happy, but...)
+**Noelle:** *(Baffled, sweatdropping)* * (Why would I want to eat a casserole made of wires?)
+**Noelle:** *(Solemn, distressed)* * (And why can't I... Just... Refuse?)
+**Noelle:** *(Vulnerable, downcast)* * (Sometimes I feel like...)
+**Noelle:** *(Weak, wistful half-smile)* * (Kris and Dad are the only ones I can say no to...)
+
+*(Kris opens the nearby chest and obtains `Pink Ribbon`, equipping it onto Noelle in place of RoyalPin.)*
+**Noelle (Menu):** * ... feels familiar.
+
+*(Heading up onto the upper traffic avenue, Kris solves the multi-lane STOP switch crosswalk and speaks to two citizens on the right sidewalk.)*
+**Wired NPC:** * Can't even cross the street without getting my ass kicked.
+**Wired NPC:** * I love the city.
+**Suited NPC:** * Since everyone else got plugged they're a lot more agreeable.
+**Suited NPC:** * It's nice.
+
+###**obj_ferris_wheel_ad**
+
+*(Kris and Noelle stop before a large illuminated billboard advertising a giant yellow Ferris wheel. Noelle beams with an ecstatic grin, softens into a warm smile, glances aside shyly, and grimaces with an awkward laugh.)*
+*(It's an advertisement for a giant ferris wheel.)*
+**Noelle:** *(Excited grin)* * Gosh, that's amazing!
+**Noelle:** *(Warm, open-eyed smile)* * Makes the one at the festival look like a toy, haha!
+**Noelle:** *(Shy, wistful smile)* * I... I wonder if Susie would want to...
+**Noelle:** *(Awkward laugh, sweatdropping)* * ... Gosh, who am I kidding?
+
+>**(Choose an option)**
+>
+> > ♥ **I will ride with you:**
+> >
+> >**Noelle:** *(Skeptical squint)* * Oh, so you can shake it when we reach the top? *(Cringing memory, eyes squeezed shut)* * Just like at the festival when we were kids? *(Playful, suspicious glare)* * I KNOW there's a catch with you, Kris! NO thanks!
+>
+> >**Susie would:**
+> >
+> >**Noelle:** *(Shy, hopeful blush)* * R-really? Y-you really think so? *(Cheerful, closed-eyes laugh)* * Faha, and coming from Susie Expert Kris! Thanks! *(Blank silence)* * ... *(Squinting, suspiciously baffled)* * (Hey, Kris, how'd YOU become the Susie Expert!?)
+>
+> >**Susie wouldn't:**
+> >
+> >**Noelle:** *(Flustered, startled)* * Y-you're right! Even if I asked her, she'd... *(Tense grimace)* * Probably just laugh at me. *(Wide-eyed, blushing fluster)* * And, gosh, push me to the ground, and... *(Starry-eyed, blushing daydream)* * L-laugh at me some more, and then... *(Panicked, sweating)* * (... What were we talking about again?)
+
+###**obj_shoe_shop**
+
+*(Stepping south into a side alley, Kris and Noelle encounter a Pink Addison running a shoe storefront.)*
+**Addison (Pink):** * Ohhon!! Two young beings together on a school night...
+**Addison (Pink):** * Could I interest you in some brand new Dating Shoes...?
+*(Noelle's eyes widen in flustered panic, shifting to a strained, sweating smile.)*
+**Noelle:** *(Flustered panic)* * H-huh...? No, no, you've got it totally wrong!
+**Noelle:** *(Strained, sweating smile)* * Kris and I are just... umm... fr... friends?
+*(Noelle's expression softens into quiet, closed-eyes reflection, then opens calmly before furrowing in uncertain confusion.)*
+**Noelle:** *(Gentle, closed-eyes smile)* * (Kris's been my neighbor forever...)
+**Noelle:** *(Gentle smile)* * (We've been through so much, sometimes it feels like...)
+**Noelle:** *(Calm, earnest)* * (We know each other better than anyone.)
+**Noelle:** *(Uncertain confusion)* * (... yet, somehow, it's hard to say we're exactly friends...?)
+
+>**(Choose an option)**
+>
+> > ♥ **We're friends:**
+> >
+> >**Noelle:** *(Cheerful, closed-eyes smile)* * Yep! That's right! We're friends! *(Shy, softly touched glance aside)* * (It's... surprisingly nice just hearing Kris say that...)
+>
+> >**We're something else:**
+> >
+> >**Noelle:** *(Wide-eyed, horrified bewilderment)* * (Wh-what does that mean???) *(Panicked, sweating grimace)* * (There's no good interpretation, that's for sure!)
+
+**Addison (Pink):** * Ah, you two don't look together!
+**Addison (Pink):** * Can I interest you in some brand new Divorcing Shoes...?
+
+###**obj_lightning_puzzle_normal**
+
+*(Heading south, they reach a cyan electric forcefield blocked by two floor switches.)*
+**Noelle:** * Hmm, looks like you need to hold it down.
+**Noelle:** * Kris, you keep standing on this one!
+
+*(As Noelle walks toward the second switch, Kris steps off the first switch, snapping the barrier back up. Noelle spins around in wide-eyed panic, then adopts a half-lidded, sardonic squint.)*
+**Noelle:** *(Panicked)* * Kris!! Stay on the switch! Stay! Stay!
+**Noelle:** *(Sardonic squint)* * ... gosh, do you need a dog treat or something?
+> ♥ Yes
+> Nooooo
+
+*(Noelle freezes with huge, stunned, sweating eyes.)*
+**Noelle:** *(Stunned)* * (... why did they sound so genuine?)
+
+*(Kris steps back on the switch; Noelle crosses and stands on the second switch.)*
+**Noelle:** * OK, now you come over here!
+*(Kris runs away to the left edge of the room first, making Noelle shout in panic, before walking back over to join her.)*
+**Noelle:** *(Panicked)* * Kris! Get back here!!
+**Noelle:** *(Smiling warmly)* * Nice teamwork!
+
+*(Walking south down the corridor, Kris inspects three stacked cardboard boxes.)*
+*(You became lost in the craftsmanship.)*
+*(Of the boxes.)*
+
+###**obj_city_queen_truce_and_statue**
+
+*(Ahead on a brightly lit blue plaza, Noelle spots Queen and gasps with a [!], freezing behind the corner in terror.)*
+**Noelle:** *(Panicked)* * Kris, it's Queen... She's right over there!
+**Noelle:** *(Terrified)* * C-Can you distract her somehow!!?
+
+*(Kris steps into the plaza alone. Queen stands holding a goblet of glowing green liquid, laughing with "LMAO" on her visor.)*
+**Queen:** * Lmao
+**Queen:** * You're here
+**Queen:** * Sorry Kris While I've Been Looking For You
+**Queen:** * I've Had Like 4 Of These All-Ages Appropriate
+**Queen:** * Glasses of Pure Battery Acid
+*(Queen hurls the goblet to the ground; it shatters in sparks.)*
+**Queen:** * Don't Worry That Was My Throwing Glass It's Safe
+**Queen:** * Look
+**Queen:** * Kris Cross Applesauce
+**Queen:** * Now That We Are Trucies I Feel Like We Are On The Same
+**Queen:** * Mathematical Wavelength
+*(Queen drapes an arm affectionately over Kris's shoulder.)*
+**Queen:** * You Get Me Kris
+**Queen:** * You Do Not Do Crazy Things Like "Have Opinions"
+**Queen:** * Or Scream When I Capture You
+**Queen:** * Or Tell Me Horrible Plans For Smartboy Theme Park
+**Queen:** * I Just Cannot Compute It
+**Queen:** * Why Everyone Else Is So... Ungrateful
+*(Queen hurls a second goblet, causing a massive explosion.)*
+**Queen:** * Whoops That Was My Extra Dangerous Glass
+*(Visor: "HA HA".)*
+**Queen:** * Kris
+**Queen:** * I Just Want To Make Everyone Smile
+**Queen:** * And If I Become An Evil Villain To Accomplish That
+**Queen:** * Is That Bad?
+**Queen:** * It's Okay
+**Queen:** * You Do Not Have To Answer
+*(Visor: "LMAO".)*
+**Queen:** * You Would Be Wrong
+**Queen:** * But Kris... While We're Still Trucies
+**Queen:** * Maybe We Could... Make The Most Of It
+
+*(An arcade cabinet drops into the plaza. Queen leans down to eye level with Kris.)*
+**Queen:** * We Could Play That Game Again
+**Queen:** * Wasn't That... Fun, Kris
+**Queen:** * Just You And Me
+*(Visor: "NICE".)*
+**Queen:** * Having A Good Time
+**Queen:** * No One Else To Get In The Way
+
+*(A colossal golden statue of a muscular Berdly flexing in "IQ" briefs crashes onto the arcade cabinet, and Berdly drops down beside it.)*
+**Berdly:** * Queen!! I've been looking everywhere to show you this!!
+**Berdly:** * A monument to our greatness... Together.
+**Queen (Visor: "????"):** * Oh / * Um / * How Do I Put This / * Very... / * ...
+**Queen (Visor: "LYING"):** * Smart / * So Smart You Are / * I Love Tolerating You
+**Berdly:** * Haha!! I KNEW you'd be enamored. Such perfect taste.
+**Queen (Visor: "LYING"):** * Very Cool Statues / * I Did Not Know You Had... Nipples
+**Berdly:** * Haha... I will SOON... in our IDEAL WORLD.
+**Berdly:** * Kris, feel free to admire our artisanship.
+**Berdly:** * Queen and I have PLANS to consider.
+**Queen:** * Haha Yes Oooh So Good Looking Forward To That
+**Queen:** * MMmmm Yum Yum Yum Yum Yum
+**Queen:** * Let's Go Burghley
+
+*(Berdly runs off to the right; Queen walks slowly after him, then backs up and sprints off to the left.)*
+**Queen (Visor: "LYING"):** * Keep Going I Am Right Behind You
+**Queen:** * Procedurally Lowering The Volume Of My Voice
+**Queen:** * Sorry Kris I Must Alt Tab Out Of Here
+
+*(Outside the plaza, Queen passes Noelle, who is wearing a cardboard box over her head with a goofy face drawn on it.)*
+**Queen:** * Wow Cool Face
+
+*(Noelle runs back to Kris in her box, lifting it off with a relieved, awkward smile before putting it back on—then immediately walking straight into the statue's base.)*
+**Noelle:** * Phew...
+**Noelle:** * Looks like my disguise worked.
+**Noelle:** *(Relieved smile)* * It's silly looking, but it beats hiding...
+**Noelle:** * Let's get going, Kris!
+*(Bonks into the golden Berdly statue.)*
+**Noelle:** * Just realized... I can't see anything... haha...
+**Noelle:** *(Nervous laugh)* * Guess I'll try not to wear it unless I have to.
+**Noelle:** * OK, let's go for real this time!!
+
+*(Kris stands before Berdly's statue and inspects it four times in a row while Noelle's portrait shifts from huge open-mouthed laughter, to an awkward sigh, to exasperated wide eyes, to a strained forced smile, and finally a furious shouting scowl.)*
+**Noelle:** *(Laughing wildly)* * What is this!? Fahahahaha...
+**Noelle:** * ... phew!
+**Noelle:** * ...
+**Noelle:** *(Grimacing, sweatdropping)* * (Kris, can you stop looking at this?)
+*(2nd inspection)*
+*(You became lost in the craftsmanship.)*
+**Noelle:** *(Wide-eyed exasperation)* * (Why do we have to look at it twice?)
+*(There's so much to look at here.)*
+**Noelle:** *(Exasperated)* * (Kris!?)
+*(3rd inspection)*
+*(It's a work of art.)*
+**Noelle:** *(Nervous wide eyes)* * (What part are you looking at?!)
+**Noelle:** *(Forced smile)* * If I say I like it, will you stop looking at it?
+*(4th inspection)*
+**Noelle:** *(Awkward stare)* * Hey, isn't this thing just the best...?
+*(This statue seems to suck bad.)*
+**Noelle:** *(Furious shout)* * KRIS!!!!!!!
+
+###**obj_city_after_shop**
+
+*(Walking right into a small alcove behind three cardboard-box counters and glowing equalizer bars, Kris and Noelle meet Sweet, Cap'n, and K_K.)*
+**Sweet:** * Yo! How's it hangin'?
+**Sweet:** * We're making some extra money by selling in the city!
+**Cap'n:** * We gotta make those bucks somehow!! Heheh!!
+**Sweet:** * Gotta buy new gear!!
+**Cap'n:** * Gotta get new kicks!!
+**K_K:** * I wanna buy a car!
+**Sweet:** * Good thinkin', K_K! Gotta have a way to get around!
+**K_K:** * Honk! Honk!
+
+*(Kris steps up to the counter.)*
+**Cap'n:** * What'll it be, chief? I got CD Bagels, $80 a pop!
+> Talk
+**Cap'n:** * And who is that, ahem, madimoyzel?
+**Sweet:** * Leave her alone, Cap!
+**Cap'n:** * Nice radio antenna you got there...
+**Sweet:** * Those are antlers, Cap!
+**Cap'n:** * H-huh!? I, uhh... hmm.
+**Cap'n:** * ...
+**Cap'n:** * Let's play her a song!
+*(Music starts and K_K dances happily. Kris talks twice more: "This music, it's nice music. / That's my favorite genre." and buys a CD Bagel for $80.)*
+*(CD Bagel was added to your STORAGE.)*
+
+*(Leaving the counter:)*
+**Cap'n:** * Did you like the big statue?
+**Sweet:** * Building it sucked!
+**K_K:** * Took a lot of scrap.
+**Sweet:** * The other job we did was way better!
+**K_K:** * It was big.
+**Cap'n:** * It's gonna blow your mind!
+**K_K:** * It was big.
+
+*(Kris interacts with the nearby Save Point.)*
+*(Energetic music wafts from the boxes.)*
+*(You are filled with the power of musical bagels.)*
+*(File Saved)*
+
+*(Backtracking left up to the street shops, Kris visits the Blue Addison outside "Cyber Shoes II".)*
+**Addison (Blue):** * Welcome to Cyber Shoes
+**Addison (Blue):** * Free samples!! Would you like one??
+> Don't (1st & 2nd) -> Take (3rd)
+**Noelle:** *(Sheepish smile)* * Umm, I don't really do... shoes.
+**Noelle:** *(Shy sidelong glance)* * (At least not unless they're custom-made...)
+**Addison (Blue):** * You'll never get stronger without a daily dose of shoes!!
+*(On taking the sample:)*
+*(You got a small shoe with a toothpick through it...)*
+*(Using Lancer in KEY ITEMS: Lancer pops out dancing at the bottom of the menu and crunches the shoe.)*
+**Lancer:** * Wow! Thanks for the free sample! I couldn't eat another bite!!
+
+*(Walking right to the Pink Addison's "Tea shop", Kris buys `Kris Tea` and `Noelle Tea` for $100 each.)*
+**Addison (Pink):** * This is the HOTTEST tea shop! HOT HOT!! 50% off!
+**Addison (Pink):** * For $100, Choose your OWN flavor!!
+*(Kris Tea and Noelle Tea were added to your STORAGE.)*
+
+*(Continuing down and left past a spinning Virovirokun to a red chest, Kris obtains `BounceBlade` and tests equipping Kris's weapons onto Noelle in the EQUIP menu:)*
+*   **BounceBlade:** * S-stop thwacking me!
+*   **MechaSaber:** * \*chk\* A-AHH! Scared myself...
+*   **Spookysword:** * (It's kinda cool...)
+*   **Wood Blade:** * (It has bite marks...)
+
+*(Interacting with the nearby Save Point (`Dark World?`) to move teas into Pocket, Kris tests consumables on the party).*
+*   **Noelle (Using Kris Tea on Kris, +10 HP):** * (... no reaction?)
+*   **Noelle (Using Noelle Tea on Noelle, +10 HP):** * ... this is just water! You're pranking me, right?!
+*   **Noelle (Using Kris Tea on Noelle, +70 HP):** * Tastes like cinnamon! (What is this aftertaste...?)
+*   **Noelle (Using Noelle Tea on Kris, +70 HP):** * (Umm, do they like it or not...?)
+
+*(Returning to the avenue past the Tasque area, Kris inspects and buys the $300 `Mannequin` from a Yellow Addison (`Buy! Buy! Buy! We're sold out! Buy!`).)*
+**Noelle (Attempting to equip Mannequin):** * (Why did they spend $300 on this!?)
+*(Kris equips the Mannequin onto Armor Slot II instead, changing Kris's overworld sprite into the blue dress.)*
+
+###**obj_city_battles_and_traffic**
+
+*(Along the avenue and traffic lanes, Kris and Noelle can encounter local enemies:)*
+*   **Tasques:** **Noelle:** * (Oh, it's a cat... I wonder if it likes being pet...) *(Noelle pet Tasque! Tasque is purring.)*
+*   **Werewires:** *(You jiggled your body! / Noelle pulled on the plug! / Werewire is emitting a low purr.)*
+*   **Virovirokuns:** *(Noelle offered a cold compress!)*
+*   **Ambyu-Lances:** *(Noelle acted warmly towards Ambyu-Lance!)*
+
+*(Crossing the next multi-lane traffic puzzle with Annoying Dog warning signs, Kris walks down an isolated blue alley to the right—only for the Annoying Dog in a tiny red toy car to slam into Kris in rapid bursts of 24 damage, flattening them into a GAME OVER screen as the dog casually drives past.)*
+
+###**obj_city_moss_and_egg**
+
+*(Resuming in a dark alley beside a green dumpster and whistling green cloud, Kris inspects behind the dumpster: `(The room between... There is a room between.)` and checks the dumpster: `(It's a dumpster... seems like there's a pillow inside.)`)*
+
+*(Walking to the left corner, Kris inspects a patch of green moss.)*
+*(You found the [Moss]!)*
+*(Your title was upgraded to [Moss Finder].)* *(Noelle's title upgrades to [Moss Neutral].)*
+**Noelle:** *(Wide-eyed, sweating bewilderment)* * (Why do they look so pleased?)
+*(Inspecting the moss a second time, Noelle forces a cheerful closed-eyes smile before cringing sheepishly.)*
+**Noelle:** *(Cheerful, closed-eyes smile)* * (I guess marimos and stuff are kind of cute...?)
+**Noelle:** *(Cringing sheepishly)* * (... What the heck am I saying?)
+
+*(Stepping left onto the road, Kris knocks on a lone blue door.)*
+*(Knock, knock, knock)*
+**Stranger:** * You found the only knockable door in the city.
+**Stranger:** * This here is my pride and joy...
+
+*(Running back and forth between the road and dumpster alley, Kris slips alone into the hidden room between—walking down a long blue corridor to a glowing pink-and-red tree in darkness.)*
+*(Well, there is a man here. He might be happy to see you. What do you think? -> ♥ Yes)*
+*(You got the Egg.)*
+*(Well, there was not a man here.)*
+*(Stepping out and using `Egg` from KEY ITEMS: `(You used the Egg.)`, Kris walks back out onto the Cyber City road beside Noelle.)*
+
+###**obj_city_mouse_puzzles**
+
+*(Weaving back and forth across the pedestrian crossings between the two busy highways of yellow cars, Kris and Noelle enter the second mouse puzzle chamber (`annoying mouse room 2`), featuring rotation tiles, "out" and "in" mouse pipes, an [INFO] terminal, and an electric barrier blocking a blue switch.)*
+**Noelle:** *(Mildly concerned)* * Looks like another electric wall.
+*(Noelle walks to the "in" hole beside the terminal with curious surprise, then thoughtful skepticism.)*
+**Noelle:** *(Curious)* * Huh? This hole has a switch inside of it...
+**Noelle:** *(Thoughtful)* * Maybe we could try to put something inside...?
+**Noelle:** *(Neutral)* * What do you think, Kris?
+
+*(Sign on the wall lights up: "annoying mouse room 2".)*
+**[INFO BOX]**
+*   (It's a citizen's duty to properly rotate and release mice using the traffic signs.)
+*   [Z]: Engage and Disengage.
+*   [Left] [Right]: Rotate.
+*   [Down]: Release.
+
+*(When Kris releases mice from the "out" pipe, stray mice bounce into Noelle several times, startling her into the air.)*
+**Noelle:** *(Startled, sweating)* * I... I wish they wouldn't jump out like that!
+**Noelle:** *(Dismayed, sweating)* * (How many more times am I gonna get hit by mice...?)
+*(After taking a third stray hit, Noelle's portrait shifts to panicked disbelief and exasperated worry.)*
+**Noelle:** *(Panicked)* * Wh-why do those mice keep attacking me?!
+**Noelle:** *(Worried)* * What do I look like, the girl from the Nutcracker?
+>**(Choose an option)**
+>
+> > ♥ **Yes:**
+> >
+> >**Noelle:** *(Shy, hopeful smile looking aside)* * Then, Kris... m-maybe you can take your sword... *(Bright, closed-eyes blushing smile)* * And be the hero that protects me from the mice? *(Smile fading into blank waiting)* * (...) *(Uncomfortable, sweatdropping squint as Kris stands silent)* * (Don't just stand there in silence...)
+>
+> >**They like you:**
+> >
+> >**Noelle:** *(Flustered stammer)* * H-huh? No way! If that's the case... Get them to just give me a lunchbox instead!
+>
+> >**Unknown:**
+> >
+> >**Noelle:** *(Dry, knowing squint)* * (Only Kris would say "unknown", not "I don't know.") (... then keep standing there like that.) (...) (Are they waiting for me to stop mumbling?)
+
+*(Kris routes a mouse cleanly into the "in" hole. Noelle walks onto the grid with a beaming smile, only to freeze in blank confusion and puzzled worry.)*
+**Noelle:** *(Beaming)* * Kris! You did it! We should be able to...
+**Noelle:** *(Blank confusion)* * ... huh?
+**Noelle:** *(Puzzled)* * The forcefield's still up.
+**Noelle:** *(Anxious)* * D-did we miss something? H-hello?
+**Noelle:** *(Worried)* * I wonder what we did wrong... The forcefield is still up.
+
+*(Re-routing the tiles cleanly into the "in" pipe, Kris launches a full stream of mice that erupt directly beneath Noelle, blasting her clear over the electric barrier onto the floor switch on the right. Noelle lands with an angry scowl before blinking sheepishly as the barrier drops.)*
+**Noelle:** *(Angry)* * Kris, I can't believe you made those mice--
+**Noelle:** *(Surprised)* * Huh?
+**Noelle:** *(Sheepish blink)* * I... I guess landing on the switch turned off the forcefield...
+**Noelle:** *(Cheerful smile)* * Let's go, Kris.
+
+###**obj_city_cheese_and_mice**
+
+*(In the next hallway, Kris approaches a wedge of yellow cheese beneath a warning sign. Noelle watches with an anxious, pleading smile.)*
+**Noelle:** *(Anxious, pleading)* * Kris...
+**Noelle:** * You aren't going to touch that cheese, are you?
+> ♥ I am going to touch the cheese
+> I do not touch the cheese
+*(If [I do not touch the cheese] is chosen, Noelle repeats her warning until Kris chooses to touch it.)*
+*(You rubbed the cheese down like a beloved pet.)*
+*(Suddenly...!)*
+
+*(A purple Maus bursts out, starting a battle.)*
+**[Battle Text]**
+*   Maus blocked the way!
+*(Kris selects [ACT] -> [Fear] with Noelle; Noelle points in terrified panic, then disgusted grimace.)*
+**Noelle:** *(Terrified)* * Th-the way it moves is just so... so scary!
+**Noelle:** *(Disgusted)* * It's disgusting!!
+*   Maus was rejected... everyone felt TIRED.
+**Maus:** * (I can't help it, I'm a scary guy.)
+*   Maus's clicking sounds more like splat noises.
+*(Kris catches Maus with [TrapAll], heals Noelle with a LightCandy, and Noelle spares Maus — RECRUIT 1/3.)*
+*   You won! Got 0 EXP and 126 D$.
+
+*(Back in the hallway, Noelle grimaces in exhausted disgust.)*
+**Noelle:** *(Exhausted disgust)* * I... I never want to see cheese ever again...
+
+*(Walking east into a massive hall whose floor is completely covered in dozens of cheese wedges, Noelle freezes with bulging eyes and screams.)*
+**Noelle:** *(Horrified shout)* * KRIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+*(Kris weaves across the sea of cheese, opens a hidden chest in the top-left alcove (`CD Bagel` added to ITEMs), and engages a patrolling pair of Maice.)*
+**[Battle Text]**
+*   Maice blocked the way!
+*(After an initial missed TrapAll, Kris traps and spares the first Maus (RECRUIT 2/3), then focuses on trapping and having Noelle repeatedly Spare the second Maus—using [Heal Prayer] (+55 HP) and `ClubsSandwhich` along the way.)*
+*   Noelle spared Maus! But its name wasn't YELLOW...
+**Maus:** * (Catch me, catch me!) (Hee hee hee...)
+*   Maus is thinking about overly elaborate machines.
+*   Maus keeps running between your feet.
+*   Noelle spared Maus! (RECRUIT 3/3)
+*   You won! Got 0 EXP and 248 D$.
+
+*(Inspecting the flattened cheese spot after the battle:)*
+*(The cheese was destroyed in the heat of battle.)*
+*(Feels like you lost sight of what was important.)*
+
+*(Kris and Noelle leave the cheese hall and walk south toward the next puzzle chamber.)*
+</Combined_Deltarune_Chapter_2_Alone_with_Noelle_(Normal-Route)>
 <Combined_Deltarune_Chapter_2_berdly_x_spampton_encounters_(Normal-Route)>
 ###**obj_berdly_puzzle_encounter**
 
-*(The party reaches a new puzzle area. Noelle steps onto a platform.)*
+*(Kris and Noelle enter a large puzzle chamber featuring an upper catwalk, a red wall lever, two grid towers beneath a digital red signboard reading "??????????", and a dark pit below. Kris stops at the broken bridge edge; Noelle looks forward worriedly.)*
+**Noelle:** *(Worried)* * It's a dead end...?
 
-**Noelle:** * It's a dead end...?
+*(Walking left and down the stairs past the lever, Noelle steps onto the first tile of the left grid (`I?????????`) and looks up at the board in confusion.)*
+**Noelle:** *(Confused)* * Hmm... the switch didn't seem to work?
 
-*(The platform starts to fall.)*
+*(Suddenly, the platform shakes violently and begins dropping downward. Noelle's portrait twists into wide-eyed, screaming terror.)*
+**Noelle:** *(Screaming panic)* * Kris!! The platform's falling!! H-help me!!
 
-**Noelle:** * Kris!! The platform's falling!! H-help me!!
+*(A glowing pink neon sign lights up on the wall: "annoying mouse room 3". On the first attempt, Noelle drops all the way into the mousepile below. The music fades as she pops back up shouting furiously, narrows her eyes into a fierce scowl, then softens into a shy apology and a calm smile.)*
+**Noelle:** *(Furious shout)* * KRIS!!!!!!!
+**Noelle:** *(Squinting scowl)* * Gosh, you're lucky Dess isn't here!
+**Noelle:** *(Squinting scowl)* * Otherwise YOU'D be facedown in a mousepile!
+**Noelle:** *(Frowning silence)* * ...
+**Noelle:** *(Shy, apologetic)* * S... sorry, I didn't mean to get so mad.
+**Noelle:** *(Calm smile)* * Sure... okay, we can try again.
 
-*(Kris solves the puzzle, saving Noelle.)*
+*(Resetting the puzzle, Kris launches two mice through the "in" pipe; they erupt beneath Noelle, tossing her safely onto the right tower grid (`IL????????`). Noelle lands wide-eyed in panic, blinks in stunned surprise, then shifts into a sheepish, flustered smile.)*
+**Noelle:** *(Panicked)* * Kris!! What are you doing!! You made me --
+**Noelle:** *(Stunned blink)* * H... huh?
+**Noelle:** *(Sheepish, flustered smile)* * S-sorry, Kris, you just saved me, didn't you...?
 
-**Noelle:** * S-sorry, Kris, you just saved me, didn't you...?
-**Noelle:** * Th... this one's falling, too!
-**Noelle:** * Kris, whatever you just did, keep doing it!!
+*(Immediately, the second platform begins shaking and dropping beneath her feet.)*
+**Noelle:** *(Panicked)* * Th... this one's falling, too!
+**Noelle:** *(Desperate, pleading)* * Kris, whatever you just did, keep doing it!!
 
-*(Berdly appears on the upper walkway.)*
-
+*(Berdly glides onto the upper-left catwalk above Kris, smirking smugly as Kris adjusts the rotation tiles and launches mice to bounce Noelle rapidly between the tiles—spelling `ILO???????`, `ILOV??????`, `ILOVE?????`, `ILOVEM????`, `ILOVEMO???`, `ILOVEMOU??`, and `ILOVEMOUS?`—while Noelle repeatedly reacts via tiny corner mini-portraits.)*
 **Berdly:** * Ahh, Kris. Stuck on this puzzle, I see?
 **Berdly:** * I thought I heard Noelle calling for help, but...
 **Berdly:** * I get what that sound was now. Kris.
@@ -1306,7 +1990,7 @@ Back
 **Berdly:** * Stuck on a puzzle just like this one, no doubt.
 **Berdly:** * If only I was there to do it for her.
 **Berdly:** * She's but a powerless doe without my help...
-**Noelle:** * (Powerless!!?)
+**Noelle (mini-portrait, indignant):** `(Powerless!?)`
 **Berdly:** * Though being alone might be better than being with you!
 **Berdly:** * Kris, you would only get in the way!
 **Berdly:** * After all, you can't understand Noelle like I can.
@@ -1315,182 +1999,199 @@ Back
 **Berdly:** * I can read her feelings like a strategy guide.
 **Berdly:** * Which, I have NEVER needed by the way!
 **Berdly:** * You may see her as the simpleton girl next door.
+**Noelle (mini-portrait, exasperated):** `SIMPLETON?`
 **Berdly:** * But the reality. Is that she is.
 **Berdly:** * A lovestruck girl with her heart on her sleeve.
-**Noelle:** * (H-huh!? Berdly!?)
+**Noelle (mini-portrait, startled):** `... H-huh? Berdly?`
 **Berdly:** * And... Kris... The target of her affection...
-**Noelle:** * (BERDLY??? DEADLY KNOWS???)
 **Berdly:** * May be surprising to you.
+**Noelle (mini-portrait, wide-eyed panic):** `BERDLY??? BERDLY KNOWS???`
 **Berdly:** * It's... Truly sad. Such love... May never fruit.
+**Noelle (mini-portrait, stunned silence):** `...`
+**Berdly:** * But still, I have to support her, Kris.
+**Berdly:** * She's my friend.
+**Noelle (mini-portrait, touched):** `Berdly...`
+**Berdly:** * Also, my only worthy opponent at racing games.
+**Noelle (mini-portrait, furious shock):** `WHY THAT!?`
 
-*(Berdly solves the puzzle, creating a path that spells "ILOVEMOUSE".)*
+*(On the final bounce, Noelle lands on the last tile. The digital signboard turns bright green, displaying **`ILOVEMOUSE`**! All barriers drop, and Noelle steps calmly onto the floor below.)*
 
+*(Berdly freezes on the upper catwalk in stunned disbelief, pushes up his glasses in flustered denial, and runs off to the right.)*
 **Berdly:** * What.
 **Berdly:** * How did you...
 **Berdly:** * HOW DID YOU SOLVE THAT??
-**Berdly:** * Even a broken clock is right once a day.
+**Berdly:** * Even a broken clock is right once.
 **Berdly:** * And Kris, if anyone asks...
 **Berdly:** * I solved the puzzle!!
-**Berdly:** * It's not fair for YOU to get extra credit for a fluke!
+**Berdly:** * It's not fair for YOU to get extra credit for a fluke!!
 **Berdly:** * Get it!? Let NO ONE think otherwise! ESPECIALLY Susie!
 **Berdly:** * You KNOW she'd just... lord it over me!
 
-*(Berdly leaves.)*
+*(Noelle walks over to Kris on the left floor, beaming warmly with a relieved, closed-eyes smile.)*
+**Noelle:** *(Relieved)* * Gosh.
+**Noelle:** *(Thoughtful smile)* * ... Y'know, I don't think I'm afraid of mice anymore.
+**Noelle:** *(Bright, cheerful smile)* * Actually, I think they might be kind of... cute?
+**Noelle:** *(Smiling)* * Anyways, let's keep going.
+*(Noelle is now immune to mice.)*
+
+
+###**obj_city_trash_and_poppup**
+
+*(Climbing the stairs past a Save Point into the next dark blue street, Kris searches three glowing blue trash cans along the walkway and lower alcove, finding `$20`, `$80`, and a `CD Bagel`.)*
+*(Walking east past a dolphin billboard, Kris and Noelle are ambushed by a Poppup and a Maus.)*
+
+**[Battle Text]**
+*(Kris clicks Poppup with [ACT] -> [Click], spawning a second Poppup; Noelle acts alongside Kris.)*
+*   You unconsciously clicked on a popup about "monsters 4 humans" in your area,
+*   Huh...!? That made another one??
+*   Noelle clicked on a link for Hot Female Santas In Your Area!
+*(On Turn 2, Kris clicks again until an overwhelming flood of Poppups fills the screen and flees, leaving Maus behind. On Turn 3, Kris selects [ACT] -> [Compliment].)*
+*   Noelle complimented the enemies!
+**Noelle:** *(Soft, shy smile)* * They're... kind of cute, right...?
+**Maus:** * (I can't help it, I'm a cutey guy.)
+*(After Noelle heals Kris with [Heal Prayer] (+55 HP), she spares Maus.)*
+*   Maus is squeaking cheerfully.
+**Maus:** * (Left, right, right, left...)
+*   You won! *(Maus recruited 3/3.)*
 
 ###**obj_berdly_final_battle**
 
-*(The party reaches the end of the alleyway, where Berdly is waiting.)*
-
-**Berdly:** * Noelle!? What are you doing with Kris!?
-**Noelle:** * Um, I... um.. I..
-**Noelle:** * We... have a truce...?
+*(Exiting south past a traffic light into a dark blue alley, Kris and Noelle stop as Berdly drops in on the right with a [!]. Noelle flinches backward in alarmed panic.)*
+**Noelle:** *(Alarmed)* * Uh-uh oh--
+**Berdly:** * Noelle!? What are you doing with Kris??
+**Noelle:** *(Flustered, sweating smile)* * Um, I... um... I... I...
+**Noelle:** *(Hesitant)* * We... have a truce...?
 **Berdly:** * A... truce!? With... Kris?
 **Berdly:** * Hahaha!! That's impossible!
-**Berdly:** * That would be double truces.
-**Noelle:** * Huh?
+**Berdly:** * That would be double trucies.
+**Noelle:** *(Confused)* * Huh?
 **Berdly:** * Worry not, my dearest Noelle.
 **Berdly:** * I know what you really want to say.
-**Noelle:** * You... you do?
+**Noelle:** *(Uncertain)* * You... you do?
 **Berdly:** * Going along with all this...
 **Berdly:** * You feel... forced, don't you?
 **Berdly:** * It's why you're not with Queen right now.
-**Noelle:** * Berdly... you...
-**Berdly:** * Yes! I do!!
+**Noelle:** *(Hopeful, surprised)* * Berdly... you get it?
+**Berdly:** * Yes!! I do!!
 **Berdly:** * Kris is FORCING you to be on THEIR side!!
 **Berdly:** * Kidnapper!! Kris, our truce... is OVER!!!
+*(Berdly summons his glowing green halberd overhead.)*
 **Berdly:** * Noelle!! This may hurt, but it's to help you!!
-**Noelle:** * W-wait, just listen to me---!!!
+**Noelle:** *(Wide-eyed terror)* * W-wait, just listen to me---!!!
 
 *(Battle with Berdly begins.)*
 
 **[Battle Text]**
 *   Berdly blocks the way!
-*   You encouraged Noelle to use her mind!
-*   Her MAGIC increased! Berdly found her smarts appealing!
 **Berdly:** * Kris! I get it! Your head's gotten big from solving that puzzle by DUMB LUCK!
-*   Berdly laughs and goes to his mind palace.
-*   Kris used the REVIVEMINT!
-**Berdly:** * So now you're trying to win Noelle over... By taking advantage of her kindness!?
-*   Berdly preens condescendingly.
-*   You encouraged Noelle to use her mind!
-*   Noelle acted smart!
-**Berdly:** * Partake, Kris! The Zephyr of Punishment!
-*   Berdly tries to entice Noelle to his side by gyrating his hips!
-*   Kris used the HEARTSDONUT!
-**Berdly:** * Behold!!! Comrades!!!
-*(Berdly summons two Werewires.)*
-*   You jiggled your body! Noelle pulled on the plug!
-*   Noelle cast HEAL PRAYER!
-**Berdly:** * That's right, Kris! Unlike you, I am a GENIUS! And you'll never beat US fighting alone!
+**Berdly:** * So now you think it's your chance to usurp me at my weakest...
+**Berdly:** * By taking my most precious thing... Noelle!
 *   Berdly thanks Noelle profusely.
-*   You pretended to knit a home-made dunce cap!
-*   Berdly liked that!
-*   You won!
-*   Got 0 EXP and 0 D$.
+**Berdly:** * But guess what, Kris! I have one or more things you will NEVER have!
+*(Berdly summons two Werewires onto the field; Kris heals Noelle with a ChocoDiamond while Noelle casts [Sleep Mist], putting both Werewires to sleep — RECRUIT 1/6, 2/6.)*
+**Berdly:** * That's right, Kris! Unlike YOU, I have a LOVING TEAM behind me!
+**Berdly:** * And you'll never beat US fighting alone!
+*(Kris heals with Darkburger and Noelle uses CD Bagel as Berdly notices his allies vanished.)*
+**Berdly:** * My... my allies are gone? Ha! They're probably just... Helping Queen search for me!
+**Berdly:** * Sh...
+*   Smells like frozen chicken.
+**Berdly:** * S-summon...
+**Berdly:** * Just WAIT! The original ones are gonna come back any minute now!
+*(Kris and Noelle finish the battle with FIGHT and IceShock.)*
+*   You won! Got 0 EXP and 300 D$.
 
 ###**obj_after_berdly_battle**
 
+*(Back in the alley, Berdly drops to one knee. Noelle watches him with gentle, sympathetic concern.)*
 **Berdly:** * D-damn it!
-**Noelle:** * Berdly, are you okay...?
-**Noelle:** * Kris, maybe we should have gone easier on him..
+**Noelle:** *(Concerned)* * Berdly, are you okay...?
+**Noelle:** * Kris, maybe we should have gone easier on him...
 **Berdly:** * Go easier!? Ha! Haha! Hahaha!
 **Berdly:** * The only one going easy mode, was me!
-**Noelle:** * You look... Exhausted.
+**Noelle:** *(Sympathetic)* * You look... Exhausted.
 **Berdly:** * I'm only tired of HOLDING BACK MY TRUE POWER!
 **Berdly:** * Ah, Noelle. It'd be too simple to save you now.
 **Berdly:** * Kris! Go ahead and train your strength values.
-**Berdly:** * Try hard, and maybe someday you'll be a worthy rival.
+**Berdly:** * Try hard, and maybe someday you'll be a worthy rival!
 **Berdly:** * Heh! Sometimes I can't believe how cool I am...
 
-*(Berdly ran away.)*
+*(Berdly dashes off-screen to the right. Noelle's portrait shifts into a flat, deadpan, exhausted frown.)*
+**Noelle:** *(Deadpan, exhausted)* * (He hit me in the face with a tornado...)
 
-**Noelle:** * (He hit me in the face with a tornado...)
-
-*(After the battle, you are filled with the power of chicken nuggets.)*
-*(File Saved)*
+*(Kris touches the nearby Save Point near the pink cones.)*
+*(After defeating Berdly, a certain scent hangs in the air...)*
+*(You are filled with the power of chicken nuggets.)*
 
 ###**obj_city_reunite_after_berdly**
 
+*(Crossing the pink-car boulevard onto an upper walkway, Kris and Noelle hear Queen's laugh from off-screen. Noelle panics and slips her goofy cardboard box over her head.)*
+**Queen:** * Noeeeeelle Honey Where Are You
+**Noelle:** *(Panicked)* * (Oh no, here she comes...)
+
+*(Queen enters holding a steaming green Battery Acid Pie, glances briefly at Noelle-in-the-box with a [!], then turns to Kris.)*
+**Queen:** * Noelle Come Home I Made You A Battery Acid Pie
 **Queen:** * Oh, Kris Perfect Timing
+*(Queen hurls the pie behind Kris; it explodes violently.)*
 **Queen:** * Have You Seen --
+**Berdly:** *(Off-screen)* * Oh my Luxurious Quuueeeeeeenn!!
+**Queen:** *(Visor: wide panicked circles)* * Oh My Circuits Kris Get In The Car
 
-*(Berdly falls from the sky.)*
-
-**Berdly:** * Oh my Luxurious Quuuueeeeennn!!
-
-**Queen:** * Oh My Circuits Kris Get In The Car
-
-*(Queen and Kris get in the car and drive away.)*
-
+*(A black sedan crashes down over Queen and Kris, leaving Noelle standing outside in her box. Berdly sprints in carrying a "Gamer's Delight" pie on a plate, pauses, and runs back left.)*
 **Berdly:** * My Queen!! Where are you!!
 **Berdly:** * I've baked you a Gamer's Delight!!
-**Berdly:** * Hmm.. she's not here...
+**Berdly:** * Hmm... she's not here...
 
-*(Berdly leaves.)*
-
-*(Queen and Kris return.)*
-
+*(Queen and Kris pop out beside Noelle in her cardboard box.)*
 **Queen:** * That Was Close
 **Queen:** * Kris
 **Queen:** * Who Is Your Friend
-**Queen:** * My Face Recognition Software Does Not Compute
-**Queen:** * ... And
-**Queen:** * Something About Them Seems
-**Queen:** * Cool
+**Queen:** * My Face Recognition Software Does Not Compute Them
+**Queen:** * .... And Yet
+**Queen:** * Something About Them Seems Familiar
 **Queen:** * Robotic Even
-
-**Noelle:** * (...)
-
+**Noelle:** *(Deadpan silence inside box)* * (...)
 **Queen:** * Kris We Must Drive To Find Noelle
 **Queen:** * Everyone Get In The Car
 
-*(Noelle with a box on her head and Kris get in the car.)*
+*(All three climb into the sedan and speed east down the highway.)*
 
 ###**obj_highway_chase_2**
 
 **Queen:** * Kris Press Directions To Steer
-**Queen:** * Kris Don't Hit The Cars
+**Queen:** * Kris Don't Hit The Cars!
+*(Kris collides with a walking pink car; Queen immediately changes her mind.)*
 **Queen:** * Haha Okay Actually Hit All The Cars
+**Queen:** * So Much Traffic Isn't It Wonderful
 **Queen:** * Lightners Love Traffic They Look It Up All The Time
 **Queen:** * Poor Noelle She Would Love Hitting All These Cars
+**Noelle:** *(Flustered, sweating grimace)* * Umm, actually, I... she, um, might not, um...
 
-**Noelle:** * Umm, actually, I.. she, um, might not, um...
-
+*(A bright yellow banana appears on the road ahead; Kris steers straight into it.)*
 **Queen:** * Stop Everything
 **Queen:** * Kris Get The Banana
 **Queen:** * Potassium
 **Queen:** * Here Comes A Crossing Get Ready To Stop
 
-*(The car stops in front of a huge traffic jam.)*
-
-**Queen:** * Oh My Circuits It's A Traffic Jam
+*(The sedan brakes before a towering wall of jammed pink cars blocking the boulevard; the camera pans right to the crosswalk Walk button on the far side and back.)*
+**Queen:** *(Visor: dizzy circles)* * Oh My Circuits It's A Traffic Jam
 **Queen:** * A Dog Must Have Wandered In The Road Again
 **Queen:** * Kris Be A Dear And Go Press The Walk Button
 **Queen:** * It's Just Over On The Other Side Of The Road
-
-*(Kris gets out of the car. A minigame of crossing the road begins.)*
-
-**Noelle:** * Umm.. I'll go, too...
-
+**Noelle:** *(Worried, nervous smile)* * Umm... I'll go, too...
 **Queen:** * No
 **Queen:** * You Must Stay
-
-**Noelle:** * !?
-
+**Noelle:** *(Wide-eyed shock)* * !?
 **Queen:** * Until You Hear All Of My Mixtape
+**Noelle:** *(Timid, flustered)* * O-okay...
+**Noelle:** *(Desperate plea)* * (Kris... hurry up, please...)
 
-**Noelle:** * O-okay...
-**Noelle:** * (Kris... hurry up, please...)
+*(Kris steps out of the car; harsh screeching blares from the stereo inside.)*
+**Queen:** * Next Up Is My CD Of Vintage Hard Disk Noises
+**Noelle:** *(Desperate, sweating)* * (Kris, please hurry...)
 
-*(Kris crosses the road.)*
-
-**Queen:** * Next Up Is My CD Of Various Car Horns
-
-**Noelle:** * (Kris, please hurry...)
+*(Kris crosses south into a dark alleyway past "#1 Queen" posters toward the traffic light switch.)*
 
 ###**obj_city_spamton_alley**
-
-*(Kris walks down an alley towards the traffic light switch.)*
 
 *(Buy Queen Clean! The most popular cleaning flavors!)*
 *(Queen Clean! Made of 100% acid!)*
@@ -1537,15 +2238,21 @@ Back
 *   HEY HEY HEY! I'VE NEVER SEEN A [[HeartShapedObject]] LIKE THAT BEFORE!!
 *   MY EYES ARE [[Burning]] LIKE [[DVDs of ANY movie at Half-price!]]
 *   I HAVE A VERY SPECIL [Deal] FOR YOU KID!
-> TELL ME MORE
-*   THAT'S THE ATTITUDE YOU LITTLE [[Slime]]!
+>**(Choose an option)**
+>
+> >**TELL ME MORE:**
+> >
+> >**Spamton:** * THAT'S THE ATTITUDE YOU LITTLE [[Slime]]!
 *   DEALS LIKE THIS ONLY COME ONCE IN YOUR [[Ant-sized]] [[Rapidly-shrinking]] LIFE!!
 *   MEET LOCAL SINGLES STRAIGHT FROM [My] [[Hyperlink Blocked]].
 *   THERE'S NOTHING WRONG WITH HAVING A NICE [Splurge] EVERY ONCE IN A WHILE.
 *   BELIEVE IT OR [[Not]]!! I USED TO BE A BIG SHOT. THE BIGGEST!!! BUT NOW...
 *   I NEED A LITTLE [[Genorisity]]
-> GIVE MONEY
-*   YUM YUM. DELICIOUS KROMER.
+>**(Choose an option)**
+>
+> >**GIVE MONEY:**
+> >
+> >**Spamton:** * YUM YUM. DELICIOUS KROMER.
 *   DID YOU HAVE ANYMORE?
 *   (You felt your KROMER being absorbed...)
 *   (Wrong choice...?)
@@ -1554,8 +2261,11 @@ Back
 *   ONLY FOR THE LOW, LOW PRICE OF 1000 KROMER.
 *   AN AWESOME PRICE. AN ABSOLUTELY [[Terrifying]] PRICE
 *   PRICES SO LOW. EVERYONE I KNOW IS [[Dead]]!!!
-> DON'T BUY
-*   WHAT!? YOU DON'T HAVE ENOUGH [Wacky Stacks]!?
+>**(Choose an option)**
+>
+> >**DON'T BUY:**
+> >
+> >**Spamton:** * WHAT!? YOU DON'T HAVE ENOUGH [Wacky Stacks]!?
 *   Kid. you're [Killing] me! HAHAHA!!! HAHAHA!!!
 *   PLEASE STOP [Killing] ME I WILL GIVE Y OU ANOTHER DEAL.
 *   I WAS ONLY EVER IN IT FOR THE [Freedom].
@@ -1565,15 +2275,21 @@ Back
 *   SO... SOUNDS GOOD. DOESN'T IT? KID!?
 *   DON'T YOU WANT TO BE JUST LIKE YOUR OLD PAL SPAMTON?????
 *   TAKE THE DEAL
-> TAKE DEAL
-*   DEAL OR NO DEAL. THAT'S THE TV SHOW.
+>**(Choose an option)**
+>
+> >**TAKE DEAL:**
+> >
+> >**Spamton:** * DEAL OR NO DEAL. THAT'S THE TV SHOW.
 *   WHERE THE PEOPLE WHO DON'T TAKE THE DEAL
 *   GET FILLED WITH BULLETS FIRED FROM THE HOST'S MOUTH!!!
 *   DON'T WORRY KIDS I'M AN [HonestMan]
 *   I JUST NEED YOUR [Account Details] AND THE [Number on theB4ck]!
 *   THEN YOU CAN ENJOY 1000 Fr3e KROmer
-> REFUSE
-*   WHAT!? YOU DON'T NEED IT!?!?
+>**(Choose an option)**
+>
+> >**REFUSE:**
+> >
+> >**Spamton:** * WHAT!? YOU DON'T NEED IT!?!?
 *   THAT'S A REAL BIGSHOT MOVE KID!!! YOU'RE LIKE ME...
 *   [Desperate]
 *   BUT WE KNOW WHAT WE WANT, DON'T WE!?
@@ -1581,8 +2297,11 @@ Back
 *   [Hyperlink Blocked].
 *   WILL Y OU TAKE THE FINAL DEAL!?
 *   REMEMBER... THIS IS UP TO YOU! I WON'T FORCE YOU.
-> YES DEAL
-*   THEN A DEAL 'S A DEAL!!!
+>**(Choose an option)**
+>
+> >**YES DEAL:**
+> >
+> >**Spamton:** * THEN A DEAL 'S A DEAL!!!
 *   PLEASURE DOING BUSINESS WITH YOU KID!!!
 *   You Won!
 *   Got 0 EXP and -36 D$.
@@ -1598,7 +2317,6 @@ Back
 **Spamton:** * HAEAHAEAHAEAH!!
 
 *(Spamton disappears into a dumpster.)*
-
 *(It's a dumpster. Looks like there's a pillow inside.)*
 *(The poster is torn, revealing a faded one underneath.)*
 *(BIG SHOT AUTOS! TAKE A RIDE AROUND TOWN IN OUR SPECIAL...)*
@@ -1607,7 +2325,7 @@ Back
 <Combined_Deltarune_Chapter_2_last_fun_before_the_capture_(Normal-Route)>
 ###**obj_highway_end**
 
-*(Kris reaches the button and presses it. The traffic jam disappears.)*
+*(Kris reaches the crosswalk button and presses it. The traffic jam disappears, and Kris returns to the car where Noelle is waiting inside her cardboard box beside Queen.)*
 
 **Queen:** * Get In
 
@@ -1619,28 +2337,20 @@ Back
 *(The car projects a "Queen signal" into the sky.)*
 
 **Queen:** * When She Sees The Queen Signal She Will Come Runnin
-
 **Noelle:** * W... Why do you.. need to find Noelle so badly?
-
 **Queen:** * What Are You Saying This City Is Dangerous
 **Queen:** * Imagine Poor Noelle Clipping Into A Wall Somewhere
 **Queen:** * Wasting Away From Potassium Deficiency
-
 **Noelle:** * Y... you're actually worried about her?
-
 **Queen:** * I Would Be If I Wasn't Going To Find Her
-
 **Noelle:** * ...
 **Noelle:** * B... but why her?
 **Noelle:** * Wait, let me guess... is it because...
 **Noelle:** * She's weak enough to make into your peon?
-
 **Queen:** * Haha No
 **Queen:** * Just The Opposite
 **Queen:** * It's Because She's Strong
-
 **Noelle:** * H.. huh? What do you--
-
 **Queen:** * Kris Stop The Car
 
 *(The car stops. Everyone gets out.)*
@@ -1661,8 +2371,7 @@ Back
 *(Queen's Mixtape was thrown into your KEY ITEMS.)*
 **Queen:** * Toodles
 
-*(Queen flies away. Noelle takes the box off her head.)*
-
+*(Queen flies away. Noelle takes the cardboard box off her head, exhaling in relief.)*
 **Noelle:** * Ph... phew...
 **Noelle:** * ...
 **Noelle:** * Somehow, I feel like... we're almost out of here.
@@ -1670,18 +2379,20 @@ Back
 
 *(Kris and Noelle walk on.)*
 
+
 ###**obj_city_puzzle_noelle_dess**
 
-**Noelle:** * Gosh, that was close, wasn't it, Kris...?
-**Noelle:** * This... Strange world... this big city...
-**Noelle:** * It's so wild... It kind of makes my head spin.
-**Noelle:** * ...?
-**Noelle:** * Looks like another puzzle...
-**Noelle:** * Maybe if I go... down... here?
+*(Kris and Noelle walk onto a high blue walkway overlooked by a "?" digital display and a glowing cyber skyline, blocked ahead by a cyan double-node barrier beside pink cones. Noelle catches up from the left, smiling nervously with wide, unsettled eyes and a slight sweatdrop, before shifting to anxious, overwhelmed discomfort.)*
+**Noelle:** *(Nervous smile, sweating)* * Gosh, that was close, wasn't it, Kris...?
+**Noelle:** *(Anxious)* * This... Strange world... this big city...
+**Noelle:** *(Uneasy)* * It's so wild... It kind of makes my head spin.
+*(Noelle looks up at the "?" display with blank curiosity, then turns toward the cone gap with a sheepish, eyes-closed, slightly flustered smile.)*
+**Noelle:** *(Blank curiosity)* * ...?
+**Noelle:** *(Curious)* * Looks like another puzzle...
+**Noelle:** *(Sheepish smile)* * Maybe if I go... down... here?
 
-*(Noelle goes down to the lower level to solve the letter puzzle.)*
-
-**Noelle:** * ...when I said this city makes my head spin...
+*(Noelle drops down onto the lower level, stepping across the letter tiles **`D`**, **`E`**, **`C`**, **`E`**, **`M`**, **`B`**, **`E`**, **`R`** as Kris triggers the corresponding floor switches behind dark skyscraper silhouettes along the upper path.)*
+**Noelle:** * ... when I said this city makes my head spin...
 **Noelle:** * I didn't mean in a bad way... you know?
 **Noelle:** * I always wanted to go someplace new, you know?
 **Noelle:** * ... And Dess... always told me she'd take me.
@@ -1698,163 +2409,143 @@ Back
 **Noelle:** * I guess I didn't mind being scared if it meant...
 **Noelle:** * Someone would comfort me.
 
-*(Noelle solves the puzzle, spelling the word "DECEMBER".)*
+*(Stepping onto "R", the display completes **`DECEMBER`** and clears the upper barrier. Noelle hops back up beside Kris; her portrait shifts from an eyes-closed sighing smile, to a shyly downcast warm smile, to a wide-eyed pouting blush, and finally into a bright closed-eyes laugh.)*
+**Noelle:** *(Sighing smile)* * (Sigh...)
+**Noelle:** *(Shy, warm)* * (Kris is the only one who knows how weird I am.)
+**Noelle:** *(Pouting, blushing)* * (It's not fair, y'know??)
+**Noelle:** *(Cheerful laugh)* * (Everyone knows how weird YOU are. Fahahaha.)
 
-**Noelle:** * (Sigh...)
-**Noelle:** * (Kris is the only one who knows how weird I am.)
-**Noelle:** * (It's not fair, y'know?)
-**Noelle:** * (Everyone knows how weird YOU are. Fahahaha.)
-
-*(Kris and Noelle reunite and walk on.)*
+*(Kris and Noelle walk east together toward the carnival plaza.)*
 
 ###**obj_city_carnival**
 
-*(Kris and Noelle approach the carnival games.)*
-
+*(Kris and Noelle pass four carnival ball-throwing booths (`LOOK`, `BUY`, dolphin signs) with white pin targets.)*
 *(It's a ball throwing game. Prizes are seated under the counter.)*
 
-**Noelle:** * O-oh no, she's coming back this way!!
-**Noelle:** * I'll hide in that stall!
+*(As Kris nears the rightmost dolphin booth, Queen's laugh echoes from the right. Noelle panics wide-eyed and ducks out of sight behind the "LOOK" booth counter—before slipping into her cardboard box inside the dolphin booth.)*
+**Noelle:** *(Panicked)* * Q-queen!!
 
-*(Noelle hides. Queen appears.)*
-
-**Queen:** * Hey Check This Out
-
-*(Queen throws a ball, knocks down all the bottles, and wins a prize—a plush toy of Noelle in a box.)*
-
-**Queen:** * Sweet
-**Queen:** * Where's My Peon
-**Noelle:** * Oh! Um...
-**Noelle:** * H-here!
-**Queen:** * Ha Ha
-**Queen:** * Nice
+*(Queen struts in from the right, winds up, and throws a baseball straight through the rightmost dolphin booth, smashing the pins and revealing Noelle sitting in her cardboard box behind the counter.)*
+**Queen:** * Hey Kris
+**Queen:** *(Visor: "NICE")* * Sweet Right
+**Queen:** * Where's My Prize
+**Noelle:** *(Startled, sweating)* * Oh! Um...
+**Noelle:** *(Flustered)* * H-here!
+**Queen:** *(Visor: "NICE")* * Ha Ha Nice
 **Queen:** * Wait I Actually Don't Want This
 
-*(Queen throws the prize. Susie and Ralsei appear.)*
-
-**Susie:** * Hahaha, how was THAT!?
+*(Queen dumps the yellow Noelle plushie directly onto Kris's head and marches off-screen to the right. Moments later, Ralsei—carrying a giant pink cotton candy—and Susie sprint in from the left.)*
+**Susie:** * Hahaha, how was THAT!
 **Ralsei:** * Haha, Susie! You're not supposed to ATTACK people with it!
 **Susie:** * Oh yeah!? Watch me!!!
-**Ralsei:** * Kris!!! There you are!!!
+**Ralsei:** *(Excited)* * Kris!!!!! There you are!!!
+
+*(Susie strikes a pose and launches a tiny green "UltimateHeal" spark at Kris, healing +2 HP.)*
 **Susie:** * Kris!! Check out my new attack!!
-
-*(Susie uses "UltimateHeal" on Kris.)*
 *(You felt slightly healed.)*
-
 **Susie:** * Heh, how's that!? Meet the new healing master, Kris!
-**Ralsei:** * Oh. Yes. She is a real... "master" at it, Kris.
+**Ralsei:** *(Deadpan)* * Oh. Yes. She is a real... "master" at it, Kris.
 **Susie:** * God, teaching you sarcasm was a mistake.
-**Ralsei:** * Hahahaha!
+**Ralsei:** * Hahahahaha!
 **Ralsei:** * ... Oh, Kris...? What's that you have there?
 **Ralsei:** * Is that a... gift for someone?
 
-**[Gift Choice]**
-> Give to Noelle
-> Give to Ralsei
-> Give to Susie
-> ♥ Give to Berdly
+>**(Choose an option)**
+>
+> >**Give to Noelle:**
+> >
+> >*(Kris walks over to the dolphin booth and offers the plushie to Noelle inside her box. Noelle's portrait shifts from startled fluster, to a deeply touched closed-eyes smile, to hopeful wide-eyed anticipation—before snapping into stunned disbelief, indignant glare, and a furious shout as she pops up and knocks the cardboard box clean off her head.)*
+> >**Noelle:** *(Startled, flustered)* * K... Kris...? Y... You have something for me...?
+> >**Noelle:** *(Touched, closed-eyes smile)* * (Kris hasn't given me a gift like this...)
+> >**Noelle:** *(Gentle smile)* * (Since we were little kids.)
+> >**Noelle:** *(Hopeful surprise)* * (Are they saying they want things to go back to...)
+> >**Noelle:** *(Stunned disbelief)* * W-wait, isn't that the plush I just gave Queen!?
+> >**Noelle:** *(Indignant glare)* * What!? You want a refund!? So you can...!?
+> >**Noelle:** *(Furious shout)* * Come on, say that to my face!! Gosh!!
+>
+> >**Give to Berdly:**
+> >
+> >*(Berdly appears.)*
+> >**Berdly:** * Kris, have you seen...
+> >**Berdly:** * Kris!? We took a break from trucing for ONE second...
+> >**Berdly:** * And you're ALREADY back with Susie!?
+> >**Susie:** * ???????
+> >**Berdly:** * Should have expected this... hmph...
+> >**Berdly:** * You couldn't keep up with my puzzle-solving skills!
+> >*(Kris gives the plush toy to Berdly.)*
+> >**Berdly:** * H... huh...?
+> >**Berdly:** * A plush...? Of... me?
+> >**Berdly:** * With... nipples?
+> >**Berdly:** * ... Hmph. Guess I'll forgive you for now.
+> >**Berdly:** * See you, Kris.
+> >*(Berdly leaves.)*
+> >**Susie:** * Why the hell'd you give it to Berdly!?
+> >**Noelle:** * Why did you give it to Berdly!?
+> >**Ralsei:** * Um, what.. unexpected kindness, Kris!
+> >**Susie:** * ... Let's just get the hell out of here.
+> >*(Noelle runs out from her hiding spot: "W... wait!")*
 
-*(Berdly appears.)*
-
-**Berdly:** * Kris, have you seen...
-**Berdly:** * Kris!? We took a break from trucing for ONE second...
-**Berdly:** * And you're ALREADY back with Susie!?
-**Susie:** * ???????
-**Berdly:** * Should have expected this... hmph...
-**Berdly:** * You couldn't keep up with my puzzle-solving skills!
-
-*(Kris gives the plush toy to Berdly.)*
-
-**Berdly:** * H... huh...?
-**Berdly:** * A plush...? Of... me?
-**Berdly:** * With... nipples?
-**Berdly:** * ... Hmph. Guess I'll forgive you for now.
-**Berdly:** * See you, Kris.
-
-*(Berdly leaves.)*
-
-**[Reaction to Gift]**
-**Susie:** * Why the hell'd you give it to Berdly!?
-**Noelle:** * Why did you give it to Berdly!?
-**Ralsei:** * Um, what.. unexpected kindness, Kris!
-
-**Susie:** * ... Let's just get the hell out of here.
-
-*(Noelle runs out from her hiding spot.)*
-
-**Noelle:** * W... wait!
-**Susie:** * N... Noel...
-
-*(Everyone reunites.)*
-
+*(Hearing Noelle, Susie leaps back in shock as Noelle steps out from behind the counter.)*
+**Susie:** * N... Noelle!?
 **Susie:** * ... the hell were you doing in there? That's cheating.
-**Noelle:** * I... I... um...
-**Susie:** * ... hm. Glad you're okay though.
-**Susie:** * Since that stupid Queen took you, I was kinda worried.
-**Noelle:** * (Thump, thump...)
+**Noelle:** *(Panicked stammer, blushing)* * I... I... um. I...
+**Susie:** *(Softening, glancing aside)* * ... hm. Glad you're okay though.
+**Susie:** * Since that stupid Queen took you, I was kinda worried...
+**Noelle:** *(Wide-eyed, heavy blush)* * (Thump, thump...)
+
+*(Suddenly, Susie crosses her arms and points accusingly with a sharp grin.)*
 **Susie:** * Wait.
 **Susie:** * Aren't you on their side!?
-**Noelle:** * H-huh!?
-**Noelle:** * W-wait, wait, wait, wait, wait!!
-**Noelle:** * Umm, I... I...
-**Noelle:** * Kris, help me...
-> ♥ We have a truce
-> She is our enemy
-**Noelle:** * Th... that's right! We have a truce!!
-**Noelle:** * Kris said I could... I could be on your team!
+**Noelle:** *(Wide-eyed panic, sweating)* * H-huh!?
+**Noelle:** *(Frantic)* * W-wait, wait, wait, wait, wait!!
+**Noelle:** *(Sweating)* * Umm, I... I...
+**Noelle:** *(Desperate plea toward Kris)* * (Kris, help me...)
+>**(Choose an option)**
+>
+> >**We have a truce:**
+> >
+> >**Noelle:** *(Relieved, stammering)* * Th... that's right! We have a truce!!
+> >**Noelle:** * Kris said I could... I could be on your team!
+
 **Susie:** * Oh, really?
 **Susie:** * ... well, if Kris said so, I guess.
 **Susie:** * Didn't really wanna kill you anyway.
-**Noelle:** * (Thump, thump...)
+  * **Noelle (mini-portrait, blushing):** `Thump, thump...`
 **Susie:** * So? Get in line already.
-**Noelle:** * O... okay!!
-**Noelle:** * Kris... also s-said I should be... behind... Susie.
-**Susie:** * Uhh... well, if Kris said so?
+**Noelle:** *(Eager, flustered)* * O... okay!!
+*(Noelle hops into line, then quickly swaps places with Ralsei to stand directly behind Susie.)*
+**Noelle:** *(Shy, blushing smile)* * Kris... also s-said I should be... behind you.
+**Susie:** * Uhh... well, if Kris said so.
 **Susie:** * Let's go already.
 
-*(Berdly returns.)*
+*(The Original Starwalker slides in behind Ralsei at the tail of the line.)*
+**Starwalker:** * I will also           join
 
-**Berdly:** * Hmph. Guess I'll join too. ... but only for this room!
-**Susie:** * (NO ONE WAS ASKING YOU)
-
-*(The whole team is together.)*
-
+*(Walking slightly right together, Susie pauses and turns back to Noelle.)*
 **Susie:** * ... Hey, Noelle. One thing we gotta get straight.
-**Noelle:** * Y-y-y-yes?
+**Noelle:** *(Startled, wide-eyed fluster)* * Y-y-y-yes?
 **Susie:** * Where the hell'd you put that cool box?
-**Noelle:** * Umm, I... I just sort of... I...
+**Noelle:** *(Flustered stammer, sweating)* * Umm, I... I just sort of... I...
 **Susie:** * Whatever. Just make us another one.
-**Noelle:** * ... um... o-okay, sure!
+**Noelle:** *(Relieved, sheepish sweatdrop smile)* * ... um... o-okay, sure!
 
-*(Kris approaches the last game.)*
-*(It's a ball throwing game. Prizes are seated under the counter.)*
-
-*(The team leaves the carnival area.)*
+*(Kris briefly inspects the remaining carnival booth (`It's a ball throwing game. Prizes are seated under the counter.`), and the team leaves the carnival area.)*
 
 ###**obj_teacup_ride_2**
 
 *(The team approaches the teacup ride.)*
-
 **Ralsei:** * Look Kris! Another teacup ride!
 **Ralsei:** * But there's only 3 seats...
 **Noelle:** * (M-maybe two of us could... sh-share one?)
 **Susie:** * Damn, guess we gotta take the stairs.
 
-*(The team goes up the stairs.)*
-
-*(At the top, they find another teacup ride.)*
-
+*(The team goes up the stairs. At the top, they find another teacup ride.)*
 **Noelle:** * Wait, I know! Umm, to turn off that force field...
 **Noelle:** * You just stay standing on this switch!
 **Susie:** * Huh.
 **Susie:** * Well, see ya!
 
-*(Susie and Ralsei leave, leaving Kris and Noelle.)*
-
-*(Kris and Noelle solve the mouse and cheese puzzle.)*
-
-*(After solving the puzzle.)*
-
+*(Susie and Ralsei leave, leaving Kris and Noelle. Kris and Noelle solve the mouse and cheese puzzle.)*
 **Susie:** * Hell yea! Take that, you stupid mice!
 **Ralsei:** * It's nice seeing you enjoy a puzzle, Susie.
 **Susie:** * Well. Maybe they aren't awful if you do 'em like that.
@@ -1864,16 +2555,13 @@ Back
 **Noelle:** * (Can I?)
 
 *(The team collects all the mice.)*
-
 *(You put the mice in the hole.)*
 *(The mouse counter fills up to 20.)*
-
 **Susie:** * 20 more!? Damn, we're gonna be here forever!
 **Noelle:** * M... maybe if we.. um, split up the work?
 **Susie:** * Huh?
 
 *(A mouse-catching minigame begins.)*
-
 **Noelle:** * I'll release the mice...
 **Noelle:** * Susie will break the balloons when they reach the top...
 **Noelle:** * And Kris, you catch them! Umm, if that's ok.
@@ -1881,7 +2569,6 @@ Back
 **Noelle:** * Go!
 
 *(After successfully completing the minigame.)*
-
 **Noelle:** * I think we're done with this puzzle, Kris!
 
 *(The team moves on.)*
@@ -1889,13 +2576,11 @@ Back
 ###**obj_mansion_approach**
 
 *(The team approaches Queen's mansion.)*
-
 **Ralsei:** * Look!! We're finally close to the Fountain!
 **Ralsei:** * It's Queen's mansion!!
 **Noelle:** * H-huh!? W-wait, why did we come here!?
 
 *(Queen appears.)*
-
 **Queen:** * Kris You Brought Noelle Right To Me
 **Queen:** * (I Knew Our Truce Was The Best)
 **Queen:** * But Unfortunately
@@ -1921,19 +2606,16 @@ Back
 **Susie:** * ...
 
 *(Noelle goes over to Queen's side.)*
-
 **Queen:** * Don't Be Sad Noelle Honey
 **Queen:** * All That Remains Is The Final Step
 
 *(Berdly appears.)*
-
 **Berdly:** * My splendorious Queen! There you are!
 **Berdly:** * Sorry, I thought I saw you in a used game store,
 **Berdly:** * Oh, Noelle. Are you okay? You look a little funny.
 **Queen:** * Okay Plan B
 
 *(Queen captures Noelle in a cage.)*
-
 **Berdly:** * H-huh!? What are you doing!?
 **Queen:** * I See Now Her Will Must Be Unleashed By Force
 **Queen:** * Perhaps If I Make Her Face Into A Robot One...?
@@ -1944,7 +2626,6 @@ Back
 **Queen:** * Fairness Activated
 
 *(Queen captures everyone except Kris in cages.)*
-
 **Susie:** * H-HEY!!!!
 **Queen:** * Good Thing I Calibrated Those Cages
 **Berdly:** * You... you said I could trust you!!
@@ -1958,11 +2639,9 @@ Back
 **Queen:** * Go To Your Rooms
 
 *(Queen flies away with the cages.)*
-
 **Ralsei:** * Wh... What are you going to do with me?
 
 *(Queen drops a glass.)*
-
 **Queen:** * Oh Damn
 **Queen:** * You're Still Here
 **Queen:** * I Only Made Four Cages Ha Ha Ha

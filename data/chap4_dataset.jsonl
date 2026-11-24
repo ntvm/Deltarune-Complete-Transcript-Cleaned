@@ -1464,7 +1464,7 @@
 {"context": "Scene: Obj Noelle House Entry", "speaker": "WEAPON", "text": "CactusNeedle"}
 {"context": "Scene: Obj Noelle House Entry", "speaker": "ARMOR", "text": "Bandage"}
 {"context": "Scene: Obj Noelle House Entry", "speaker": "MONEY", "text": "2"}
-{"context": "Scene: Obj Noelle House Entry", "speaker": "Phone", "text": "Ring... *(Kris's phone makes a noise.)* No one picked up."}
+{"context": "Scene: Obj Noelle House Entry", "speaker": "Phone", "text": "Ring... (Kris's phone makes a noise.) No one picked up."}
 {"context": "Scene: Obj Holiday Mansion 1F", "speaker": "Narrator", "text": "Kris, Susie, and Noelle enter through the front door into the entrance foyer. A fully functional Santa animatronic on a side table waves and plays a repetative \"Hohoho\" When Kris turns it on."}
 {"context": "Scene: Obj Holiday Mansion 1F", "speaker": "Noelle", "text": "Welcome to my ho-ho-home..."}
 {"context": "Scene: Obj Holiday Mansion 1F", "speaker": "Susie", "text": "Kris. Let's start searching."}
@@ -1840,7 +1840,7 @@
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Susie", "text": "[Looking away/Defensive] * With that part."}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Noelle", "text": "[Confused/Amused] * (Then what's wagging behind her...?)"}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Susie", "text": "[Embarrassed/Looking away] * (Let's shut up for a while...)"}
-{"context": "Scene: Obj Dess Room Discovery", "speaker": "[INTERCUT", "text": "Dess's Room, simultaneous with current conversation]"}
+{"context": "Scene: Obj Dess Room Discovery", "speaker": "Narrator", "text": "[INTERCUT: Dess's Room, simultaneous with current conversation]"}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Narrator", "text": "A battle between Kris and the SOUL begins."}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Narrator", "text": "This is not a normal battle. The SOUL is the one being attacked."}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Narrator", "text": "[Battle Text]"}
@@ -1852,7 +1852,7 @@
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Narrator", "text": "The SOUL dodges, hiding outside Kris's reach."}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Narrator", "text": "Kris pauses to catch breath. The SOUL edges toward the red guitar, pushing aside the gift box."}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Narrator", "text": "Kris slams the stick down, narrowly missing."}
-{"context": "Scene: Obj Dess Room Discovery", "speaker": "[INTERCUT", "text": "Dess's Room, the noise alerts Susie and Noelle downstairs]"}
+{"context": "Scene: Obj Dess Room Discovery", "speaker": "Narrator", "text": "[INTERCUT: Dess's Room, the noise alerts Susie and Noelle downstairs]"}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Narrator", "text": "The SOUL touches the guitar again, producing a loud riff. Kris slams the hockey stick down repeatedly, the noise echoing through the mansion."}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Susie", "text": "... wait a sec."}
 {"context": "Scene: Obj Dess Room Discovery", "speaker": "Susie", "text": "(Dude, stop making so much goddamn noise!)"}
@@ -2351,16 +2351,16 @@
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Bibliox", "text": "It was the best of times, it was the blurst of times."}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Narrator", "text": "Bibliox attacks with letters and torn pages."}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Susie", "text": "Damn, that stupid cane made us get hit!"}
-{"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "(Select the right spelling!", "text": "GAURDIAN / GUARDIAN / GAURDAIN)"}
+{"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Narrator", "text": "Select the right spelling!: GAURDIAN / GUARDIAN / GAURDAIN"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Player", "text": "♥ GUARDIAN"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Narrator", "text": "Success!"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Bibliox", "text": "Mumble, mumble..."}
-{"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "(Select the right spelling!", "text": "ATRIUM / ARTIUM / ATRUIM)"}
+{"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Narrator", "text": "Select the right spelling!: ATRIUM / ARTIUM / ATRUIM"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Player", "text": "♥ ATRIUM"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Narrator", "text": "... but, it was misspelled!"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Susie", "text": "Susie spared Bibliox!"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Narrator", "text": "Recruit 1/3"}
-{"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "(Select the right spelling!", "text": "FESTIVAL / FESTIAVL / FESTAVIL)"}
+{"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Narrator", "text": "Select the right spelling!: FESTIVAL / FESTIAVL / FESTAVIL"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Player", "text": "♥ FESTIVAL"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Narrator", "text": "Success!"}
 {"context": "Scene: Obj Dark Sanctuary Battle Bibliox", "speaker": "Bibliox", "text": "Lauren Ipsome, Laur..."}
@@ -2664,7 +2664,7 @@
 {"context": "Scene: Obj Dark Sanctuary Study", "speaker": "Narrator", "text": "The screen fades to black as Susie's sprite is seen scribbling furiously on the paper."}
 {"context": "Scene: Obj Dark Sanctuary Library Return", "speaker": "Susie", "text": "Hey, I, uh, got the music copied down, kinda."}
 {"context": "Scene: Obj Dark Sanctuary Library Return", "speaker": "Susie", "text": "Might not be perfect, but..."}
-{"context": "Scene: Obj Dark Sanctuary Library Return", "speaker": "Ralsei", "text": "(Approaching from the shadows)* * ..."}
+{"context": "Scene: Obj Dark Sanctuary Library Return", "speaker": "Ralsei", "text": "(Approaching from the shadows) ..."}
 {"context": "Scene: Obj Dark Sanctuary Library Return", "speaker": "Susie", "text": "Ralsei, where the heck were you!?"}
 {"context": "Scene: Obj Dark Sanctuary Library Return", "speaker": "Ralsei", "text": "H-huh? I was... um... I..."}
 {"context": "Scene: Obj Dark Sanctuary Library Return", "speaker": "Susie", "text": "I got the puzzle solution, let's just go!"}
@@ -2713,7 +2713,7 @@
 {"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Susie", "text": "Damn... so this is the Magic Axe, huh."}
 {"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Narrator", "text": "Susie reaches out and grabs the weapon. It pulses with a blinding golden light."}
 {"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Narrator", "text": "You got the JusticeAxe."}
-{"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Old Man", "text": "(Appearing behind them)* * Wait a tick! You gotta pay for that!"}
+{"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Old Man", "text": "(Appearing behind them) Wait a tick! You gotta pay for that!"}
 {"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Susie", "text": "... Pay!? The heck are you talking about?"}
 {"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Susie", "text": "This is still the inside of my study, ain't it?"}
 {"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Old Man", "text": "Nothin' else was free, so why'd ya think we'd start here?"}
@@ -2749,7 +2749,7 @@
 {"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Old Man", "text": "That... is the ringing..."}
 {"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Old Man", "text": "of the Hammer of Justice!"}
 {"context": "Scene: Obj Hammer Of Justice Altar", "speaker": "Narrator", "text": "The Old Man slams his cane into the floor. A shockwave of light erupts. He grows in size, his tattered coat becoming heavy plate armor. His cane transforms into a colossal, glowing warhammer."}
-{"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "[Battle Start", "text": "The Hammer of Justice]"}
+{"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Narrator", "text": "[Battle Start: The Hammer of Justice]"}
 {"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Narrator", "text": "[Battle Text]"}
 {"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Narrator", "text": "The bell of justice rings..."}
 {"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Narrator", "text": "ATTACK to show what you've got!"}
@@ -2775,7 +2775,7 @@
 {"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Hammer of Justice", "text": "A great smith gives the heroes a terrible weapon."}
 {"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Narrator", "text": "Attack: The Hammer of Justice throws his hammer. It bounces off the walls of the box, creating shockwaves on every impact. Susie's HP drops to 12."}
 {"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Susie", "text": "... damn... I... couldn't keep up..."}
-{"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Old Man", "text": "(Reverting to his normal form)* * Geheheh... well, you gave it your best shot!"}
+{"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Old Man", "text": "(Reverting to his normal form) Geheheh... well, you gave it your best shot!"}
 {"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Old Man", "text": "Here."}
 {"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Susie", "text": "... huh?"}
 {"context": "Scene: Obj Battle Hammer Of Justice", "speaker": "Old Man", "text": "I saw the fire in your eyes..."}
@@ -3152,10 +3152,10 @@
 {"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Susie", "text": "This is like... Something else, y'know?"}
 {"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Susie", "text": "Something... important."}
 {"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Narrator", "text": "Kris and Susie pass several low-contrast stone tablets embedded in the pillar."}
-{"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "(Tablet 1", "text": ")* *What do you call a man with one eye?"}
-{"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "(Tablet 2", "text": ")* *Why does the angel make its cry?"}
-{"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "(Tablet 3", "text": ")* *Who will call the girl who snows?"}
-{"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "(Tablet 4", "text": ")* *I don't know... ha ha ha... I don't know."}
+{"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Narrator", "text": "(Tablet 1:) What do you call a man with one eye?"}
+{"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Narrator", "text": "(Tablet 2:) Why does the angel make its cry?"}
+{"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Narrator", "text": "(Tablet 3:) Who will call the girl who snows?"}
+{"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Narrator", "text": "(Tablet 4:) I don't know... ha ha ha... I don't know."}
 {"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Susie", "text": "Kris... before, I didn't think I could be a hero."}
 {"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Susie", "text": "I wasn't good enough. I mean, I was... bad."}
 {"context": "Scene: Obj 2Nd Sanctuary Climb", "speaker": "Susie", "text": "I still kinda am bad. In some ways, I guess."}
@@ -3823,7 +3823,7 @@
 {"context": "Scene: Obj Church Aftermath", "speaker": "Susie", "text": "W-wait a sec! The old man!"}
 {"context": "Scene: Obj Church Aftermath", "speaker": "Susie", "text": "C'mon!! We... we still gotta talk to him!"}
 {"context": "Scene: Obj Church Aftermath", "speaker": "Narrator", "text": "Susie runs out of the sanctuary. Kris gets up and follows."}
-{"context": "Scene: Obj Church Aftermath", "speaker": "Ralsei", "text": "(Voice)* * Kris!"}
+{"context": "Scene: Obj Church Aftermath", "speaker": "Ralsei", "text": "(Voice) Kris!"}
 {"context": "Scene: Obj Church Aftermath", "speaker": "Narrator", "text": "Ralsei appears from the shadows."}
 {"context": "Scene: Obj Church Aftermath", "speaker": "Ralsei", "text": "Kris... Kris, you're alright!"}
 {"context": "Scene: Obj Church Aftermath", "speaker": "Ralsei", "text": "I can't believe... it actually worked..."}
@@ -4013,7 +4013,7 @@
 {"context": "Scene: Obj Livingroom Sans Party", "speaker": "Sans", "text": "not only did you totally botch that joke, but,"}
 {"context": "Scene: Obj Livingroom Sans Party", "speaker": "Sans", "text": "i'm dancin' with ya, so it doesn't make any sense."}
 {"context": "Scene: Obj Livingroom Sans Party", "speaker": "Toriel", "text": "Ahhhahaha!!"}
-{"context": "Scene: Obj Livingroom Sans Party", "speaker": "Susie", "text": "(Entering)* * Are... we, uh... interrupting? Something?"}
+{"context": "Scene: Obj Livingroom Sans Party", "speaker": "Susie", "text": "(Entering) Are... we, uh... interrupting? Something?"}
 {"context": "Scene: Obj Livingroom Sans Party", "speaker": "Toriel", "text": "Oh! Kris! Snoozy!"}
 {"context": "Scene: Obj Livingroom Sans Party", "speaker": "Toriel", "text": "No, no, you are not interrupting anything!"}
 {"context": "Scene: Obj Livingroom Sans Party", "speaker": "Susie", "text": "We were looking for you at church, and..."}

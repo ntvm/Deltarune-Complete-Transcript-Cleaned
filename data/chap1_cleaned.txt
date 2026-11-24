@@ -260,7 +260,6 @@ Ralsei: "I hope we can be good friends, Kris."
 [Scene: Obj Dummyenemy]
 Ralsei: "Oh, Kris! It's the training dummy I made! Now seems like a great chance to prepare for the enemy. Would you like me to teach you how to fight?"
 [Player Choice: Yes]
-Ralsei: ""
 *[obj_dummyenemy]*
 Ralsei: "OK! Get ready, Kris!"
 Ralsei: "See that HEART, Kris? That's your SOUL, the culmination of your being! Within, it holds your WILL... your COMPASSION... ... and the FATE of the world. If it gets hit, you and your friends will lose HP. If everyone's HP reaches 0, we'll lose the battle. So, please take care to avoid the enemy's attack. Ready? Let's try dodging!"
@@ -530,56 +529,56 @@ Nice Mouth: "We're triplets..."
 *Three... maybe not.*
 *(ACT Options & Results)*
 *(Birthday Dialogue)*
-*```*
+```
 Ralsei: "Ummm, what would you like for your birthday?"
 Smart Mouth: "Let's just have a nice chat~"
 Anger Mouth: "You IDIOT! Ask for a GIFT!!!"
 Nice Mouth: "(Just discuss our likes.)"
-*```*
+```
 *You brought up the topic of POLITICS. CLOVER started to argue.*
-*```*
+```
 Smart Mouth: "The King is great!"
 Anger Mouth: "He's TERRIBLE!"
 Nice Mouth: "Please stop, you two..."
-*```*
+```
 *You brought up the topic of RELIGION. CLOVER started to argue.*
-*```*
+```
 Smart Mouth: "An angel is watching us."
 Anger Mouth: "You BELIEVE that garbage?"
 Nice Mouth: "Please stop, you two..."
-*```*
+```
 *You brought up the topic of KINDNESS. CLOVER started to argue.*
-*```*
+```
 Smart Mouth: "Lightners deserve respect."
 Anger Mouth: "Hell no! They can all die!"
 Nice Mouth: "Please stop, you two..."
-*```*
+```
 *You brought up the topic of GUNCONTROL. CLOVER started to argue.*
-*```*
+```
 Smart Mouth: "I use a gamepad to aim!"
 Anger Mouth: "IDIOT! Mouse and keyboard!"
 Nice Mouth: "Please stop, you two..."
-*```*
+```
 *You brought up the topic of GHOSTS. CLOVER started to argue.*
-*```*
+```
 Smart Mouth: "A ghost told me I was stupid."
 Anger Mouth: "That was me, you idiot!"
 Nice Mouth: "Please stop, you two..."
-*```*
+```
 *You brought up the topic of GAMES. CLOVER started to argue.*
-*```*
+```
 Smart Mouth: "Our favorite video game is..."
 Anger Mouth: "Shut up!! They'll make fun of us!!!"
 Nice Mouth: "Please stop, you two..."
-*```*
+```
 *You brought up the topic of Animals. Clover didn't seem to care...*
-*```*
+```
 Smart Mouth: "Animals are kind of nasty."
 Anger Mouth: "Just AWFUL in concept."
 Nice Mouth: "(Never seen one, but...)"
-*```*
+```
 *(If you talk about Sports)*
-*```*
+```
 *You brought up the topic of SPORTS. CLOVER seems relieved.*
 Ralsei: "Do you like, um... Sports?"
 Smart Mouth: "I wanna eat a football."
@@ -589,9 +588,9 @@ Smart Mouth: "Spaghetti and tennis balls."
 Anger Mouth: "That's GENIUS!"
 Nice Mouth: "We really agree on it."
 *Seems like Clover enjoyed talking about that...*
-*```*
+```
 *You brought up the topic of CUTEBOYS. CLOVER seems excited.*
-*```*
+```
 *(If you talk about Boys)*
 Ralsei: "Ummm... What kind of "Boys" do you like?"
 Smart Mouth: "Cute ones! Hmm hmm~"
@@ -607,27 +606,27 @@ Smart Mouth: "Glasses are cute, I think..."
 Anger Mouth: "Fluffy! Glasses! That's it!"
 Nice Mouth: "HIM??? ... err, sure."
 *Seems like Clover enjoyed talking about that...*
-*```*
+```
 *You brought up the topic of TREES. CLOVER seems relieved / happy...*
-*```*
+```
 Smart Mouth: "I love the smell of trees."
 Anger Mouth: "Oh! Me too!"
 Nice Mouth: "Pollen makes me... Uh, sure!"
-*```*
+```
 *UNIDENTIFIED*
-*```*
+```
 Smart Mouth: "Aww, he MADE that!? So caring!"
 Anger Mouth: "It's SOOO cute! I want it!"
 Nice Mouth: "(Isn't it a bit... boring? / childish?)"
 Smart Mouth: "Ouchy! That hurts!"
 Anger Mouth: "Suck it up, idiot!"
 Nice Mouth: "(We're fighting again!?)"
-*```*
+```
 *You and Ralsei warned Clover/the enemies about Susie. The enemy/Everyone went on guard.*
 *(If you talk about something they dislike)*
-*```*
+```
 *Seems like you should talk about something else...*
-*```*
+```
 
 [Scene: Obj Thrashmaker Event]
 Lancer: "Oh, woe! Woe is me...! Rows and rows of woes and woes! If only a hero would help..."
@@ -683,7 +682,7 @@ Ralsei: ""(... Kris, let's just go wherever Lancer... DOESN'T go???)""
 Susie: ""Hey, losers! Wait a sec. Where's Lancer?""
 Ralsei: ""Err, well, he wasn't going the right way, so...""
 Susie: ""You let him wander off BY HIMSELF!? You KNOW he's bad at mazes, right!? He's probably lost and confused right now!""
-Lancer: "(His voice echoes from somewhere deep in the maze)*"Ho ho ho!!! I'm lost and confused!!!""
+Lancer: "(His voice echoes from somewhere deep in the maze) "Ho ho ho!!! I'm lost and confused!!!""
 Ralsei: ""Sorry Susie... We didn't mean to make you worry about him.""
 Susie: ""Huh...? Look, I'm not, uh, worried about him! Bad guys gotta look out for each other, is all. Anyway, get out of my way! I'm gonna find him!""
 *(Susie runs off into the maze.)*
@@ -695,16 +694,16 @@ Susie: "Your design sucked so we blew it up."
 Ralsei: "Ah. I see."
 Susie: "Turns out we didn't need a plan. Just a rule. Anyone that gets in our way... Gets crushed into dust."
 *(The battle is unwinnable by fighting. Kris must ACT, convincing Lancer not to fight. After several turns of kindness, Lancer's morale drops.)*
-*```*
+```
 Lancer: "I accidentally started liking the enemies...! Now seeing them just makes me feel round and soft."
 Susie: "... Well, if you don't wanna fight, there's no point, I guess. Battle's over!"
-*```*
+```
 *OR*
-*```*
+```
 Susie: "Hey, HEY! Enough's enough already! If you hit him any more, you might really hurt him! ... Lancer, you OK...?"
 Lancer: "I... I'm fine, Susie! My insides are just... a little mixed up."
 Susie: "Alright, fine! You guys win!"
-*```*
+```
 *(The battle ends.)*
 
 [Scene: Obj Thrashafter Event]
@@ -850,7 +849,7 @@ Susie: "SHUT UP! Get out of my way."
 *Lancer stands firm, blocking her path.*
 Lancer: "... N... no."
 Susie: "Did you not HEAR ME...? Man, I tried to warn you... So, don't expect me to feel guilty... ... when they have to clean you off the floor."
-*```*
+```
 Susie: "...Hey, wanna see what happens to traitors?"
 Susie: "They."
 Susie: "Get."
@@ -867,7 +866,7 @@ Susie: "........"
 Susie: "Alright, that's enough."
 Susie: "If you wanna die so much..."
 Susie: "THEN DIE!"
-*```*
+```
 Lancer: "S... Susie...? Y... you missed..."
 Susie: "I... I don't wanna kill you, man. Just move. Please."
 Lancer: "B... But Susie, if I let you guys go... then... Then you and my dad will fight, and... and... You'll kill each other."
@@ -952,29 +951,29 @@ Lancer: "N... No, b-but... I did even better! It turns out we don't actually hav
 King: "They're ALIVE? … Lancer. You have failed. They have poisoned you with their sentimentality."
 *The King dangles Lancer menacingly over the edge of the castle parapet. The battle begins.*
 King: "How dare you come here, Lightners…? You, that left us in the shadows, stripped of meaning… You DARE return to torment us once again? Begone! We have found fresh purpose. For the KNIGHT has appeared. To my people, I am a hero… … to you? I'M THE BAD GUY!!!"
-*```*
+```
 [[Turn1]**King] King:How dare you come here, Lightners…?
 [[Turn2]**King] You, that left us in the shadows, stripped of meaning…
 [[Turn3]**King] You DARE return to torment us once again?
 [[Turn4]**King] Begone! We have found fresh purpose.
 [[Turn5]**King] For the KNIGHT has appeared.
-Kris: "`[ACT]` -> `[Talk]`"
+Kris: "[ACT] -> [Talk]"
 *You tried to reason with the King...*
 King: ""Silence, Lightbringer!" *the King bellows.* "Your very existence goes against our own... By the Knight's will, I shall shatter your heart to pieces!""
-*Your will is changing... `TALK` became `COURAGE`!*
-Susie: "`[ACT]` -> `[Talk]`"
+*Your will is changing... TALK became COURAGE!*
+Susie: "[ACT] -> [Talk]"
 *Susie tried to reason with the King...*
 King: ""Arright, listen up," *she growls.* "Lancer's my friend. So if we can get by without hurting you, then...""
 *"If I perish, so be it!" *the King roars.* "Show my son the monster you REALLY are!"*
 Susie: ""...""
 Susie: ""Arright, you wanna see what I can do, huh?""
-*Susie's will is changing... `TALK` became `RED BUSTER`!*
-Ralsei: "`[ACT]` -> `[Talk]`"
+*Susie's will is changing... TALK became RED BUSTER!*
+Ralsei: "[ACT] -> [Talk]"
 *Ralsei tried to reason with the King...*
 *"You might not realize it, but... This is a world where you don't have to fight," *Ralsei pleads.* "I know if we try, we can all find another way..."*
 King: ""Such simple-minded platitudes..." *the King sneers.* "A shame you will not live to realize your naivety. Now, perish with the pathetic LIGHTNERs you worship!""
 Ralsei: ""Sorry, my friends and I aren't going anywhere!""
-*Ralsei's will is changing... `TALK` became `DUAL HEAL`!*
+*Ralsei's will is changing... TALK became DUAL HEAL!*
 *After a long and grueling battle, the King falls to one knee, panting heavily.*
 King: "I... I see... You are much stronger... than I envisioned... Enough... is enough... I see... I see that I cannot defeat you. I have grown exhausted from our long battle. Lightners... I... Perhaps I... I have been too cruel. The truth is... I was not always this way. There once was a time... ... where Darkners and Lightners lived in harmony. A time where Darkners could fulfill their purpose in peace... It would be a lie to say that I, too... ... do not yearn for those days. ... Perhaps... Perhaps you young ones are right. Please... let us put away our weapons. There must be a peaceful solution to all this."
 *Ralsei, his heart filled with hope, steps forward.*
@@ -1040,61 +1039,61 @@ Monster Kid: "Yo, Kris, you look kind of annoyed. Everything OK? You can calm do
 *(Kris encounters Undyne directing traffic... poorly.)*
 Undyne: "HEY, PUNK!!! GET OUT OF THE ROAD!!! YOU'RE BLOCKIN' TRAFFIC!!!! ... Oh, wait, it's just Asgore's kid. Sorry, I'm a little, uh, worked up lately. This job is SO boring. Nothing EVER happens in this town! Ngh... I just wish SOMETHING would shake things up! ... Huh? You got somethin' to report?"
 *Choose an option*
-Alphys: ""
+[Player Choice: Alphys]
 Undyne: "... Alphys? Who's Alphys? No idea who you're talking about. ... Why, did they do something illegal!? Gotcha, if I see "Alphys," I'll tackle 'em!! Fuhuhuhu!! They're as good as dead!!"
-Dark World: ""
+[Player Choice: Dark World]
 Undyne: "What? There's a Dark World inside the school? Uh... SURE, kid. There's no law against Dark Worlds anyway! That's a job for the school board!"
-Help you: ""
+[Player Choice: Help you]
 Undyne: "Aww, you wanna help me? Sure, punk. Get someone to rob the bank so I can suplex them! ... wait, do we even have a bank? Hey, get someone to build a bank...!"
-Nothing: ""
+[Player Choice: Nothing]
 Undyne: "Don't do anything illegal, you little punk~! And lemme know if you get a lead on any purple girls. There's one wanted on SEVERAL counts of Comic Mischief."
 *(Kris sees Noelle outside the Holiday house.)*
 Noelle: "Oh, hi, Kris! Did you need help with your homework again? I know you were having trouble last time, so, um, I actually got a few things ready for you, in case -- Ah, wait, sorry! I can't right now... I forgot my house key again, and... Sorry, Kris, I'll help you later, if that's ok. See you at school, Kris! ... ... Umm, Kris? Did you... want to talk about something?"
 *Choose an option*
-Susie: ""
+[Player Choice: Susie]
 Noelle: "Susie! That's right, you were with Susie! When you didn't come back to class, I was worried, but... Everything turned out OK! I think? ... ... Umm, Kris? Can I ask something, if that's OK? Susie... I'm kind of... curious what she's like, you know? I mean, who DOESN'T wonder about her? She never talks to anyone. So, Kris, could you tell me about her? If that's ok..."
-She's nice: ""
+[Player Choice: She's nice]
 Noelle: "What...? She's... a nice person? Really!? L-like, really!? Honestly!? Truly!? I mean, that's just what I was hoping, but... W-wait, this isn't another trick, is it, Kris? Like when you put ketchup on your arms and told me it was blood? ... R-really? You're serious? You're totally serious? ... gosh, then maybe I should try talking to her... B-but if I die, you're paying for my funeral, Kris! (Though, honestly, if she's nice I might die, too...)"
-Terrible: ""
+[Player Choice: Terrible]
 Noelle: "She WHAT? She smashed you against the LOCKERS? Gosh, Kris, I'm really sorry. That's just awful. I... I'd THOUGHT Susie was good, just... Maybe it would take someone special to find her good side. ... but she really IS terrible, isn't she...? Kris... I'm SO sorry you have to go through this."
-Eats Chalk: ""
+[Player Choice: Eats Chalk]
 Noelle: "What? She was EATING the chalk??? R... really...? Wait! You're teasing me, aren't you, Kris? L-like when you told me ICE-E was real and eats kids... So Dess smacked you with a wiffle bat 'til you stopped lying. ... Huh? You're telling the truth? Seriously? ... Umm, then... what color chalk does she like? And, do you think she likes the thin or the thick kind...? (Wait, maybe making her a lunchbox full of chalk is stupid...)"
-... (Say nothing): ""
+[Player Choice: ... (Say nothing)]
 Noelle: "Seriously, Kris? But I help you ALL the time! The LEAST you can do is give me a LITTLE information! Like, d-does she like metal music!? Is she really an obligate carnivore!? D... Does she really have a tail underneath her jacket!? Or, or... or... Sorry Kris, it's not any of my business, is it...? (I blew it, didn't I...)"
-Key: ""
+[Player Choice: Key]
 Noelle: "... huh? Why don't I ask my mom for the key? I... I mean, um... I... you know, She doesn't like it when I bother her when she's working. Don't worry, OK? I'll just go over to Catti's."
-Anything: ""
+[Player Choice: Anything]
 Noelle: "Umm... Kris...? Are you feeling alright? Normally you're not so... talkative. Oh! I don't mean to sound like something's wrong with you. ... ... Umm, Kris, is something wrong? Why did you go to the hospital to see my dad...? I mean, I'm sure he appreciated it, but... um... Gosh, I'm sorry, Kris. Forget I said anything! Tell Azzy I said hi, Kris!"
 *(Kris stops by the new grocery store.)*
 Sans: "hey, look who's walkin' around. how are ya, kid?"
 *Choose an option*
-Great to see you again: ""
+[Player Choice: Great to see you again]
 Sans: "yeah, it's real nice, isn't it? especially considering i've never met you before. the name's sans. sans the skeleton. i'm new in town. what's up?"
-Who the hell are you?: ""
+[Player Choice: Who the hell are you?]
 Sans: "hmm... y'know, good question. i'm sans. your friendly neighborhood skeleton. what's up?"
 Sans: "what's up?"
 *Choose an option*
-Store: ""
+[Player Choice: Store]
 Sans: "behind me? yeah, that's the grocery store. unfortunately, it's closed. what a pain. i really wanted to buy some milk. someone oughta complain to the guy who runs it."
-Friends: ""
+[Player Choice: Friends]
 Sans: "we just moved here, so i hardly know anyone. why, got anyone i should know better?"
-My Mom: ""
+[Player Choice: My Mom]
 Sans: "your mother, huh...? too late. i already "befriended" your mom last night. she's great. came to the store to buy chocolate kisses. said she's gotta lock her door to stop you from eating 'em. heheheh... you sound like a fun kid, huh?"
-My Teacher: ""
+[Player Choice: My Teacher]
 Sans: "alphys. yeah. i know about her. came into the store with a suitcase and sunglasses. thought she was part of the mob. she opened the case and stuffed it full of instant noodles. paid in small bills, then slunk out of the place, pajamas trailing on the floor. anyway, our relationship is, uh, purely business. so, uh, i guess i'll just let her do her thing."
-Nobody: ""
+[Player Choice: Nobody]
 Sans: "harsh, but fair."
-Me: ""
+[Player Choice: Me]
 Sans: "woah there, tiger. you can't just jump straight into friendship. it takes time. ... alright, that's enough time. take this. call it whenever you feel like."
 *(You got Sans's Number.)*
-Leave: ""
+[Player Choice: Leave]
 Sans: "oh, you've got something better to do? me too. anyway, i'll be standing here doing nothing."
 *(Later, Sans calls Kris.)*
 Sans: "... hey bud. ... are you busy tomorrow...? i need some help with something. it'd be great if you could come over. i live just next door, ya know."
 *Choose an option*
-Yes: ""
+[Player Choice: Yes]
 Sans: "wow... you answered quickly, huh. that's not good. i'm a total stranger. you should probably hesitate more. huh...? what are we going to be doing? oh, i'm not going to be there. that'd be weird. it's just gonna be you and my little brother. he needs friends. thanks for hanging out with him. see ya."
-No: ""
+[Player Choice: No]
 Sans: "... hmm, well, that's disappointing. alright, alright, lemme sweeten the deal for ya. if you come over... i, will personally, not even be there. it'll just be you and my little brother. since he's new here, he needs friends. anyway, thanks for agreeing to hang out with him. see ya."
 
 [Scene: Obj Rudy]
@@ -1113,15 +1112,15 @@ Asgore: "Howdy! How can I... ... Oh! Kris! ... Oh. I'm sorry. I forgot if you do
 *(Kris arrives home.)*
 Toriel: "Kris? What is it, honey?"
 *Choose an option*
-Me: ""
+[Player Choice: Me]
 Toriel: "Kris, honey, you have grown up so much... Someday soon you will be going off to university as well..."
-Asriel: ""
+[Player Choice: Asriel]
 Toriel: "Remember that video-game you and Asriel used to play? What was it called...? Super Smashing Fighters? When he was very little, he LOVED the green lizard from that. We even had a birthday party for him themed around it. Your father painted all these eggs with spots as decoration... Oh, your brother LOVED it...! Until the next day, your father cooked them all for breakfast. Your brother just kept crying... Ever since, he's hated that book about eating green eggs!"
-Pie: ""
+[Player Choice: Pie]
 Toriel: "Kris, since only you and I are living here right now... It feels... just a bit lonely, does it not...? But, fortunately, sharing a warm, freshly-made pie, Is the perfect cure for such a condition. ... as long as I get to eat some, of course."
-Flowers: ""
+[Player Choice: Flowers]
 Toriel: "Oh, Kris...? Flowers? For your mother...? How sweet... ... These are from HIM, are they not. ... Err, well, worry not, Kris, I will... ... find some place for them."
-Nevermind: ""
+[Player Choice: Nevermind]
 Toriel: "Kris, perhaps you should go to bed early tonight... You do not look quite yourself."
 Toriel: "Welcome home, honey! Did you have fun with your friend today? By the way, I just finished baking a pie... If you go to bed, it will be cool when you wake. ... but do not eat it all this time, all right?"
 

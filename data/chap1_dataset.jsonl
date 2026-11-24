@@ -246,7 +246,6 @@
 {"context": "Scene: Obj Insideclosetcutscene", "speaker": "Ralsei", "text": "I hope we can be good friends, Kris."}
 {"context": "Scene: Obj Dummyenemy", "speaker": "Ralsei", "text": "Oh, Kris! It's the training dummy I made! Now seems like a great chance to prepare for the enemy. Would you like me to teach you how to fight?"}
 {"context": "Scene: Obj Dummyenemy", "speaker": "Player", "text": "Yes"}
-{"context": "Scene: Obj Dummyenemy", "speaker": "Ralsei", "text": ""}
 {"context": "Scene: Obj Dummyenemy", "speaker": "Narrator", "text": "[obj_dummyenemy]"}
 {"context": "Scene: Obj Dummyenemy", "speaker": "Ralsei", "text": "OK! Get ready, Kris!"}
 {"context": "Scene: Obj Dummyenemy", "speaker": "Ralsei", "text": "See that HEART, Kris? That's your SOUL, the culmination of your being! Within, it holds your WILL... your COMPASSION... ... and the FATE of the world. If it gets hit, you and your friends will lose HP. If everyone's HP reaches 0, we'll lose the battle. So, please take care to avoid the enemy's attack. Ready? Let's try dodging!"}
@@ -494,56 +493,39 @@
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "Three... maybe not."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "ACT Options & Results"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "Birthday Dialogue"}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Ralsei", "text": "Ummm, what would you like for your birthday?"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "Let's just have a nice chat~"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "You IDIOT! Ask for a GIFT!!!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "(Just discuss our likes.)"}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of POLITICS. CLOVER started to argue."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "The King is great!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "He's TERRIBLE!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "Please stop, you two..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of RELIGION. CLOVER started to argue."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "An angel is watching us."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "You BELIEVE that garbage?"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "Please stop, you two..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of KINDNESS. CLOVER started to argue."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "Lightners deserve respect."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "Hell no! They can all die!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "Please stop, you two..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of GUNCONTROL. CLOVER started to argue."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "I use a gamepad to aim!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "IDIOT! Mouse and keyboard!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "Please stop, you two..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of GHOSTS. CLOVER started to argue."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "A ghost told me I was stupid."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "That was me, you idiot!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "Please stop, you two..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of GAMES. CLOVER started to argue."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "Our favorite video game is..."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "Shut up!! They'll make fun of us!!!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "Please stop, you two..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of Animals. Clover didn't seem to care..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "Animals are kind of nasty."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "Just AWFUL in concept."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "(Never seen one, but...)"}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "If you talk about Sports"}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of SPORTS. CLOVER seems relieved."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Ralsei", "text": "Do you like, um... Sports?"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "I wanna eat a football."}
@@ -553,9 +535,7 @@
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "That's GENIUS!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "We really agree on it."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "Seems like Clover enjoyed talking about that..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of CUTEBOYS. CLOVER seems excited."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "If you talk about Boys"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Ralsei", "text": "Ummm... What kind of \"Boys\" do you like?"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "Cute ones! Hmm hmm~"}
@@ -571,27 +551,20 @@
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "Fluffy! Glasses! That's it!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "HIM??? ... err, sure."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "Seems like Clover enjoyed talking about that..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You brought up the topic of TREES. CLOVER seems relieved / happy..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "I love the smell of trees."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "Oh! Me too!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "Pollen makes me... Uh, sure!"}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "UNIDENTIFIED"}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "Aww, he MADE that!? So caring!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "It's SOOO cute! I want it!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "(Isn't it a bit... boring? / childish?)"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Smart Mouth", "text": "Ouchy! That hurts!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Anger Mouth", "text": "Suck it up, idiot!"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Nice Mouth", "text": "(We're fighting again!?)"}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "You and Ralsei warned Clover/the enemies about Susie. The enemy/Everyone went on guard."}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "If you talk about something they dislike"}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "Seems like you should talk about something else..."}
-{"context": "Scene: Obj Clubsenemy & Obj Clubsenemy Old", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Thrashmaker Event", "speaker": "Lancer", "text": "Oh, woe! Woe is me...! Rows and rows of woes and woes! If only a hero would help..."}
 {"context": "Scene: Obj Thrashmaker Event", "speaker": "Ralsei", "text": "Lancer...? Is everything alright...?"}
 {"context": "Scene: Obj Thrashmaker Event", "speaker": "Lancer", "text": "Oh, I'm not Lancer! I'm just a sweet little boy!"}
@@ -641,7 +614,7 @@
 {"context": "Scene: Obj The Maze", "speaker": "Susie", "text": "\"Hey, losers! Wait a sec. Where's Lancer?\""}
 {"context": "Scene: Obj The Maze", "speaker": "Ralsei", "text": "\"Err, well, he wasn't going the right way, so...\""}
 {"context": "Scene: Obj The Maze", "speaker": "Susie", "text": "\"You let him wander off BY HIMSELF!? You KNOW he's bad at mazes, right!? He's probably lost and confused right now!\""}
-{"context": "Scene: Obj The Maze", "speaker": "Lancer", "text": "(His voice echoes from somewhere deep in the maze)*\"Ho ho ho!!! I'm lost and confused!!!\""}
+{"context": "Scene: Obj The Maze", "speaker": "Lancer", "text": "(His voice echoes from somewhere deep in the maze) \"Ho ho ho!!! I'm lost and confused!!!\""}
 {"context": "Scene: Obj The Maze", "speaker": "Ralsei", "text": "\"Sorry Susie... We didn't mean to make you worry about him.\""}
 {"context": "Scene: Obj The Maze", "speaker": "Susie", "text": "\"Huh...? Look, I'm not, uh, worried about him! Bad guys gotta look out for each other, is all. Anyway, get out of my way! I'm gonna find him!\""}
 {"context": "Scene: Obj The Maze", "speaker": "Narrator", "text": "Susie runs off into the maze."}
@@ -651,16 +624,12 @@
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Ralsei", "text": "Ah. I see."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "Turns out we didn't need a plan. Just a rule. Anyone that gets in our way... Gets crushed into dust."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "The battle is unwinnable by fighting. Kris must ACT, convincing Lancer not to fight. After several turns of kindness, Lancer's morale drops."}
-{"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Lancer", "text": "I accidentally started liking the enemies...! Now seeing them just makes me feel round and soft."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "... Well, if you don't wanna fight, there's no point, I guess. Battle's over!"}
-{"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "OR"}
-{"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "Hey, HEY! Enough's enough already! If you hit him any more, you might really hurt him! ... Lancer, you OK...?"}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Lancer", "text": "I... I'm fine, Susie! My insides are just... a little mixed up."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "Alright, fine! You guys win!"}
-{"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "The battle ends."}
 {"context": "Scene: Obj Thrashafter Event", "speaker": "Susie", "text": "Alright, alright, ENOUGH already! Fine... I GUESS I'll go back to being a good guy. But DON'T expect me to do anything but FIGHT."}
 {"context": "Scene: Obj Thrashafter Event", "speaker": "Lancer", "text": "Ummm... Susie? Does this mean we... aren't a team anymore?"}
@@ -798,7 +767,6 @@
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "Lancer stands firm, blocking her path."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Lancer", "text": "... N... no."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "Did you not HEAR ME...? Man, I tried to warn you... So, don't expect me to feel guilty... ... when they have to clean you off the floor."}
-{"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "...Hey, wanna see what happens to traitors?"}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "They."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "Get."}
@@ -815,7 +783,6 @@
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "Alright, that's enough."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "If you wanna die so much..."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "THEN DIE!"}
-{"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Lancer", "text": "S... Susie...? Y... you missed..."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Susie", "text": "I... I don't wanna kill you, man. Just move. Please."}
 {"context": "Scene: Obj Lancerbattle2 Event", "speaker": "Lancer", "text": "B... But Susie, if I let you guys go... then... Then you and my dad will fight, and... and... You'll kill each other."}
@@ -888,29 +855,28 @@
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "King", "text": "They're ALIVE? … Lancer. You have failed. They have poisoned you with their sentimentality."}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "The King dangles Lancer menacingly over the edge of the castle parapet. The battle begins."}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "King", "text": "How dare you come here, Lightners…? You, that left us in the shadows, stripped of meaning… You DARE return to torment us once again? Begone! We have found fresh purpose. For the KNIGHT has appeared. To my people, I am a hero… … to you? I'M THE BAD GUY!!!"}
-{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "```"}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "[[Turn1]**King] King:How dare you come here, Lightners…?"}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "[[Turn2]**King] You, that left us in the shadows, stripped of meaning…"}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "[[Turn3]**King] You DARE return to torment us once again?"}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "[[Turn4]**King] Begone! We have found fresh purpose."}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "[[Turn5]**King] For the KNIGHT has appeared."}
-{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Kris", "text": "`[ACT]` -> `[Talk]`"}
+{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Kris", "text": "[ACT] -> [Talk]"}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "You tried to reason with the King..."}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "King", "text": "\"Silence, Lightbringer!\" *the King bellows.* \"Your very existence goes against our own... By the Knight's will, I shall shatter your heart to pieces!\""}
-{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "Your will is changing... `TALK` became `COURAGE`!"}
-{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Susie", "text": "`[ACT]` -> `[Talk]`"}
+{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "Your will is changing... TALK became COURAGE!"}
+{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Susie", "text": "[ACT] -> [Talk]"}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "Susie tried to reason with the King..."}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "King", "text": "\"Arright, listen up,\" *she growls.* \"Lancer's my friend. So if we can get by without hurting you, then...\""}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "\"If I perish, so be it!\" *the King roars.* \"Show my son the monster you REALLY are!\""}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Susie", "text": "\"...\""}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Susie", "text": "\"Arright, you wanna see what I can do, huh?\""}
-{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "Susie's will is changing... `TALK` became `RED BUSTER`!"}
-{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Ralsei", "text": "`[ACT]` -> `[Talk]`"}
+{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "Susie's will is changing... TALK became RED BUSTER!"}
+{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Ralsei", "text": "[ACT] -> [Talk]"}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "Ralsei tried to reason with the King..."}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "\"You might not realize it, but... This is a world where you don't have to fight,\" *Ralsei pleads.* \"I know if we try, we can all find another way...\""}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "King", "text": "\"Such simple-minded platitudes...\" *the King sneers.* \"A shame you will not live to realize your naivety. Now, perish with the pathetic LIGHTNERs you worship!\""}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Ralsei", "text": "\"Sorry, my friends and I aren't going anywhere!\""}
-{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "Ralsei's will is changing... `TALK` became `DUAL HEAL`!"}
+{"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "Ralsei's will is changing... TALK became DUAL HEAL!"}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "After a long and grueling battle, the King falls to one knee, panting heavily."}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "King", "text": "I... I see... You are much stronger... than I envisioned... Enough... is enough... I see... I see that I cannot defeat you. I have grown exhausted from our long battle. Lightners... I... Perhaps I... I have been too cruel. The truth is... I was not always this way. There once was a time... ... where Darkners and Lightners lived in harmony. A time where Darkners could fulfill their purpose in peace... It would be a lie to say that I, too... ... do not yearn for those days. ... Perhaps... Perhaps you young ones are right. Please... let us put away our weapons. There must be a peaceful solution to all this."}
 {"context": "Scene: Obj Kingcutscene & Obj King Boss", "speaker": "Narrator", "text": "Ralsei, his heart filled with hope, steps forward."}
@@ -970,61 +936,61 @@
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "Kris encounters Undyne directing traffic... poorly."}
 {"context": "Scene: Hometown", "speaker": "Undyne", "text": "HEY, PUNK!!! GET OUT OF THE ROAD!!! YOU'RE BLOCKIN' TRAFFIC!!!! ... Oh, wait, it's just Asgore's kid. Sorry, I'm a little, uh, worked up lately. This job is SO boring. Nothing EVER happens in this town! Ngh... I just wish SOMETHING would shake things up! ... Huh? You got somethin' to report?"}
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "Choose an option"}
-{"context": "Scene: Hometown", "speaker": "Alphys", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Alphys"}
 {"context": "Scene: Hometown", "speaker": "Undyne", "text": "... Alphys? Who's Alphys? No idea who you're talking about. ... Why, did they do something illegal!? Gotcha, if I see \"Alphys,\" I'll tackle 'em!! Fuhuhuhu!! They're as good as dead!!"}
-{"context": "Scene: Hometown", "speaker": "Dark World", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Dark World"}
 {"context": "Scene: Hometown", "speaker": "Undyne", "text": "What? There's a Dark World inside the school? Uh... SURE, kid. There's no law against Dark Worlds anyway! That's a job for the school board!"}
-{"context": "Scene: Hometown", "speaker": "Help you", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Help you"}
 {"context": "Scene: Hometown", "speaker": "Undyne", "text": "Aww, you wanna help me? Sure, punk. Get someone to rob the bank so I can suplex them! ... wait, do we even have a bank? Hey, get someone to build a bank...!"}
-{"context": "Scene: Hometown", "speaker": "Nothing", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Nothing"}
 {"context": "Scene: Hometown", "speaker": "Undyne", "text": "Don't do anything illegal, you little punk~! And lemme know if you get a lead on any purple girls. There's one wanted on SEVERAL counts of Comic Mischief."}
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "Kris sees Noelle outside the Holiday house."}
 {"context": "Scene: Hometown", "speaker": "Noelle", "text": "Oh, hi, Kris! Did you need help with your homework again? I know you were having trouble last time, so, um, I actually got a few things ready for you, in case -- Ah, wait, sorry! I can't right now... I forgot my house key again, and... Sorry, Kris, I'll help you later, if that's ok. See you at school, Kris! ... ... Umm, Kris? Did you... want to talk about something?"}
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "Choose an option"}
-{"context": "Scene: Hometown", "speaker": "Susie", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Susie"}
 {"context": "Scene: Hometown", "speaker": "Noelle", "text": "Susie! That's right, you were with Susie! When you didn't come back to class, I was worried, but... Everything turned out OK! I think? ... ... Umm, Kris? Can I ask something, if that's OK? Susie... I'm kind of... curious what she's like, you know? I mean, who DOESN'T wonder about her? She never talks to anyone. So, Kris, could you tell me about her? If that's ok..."}
-{"context": "Scene: Hometown", "speaker": "She's nice", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "She's nice"}
 {"context": "Scene: Hometown", "speaker": "Noelle", "text": "What...? She's... a nice person? Really!? L-like, really!? Honestly!? Truly!? I mean, that's just what I was hoping, but... W-wait, this isn't another trick, is it, Kris? Like when you put ketchup on your arms and told me it was blood? ... R-really? You're serious? You're totally serious? ... gosh, then maybe I should try talking to her... B-but if I die, you're paying for my funeral, Kris! (Though, honestly, if she's nice I might die, too...)"}
-{"context": "Scene: Hometown", "speaker": "Terrible", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Terrible"}
 {"context": "Scene: Hometown", "speaker": "Noelle", "text": "She WHAT? She smashed you against the LOCKERS? Gosh, Kris, I'm really sorry. That's just awful. I... I'd THOUGHT Susie was good, just... Maybe it would take someone special to find her good side. ... but she really IS terrible, isn't she...? Kris... I'm SO sorry you have to go through this."}
-{"context": "Scene: Hometown", "speaker": "Eats Chalk", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Eats Chalk"}
 {"context": "Scene: Hometown", "speaker": "Noelle", "text": "What? She was EATING the chalk??? R... really...? Wait! You're teasing me, aren't you, Kris? L-like when you told me ICE-E was real and eats kids... So Dess smacked you with a wiffle bat 'til you stopped lying. ... Huh? You're telling the truth? Seriously? ... Umm, then... what color chalk does she like? And, do you think she likes the thin or the thick kind...? (Wait, maybe making her a lunchbox full of chalk is stupid...)"}
-{"context": "Scene: Hometown", "speaker": "... (Say nothing)", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "... (Say nothing)"}
 {"context": "Scene: Hometown", "speaker": "Noelle", "text": "Seriously, Kris? But I help you ALL the time! The LEAST you can do is give me a LITTLE information! Like, d-does she like metal music!? Is she really an obligate carnivore!? D... Does she really have a tail underneath her jacket!? Or, or... or... Sorry Kris, it's not any of my business, is it...? (I blew it, didn't I...)"}
-{"context": "Scene: Hometown", "speaker": "Key", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Key"}
 {"context": "Scene: Hometown", "speaker": "Noelle", "text": "... huh? Why don't I ask my mom for the key? I... I mean, um... I... you know, She doesn't like it when I bother her when she's working. Don't worry, OK? I'll just go over to Catti's."}
-{"context": "Scene: Hometown", "speaker": "Anything", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Anything"}
 {"context": "Scene: Hometown", "speaker": "Noelle", "text": "Umm... Kris...? Are you feeling alright? Normally you're not so... talkative. Oh! I don't mean to sound like something's wrong with you. ... ... Umm, Kris, is something wrong? Why did you go to the hospital to see my dad...? I mean, I'm sure he appreciated it, but... um... Gosh, I'm sorry, Kris. Forget I said anything! Tell Azzy I said hi, Kris!"}
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "Kris stops by the new grocery store."}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "hey, look who's walkin' around. how are ya, kid?"}
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "Choose an option"}
-{"context": "Scene: Hometown", "speaker": "Great to see you again", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Great to see you again"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "yeah, it's real nice, isn't it? especially considering i've never met you before. the name's sans. sans the skeleton. i'm new in town. what's up?"}
-{"context": "Scene: Hometown", "speaker": "Who the hell are you?", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Who the hell are you?"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "hmm... y'know, good question. i'm sans. your friendly neighborhood skeleton. what's up?"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "what's up?"}
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "Choose an option"}
-{"context": "Scene: Hometown", "speaker": "Store", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Store"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "behind me? yeah, that's the grocery store. unfortunately, it's closed. what a pain. i really wanted to buy some milk. someone oughta complain to the guy who runs it."}
-{"context": "Scene: Hometown", "speaker": "Friends", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Friends"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "we just moved here, so i hardly know anyone. why, got anyone i should know better?"}
-{"context": "Scene: Hometown", "speaker": "My Mom", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "My Mom"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "your mother, huh...? too late. i already \"befriended\" your mom last night. she's great. came to the store to buy chocolate kisses. said she's gotta lock her door to stop you from eating 'em. heheheh... you sound like a fun kid, huh?"}
-{"context": "Scene: Hometown", "speaker": "My Teacher", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "My Teacher"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "alphys. yeah. i know about her. came into the store with a suitcase and sunglasses. thought she was part of the mob. she opened the case and stuffed it full of instant noodles. paid in small bills, then slunk out of the place, pajamas trailing on the floor. anyway, our relationship is, uh, purely business. so, uh, i guess i'll just let her do her thing."}
-{"context": "Scene: Hometown", "speaker": "Nobody", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Nobody"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "harsh, but fair."}
-{"context": "Scene: Hometown", "speaker": "Me", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Me"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "woah there, tiger. you can't just jump straight into friendship. it takes time. ... alright, that's enough time. take this. call it whenever you feel like."}
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "You got Sans's Number."}
-{"context": "Scene: Hometown", "speaker": "Leave", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Leave"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "oh, you've got something better to do? me too. anyway, i'll be standing here doing nothing."}
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "Later, Sans calls Kris."}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "... hey bud. ... are you busy tomorrow...? i need some help with something. it'd be great if you could come over. i live just next door, ya know."}
 {"context": "Scene: Hometown", "speaker": "Narrator", "text": "Choose an option"}
-{"context": "Scene: Hometown", "speaker": "Yes", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "Yes"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "wow... you answered quickly, huh. that's not good. i'm a total stranger. you should probably hesitate more. huh...? what are we going to be doing? oh, i'm not going to be there. that'd be weird. it's just gonna be you and my little brother. he needs friends. thanks for hanging out with him. see ya."}
-{"context": "Scene: Hometown", "speaker": "No", "text": ""}
+{"context": "Scene: Hometown", "speaker": "Player", "text": "No"}
 {"context": "Scene: Hometown", "speaker": "Sans", "text": "... hmm, well, that's disappointing. alright, alright, lemme sweeten the deal for ya. if you come over... i, will personally, not even be there. it'll just be you and my little brother. since he's new here, he needs friends. anyway, thanks for agreeing to hang out with him. see ya."}
 {"context": "Scene: Obj Rudy", "speaker": "Narrator", "text": "Kris visits the hospital."}
 {"context": "Scene: Obj Rudy", "speaker": "Rudy", "text": "Well jingle my goshdarn bells! Looks like Krismas came early! Alright, Kris. Just gimme the straight shot. Why you here? Did your mom make you come here?"}
@@ -1037,15 +1003,15 @@
 {"context": "Scene: Home", "speaker": "Narrator", "text": "Kris arrives home."}
 {"context": "Scene: Home", "speaker": "Toriel", "text": "Kris? What is it, honey?"}
 {"context": "Scene: Home", "speaker": "Narrator", "text": "Choose an option"}
-{"context": "Scene: Home", "speaker": "Me", "text": ""}
+{"context": "Scene: Home", "speaker": "Player", "text": "Me"}
 {"context": "Scene: Home", "speaker": "Toriel", "text": "Kris, honey, you have grown up so much... Someday soon you will be going off to university as well..."}
-{"context": "Scene: Home", "speaker": "Asriel", "text": ""}
+{"context": "Scene: Home", "speaker": "Player", "text": "Asriel"}
 {"context": "Scene: Home", "speaker": "Toriel", "text": "Remember that video-game you and Asriel used to play? What was it called...? Super Smashing Fighters? When he was very little, he LOVED the green lizard from that. We even had a birthday party for him themed around it. Your father painted all these eggs with spots as decoration... Oh, your brother LOVED it...! Until the next day, your father cooked them all for breakfast. Your brother just kept crying... Ever since, he's hated that book about eating green eggs!"}
-{"context": "Scene: Home", "speaker": "Pie", "text": ""}
+{"context": "Scene: Home", "speaker": "Player", "text": "Pie"}
 {"context": "Scene: Home", "speaker": "Toriel", "text": "Kris, since only you and I are living here right now... It feels... just a bit lonely, does it not...? But, fortunately, sharing a warm, freshly-made pie, Is the perfect cure for such a condition. ... as long as I get to eat some, of course."}
-{"context": "Scene: Home", "speaker": "Flowers", "text": ""}
+{"context": "Scene: Home", "speaker": "Player", "text": "Flowers"}
 {"context": "Scene: Home", "speaker": "Toriel", "text": "Oh, Kris...? Flowers? For your mother...? How sweet... ... These are from HIM, are they not. ... Err, well, worry not, Kris, I will... ... find some place for them."}
-{"context": "Scene: Home", "speaker": "Nevermind", "text": ""}
+{"context": "Scene: Home", "speaker": "Player", "text": "Nevermind"}
 {"context": "Scene: Home", "speaker": "Toriel", "text": "Kris, perhaps you should go to bed early tonight... You do not look quite yourself."}
 {"context": "Scene: Home", "speaker": "Toriel", "text": "Welcome home, honey! Did you have fun with your friend today? By the way, I just finished baking a pie... If you go to bed, it will be cool when you wake. ... but do not eat it all this time, all right?"}
 {"context": "Scene: Scr Text", "speaker": "Narrator", "text": "Kris goes to their room."}

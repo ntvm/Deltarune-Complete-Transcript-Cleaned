@@ -343,7 +343,7 @@
 {"context": "Scene: Obj Gameshow Quiz 1", "speaker": "Mr. Tenna", "text": "Anyway, onto the results!!"}
 {"context": "Scene: Obj Gameshow Quiz 1", "speaker": "Narrator", "text": "[Results Screen]"}
 {"context": "Scene: Obj Gameshow Quiz 1", "speaker": "Narrator", "text": "Results"}
-{"context": "Scene: Obj Gameshow Quiz 1", "speaker": "(Score tally", "text": "Kris and Ralsei get points, Susie does not.)"}
+{"context": "Scene: Obj Gameshow Quiz 1", "speaker": "Narrator", "text": "Score tally: Kris and Ralsei get points, Susie does not."}
 {"context": "Scene: Obj Gameshow Quiz 1", "speaker": "Narrator", "text": "BONUS +150"}
 {"context": "Scene: Obj Gameshow Quiz 1", "speaker": "Narrator", "text": "DECENT!!!"}
 {"context": "Scene: Obj Gameshow Quiz 1", "speaker": "Narrator", "text": "The scene returns to the 8-bit game."}
@@ -677,7 +677,6 @@
 {"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Sphinx", "text": "WELL DONE. FOR YOU THAT KNOWS, A NOSE!"}
 {"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Narrator", "text": "The Sphinx's nose falls off, revealing a passage."}
 {"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Narrator", "text": "The team goes through, Susie destroys all the pots and gets a second key."}
-{"context": "Scene: Obj Tvworld Game Desert Puzzle", "speaker": "Narrator", "text": "---"}
 {"context": "Scene: Obj Tvworld Game Desert Continued", "speaker": "Narrator", "text": "The team looks at a dead end made of cacti."}
 {"context": "Scene: Obj Tvworld Game Desert Continued", "speaker": "Susie (viewer)", "text": "Man, it'd be cool to have, like, a weapon."}
 {"context": "Scene: Obj Tvworld Game Desert Continued", "speaker": "Susie (viewer)", "text": "You could like... cut everything down."}
@@ -868,7 +867,7 @@
 {"context": "Scene: Obj Cooking Show Minigame", "speaker": "Narrator", "text": "[TV TIME CREDITS]"}
 {"context": "Scene: Obj Cooking Show Minigame", "speaker": "Narrator", "text": "Director - Mr. \"Ant\" Tenna"}
 {"context": "Scene: Obj Cooking Show Minigame", "speaker": "Narrator", "text": "Special Thanks - Dark Fountain That Gives The World Form"}
-{"context": "Scene: Obj Cooking Show Minigame", "speaker": "Mr. Tenna", "text": ":** * STOP! STOP! STOP!!!"}
+{"context": "Scene: Obj Cooking Show Minigame", "speaker": "Mr. Tenna:", "text": "STOP! STOP! STOP!!!"}
 {"context": "Scene: Obj Cooking Show Minigame", "speaker": "Mr. Tenna", "text": "It CAN'T be over already!! NO!!"}
 {"context": "Scene: Obj Cooking Show Minigame", "speaker": "Narrator", "text": "The \"FUN-O-METER\" thermometer rises to 80%."}
 {"context": "Scene: Obj Cooking Show Minigame", "speaker": "Mr. Tenna", "text": "The FUN-O-METER's still only at 80%!!"}
@@ -1328,7 +1327,6 @@
 {"context": "Scene: Obj Susiezilla Battle", "speaker": "TOTAL SCORE", "text": "610"}
 {"context": "Scene: Obj Susiezilla Battle", "speaker": "Narrator", "text": "S-RANK"}
 {"context": "Scene: Obj Susiezilla Battle", "speaker": "Narrator", "text": "The team returns to the hallway."}
-{"context": "Scene: Obj Susiezilla Battle", "speaker": "Narrator", "text": "---"}
 {"context": "Scene: Obj Secret Ballmachine Maze", "speaker": "Narrator", "text": "Kris approaches the ball machine again and inserts points."}
 {"context": "Scene: Obj Secret Ballmachine Maze", "speaker": "Narrator", "text": "The player inserts 1225 points, bringing the \"GOLD CHANCE\" to 100%."}
 {"context": "Scene: Obj Secret Ballmachine Maze", "speaker": "Narrator", "text": "The player confirms the action. The screen darkens. The ball machine disappears, revealing a new passage to the north. The music changes to \"FindHer.ogg\"."}
@@ -1453,7 +1451,7 @@
 {"context": "Scene: Obj Rouxls Shop Island", "speaker": "Narrator", "text": "The key disappears. A free TVDinner appears in its place."}
 {"context": "Scene: Obj Rouxls Shop Island", "speaker": "[In-game text]", "text": "YOU BOUGHT TVDINNER! FEEL FREE TO USE IT IN BATTLE!!"}
 {"context": "Scene: Obj Rouxls Shop Island", "speaker": "Narrator", "text": "Kris approaches a character resembling Lancer, who is standing nearby."}
-{"context": "Scene: Obj Rouxls Shop Island", "speaker": "[Pippin", "text": "In-game text]:** * PLEASE BUY THIS BOY! HE'S MAKING ME LOSE MY MARBLES!"}
+{"context": "Scene: Obj Rouxls Shop Island", "speaker": "[Pippin: In-game text]", "text": "PLEASE BUY THIS BOY! HE'S MAKING ME LOSE MY MARBLES!"}
 {"context": "Scene: Obj Rouxls Shop Island", "speaker": "Narrator", "text": "Price: 999 points."}
 {"context": "Scene: Obj Rouxls Shop Island", "speaker": "Lancer (viewer)", "text": "Lancer!!!"}
 {"context": "Scene: Obj Rouxls Shop Island", "speaker": "Narrator", "text": "Kris tries to buy Lancer but doesn't have enough points. The player abuses the camera mechanic, and the price becomes '9'."}

@@ -361,7 +361,7 @@ Mr. Tenna: "Right in front of the TV!! Right in front of ME!!"
 Mr. Tenna: "Anyway, onto the results!!"
 *[Results Screen]*
 *Results*
-(Score tally: "Kris and Ralsei get points, Susie does not.)"
+*Score tally: Kris and Ralsei get points, Susie does not.*
 *BONUS +150*
 *DECENT!!!*
 *(The scene returns to the 8-bit game.)*
@@ -701,7 +701,6 @@ P: "1200"
 Sphinx: "WELL DONE. FOR YOU THAT KNOWS, A NOSE!"
 *(The Sphinx's nose falls off, revealing a passage.)*
 *(The team goes through, Susie destroys all the pots and gets a second key.)*
-*---*
 
 [Scene: Obj Tvworld Game Desert Continued]
 *(The team looks at a dead end made of cacti.)*
@@ -902,7 +901,7 @@ Ralsei: "See you next episode everyone!!"
 *[TV TIME CREDITS]*
 *Director - Mr. "Ant" Tenna*
 *Special Thanks - Dark Fountain That Gives The World Form*
-Mr. Tenna: ":** * STOP! STOP! STOP!!!"
+Mr. Tenna:: "STOP! STOP! STOP!!!"
 Mr. Tenna: "It CAN'T be over already!! NO!!"
 *(The "FUN-O-METER" thermometer rises to 80%.)*
 Mr. Tenna: "The FUN-O-METER's still only at 80%!!"
@@ -1390,7 +1389,6 @@ CLEAR TIME: "0:03:17"
 TOTAL SCORE: "610"
 *S-RANK*
 *(The team returns to the hallway.)*
-*---*
 
 [Scene: Obj Secret Ballmachine Maze]
 *(Kris approaches the ball machine again and inserts points.)*
@@ -1527,7 +1525,7 @@ Rouxls Kaard (in-game): "OOPS! GUESS I MADE AN INNOCENT MISTAKE."
 *(The key disappears. A free TVDinner appears in its place.)*
 [In-game text]: "YOU BOUGHT TVDINNER! FEEL FREE TO USE IT IN BATTLE!!"
 *(Kris approaches a character resembling Lancer, who is standing nearby.)*
-[Pippin: "In-game text]:** * PLEASE BUY THIS BOY! HE'S MAKING ME LOSE MY MARBLES!"
+[Pippin: In-game text]: "PLEASE BUY THIS BOY! HE'S MAKING ME LOSE MY MARBLES!"
 *(Price: 999 points.)*
 Lancer (viewer): "Lancer!!!"
 *(Kris tries to buy Lancer but doesn't have enough points. The player abuses the camera mechanic, and the price becomes '9'.)*
